@@ -175,6 +175,13 @@ next big biggest really actually going look looking guide trend trends everythin
 real true right left long short high low full free part start starts end ends take takes taking taken gets got""".split())
 
 
+# Words that mark a phrase as outside the supplement/pharma scope, even when the
+# headline also mentions an in-scope topic.
+OFF_TOPIC = set("""military army war wars troops pentagon missile weapons defense defence election elections vote
+voters president presidential trump biden congress senate senator republican democrat democrats politics political
+police shooting murder crime court lawsuit judge celebrity football soccer rugby cricket nfl nba stocks shares
+crypto bitcoin weather storm hurricane earthquake chinese china russia russian ukraine israel gaza iran""".split())
+
 # ---- helpers ----------------------------------------------------------------
 def fnv1a(s):
     h = 0x811C9DC5
@@ -359,7 +366,13 @@ def build_output(items, statuses, now):
     # New phrases not in the dictionary: need >=2 different sources recently.
     labels_lc = " | ".join(t[1].lower() for t in TOPICS)
     phrases = []
-    for g, a in aggregate(lambda it: it.get("grams", [])).items():
+    # Only headlines that match at least one topic in scope count, so general news
+    # (politics, military, unrelated drug approvals) never becomes a "new phrase".
+    def scoped_grams(it):
+        if not it.get("topics"):
+            return []
+        return [g for g in it.get("grams", []) if not (set(g.split()) & OFF_TOPIC)]
+    for g, a in aggregate(scoped_grams).items():
         if a["recent"] < 3 or len(a["srcs"]) < 2 or g in labels_lc:
             continue
         score, direction, growth = score_series(a["recent"], a["base"], len(a["cats"]), len(a["srcs"]))
