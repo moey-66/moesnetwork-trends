@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T10:44:38.506920Z",
+ "generatedAt": "2026-11-11T11:51:06.171126Z",
  "generator": "local_scan.py",
  "windowDays": 30,
  "recentDays": 3,
@@ -124,14 +124,14 @@
    "label": "Sleep",
    "group": "Health area",
    "kind": "topic",
-   "score": 126,
+   "score": 134,
    "direction": "up",
-   "growth": 4.15,
-   "recent": 11,
+   "growth": 4.5,
+   "recent": 12,
    "baseline": 17,
-   "mentions": 28,
-   "sources": 23,
-   "recentSources": 7,
+   "mentions": 29,
+   "sources": 24,
+   "recentSources": 8,
    "categories": [
     "news",
     "pharma",
@@ -152,7 +152,7 @@
     2,
     3,
     4,
-    2
+    3
    ],
    "examples": [
     {
@@ -161,14 +161,14 @@
      "source": "SupplySide Supplement Journal"
     },
     {
+     "title": "Why Magnesium Supplements Keep Showing Up in Sleep and Wellness Conversations",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanBTby10RnlGVVR1WC03UWtCRFg0dndhelBtcUg0VnhqZkllTFNpRXhla3ZBdnlQQlVRTjhlNTZtYWFvVjBjd0pmWG44RnlLclBZaEVteUp1b2FFODFmWVIxczZoeGx5bUJMejVpQXRmY1BLNVFaeGtlNXVaTkdBMEJTVQ?oc=5",
+     "source": "Woman's World (via Google News)"
+    },
+    {
      "title": "#COP31: Can a coat of paint help South Africans sleep better as the planet heats up?",
      "link": "https://bhekisisa.org/health-news-south-africa/2026-11-10-cop31-can-a-coat-of-paint-help-south-africans-sleep-better-as-the-planet-heats-up/",
      "source": "Bhekisisa"
-    },
-    {
-     "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
-     "link": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/",
-     "source": "STAT"
     }
    ]
   },
@@ -177,13 +177,13 @@
    "label": "Creatine",
    "group": "Ingredient",
    "kind": "topic",
-   "score": 123,
+   "score": 124,
    "direction": "up",
-   "growth": 3.47,
-   "recent": 21,
-   "baseline": 48,
-   "mentions": 69,
-   "sources": 52,
+   "growth": 3.57,
+   "recent": 22,
+   "baseline": 49,
+   "mentions": 71,
+   "sources": 53,
    "recentSources": 19,
    "categories": [
     "news",
@@ -191,7 +191,7 @@
    ],
    "spark": [
     3,
-    1,
+    2,
     0,
     0,
     3,
@@ -203,7 +203,7 @@
     1,
     7,
     10,
-    3
+    4
    ],
    "examples": [
     {
@@ -212,14 +212,14 @@
      "source": "SupplySide Supplement Journal"
     },
     {
+     "title": "What creatine actually does to your body as California’s supplement restrictions spark confusion",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWlRXzF6bFNVNW1VcXU4VEZwdm03SHpjdlF2RGpkZnJjYWNyYkhKbnJqZnB2RjdBOWJaZFhJTnVFSTE0VkJMR1RMUDk1dkNObG9jck42aFlKM2RsWVlHLVZPTWlRT3JXcW1ZQk03WEdqRWY4M3pPRXVrRUlpcDM4QnVZbExEcUdSeEcxMFZyZHVUdlE?oc=5",
+     "source": "UNILAD Tech (via Google News)"
+    },
+    {
      "title": "Catching up with sports nutrition supplements: A roundup of the latest science",
      "link": "https://www.nutraingredients.com/Article/2026/11/11/catching-up-with-sports-nutrition-supplement-science/",
      "source": "NutraIngredients"
-    },
-    {
-     "title": "Creatine trends from SupplySide Global 2026",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzNpRUR3VllHQlc5ekJQVUxtMWppdVJQSHJSbmxJMUVYSlhjdGI1VmhHSlAwZWU5cHgxRzdfcXM2ZjBob0FOTklZeTNQMl9xZmZ1aXlDVG9GR3FLTG5qdl8yeDgySU1iQmxNWV9JOXBXWVZoTG8zeWlEWThTSFlKSklaVGlFMnhlakpwdFdBTE5TM0ZBVFdjag?oc=5",
-     "source": "SupplySide Supplement Journal (via Google News)"
     }
    ]
   },
@@ -684,6 +684,56 @@
    ]
   },
   {
+   "id": "stress-mood",
+   "label": "Stress & mood",
+   "group": "Health area",
+   "kind": "topic",
+   "score": 92,
+   "direction": "up",
+   "growth": 5.4,
+   "recent": 8,
+   "baseline": 6,
+   "mentions": 14,
+   "sources": 6,
+   "recentSources": 2,
+   "categories": [
+    "social"
+   ],
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1,
+    4,
+    2
+   ],
+   "examples": [
+    {
+     "title": "Supplements for hormonal mood swings",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xtfg2f/supplements_for_hormonal_mood_swings/",
+     "source": "Reddit r/Supplements"
+    },
+    {
+     "title": "Any good supplements for physical anxiety?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt9b06/any_good_supplements_for_physical_anxiety/",
+     "source": "Reddit r/Supplements"
+    },
+    {
+     "title": "Info on L-Theanine",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt053z/info_on_ltheanine/",
+     "source": "Reddit r/Supplements"
+    }
+   ]
+  },
+  {
    "id": "prebiotics",
    "label": "Prebiotics & fibre",
    "group": "Ingredient",
@@ -840,56 +890,6 @@
    ]
   },
   {
-   "id": "stress-mood",
-   "label": "Stress & mood",
-   "group": "Health area",
-   "kind": "topic",
-   "score": 85,
-   "direction": "up",
-   "growth": 4.8,
-   "recent": 7,
-   "baseline": 6,
-   "mentions": 13,
-   "sources": 6,
-   "recentSources": 2,
-   "categories": [
-    "social"
-   ],
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    1,
-    4,
-    1
-   ],
-   "examples": [
-    {
-     "title": "Any good supplements for physical anxiety?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xt9b06/any_good_supplements_for_physical_anxiety/",
-     "source": "Reddit r/Supplements"
-    },
-    {
-     "title": "Info on L-Theanine",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xt053z/info_on_ltheanine/",
-     "source": "Reddit r/Supplements"
-    },
-    {
-     "title": "Do any of these supplements explain my random depression?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xsyayr/do_any_of_these_supplements_explain_my_random/",
-     "source": "Reddit r/Supplements"
-    }
-   ]
-  },
-  {
    "id": "kids",
    "label": "Kids & infant",
    "group": "Health area",
@@ -992,17 +992,68 @@
    ]
   },
   {
+   "id": "magnesium",
+   "label": "Magnesium",
+   "group": "Ingredient",
+   "kind": "topic",
+   "score": 76,
+   "direction": "up",
+   "growth": 2.25,
+   "recent": 9,
+   "baseline": 31,
+   "mentions": 40,
+   "sources": 29,
+   "recentSources": 6,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "spark": [
+    2,
+    3,
+    0,
+    0,
+    0,
+    2,
+    2,
+    1,
+    2,
+    3,
+    1,
+    3,
+    5,
+    1
+   ],
+   "examples": [
+    {
+     "title": "Why Magnesium Supplements Keep Showing Up in Sleep and Wellness Conversations",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanBTby10RnlGVVR1WC03UWtCRFg0dndhelBtcUg0VnhqZkllTFNpRXhla3ZBdnlQQlVRTjhlNTZtYWFvVjBjd0pmWG44RnlLclBZaEVteUp1b2FFODFmWVIxczZoeGx5bUJMejVpQXRmY1BLNVFaeGtlNXVaTkdBMEJTVQ?oc=5",
+     "source": "Woman's World (via Google News)"
+    },
+    {
+     "title": "As magnesium diversifies, the question becomes ‘best for what?’",
+     "link": "https://www.supplysidesj.com/minerals/magnesium-forms-match-exact-health-needs",
+     "source": "SupplySide Supplement Journal"
+    },
+    {
+     "title": "Magnesium types for exact health needs",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTBWZzZmSnhfWV94blFFS3Z3SUkwTVhRd0ZKVGd1T1o1TUdEcXBEY3NOWWZuaVhuUGZobVdZY2lhMWNFSnZHVWI3bzZLejYycENPeVBSQnUwa0p1OXp1NjJvdmFSTERqUkFZdlNKTHZEVHlRWjZZRTQyYmNEMGZOQURkcmQ?oc=5",
+     "source": "SupplySide Supplement Journal (via Google News)"
+    }
+   ]
+  },
+  {
    "id": "powders",
    "label": "Powders & drink mixes",
    "group": "Format",
    "kind": "topic",
-   "score": 72,
+   "score": 69,
    "direction": "up",
-   "growth": 3.0,
+   "growth": 2.84,
    "recent": 5,
-   "baseline": 9,
-   "mentions": 14,
-   "sources": 11,
+   "baseline": 10,
+   "mentions": 15,
+   "sources": 12,
    "recentSources": 3,
    "categories": [
     "news",
@@ -1016,7 +1067,7 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     1,
@@ -1039,57 +1090,6 @@
      "title": "GNC",
      "link": "https://www.reddit.com/r/Supplements/comments/1xt59uz/gnc/",
      "source": "Reddit r/Supplements"
-    }
-   ]
-  },
-  {
-   "id": "magnesium",
-   "label": "Magnesium",
-   "group": "Ingredient",
-   "kind": "topic",
-   "score": 67,
-   "direction": "up",
-   "growth": 2.02,
-   "recent": 8,
-   "baseline": 31,
-   "mentions": 39,
-   "sources": 28,
-   "recentSources": 5,
-   "categories": [
-    "news",
-    "social"
-   ],
-   "spark": [
-    2,
-    3,
-    0,
-    0,
-    0,
-    2,
-    2,
-    1,
-    2,
-    3,
-    1,
-    3,
-    5,
-    0
-   ],
-   "examples": [
-    {
-     "title": "As magnesium diversifies, the question becomes ‘best for what?’",
-     "link": "https://www.supplysidesj.com/minerals/magnesium-forms-match-exact-health-needs",
-     "source": "SupplySide Supplement Journal"
-    },
-    {
-     "title": "Magnesium types for exact health needs",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTBWZzZmSnhfWV94blFFS3Z3SUkwTVhRd0ZKVGd1T1o1TUdEcXBEY3NOWWZuaVhuUGZobVdZY2lhMWNFSnZHVWI3bzZLejYycENPeVBSQnUwa0p1OXp1NjJvdmFSTERqUkFZdlNKTHZEVHlRWjZZRTQyYmNEMGZOQURkcmQ?oc=5",
-     "source": "SupplySide Supplement Journal (via Google News)"
-    },
-    {
-     "title": "High Rates of Magnesium Supplementation Found Among Pregnant Women in Germany",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHNJMEIxZzhrckZZT0xGU2M2Mkhjd1ZzaUdKbE91YmROaWtSaDdTQzFnakFJa2Zyc3dJNXhxcmhJZDhPUmFzTEV1YXJuT1BkSEotek5ZNHlQbXAyV091ZFlJS2hCSmNoMnBFVVI4anZtRUhJbjJiYVVTc2VmTW1ld05rdHJGa2d2MzdXUTJxQW5CMXRDT2JESzFNOGtrai02Y3hQRA?oc=5",
-     "source": "Bioengineer.org (via Google News)"
     }
    ]
   },
@@ -1403,6 +1403,50 @@
    "topics": [
     "creatine"
    ]
+  },
+  {
+   "id": "c4bbf5d9",
+   "title": "Supplements for hormonal mood swings",
+   "link": "https://www.reddit.com/r/Supplements/comments/1xtfg2f/supplements_for_hormonal_mood_swings/",
+   "date": "2026-11-11T11:31:12+00:00",
+   "source": "Reddit r/Supplements",
+   "category": "social",
+   "summary": "I find during my luteal phase my moods become a bit ‘off’. I feel like I’m slightly irritated all of the time, I get angry more easily, things I normally enjoy become less enjoyable and I’m generally more anxious. None of these are bad...",
+   "topics": [
+    "stress-mood"
+   ]
+  },
+  {
+   "id": "a76480e9",
+   "title": "What creatine actually does to your body as California’s supplement restrictions spark confusion",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWlRXzF6bFNVNW1VcXU4VEZwdm03SHpjdlF2RGpkZnJjYWNyYkhKbnJqZnB2RjdBOWJaZFhJTnVFSTE0VkJMR1RMUDk1dkNObG9jck42aFlKM2RsWVlHLVZPTWlRT3JXcW1ZQk03WEdqRWY4M3pPRXVrRUlpcDM4QnVZbExEcUdSeEcxMFZyZHVUdlE?oc=5",
+   "date": "2026-11-11T11:29:36+00:00",
+   "source": "UNILAD Tech (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "creatine"
+   ]
+  },
+  {
+   "id": "ea4271cc",
+   "title": "NICE backs PADCEV and KEYTRUDA combination",
+   "link": "https://pharmatimes.com/news/nice-backs-padcev-and-keytruda-combination/",
+   "date": "2026-11-11T10:53:47+00:00",
+   "source": "PharmaTimes",
+   "category": "pharma",
+   "summary": "Recommendation expands options for bladder cancer",
+   "topics": []
+  },
+  {
+   "id": "af2e6746",
+   "title": "ProBio signs global antibody licensing deal with AbTis",
+   "link": "https://www.pharmaceutical-technology.com/news/probio-global-antibody-licensing-deal-abtis/",
+   "date": "2026-11-11T10:42:24+00:00",
+   "source": "Pharmaceutical Technology",
+   "category": "pharma",
+   "summary": "ProBio has entered into an exclusive worldwide licensing agreement with South Korean biotechnology firm AbTis to develop and commercialise an early-stage therapeutic antibody asset.",
+   "topics": []
   },
   {
    "id": "4feaec8a",
@@ -1785,6 +1829,19 @@
    "category": "social",
    "summary": "",
    "topics": []
+  },
+  {
+   "id": "b638b15b",
+   "title": "Why Magnesium Supplements Keep Showing Up in Sleep and Wellness Conversations",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanBTby10RnlGVVR1WC03UWtCRFg0dndhelBtcUg0VnhqZkllTFNpRXhla3ZBdnlQQlVRTjhlNTZtYWFvVjBjd0pmWG44RnlLclBZaEVteUp1b2FFODFmWVIxczZoeGx5bUJMejVpQXRmY1BLNVFaeGtlNXVaTkdBMEJTVQ?oc=5",
+   "date": "2026-11-11T03:00:15+00:00",
+   "source": "Woman's World (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "magnesium",
+    "sleep"
+   ]
   },
   {
    "id": "2a1ba720",
@@ -4699,66 +4756,9 @@
     "creatine",
     "sports"
    ]
-  },
-  {
-   "id": "52312901",
-   "title": "would you say noopept + citicoline is most optimal base to take daily for adhd? If you dont look for strong stimulating effects?",
-   "link": "https://www.reddit.com/r/Nootropics/comments/1xqtec2/would_you_say_noopept_citicoline_is_most_optimal/",
-   "date": "2026-11-08T08:13:29+00:00",
-   "source": "Reddit r/Nootropics",
-   "category": "social",
-   "summary": "I'm new to nootropics and recently got phenylpiracetam(100mg) and alpha gpc(400mg) after a bit of researching. It gives great effects (improves mood, energy and I'm more social on it) but it also gives me huge crash with brain fog later...",
-   "topics": [
-    "cognitive",
-    "stress-mood"
-   ]
-  },
-  {
-   "id": "039b1610",
-   "title": "ADHD here, selank helped my focus. is NA semax amidate or adamax worth the price?",
-   "link": "https://www.reddit.com/r/Nootropics/comments/1xqt9wj/adhd_here_selank_helped_my_focus_is_na_semax/",
-   "date": "2026-11-08T08:05:12+00:00",
-   "source": "Reddit r/Nootropics",
-   "category": "social",
-   "summary": "hey all, mostly a lurker but i need some real input before i spend money on this i have ADHD (inattentive type) and focus and top/down control is basically my whole problem. i tried regular selank, injectable, and honestly it helped...",
-   "topics": []
-  },
-  {
-   "id": "2a219a12",
-   "title": "Fresh & Ready Foods LLC Recalls Fresh To You Brand Sausage, Egg & Cheese Biscuit Sandwich due to Possible Health Risk",
-   "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresh-ready-foods-llc-recalls-fresh-you-brand-sausage-egg-cheese-biscuit-sandwich-due-possible",
-   "date": "2026-11-08T05:00:00+00:00",
-   "source": "FDA recalls",
-   "category": "regulatory",
-   "summary": "November 7, 2026, Fresh & Ready Foods LLC of Renton, WA is recalling 2,414 of Fresh To You Sausage, Egg & Cheese Biscuit Sandwiches (4.6 oz) because it has the potential to be contaminated with Listeria monocytogenes, an organism which...",
-   "topics": [
-    "recalls"
-   ]
-  },
-  {
-   "id": "c6850f41",
-   "title": "DL-Phenylalanine shelf life.",
-   "link": "https://www.reddit.com/r/Nootropics/comments/1xqot1y/dlphenylalanine_shelf_life/",
-   "date": "2026-11-08T03:35:15+00:00",
-   "source": "Reddit r/Nootropics",
-   "category": "social",
-   "summary": "I have two unopened 250 gram tubs of this from ND around 8 years ago. Unopened. I am sure it's theoretically lasts \"forever\". Just want to see what the experience of other people has been. I have so many noots. I was at an experimental...",
-   "topics": []
-  },
-  {
-   "id": "73f1d9a2",
-   "title": "benzodiazepines withdrawal",
-   "link": "https://www.reddit.com/r/Nootropics/comments/1xqoa2f/benzodiazepines_withdrawal/",
-   "date": "2026-11-08T03:06:22+00:00",
-   "source": "Reddit r/Nootropics",
-   "category": "social",
-   "summary": "what’s worth looking into while major dose cutting, withdrawal and tapering? i’m withdrawing from a decent dependency on bzds im aware of DHH-B, Dihydromyracetam, L-Theanine, Magnesium, Valerian and Passion Flower. anything else worth...",
-   "topics": [
-    "magnesium"
-   ]
   }
  ],
- "itemCount": 748,
+ "itemCount": 756,
  "sources": [
   {
    "name": "NutraIngredients",
@@ -4813,7 +4813,7 @@
    "url": "https://news.google.com/rss/search?q=probiotics+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 41,
+   "items": 40,
    "new": 0
   },
   {
@@ -4821,16 +4821,16 @@
    "url": "https://news.google.com/rss/search?q=gut+health+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 72,
-   "new": 0
+   "items": 71,
+   "new": 1
   },
   {
    "name": "Google News: creatine",
    "url": "https://news.google.com/rss/search?q=creatine+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 63,
-   "new": 0
+   "items": 64,
+   "new": 1
   },
   {
    "name": "Google News: magnesium",
@@ -4838,22 +4838,22 @@
    "category": "news",
    "ok": true,
    "items": 37,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Google News: collagen",
    "url": "https://news.google.com/rss/search?q=collagen+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 41,
-   "new": 0
+   "items": 40,
+   "new": 1
   },
   {
    "name": "Google News: GLP-1 supplements",
    "url": "https://news.google.com/rss/search?q=GLP-1+supplements+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 21,
+   "items": 20,
    "new": 0
   },
   {
@@ -4870,7 +4870,7 @@
    "category": "pharma",
    "ok": true,
    "items": 10,
-   "new": 0
+   "new": 1
   },
   {
    "name": "STAT",
@@ -4886,7 +4886,7 @@
    "category": "pharma",
    "ok": true,
    "items": 10,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Google News: Fierce Pharma / Fierce Biotech",
@@ -4917,7 +4917,7 @@
    "url": "https://news.google.com/rss/search?q=SAHPRA+when%3A30d&hl=en-ZA&gl=ZA&ceid=ZA:en",
    "category": "regulatory",
    "ok": true,
-   "items": 13,
+   "items": 12,
    "new": 0
   },
   {
@@ -4926,7 +4926,7 @@
    "category": "sa",
    "ok": true,
    "items": 32,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Health-e News",
@@ -4966,7 +4966,7 @@
    "category": "social",
    "ok": true,
    "items": 25,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Reddit r/Nootropics",

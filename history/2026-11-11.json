@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generatedAt": "2026-11-11T10:44:38.506920Z",
+ "generatedAt": "2026-11-11T11:51:06.171126Z",
  "generator": "local_scan.py",
  "recentDays": 3,
  "trends": [
@@ -75,12 +75,12 @@
    "id": "sleep",
    "label": "Sleep",
    "group": "Health area",
-   "score": 126,
+   "score": 134,
    "direction": "up",
-   "growth": 4.15,
-   "recent": 11,
+   "growth": 4.5,
+   "recent": 12,
    "baseline": 17,
-   "recentSources": 7,
+   "recentSources": 8,
    "categories": [
     "news",
     "pharma",
@@ -95,6 +95,14 @@
      "date": "2026-11-11T05:00:00+00:00",
      "category": "news",
      "summary": "The future of sleep science isn’t bigger doses, it’s smarter, more personalized formulation. Put another way, the sleep supplement category is evolving waaay beyond one-size-fits-all. Across today’s research, some common themes emerge —..."
+    },
+    {
+     "title": "Why Magnesium Supplements Keep Showing Up in Sleep and Wellness Conversations",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanBTby10RnlGVVR1WC03UWtCRFg0dndhelBtcUg0VnhqZkllTFNpRXhla3ZBdnlQQlVRTjhlNTZtYWFvVjBjd0pmWG44RnlLclBZaEVteUp1b2FFODFmWVIxczZoeGx5bUJMejVpQXRmY1BLNVFaeGtlNXVaTkdBMEJTVQ?oc=5",
+     "source": "Woman's World (via Google News)",
+     "date": "2026-11-11T03:00:15+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
      "title": "#COP31: Can a coat of paint help South Africans sleep better as the planet heats up?",
@@ -127,14 +135,6 @@
      "date": "2026-11-09T09:55:33+00:00",
      "category": "news",
      "summary": "Heat-Killed Lactiplantibacillus plantarum L-137 (HK L-137) improved markers of inflammation and gut barrier function in menopausal women and was associated with beneficial changes to symptoms, sleep, and body mass index in participants..."
-    },
-    {
-     "title": "Supplement for better sleep while cutting?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xtclhk/supplement_for_better_sleep_while_cutting/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-11T08:32:07+00:00",
-     "category": "social",
-     "summary": "I went a bit off the rails lately and plan on doing an aggressive cut, I can handle the cravings and the slight hunger throughout the day but my sleep quality takes a nose dive the moment I hit the mfing treadmill. Dinner is already my..."
     }
    ]
   },
@@ -142,11 +142,11 @@
    "id": "creatine",
    "label": "Creatine",
    "group": "Ingredient",
-   "score": 123,
+   "score": 124,
    "direction": "up",
-   "growth": 3.47,
-   "recent": 21,
-   "baseline": 48,
+   "growth": 3.57,
+   "recent": 22,
+   "baseline": 49,
    "recentSources": 19,
    "categories": [
     "news",
@@ -160,6 +160,14 @@
      "date": "2026-11-11T12:38:14+00:00",
      "category": "news",
      "summary": "The supplement industry’s star ingredient is getting rebranded, reformulated and put behind lock and key. Here are the big innovations and hard questions about creatine."
+    },
+    {
+     "title": "What creatine actually does to your body as California’s supplement restrictions spark confusion",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWlRXzF6bFNVNW1VcXU4VEZwdm03SHpjdlF2RGpkZnJjYWNyYkhKbnJqZnB2RjdBOWJaZFhJTnVFSTE0VkJMR1RMUDk1dkNObG9jck42aFlKM2RsWVlHLVZPTWlRT3JXcW1ZQk03WEdqRWY4M3pPRXVrRUlpcDM4QnVZbExEcUdSeEcxMFZyZHVUdlE?oc=5",
+     "source": "UNILAD Tech (via Google News)",
+     "date": "2026-11-11T11:29:36+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
      "title": "Catching up with sports nutrition supplements: A roundup of the latest science",
@@ -190,14 +198,6 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1p2STZ2TVlFeHlBbFlFSDcyanVyM0ZTZzR4OTBKeVVMdzVzRURydkR6akViNEJFZ2VaSDZrUTFOTlhUVjF6bUlXemxQd0dsclVpUFV4cV9pZW9rWFJYai00d3o3bVYxQlZWYzFZXzdjMEtzcG9rWlRUT1BhcGxhSThfMkotUlIyNnpuM1VuY2dKT1hxWWw3TG1jZ0hxclBVR1FrTnBn?oc=5",
      "source": "Bioengineer.org (via Google News)",
      "date": "2026-11-10T22:10:14+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "California will soon prohibit minors from buying creatine: What to know",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2VBSWpSNmJ1d2hFRE1iWDZhbTFleUhUNUh4bnBmOGp2TlpyOWdsZ0kyZ2tvQ1o1Nl80NS00OUl3WnFpTTNJckotV0JoUVUwRDhZTlNmY2xFdFhGSU00VWF5Y1J1eWNoVFNEQnVDam9OU2FUT2NKdGxRNFRVMzVTel9ZSDBtenpvbVRfZXBudVBROU1NYmM3cENKaw?oc=5",
-     "source": "KTVU (via Google News)",
-     "date": "2026-11-10T18:01:13+00:00",
      "category": "news",
      "summary": ""
     }
@@ -774,6 +774,70 @@
    ]
   },
   {
+   "id": "stress-mood",
+   "label": "Stress & mood",
+   "group": "Health area",
+   "score": 92,
+   "direction": "up",
+   "growth": 5.4,
+   "recent": 8,
+   "baseline": 6,
+   "recentSources": 2,
+   "categories": [
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Supplements for hormonal mood swings",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xtfg2f/supplements_for_hormonal_mood_swings/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T11:31:12+00:00",
+     "category": "social",
+     "summary": "I find during my luteal phase my moods become a bit ‘off’. I feel like I’m slightly irritated all of the time, I get angry more easily, things I normally enjoy become less enjoyable and I’m generally more anxious. None of these are bad..."
+    },
+    {
+     "title": "Any good supplements for physical anxiety?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt9b06/any_good_supplements_for_physical_anxiety/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T05:16:02+00:00",
+     "category": "social",
+     "summary": "I'm looking for a supplement that would help regulate or lower psychical anxiety I often feel psychically stressed while not really having mental anxiety or something to worry about. What happens is that I feel my heart beating very..."
+    },
+    {
+     "title": "Info on L-Theanine",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt053z/info_on_ltheanine/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T22:04:17+00:00",
+     "category": "social",
+     "summary": "Hi! I did research and bought 250mg L-theanine to help with social anxiety and my adhd. I actually took it like maybe 2 hours ago? and i just feel sleepy, to be fair I’m at home so I’m not particularily anxious about anything I guess i..."
+    },
+    {
+     "title": "Do any of these supplements explain my random depression?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsyayr/do_any_of_these_supplements_explain_my_random/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T20:50:48+00:00",
+     "category": "social",
+     "summary": "22M who randomly woke up a one morning with a crippling anxiety which nows developed into a full blown depression? Im the type that doesnt even believe in depression (in a healthy non-offensive way) and all of a sudden its like its been..."
+    },
+    {
+     "title": "Inositol?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsx5y7/inositol/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T20:06:05+00:00",
+     "category": "social",
+     "summary": "Anyone here who uses inositol for anxiety/panic disorder/ocd? I just lifted my dosage to about 8 grams/day (I didn't have any bad effects on lower dosages so I lifted it pretty quickly to higher one). I see the recommended dosages are..."
+    },
+    {
+     "title": "Euphoria to help with work flow",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xsgq8v/euphoria_to_help_with_work_flow/",
+     "source": "Reddit r/Nootropics",
+     "date": "2026-11-10T07:28:23+00:00",
+     "category": "social",
+     "summary": "Looking for compounds or stacks that provide a mild euphoric or strong mood-lifting effect specifically to reduce the aversiveness of computer work (repetitive or low-engagement tasks). The main goal is making the work feel more..."
+    }
+   ]
+  },
+  {
    "id": "prebiotics",
    "label": "Prebiotics & fibre",
    "group": "Ingredient",
@@ -886,72 +950,6 @@
      "date": "2026-11-09T14:34:44+00:00",
      "category": "social",
      "summary": "I thought creatine is safe? Also you will see a lot of supplement companies removing muscle building from their protein powder products to bypass this law in California. California's new law, Assembly Bill 2030 (AB 2030), signed by..."
-    }
-   ]
-  },
-  {
-   "id": "metabolic",
-   "label": "Blood sugar & metabolic",
-   "group": "Health area",
-   "score": 88,
-   "direction": "up",
-   "growth": 3.5,
-   "recent": 6,
-   "baseline": 9,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "pharma",
-    "sa"
-   ],
-   "articles": [
-    {
-     "title": "DIABETES | The hidden cost behind effectively managing diabetes",
-     "link": "https://health-e.org.za/2026/11/11/diabetes-the-hidden-cost-behind-effectively-managing-diabetes/",
-     "source": "Health-e News",
-     "date": "2026-11-11T06:37:21+00:00",
-     "category": "sa",
-     "summary": "Health-e News DIABETES | The hidden cost behind effectively managing diabetes 53-year-old Patricia Nhlapo has gone more than four months without her diabetes and other chronic medication because she cannot afford the R400 return trip to..."
-    },
-    {
-     "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
-     "link": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/",
-     "source": "STAT",
-     "date": "2026-11-10T18:04:30+00:00",
-     "category": "pharma",
-     "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss."
-    },
-    {
-     "title": "DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond",
-     "link": "https://health-e.org.za/2026/11/10/diabetes-navigating-type-1-diabetes-in-childhood-and-beyond/",
-     "source": "Health-e News",
-     "date": "2026-11-10T11:38:45+00:00",
-     "category": "sa",
-     "summary": "Health-e News DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond When Minenhle Mofokeng was 4 years old, her mother became worried about her daughter’s poor health, as she was constantly losing weight and had no appetite. She..."
-    },
-    {
-     "title": "DIABETES | From suspected sefola to amputation: the foot sore that cost a leg",
-     "link": "https://health-e.org.za/2026/11/10/diabetes-from-suspected-sefola-to-amputation-the-foot-sore-that-cost-a-leg/",
-     "source": "Health-e News",
-     "date": "2026-11-10T07:12:52+00:00",
-     "category": "sa",
-     "summary": "Health-e News DIABETES | From suspected sefola to amputation: the foot sore that cost a leg When 54-year-old Themba Sepeng developed a second sore on his foot in the space of a year, he followed the advice of his friends and consulted a..."
-    },
-    {
-     "title": "An Endocrinologist Shares If Taking Magnesium Before Bed Can Affect Insulin Sensitivity",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnAxR05CSkV6bnRLaURwNXFpMGhNQ1RfTlkxWDgxR2ZKOTJLN1Q3bzlqdXh1UVltNXA5dWdPUjdxX01VcGhpWXFURHFweDdGYXgzVG5pZ24yd2xCWWNMNnhfcFp1UHF5OVhEMXJWRzhKWV9ZWnRKMmhtSXpEejFBbXJERlh2cHM?oc=5",
-     "source": "Verywell Health (via Google News)",
-     "date": "2026-11-09T18:08:36+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "DIABETES | Gauteng woman fears losing remaining sight while waiting for eye surgery",
-     "link": "https://health-e.org.za/2026/11/09/diabetes-gauteng-woman-fears-losing-remaining-sight-while-waiting-for-eye-surgery/",
-     "source": "Health-e News",
-     "date": "2026-11-09T11:32:16+00:00",
-     "category": "sa",
-     "summary": "Health-e News DIABETES | Gauteng woman fears losing remaining sight while waiting for eye surgery A 60-year-old woman from Meriting informal settlement in Lenasia South fears losing her remaining eyesight after developing eye..."
     }
    ]
   }
