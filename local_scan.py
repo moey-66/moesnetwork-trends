@@ -11,6 +11,12 @@ Usage:
     python3 local_scan.py --offline     # re-score saved history only (no network)
     python3 local_scan.py --offline --retag   # after editing TOPICS/STOPWORDS: re-tag saved items
     python3 local_scan.py --out trends.json   # write somewhere else (used by the GitHub Actions option)
+    python3 local_scan.py --no-history        # don't write the daily snapshot in history/
+
+Every online run also saves history/YYYY-MM-DD.json (UTC date of the run): the top topics
+with their scores and up to 6 example articles each. The weekly newsletter
+(newsletter/weekly_digest.py) reads these snapshots. A second run on the same day
+overwrites that day's file. Offline runs only write a snapshot with --history.
 
 History is kept in .local_state/items.json so repeated daily runs build up the
 30-day baseline, exactly like the Worker does in Cloudflare KV.
@@ -25,6 +31,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 STATE_DIR = os.path.join(HERE, ".local_state")
 STATE_FILE = os.path.join(STATE_DIR, "items.json")
 OUT_FILE = os.path.join(HERE, "sample-trends.json")
+HISTORY_DIR = os.path.join(HERE, "history")   # daily snapshots for the weekly newsletter
+HISTORY_TOPICS = 15      # topics kept per snapshot
+HISTORY_ARTICLES = 6     # example articles kept per topic
 
 USER_AGENT = "MoesNetworkTrendScanner/1.0 (+https://moesnetwork.pages.dev)"
 WINDOW_DAYS = 30        # keep items this long
@@ -386,6 +395,32 @@ def build_output(items, statuses, now):
     }
 
 
+def write_snapshot(out, items, now, history_dir=HISTORY_DIR):
+    """Save a small daily snapshot (top topics + example articles with dates) for the newsletter."""
+    recent_cut = now - timedelta(days=RECENT_DAYS)
+    recent = [it for it in items if datetime.fromisoformat(it["date"]) >= recent_cut]
+    recent.sort(key=lambda x: x["date"], reverse=True)
+    topics = []
+    for t in out["trends"][:HISTORY_TOPICS]:
+        mine = [it for it in recent if t["id"] in it.get("topics", [])]
+        # publishers first, forum posts last; newest first inside each group
+        mine.sort(key=lambda it: (it["category"] == "social", -datetime.fromisoformat(it["date"]).timestamp()))
+        arts = [{k: it.get(k, "") for k in ("title", "link", "source", "date", "category", "summary")}
+                for it in mine[:HISTORY_ARTICLES]]
+        row = {k: t[k] for k in ("id", "label", "group", "score", "direction", "growth", "recent",
+                                 "baseline", "recentSources", "categories")}
+        row["articles"] = arts
+        topics.append(row)
+    snap = {"date": now.strftime("%Y-%m-%d"), "generatedAt": out["generatedAt"], "generator": "local_scan.py",
+            "recentDays": RECENT_DAYS, "trends": topics,
+            "phrases": [{"label": p["label"], "score": p["score"]} for p in out["phrases"][:5]]}
+    os.makedirs(history_dir, exist_ok=True)
+    path = os.path.join(history_dir, snap["date"] + ".json")
+    with open(path, "w") as f:
+        json.dump(snap, f, indent=1, ensure_ascii=False)
+    return path
+
+
 def main():
     offline = "--offline" in sys.argv
     out_file = OUT_FILE
@@ -461,6 +496,8 @@ def main():
     cpu_ms = (time.process_time() - t0) * 1000
     with open(out_file, "w") as f:
         json.dump(out, f, indent=1, ensure_ascii=False)
+    if "--no-history" not in sys.argv and (not offline or "--history" in sys.argv):
+        print("Snapshot:", write_snapshot(out, items, now))
     ok = sum(1 for s in statuses if s["ok"])
     print("\nFeeds OK: %d/%d   items kept (30 days): %d   scoring CPU: %.0f ms (Python)" % (ok, len(statuses), len(items), cpu_ms))
     print("Top emerging:")

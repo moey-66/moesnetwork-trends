@@ -8,7 +8,7 @@ on:
   workflow_dispatch:        # adds a "Run workflow" button for manual runs
 
 permissions:
-  contents: write           # needed to commit trends.json back to the repo
+  contents: write           # needed to commit trends.json and history/ back to the repo
 
 jobs:
   scan:
@@ -26,5 +26,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           git add trends.json .local_state/items.json
+          if [ -d history ]; then git add history/; fi
           git diff --staged --quiet || git commit -m "Daily trend scan $(date -u +%F)"
+          git pull --rebase --quiet || true   # in case the weekly newsletter job pushed first
           git push

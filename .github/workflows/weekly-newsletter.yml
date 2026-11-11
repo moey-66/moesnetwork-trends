@@ -1,0 +1,84 @@
+# Weekly newsletter: every Monday morning, build last week's top-5 trend brief and create it in Brevo.
+# Default is a DRAFT campaign in Brevo, which you check and send yourself.
+# To send automatically, add a repository variable NEWSLETTER_SEND_MODE = send (see newsletter/README.md).
+name: Weekly newsletter
+
+on:
+  schedule:
+    - cron: "7 5 * * 1"     # Mondays 05:07 UTC = 07:07 SAST (GitHub can start scheduled jobs a bit late)
+  workflow_dispatch:         # "Run workflow" button for a manual run
+    inputs:
+      week_of:
+        description: "Any date in the Mon-Fri week to cover (YYYY-MM-DD). Leave empty for last week."
+        required: false
+        default: ""
+      send_mode:
+        description: "draft = create a draft in Brevo; send = create and send now; default = use the NEWSLETTER_SEND_MODE variable"
+        type: choice
+        options: [default, draft, send]
+        default: default
+
+permissions:
+  contents: write            # to commit the archive pages and the "already created" marker
+
+concurrency:
+  group: weekly-newsletter
+  cancel-in-progress: false
+
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0     # full history, so old versions of trends.json can fill missing days
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the issue
+        id: build
+        env:
+          WEEK_OF: ${{ inputs.week_of }}
+          # Topic ids left out of the weekly 5. Unset = "recalls". Set the variable to "none" to allow all.
+          NEWSLETTER_EXCLUDE_TOPICS: ${{ vars.NEWSLETTER_EXCLUDE_TOPICS == 'none' && ' ' || vars.NEWSLETTER_EXCLUDE_TOPICS || 'recalls' }}
+        run: |
+          if [ -n "$WEEK_OF" ]; then
+            if ! echo "$WEEK_OF" | grep -Eq '^[0-9]{4}-[0-9]{2}-[0-9]{2}$'; then echo "week_of must look like 2026-11-02"; exit 1; fi
+            python3 newsletter/weekly_digest.py --week-of "$WEEK_OF"
+          else
+            python3 newsletter/weekly_digest.py
+          fi
+
+      - name: Create the campaign in Brevo
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID }}
+          BREVO_SENDER_EMAIL: ${{ vars.BREVO_SENDER_EMAIL }}
+          BREVO_SENDER_NAME: ${{ vars.BREVO_SENDER_NAME }}
+          NEWSLETTER_SEND_MODE: ${{ (inputs.send_mode == 'draft' || inputs.send_mode == 'send') && inputs.send_mode || vars.NEWSLETTER_SEND_MODE || 'draft' }}
+          ISSUE_DIR: ${{ steps.build.outputs.issue_dir }}
+        run: |
+          echo "Send mode: $NEWSLETTER_SEND_MODE"
+          python3 newsletter/brevo_send.py "$ISSUE_DIR"
+
+      - name: Keep a copy of the issue (Actions > this run > Artifacts)
+        if: always() && steps.build.outputs.slug != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsletter-${{ steps.build.outputs.slug }}
+          path: |
+            ${{ steps.build.outputs.issue_dir }}
+            newsletter/archive/${{ steps.build.outputs.slug }}.html
+
+      - name: Commit the archive
+        if: always() && steps.build.outputs.slug != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add newsletter/archive newsletter/issues
+          git diff --staged --quiet || git commit -m "Weekly newsletter ${{ steps.build.outputs.slug }}"
+          git pull --rebase --quiet || true
+          git push
