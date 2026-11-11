@@ -1,0 +1,972 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T07:59:54.756692Z",
+ "generator": "local_scan.py",
+ "recentDays": 3,
+ "trends": [
+  {
+   "id": "sports",
+   "label": "Sports nutrition",
+   "group": "Health area",
+   "score": 135,
+   "direction": "up",
+   "growth": 5.25,
+   "recent": 13,
+   "baseline": 15,
+   "recentSources": 12,
+   "categories": [
+    "news",
+    "sa",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "The Protein Dilemma: Can Gym Gains And Longevity Share A Plate?",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlJlNWNuNDN4amJqYVNleTF3ZnRLTFVZTG1FZGhZUWg0ZENCck52V0NPdnE3dnE1MHNETnhINTFsbldlM1ZXYm1NNHZLTUlXcjg5OFo0bmZ5ck5qU3BWMUYzNU10OGpuYWlEbnBWOU5waFR1MTVXN19vbGdDbE1ac2JmZ0dXXy02SkZuckJKYWR5VHM0Ym9zX2h0eVk?oc=5",
+     "source": "2oceansvibe News (via Google News)",
+     "date": "2026-11-11T07:18:11+00:00",
+     "category": "sa",
+     "summary": ""
+    },
+    {
+     "title": "New California law bans muscle-building and weight-loss supplement sales to minors: What AB 2030 means for teens, creatine, and retailers",
+     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMHhiTlhWYktvdkUtOWpFM25QY3ducWFGcFNZRnU4Q0tYS1Z4a2c5YndWa0FsY2luZFpLa2FSVzlzTkYzVjVvbXAyV2ttTkpaNjZuTnNUNzVfRTBhY0NPb1gwZlUwS1h5TjlLSzFrMFdFMzM0N3d0emNsTTQ5dkNTMWdJbzJncFV1X3o3RHpmTEhIU3BnSUdwQ2YyMFFXYlJjSXNINDlKX3dYdHJtcWRKQ3o5cUh0VVIwTW95eHMwTWdLb3pmcGowS1FtbGoyMHFHdnhOMVJ4djZ1QWRiSDhEcEUyVDJOLUxrMnc5UXl4Sm1xT3VzLVIyQVVfX25OUGIzamhyT3JSRjNaTlp1WE8tU9IBlgJBVV95cUxQUm5EalZsSGZBTXpFcXFsQlVMOEFvb0ZCcHFDc3dsS2RLS0hOUDhNSE94dHQxRGo0bmRtbWJUVWVuNnJvREpUdE9LMDdybFpwLV8xeWJuc0VodVhENGhFV0ZvNXp4Sy1aRlM5UkpBSVhqQ0ZrR2hRaGotd09RSmJUQ3JOODRXWHNUVWlVU2paY25seUJVR29MWUQ3b3NvLXhudFgxNUxpMzQyOXY4SDF5SHNlSEtjWlg3TldaQjR3UE9nRzNnMl9NTWN3TFRlZ1RBMVBRQVhiZW9VUDlZV01MS1lzS2JGUjVmd1A2NWNZSy1ZeEJsRXlISHpFYllxWU9wQXNhNXdYNG5ZMmdtaGJEaUlRbXh5UQ?oc=5",
+     "source": "Clarin.com (via Google News)",
+     "date": "2026-11-10T15:01:12+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "California to Restrict Sale of Muscle-Building Supplements to Minors Under New Law",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemE2QlRVSFlWdnhfcHd3eXdvaFJJX3FOLTlCTk1HdVFESnlUUnJURlJERHE4M2dpR3RUYjFpNjVSX0NDR1EzcFF1WHRmQ25ES292YzZCVVV5M3JJaXNENm1WaWEtV013R3BvVzM2M0tjNzVaWlJoLTlYSFNpZzhyQmFPdTlRblk?oc=5",
+     "source": "Generation Iron (via Google News)",
+     "date": "2026-11-10T14:38:07+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Givaudan highlights consumer trends as GLP-1 use transforms eating habits",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/givaudan-research-explores-driving-demands-for-glp-1/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T10:24:22+00:00",
+     "category": "news",
+     "summary": "GLP-1 medications are driving demand for protein-rich, nutrient-dense foods, with users prioritizing muscle maintenance, healthy aging, gut health and fiber as reduced appetite makes nutritional quality more important. According to..."
+    },
+    {
+     "title": "Creatine HCl vs. Monohydrate: Which Is Better for Building Strength and Muscle?",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFZEby1QcHNZVWIzdnU4amw5YlVPSWMwNW1kNk1Cdy1TR184VDZxd0hTWlY0V2hhQXRVdnEyVWIzVVF2RkxyMjVGOUlNN1k0UW9zVWtaMmZERjlwUVhJbFpLQVM2VGIwOUNyVTJ2dnJTYU1va2ZlOE9YLVpRQ0kzQ2dpaUdwb2RsaTcxZndQSV9LRTBEWFplWml3QVg1MThNYkJ2Sg?oc=5",
+     "source": "Men's Health (via Google News)",
+     "date": "2026-11-09T21:30:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "New California law will restrict sales of some muscle-building supplements to minors",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9GV29KQTg5V2FNTkJ5cWRnaWdkU2pPbHFnODEySXIzZFVzdTVyQUJ0eWdJTHRacTlNZmlHSzg3VTJfVVEtVFpwZXliT3dsaU9odkdSWXkyN2g5NTVDUlNQcDFmMjFXLWVYTXdvYjRlaTBUOWpQZDltWHNPbnNMdWRnVG50QkN1ZE1sNnA5aTRqUnE0RlRwdnJ3a9IBoAFBVV95cUxNZVFENGw0MUxGNFNiRk1La0U2QnBteHZyUlVQUUJMbkpxbHk3MUhuS0dQMGFkWTZvMW92c0Y1ZGYxUWVhRGNkTHlkbzNvbDlQLTdMSkxHcjBfcTF0SHZxOS0zQjRhX0cwVVM3bFByU0dyQ3IySjBzTGFpVzlSZ1FYSmpGSTAxTVdUellLTXRReXc2YXlyR1Y1djA0SW9Rb3hr?oc=5",
+     "source": "Fox News (via Google News)",
+     "date": "2026-11-09T20:43:50+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "score": 117,
+   "direction": "up",
+   "growth": 3.16,
+   "recent": 19,
+   "baseline": 48,
+   "recentSources": 17,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Creatine in 2026: 9 big takeaways from SupplySide Global",
+     "link": "https://www.supplysidesj.com/specialty-nutrients/creatine-today-supplement-industry-takeaways",
+     "source": "SupplySide Supplement Journal",
+     "date": "2026-11-11T12:38:14+00:00",
+     "category": "news",
+     "summary": "The supplement industry’s star ingredient is getting rebranded, reformulated and put behind lock and key. Here are the big innovations and hard questions about creatine."
+    },
+    {
+     "title": "Creatine trends from SupplySide Global 2026",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzNpRUR3VllHQlc5ekJQVUxtMWppdVJQSHJSbmxJMUVYSlhjdGI1VmhHSlAwZWU5cHgxRzdfcXM2ZjBob0FOTklZeTNQMl9xZmZ1aXlDVG9GR3FLTG5qdl8yeDgySU1iQmxNWV9JOXBXWVZoTG8zeWlEWThTSFlKSklaVGlFMnhlakpwdFdBTE5TM0ZBVFdjag?oc=5",
+     "source": "SupplySide Supplement Journal (via Google News)",
+     "date": "2026-11-10T23:15:05+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Study Examines Creatine’s Effects on Strength and Lean Tissue in Midlife",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2d3S2UxalZxZ0szbzVCNEZfcktEeS1IV3V2TkljdGpxTGhFSDJPdk1pNkV6M3J1bkozWUdLc1hCVGhPRk13UjhQTXZmRkdsVlVCSHM1MERfdF9FRDZKd2lQYVlyNU03Qks0dWVFNkhBTkx4THpxUF83NW9rN1RkckJLNkRWRWtHWk03LVVwZnc1NjE4Uk9DOGZfUTVhNmJEZVh1TTEtMEVVdw?oc=5",
+     "source": "The Well News (via Google News)",
+     "date": "2026-11-10T22:53:47+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Creatine Blend Improves Novice Recovery Without Augmenting Short-Term Strength",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1p2STZ2TVlFeHlBbFlFSDcyanVyM0ZTZzR4OTBKeVVMdzVzRURydkR6akViNEJFZ2VaSDZrUTFOTlhUVjF6bUlXemxQd0dsclVpUFV4cV9pZW9rWFJYai00d3o3bVYxQlZWYzFZXzdjMEtzcG9rWlRUT1BhcGxhSThfMkotUlIyNnpuM1VuY2dKT1hxWWw3TG1jZ0hxclBVR1FrTnBn?oc=5",
+     "source": "Bioengineer.org (via Google News)",
+     "date": "2026-11-10T22:10:14+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "California will soon prohibit minors from buying creatine: What to know",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2VBSWpSNmJ1d2hFRE1iWDZhbTFleUhUNUh4bnBmOGp2TlpyOWdsZ0kyZ2tvQ1o1Nl80NS00OUl3WnFpTTNJckotV0JoUVUwRDhZTlNmY2xFdFhGSU00VWF5Y1J1eWNoVFNEQnVDam9OU2FUT2NKdGxRNFRVMzVTel9ZSDBtenpvbVRfZXBudVBROU1NYmM3cENKaw?oc=5",
+     "source": "KTVU (via Google News)",
+     "date": "2026-11-10T18:01:13+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Creatine ban in California explained as controversial new law sparks confusion",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWQ3ZmlwcU1uMEM1cGx3VHQ0bVN0QXBvWWQyTWxlY1dyQ1lDRTRpMm1zQ1d0T2thSkxSS2R4ZEpfdEFFZFYtTzJ2U2d2bW16Z05YODhfNExjUmtERFZVczAyZVNSWHIwbVhLNTJtbnpJQXNGMUsyeW84NGczT3lMekFNVlc0T2dH?oc=5",
+     "source": "UNILAD Tech (via Google News)",
+     "date": "2026-11-10T17:29:06+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "sleep",
+   "label": "Sleep",
+   "group": "Health area",
+   "score": 115,
+   "direction": "up",
+   "growth": 3.6,
+   "recent": 9,
+   "baseline": 16,
+   "recentSources": 7,
+   "categories": [
+    "news",
+    "pharma",
+    "sa",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Rest assured: Wake up to new sleep science",
+     "link": "https://www.supplysidesj.com/healthy-living/rest-assured-wake-up-to-new-sleep-science",
+     "source": "SupplySide Supplement Journal",
+     "date": "2026-11-11T05:00:00+00:00",
+     "category": "news",
+     "summary": "The future of sleep science isn’t bigger doses, it’s smarter, more personalized formulation. Put another way, the sleep supplement category is evolving waaay beyond one-size-fits-all. Across today’s research, some common themes emerge —..."
+    },
+    {
+     "title": "#COP31: Can a coat of paint help South Africans sleep better as the planet heats up?",
+     "link": "https://bhekisisa.org/health-news-south-africa/2026-11-10-cop31-can-a-coat-of-paint-help-south-africans-sleep-better-as-the-planet-heats-up/",
+     "source": "Bhekisisa",
+     "date": "2026-11-10T07:02:26+00:00",
+     "category": "sa",
+     "summary": "Could a coat of white paint help South Africans living in scorching shacks sleep better? Researchers are testing whether reflective roof paint can cool homes and improve people's health as climate change makes our nights hotter. UCT..."
+    },
+    {
+     "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
+     "link": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/",
+     "source": "STAT",
+     "date": "2026-11-09T14:30:00+00:00",
+     "category": "pharma",
+     "summary": "Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in two late-stage studies, but it doesn’t appear as effective as Lilly’s injectable drug Zepbound."
+    },
+    {
+     "title": "Lilly looks to gird Foundayo label after late-stage win in sleep apnea",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3dJejhBNnNDUlAyb3dTMGRMN3dOR1gwYzY4NmVRZEFrOVVuRldpOEY4aWo3b2s4eWthWDFvWnkxbHYxSjRXRG5Hbm52VFFjclFycU5ObElsMWtmY0RVZWR1QUpBQ3hCM0NHZ2VZOHBuQUljaTJxTVplVVJBb1A1cm90S01yb3pNQU4xZw?oc=5",
+     "source": "Fierce Pharma (via Google News)",
+     "date": "2026-11-09T14:30:00+00:00",
+     "category": "pharma",
+     "summary": ""
+    },
+    {
+     "title": "Postbiotic may improve symptoms in menopausal women with high stress, study suggests",
+     "link": "https://www.nutraingredients.com/Article/2026/11/09/postbiotic-may-improve-symptoms-in-menopausal-women-with-high-stress-study-suggests/",
+     "source": "NutraIngredients",
+     "date": "2026-11-09T09:55:33+00:00",
+     "category": "news",
+     "summary": "Heat-Killed Lactiplantibacillus plantarum L-137 (HK L-137) improved markers of inflammation and gut barrier function in menopausal women and was associated with beneficial changes to symptoms, sleep, and body mass index in participants..."
+    },
+    {
+     "title": "Can anyone suggest the best brand of Magnesium Glycinate for just better sleep( India)",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt229f/can_anyone_suggest_the_best_brand_of_magnesium/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T23:26:05+00:00",
+     "category": "social",
+     "summary": "Help me out guys! I am an insomniac I have been struggling a lot nowadays impacting my personal and proffessional life! So ig it's time for me to buy one.."
+    }
+   ]
+  },
+  {
+   "id": "omega-3",
+   "label": "Omega-3",
+   "group": "Ingredient",
+   "score": 113,
+   "direction": "up",
+   "growth": 6.75,
+   "recent": 8,
+   "baseline": 3,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Is Fish Oil Good for Your Gut?",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkpYRm5RM004Zm9DSWViczVIUHhhaHNic1N4a3NaNTRuaDZJeWNuRDJnS1lyalR5XzhNSjRQTUpHSzJmcWhyblI1eWZ2bldmNG41STFtNG4tcGo5SU1HYzVFVjhJMW52WXNaTmp1eVdneWFiVWdHY2hwSTk4TlZVN09ZcmRTeFdXYlVkNDRCU1Q?oc=5",
+     "source": "Yahoo Health (via Google News)",
+     "date": "2026-11-10T17:16:20+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Second Peruvian anchoveta season canceled: What are the implications for the fish oil industry?",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/second-peruvian-anchoveta-season-canceled-what-are-the-implications-for-the-fish-oil-industry/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T13:34:30+00:00",
+     "category": "news",
+     "summary": "Last month, Peru’s Ministry of Production (PRODUCE) announced it would not authorize a second anchovy season, prompting the Global Organization for EPA and DHA Omega-3s (GOED) to renew calls for brands to diversify their product..."
+    },
+    {
+     "title": "Southern Cross University’s research aims to lower cost, improve accessibility of omega-3",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/southern-cross-universitys-research-aims-to-lower-cost-improve-accessibility-of-omega-3/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T09:01:29+00:00",
+     "category": "news",
+     "summary": "Researchers from Southern Cross University in Australia aim to reduce the cost of omega-3 supplements production through an ongoing study"
+    },
+    {
+     "title": "I took fish oil daily for over five years and felt better after stopping",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt608w/i_took_fish_oil_daily_for_over_five_years_and/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T02:26:26+00:00",
+     "category": "social",
+     "summary": "I’d been taking fish oil every day for over five years. By then, it was just part of my normal routine. After about two weeks off it, I noticed my head felt clearer. I wasn’t as tired, either. That’s what feels strange to me. I’d spent..."
+    },
+    {
+     "title": "Desk workers: what small habit has helped your neck or back feel better?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt53sr/desk_workers_what_small_habit_has_helped_your/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T01:43:12+00:00",
+     "category": "social",
+     "summary": "The post about stopping fish oil has stayed with me. The person had taken it every day for more than five years. About two weeks after stopping, they said their brain fog and fatigue had eased. That’s what interests me: something can..."
+    },
+    {
+     "title": "I tried a ton of supplements. Yes, this is all you need.",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xssvsm/i_tried_a_ton_of_supplements_yes_this_is_all_you/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T17:24:27+00:00",
+     "category": "social",
+     "summary": "Creatine 5g Omega-3, 1200mg EPA & 850mg DHA Vitamin D3 5000 IU + Vitamin K2 100mcg Magnesium Malate 1400mg (280mg) One a Day Men’s Multivitamin If you look at my post history on this sub, I was taking well over 10-20 supplements at a..."
+    }
+   ]
+  },
+  {
+   "id": "skin-beauty",
+   "label": "Skin, hair & beauty",
+   "group": "Health area",
+   "score": 113,
+   "direction": "up",
+   "growth": 4.8,
+   "recent": 7,
+   "baseline": 6,
+   "recentSources": 6,
+   "categories": [
+    "news",
+    "pharma",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "GLP-1, longevity and hormonal shifts fuel next wave of beauty-from-within.",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXRuTVpGLTJ5bktzTTVUNk9MRm05UzBjcjIyN1hnT2tqR1ZlV2ZFMVowSk9Gc3NrR3FSa1Z1Tk93Y1doc3Z6U0JUQlZ6d0ZteHJpb0tNSHpvWGVUaGxEaFpacUdrUnRmaGpZTHQyX1F6RG9KbEgtenNhc3Y5NnNMNnlKYzZVajVmcnRlbzk4SmRUajI1bmtodA?oc=5",
+     "source": "Personal Care Insights (via Google News)",
+     "date": "2026-11-10T10:05:38+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Hair Growth Supplements Market Forecast to 2035, Driven by Rising Demand for Preventive Hair Wellness",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnZ6XzZJYkxlX3JkTlZ3UjRBV1NGTExRczZRNzYzcXk3ZE5UdVJtQlB4bUxPQ0xYQVdfekh3a1Q0T0JzN0dzNWJNQmJuVFZ1T3BFSXlmUHZaM2tNTkNuRUhYVUU5d0ZkSTVseER2UDBVcEVhM192T0x5NDZqZHowTWhnUTNfN0xSLXhkUHFZU29mQkhRZ2F5OWVxMGpaZTdMZWZZZlJUc0tLRXh5eXNrVmV5UjVmUmp0ZEY2VVZKd0tHQTJKWUJwY2Fn?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-09T23:36:03+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Veradermics wraps phase 3 program in men with 'better-than-expected' hair growth at 1 year",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjJjVS1Jdmd0TXphSFdxUmFFR3BoQlhWRlhUS2hDeXJNM2UwZThYVjVKaENHLXhXOU9EMmFEYkxzOUJtS1U4clJ4dExlZTdUajFnLWNPQURWbE1RZ0UybjY3N0dwU2lVLUVLYnV2UlRtLXBEcDNWN0NUcmV0RXZGb1JXX09YYnFGcENmaThwRlllaVJwak9qTkdxbWdfdllJcGo3djdOTnEyM3hf?oc=5",
+     "source": "Fierce Pharma (via Google News)",
+     "date": "2026-11-09T19:52:48+00:00",
+     "category": "pharma",
+     "summary": ""
+    },
+    {
+     "title": "Beyond Collagen: Why Beauty Formulas Need Anti-Glycation Support",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnlnVFVGXzZsOG9xcjUzdXNjX1BCZkNTcFRIVGdlSWlrWW14YUhFeTl0VWN1VW0wZWpFOTNWaWlzd1FaMlplX193Ympna0lyM1dweHRidzlua3JhdDgwcXdkUFFXLVd5T1dpQ0xFV2ZlWjBnbWs1bWRKTmJ3ZFZpbUQtbmtubVNtcGRxdWptLWZWX0FpZXllUGs2YkhXdUdaNVVHSmJn?oc=5",
+     "source": "Nutritional Outlook (via Google News)",
+     "date": "2026-11-09T19:39:45+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Swiss Nutrivalor targets peptide trend with CollaSwiss collagen",
+     "link": "https://www.nutraingredients.com/Article/2026/11/09/swiss-nutrivalor-targets-peptide-trend-with-collaswiss-collagen/",
+     "source": "NutraIngredients",
+     "date": "2026-11-09T09:56:52+00:00",
+     "category": "news",
+     "summary": "The Centravo Group subsidiary is targeting beauty, sport and mobility with a new range of Swiss-made bovine and porcine collagen peptides."
+    },
+    {
+     "title": "Creating and scary hair loss",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt68q9/creating_and_scary_hair_loss/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T02:37:48+00:00",
+     "category": "social",
+     "summary": "Hi all, wanted to share my experience using creatine as a 30F. I started taking creatine 10 weeks ago. The first two weeks were rough as I was constantly thirsty and felt bloated, but after 2-3 weeks i was amazed at the effects. I had..."
+    }
+   ]
+  },
+  {
+   "id": "vitamin-d",
+   "label": "Vitamin D",
+   "group": "Ingredient",
+   "score": 110,
+   "direction": "up",
+   "growth": 6.75,
+   "recent": 8,
+   "baseline": 3,
+   "recentSources": 2,
+   "categories": [
+    "sa",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Vitamin D Ingredients Market To 2035: Fortification and Supplement Demand Drive Growth - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMy1ieUJTejRheGR4WUFfQV9aLXRMalRqcHlJNXQ0cUNRaXlWX1dsT3ZfemlrUVpGaGVPLWF0RE5udm5FaGhfNndpQjJ0c1pYZFZGTGxzZ0RGRWl4LVBVai1VNE01T3BBUnRodkt1YmNuMG80UU82WW5fRWRpTmw1MkdRbl9lR1dnNk1GYm45dUNTSkdVMW01RFJuUVFid09KUGk2ZVpKUEQ3eUZ5a0RwcElJSkV2NmF5azJfUWEtQzJPZzB4cGIyTmNDQQ?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-11T05:16:04+00:00",
+     "category": "sa",
+     "summary": ""
+    },
+    {
+     "title": "I tried a ton of supplements. Yes, this is all you need.",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xssvsm/i_tried_a_ton_of_supplements_yes_this_is_all_you/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T17:24:27+00:00",
+     "category": "social",
+     "summary": "Creatine 5g Omega-3, 1200mg EPA & 850mg DHA Vitamin D3 5000 IU + Vitamin K2 100mcg Magnesium Malate 1400mg (280mg) One a Day Men’s Multivitamin If you look at my post history on this sub, I was taking well over 10-20 supplements at a..."
+    },
+    {
+     "title": "If you usually buy 2000 IU vitamin D, would you consider 2500 IU?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsrjsk/if_you_usually_buy_2000_iu_vitamin_d_would_you/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T16:34:52+00:00",
+     "category": "social",
+     "summary": ""
+    },
+    {
+     "title": "Vitamin d3 depleting magnesium",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsk4m7/vitamin_d3_depleting_magnesium/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T11:04:59+00:00",
+     "category": "social",
+     "summary": "I was advised to take vitamin d3, because my levels were at the lower end of normal. 13 days into taking it, I was tearful. Then again at 22 days..I started waking at 6.30am feeling anxious..I had OK days then bad days, from day 25 I..."
+    },
+    {
+     "title": "Vitamin D level, does this make sense?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsf675/vitamin_d_level_does_this_make_sense/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T05:54:17+00:00",
+     "category": "social",
+     "summary": "Why does it say the same dose for 50% of people and 90% of people to achieve the goal I entered (80)?"
+    },
+    {
+     "title": "Vitamin D3 barely moving despite high doses 28 → 35 after 7 months. What am I missing?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xscupx/vitamin_d3_barely_moving_despite_high_doses_28_35/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T03:47:42+00:00",
+     "category": "social",
+     "summary": "I'm trying to figure out why my vitamin D levels aren't increasing as much as I'd expect. A little background: Male, early 30s, around 175 lbs. I work out regularly, eat reasonably well, but don't get much sun exposure. Here's my..."
+    }
+   ]
+  },
+  {
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 107,
+   "direction": "up",
+   "growth": 3.32,
+   "recent": 13,
+   "baseline": 29,
+   "recentSources": 8,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "GLP-1 in APAC: What food firms need to watch as adoption grows",
+     "link": "https://www.foodnavigator.com/Article/2026/11/11/glp-1-in-apac-what-food-firms-need-to-watch-as-adoption-grows/",
+     "source": "FoodNavigator",
+     "date": "2026-11-11T06:26:58+00:00",
+     "category": "news",
+     "summary": "GLP-1 adoption in APAC may be slow, but significant opportunities are emerging for food manufacturers"
+    },
+    {
+     "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
+     "link": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/",
+     "source": "STAT",
+     "date": "2026-11-10T18:04:30+00:00",
+     "category": "pharma",
+     "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss."
+    },
+    {
+     "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
+     "link": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/",
+     "source": "STAT",
+     "date": "2026-11-10T14:38:29+00:00",
+     "category": "pharma",
+     "summary": "The FDA warned that GLP-1 drugs carry a potential risk of a rare but serious eye condition sometimes referred to as an “eye stroke.”"
+    },
+    {
+     "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
+     "link": "https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/",
+     "source": "STAT",
+     "date": "2026-11-10T14:25:24+00:00",
+     "category": "pharma",
+     "summary": "The FDA approved a novel drug to reduce recurrence of stroke, the agency is warning that GLP-1s carry a potential risk for an eye condition, and more pharma news of…"
+    },
+    {
+     "title": "FDA orders new eye risk be listed on a dozen GLP-1s, including Novo's Ozempic, Lilly's Zepbound",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ19sRUcybzY4ZkllR3hQZjMteVFBb2ZCQ0NielJROUNhNGx3MnQ4anNOOXRlVjh2alZDWUhfb3B3SnhvdU8tdW12ekFreGQtNm1kUW9xVlNjTkNjUVlJbzJ3Q3dRZ1hRVUxjWnBIa1JZQy1sMENWVHlsdV9yVFcySkloT1B4b1FKTmszNE5PcFF6bFZPSHVZMg?oc=5",
+     "source": "Fierce Pharma (via Google News)",
+     "date": "2026-11-10T13:31:06+00:00",
+     "category": "pharma",
+     "summary": ""
+    },
+    {
+     "title": "Givaudan highlights consumer trends as GLP-1 use transforms eating habits",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/givaudan-research-explores-driving-demands-for-glp-1/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T10:24:22+00:00",
+     "category": "news",
+     "summary": "GLP-1 medications are driving demand for protein-rich, nutrient-dense foods, with users prioritizing muscle maintenance, healthy aging, gut health and fiber as reduced appetite makes nutritional quality more important. According to..."
+    }
+   ]
+  },
+  {
+   "id": "longevity",
+   "label": "Longevity & healthy ageing",
+   "group": "Health area",
+   "score": 107,
+   "direction": "up",
+   "growth": 4.76,
+   "recent": 8,
+   "baseline": 8,
+   "recentSources": 6,
+   "categories": [
+    "news",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "The Protein Dilemma: Can Gym Gains And Longevity Share A Plate?",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlJlNWNuNDN4amJqYVNleTF3ZnRLTFVZTG1FZGhZUWg0ZENCck52V0NPdnE3dnE1MHNETnhINTFsbldlM1ZXYm1NNHZLTUlXcjg5OFo0bmZ5ck5qU3BWMUYzNU10OGpuYWlEbnBWOU5waFR1MTVXN19vbGdDbE1ac2JmZ0dXXy02SkZuckJKYWR5VHM0Ym9zX2h0eVk?oc=5",
+     "source": "2oceansvibe News (via Google News)",
+     "date": "2026-11-11T07:18:11+00:00",
+     "category": "sa",
+     "summary": ""
+    },
+    {
+     "title": "How dsm-firmenich Is Linking Gut Health, Healthy Longevity, and Better-Tasting Supplements",
+     "link": "https://www.nutritionaloutlook.com/view/how-dsm-firmenich-linking-gut-health-healthy-longevity-better-tasting-supplements",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-10T22:48:32+00:00",
+     "category": "news",
+     "summary": "From gut-focused longevity to bitterness blocking, dsm-firmenich’s Julia Duchastel and Kathleen McNamara share what’s new at SupplySide Global and what’s ahead for 2027."
+    },
+    {
+     "title": "McKinsey: Wellness consumers demand more proof",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/mckinsey-wellness-consumers-demand-more-proof/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T14:43:15+00:00",
+     "category": "news",
+     "summary": "McKinsey’s latest wellness research shows that despite a surge in wellness products and health-related claims, 40% of consumers report unmet needs, especially in longevity, mental health, and mobility."
+    },
+    {
+     "title": "Givaudan highlights consumer trends as GLP-1 use transforms eating habits",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/givaudan-research-explores-driving-demands-for-glp-1/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T10:24:22+00:00",
+     "category": "news",
+     "summary": "GLP-1 medications are driving demand for protein-rich, nutrient-dense foods, with users prioritizing muscle maintenance, healthy aging, gut health and fiber as reduced appetite makes nutritional quality more important. According to..."
+    },
+    {
+     "title": "GLP-1, longevity and hormonal shifts fuel next wave of beauty-from-within.",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXRuTVpGLTJ5bktzTTVUNk9MRm05UzBjcjIyN1hnT2tqR1ZlV2ZFMVowSk9Gc3NrR3FSa1Z1Tk93Y1doc3Z6U0JUQlZ6d0ZteHJpb0tNSHpvWGVUaGxEaFpacUdrUnRmaGpZTHQyX1F6RG9KbEgtenNhc3Y5NnNMNnlKYzZVajVmcnRlbzk4SmRUajI1bmtodA?oc=5",
+     "source": "Personal Care Insights (via Google News)",
+     "date": "2026-11-10T10:05:38+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "The gut and aging, PQQ in drinks and the rise of autophagy certifications in Japan",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/healthy-longevity-in-japan-the-gut-functional-foods-and-autophagy-product-certs/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T09:00:29+00:00",
+     "category": "news",
+     "summary": "Japanese companies are approaching healthy longevity in a myriad of ways, such as studying the link between the gut microbiome and the pace of aging, establishing autophagy product certifications and applying functional ingredients such..."
+    }
+   ]
+  },
+  {
+   "id": "protein",
+   "label": "Protein",
+   "group": "Ingredient",
+   "score": 96,
+   "direction": "up",
+   "growth": 4.91,
+   "recent": 5,
+   "baseline": 2,
+   "recentSources": 4,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Yeast and casein ease whey protein price pain",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVmt5b3B0OEUwX3lHeVo2WEp5ZDY1Y2dVTk9adHVhZ1JQXzR6elRnOXZqQWlseTBfNUh6b3ppUjFadllUQnQ1a2VaUmVzdGtoazI3Q3NWTVNEeXU1YWVmc3NsWC1GdU1uWl9xUWVTRTVMZmFkLWhTSjYtV0RfNkNhNHFhbGhHdjBzVHlhdzh4VU1YcUp1Nk5zZU5JVlN5amZMMUVNeUln?oc=5",
+     "source": "SupplySide Supplement Journal (via Google News)",
+     "date": "2026-11-09T19:54:13+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Whey's price opens door for novel sources and blends",
+     "link": "https://www.supplysidesj.com/natural-product-development/whey-price-opens-door-for-novel-sources-blends",
+     "source": "SupplySide Supplement Journal",
+     "date": "2026-11-09T19:49:53+00:00",
+     "category": "news",
+     "summary": "Whey underscored every conversation at SupplySide Global 2026. And on the show floor, suppliers pitched yeast, precision-fermented casein and milk protein as ways to stretch it."
+    },
+    {
+     "title": "How clear protein boosted the functional drinks category",
+     "link": "https://www.foodnavigator.com/Article/2026/11/09/clear-protein-expands-potential-of-high-protein-drinks/",
+     "source": "FoodNavigator",
+     "date": "2026-11-09T19:30:34+00:00",
+     "category": "news",
+     "summary": "Clear protein, which allows manufacturers to produce high-protein drinks that do not have the category's traditional milky, thick texture, drastically expands what the category can do. Protein can now be used in clear drinks such as..."
+    },
+    {
+     "title": "GNC",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt59uz/gnc/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T01:51:22+00:00",
+     "category": "social",
+     "summary": "Are the products at GNC any good or just a money grab? For example, protein powder and psyllium husk."
+    },
+    {
+     "title": "California Governor Newsom signs law that prohibits the sale of Creatine, muscle building and weight loss supplements to anyone under 18 years old, ID verification is required in store and online",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xrt7vt/california_governor_newsom_signs_law_that/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-09T14:34:44+00:00",
+     "category": "social",
+     "summary": "I thought creatine is safe? Also you will see a lot of supplement companies removing muscle building from their protein powder products to bypass this law in California. California's new law, Assembly Bill 2030 (AB 2030), signed by..."
+    }
+   ]
+  },
+  {
+   "id": "stress-mood",
+   "label": "Stress & mood",
+   "group": "Health area",
+   "score": 95,
+   "direction": "up",
+   "growth": 5.79,
+   "recent": 8,
+   "baseline": 5,
+   "recentSources": 2,
+   "categories": [
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Any good supplements for physical anxiety?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt9b06/any_good_supplements_for_physical_anxiety/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T05:16:02+00:00",
+     "category": "social",
+     "summary": "I'm looking for a supplement that would help regulate or lower psychical anxiety I often feel psychically stressed while not really having mental anxiety or something to worry about. What happens is that I feel my heart beating very..."
+    },
+    {
+     "title": "Info on L-Theanine",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt053z/info_on_ltheanine/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T22:04:17+00:00",
+     "category": "social",
+     "summary": "Hi! I did research and bought 250mg L-theanine to help with social anxiety and my adhd. I actually took it like maybe 2 hours ago? and i just feel sleepy, to be fair I’m at home so I’m not particularily anxious about anything I guess i..."
+    },
+    {
+     "title": "Do any of these supplements explain my random depression?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsyayr/do_any_of_these_supplements_explain_my_random/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T20:50:48+00:00",
+     "category": "social",
+     "summary": "22M who randomly woke up a one morning with a crippling anxiety which nows developed into a full blown depression? Im the type that doesnt even believe in depression (in a healthy non-offensive way) and all of a sudden its like its been..."
+    },
+    {
+     "title": "Inositol?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsx5y7/inositol/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-10T20:06:05+00:00",
+     "category": "social",
+     "summary": "Anyone here who uses inositol for anxiety/panic disorder/ocd? I just lifted my dosage to about 8 grams/day (I didn't have any bad effects on lower dosages so I lifted it pretty quickly to higher one). I see the recommended dosages are..."
+    },
+    {
+     "title": "Euphoria to help with work flow",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xsgq8v/euphoria_to_help_with_work_flow/",
+     "source": "Reddit r/Nootropics",
+     "date": "2026-11-10T07:28:23+00:00",
+     "category": "social",
+     "summary": "Looking for compounds or stacks that provide a mild euphoric or strong mood-lifting effect specifically to reduce the aversiveness of computer work (repetitive or low-engagement tasks). The main goal is making the work feel more..."
+    },
+    {
+     "title": "Best supplements for rumination/stress/general anxiety?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xrxy1h/best_supplements_for_ruminationstressgeneral/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-09T17:31:01+00:00",
+     "category": "social",
+     "summary": "My job has become unbelievably stressful with a boss that's actively trying to get rid of me. While I'm actively looking for a new role, I'm trying to find something in the meantime that can at least help get me through the day. I'm..."
+    }
+   ]
+  },
+  {
+   "id": "prebiotics",
+   "label": "Prebiotics & fibre",
+   "group": "Ingredient",
+   "score": 95,
+   "direction": "up",
+   "growth": 4.5,
+   "recent": 5,
+   "baseline": 3,
+   "recentSources": 5,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "kēpos Builds a Daily Gut Supplement Around a Human-Milk Prebiotic",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vMktkY2g1RU1uZFVYbDcyVUNHT19UdVo4aGVkNW5GVWhxbm4xb29UNFN1QzF1RGkxU0RxS2pBOUxhV205cU1vRUkxc3g0ak1rNnRUdTl6aDNjOHNGNmk4clBvSlVFamdWNVZQQVBoOXlNcklZZHhxR1R0dw?oc=5",
+     "source": "Grit Daily News (via Google News)",
+     "date": "2026-11-10T06:00:09+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Gut-Friendly Fat Burner Powders: Like A Pro Adds iXOS Prebiotic Fiber to Burn Away…",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Hamw0QUMydlhrLU5iajVqX0ZKblJvT0FOMk5YWFZkTVRfZ1UyLW85M3pELWhEaFMyRFhiOGVLNk45cS1veUktdElpRURyczZTNlRjRzNQLUM2S0JTc3FCSUpSRHZYanFMZHpxSVFrU1p4U04y?oc=5",
+     "source": "Trend Hunter (via Google News)",
+     "date": "2026-11-10T00:20:02+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Seed Health expands nationwide at Costco",
+     "link": "https://www.nutraingredients.com/Article/2026/11/09/seed-health-expands-nationwide-at-costco/",
+     "source": "NutraIngredients",
+     "date": "2026-11-09T14:45:57+00:00",
+     "category": "news",
+     "summary": "Seed Health, a microbiome science company, has expanded nationwide at Costco with its DS-01 Daily Synbiotic, a probiotic and prebiotic supplement designed to support digestive health using proprietary technology. The company, which has..."
+    },
+    {
+     "title": "Prebiotic Ingredients Market Projected to Reach US$32.91",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXowMllpVWs1OUprY25IZXJtWjhFTndlclJXNDkxcFBTbGVVZmIyQXhJbzFEZ1Z4Mjh3dVdZYzRjTWR0RFNReXNGTjZMMUZHeTZLUmhQOWllTzI0NGpQY2hiS0dTNXpXUUtQRDNsQTdQRDA0VTFjc05BMlVYMkt4RXZobUV6ZnlIREdjTnJ4MzN4OWZGUDIw?oc=5",
+     "source": "openPR.com (via Google News)",
+     "date": "2026-11-09T06:29:03+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "GNC",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt59uz/gnc/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T01:51:22+00:00",
+     "category": "social",
+     "summary": "Are the products at GNC any good or just a money grab? For example, protein powder and psyllium husk."
+    }
+   ]
+  },
+  {
+   "id": "weight",
+   "label": "Weight management",
+   "group": "Health area",
+   "score": 89,
+   "direction": "up",
+   "growth": 2.7,
+   "recent": 5,
+   "baseline": 11,
+   "recentSources": 5,
+   "categories": [
+    "news",
+    "pharma",
+    "sa",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
+     "link": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/",
+     "source": "STAT",
+     "date": "2026-11-10T18:04:30+00:00",
+     "category": "pharma",
+     "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss."
+    },
+    {
+     "title": "DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond",
+     "link": "https://health-e.org.za/2026/11/10/diabetes-navigating-type-1-diabetes-in-childhood-and-beyond/",
+     "source": "Health-e News",
+     "date": "2026-11-10T11:38:45+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond When Minenhle Mofokeng was 4 years old, her mother became worried about her daughter’s poor health, as she was constantly losing weight and had no appetite. She..."
+    },
+    {
+     "title": "Givaudan highlights consumer trends as GLP-1 use transforms eating habits",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/givaudan-research-explores-driving-demands-for-glp-1/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T10:24:22+00:00",
+     "category": "news",
+     "summary": "GLP-1 medications are driving demand for protein-rich, nutrient-dense foods, with users prioritizing muscle maintenance, healthy aging, gut health and fiber as reduced appetite makes nutritional quality more important. According to..."
+    },
+    {
+     "title": "AHA: Boehringer aims for 2027 survodutide submission after obesity drug passes cardio test",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdi1IRFFPSnNGVUE3N1FHbXRQV2hrd1RpeDhFWWV3NW5sRGRZNW9GYkpiY3hMNktQOTBxZXlPYk9UV1FMTy04YTNmWWtFUDdUaDZKVXVDQ29rS3duQ1RuUnFPNkJQcFQtYk84WmZ3SHJ6WjNFTDVoakZXNVUxaXNuZFlQX1lfZGpNbDlBRXhWci1BVDNQSkg2bFZsNmU4ektGcjl6c3hzVmRLd3UtVFFqUmFRZjdOZm02bmhRMVduczhaUFJR?oc=5",
+     "source": "Fierce Biotech (via Google News)",
+     "date": "2026-11-09T14:45:01+00:00",
+     "category": "pharma",
+     "summary": ""
+    },
+    {
+     "title": "California Governor Newsom signs law that prohibits the sale of Creatine, muscle building and weight loss supplements to anyone under 18 years old, ID verification is required in store and online",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xrt7vt/california_governor_newsom_signs_law_that/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-09T14:34:44+00:00",
+     "category": "social",
+     "summary": "I thought creatine is safe? Also you will see a lot of supplement companies removing muscle building from their protein powder products to bypass this law in California. California's new law, Assembly Bill 2030 (AB 2030), signed by..."
+    }
+   ]
+  },
+  {
+   "id": "metabolic",
+   "label": "Blood sugar & metabolic",
+   "group": "Health area",
+   "score": 88,
+   "direction": "up",
+   "growth": 3.5,
+   "recent": 6,
+   "baseline": 9,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "pharma",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "DIABETES | The hidden cost behind effectively managing diabetes",
+     "link": "https://health-e.org.za/2026/11/11/diabetes-the-hidden-cost-behind-effectively-managing-diabetes/",
+     "source": "Health-e News",
+     "date": "2026-11-11T06:37:21+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | The hidden cost behind effectively managing diabetes 53-year-old Patricia Nhlapo has gone more than four months without her diabetes and other chronic medication because she cannot afford the R400 return trip to..."
+    },
+    {
+     "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
+     "link": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/",
+     "source": "STAT",
+     "date": "2026-11-10T18:04:30+00:00",
+     "category": "pharma",
+     "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss."
+    },
+    {
+     "title": "DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond",
+     "link": "https://health-e.org.za/2026/11/10/diabetes-navigating-type-1-diabetes-in-childhood-and-beyond/",
+     "source": "Health-e News",
+     "date": "2026-11-10T11:38:45+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond When Minenhle Mofokeng was 4 years old, her mother became worried about her daughter’s poor health, as she was constantly losing weight and had no appetite. She..."
+    },
+    {
+     "title": "DIABETES | From suspected sefola to amputation: the foot sore that cost a leg",
+     "link": "https://health-e.org.za/2026/11/10/diabetes-from-suspected-sefola-to-amputation-the-foot-sore-that-cost-a-leg/",
+     "source": "Health-e News",
+     "date": "2026-11-10T07:12:52+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | From suspected sefola to amputation: the foot sore that cost a leg When 54-year-old Themba Sepeng developed a second sore on his foot in the space of a year, he followed the advice of his friends and consulted a..."
+    },
+    {
+     "title": "An Endocrinologist Shares If Taking Magnesium Before Bed Can Affect Insulin Sensitivity",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnAxR05CSkV6bnRLaURwNXFpMGhNQ1RfTlkxWDgxR2ZKOTJLN1Q3bzlqdXh1UVltNXA5dWdPUjdxX01VcGhpWXFURHFweDdGYXgzVG5pZ24yd2xCWWNMNnhfcFp1UHF5OVhEMXJWRzhKWV9ZWnRKMmhtSXpEejFBbXJERlh2cHM?oc=5",
+     "source": "Verywell Health (via Google News)",
+     "date": "2026-11-09T18:08:36+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "DIABETES | Gauteng woman fears losing remaining sight while waiting for eye surgery",
+     "link": "https://health-e.org.za/2026/11/09/diabetes-gauteng-woman-fears-losing-remaining-sight-while-waiting-for-eye-surgery/",
+     "source": "Health-e News",
+     "date": "2026-11-09T11:32:16+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | Gauteng woman fears losing remaining sight while waiting for eye surgery A 60-year-old woman from Meriting informal settlement in Lenasia South fears losing her remaining eyesight after developing eye..."
+    }
+   ]
+  },
+  {
+   "id": "caffeine",
+   "label": "Caffeine & energy",
+   "group": "Ingredient",
+   "score": 87,
+   "direction": "up",
+   "growth": 3.46,
+   "recent": 4,
+   "baseline": 4,
+   "recentSources": 4,
+   "categories": [
+    "news",
+    "sa",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Just Ice Tea takes on energy drink segment with high-caffeine tea",
+     "link": "https://www.foodnavigator.com/Article/2026/11/10/just-ice-tea-targets-energy-drinks-with-awaken-cold-brew-tea/",
+     "source": "FoodNavigator",
+     "date": "2026-11-10T14:10:22+00:00",
+     "category": "news",
+     "summary": "Just Ice Tea’s new Awaken cold-brew tea contains 120 milligrams of caffeine per can, targeting consumers seeking an alternative to energy drinks."
+    },
+    {
+     "title": "Shawn Wells: Functional beverages move beyond caffeine to full-dose ingredients",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/shawn-wells-functional-beverages-move-beyond-caffeine-to-full-dose-ingredients/",
+     "source": "NutraIngredients",
+     "date": "2026-11-10T03:37:46+00:00",
+     "category": "news",
+     "summary": "Formulator Shawn Wells introduces the latest OnSwitch functional beverage concept at SupplySide Global 2026."
+    },
+    {
+     "title": "Energy drinks and your heart: New research raises concerns about cardiac risks among young adults",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVFV0NHhSYlNLbFRIbm1sRWhOOEFzMlE0U0JiM1hJc1h3UzcwLTkxX0Jpb2xGRDdwVXc0TlYzUlUwTVdoMXZaNHR1YWtkTVBxbW5ZT1o2NUlZemlUam8wNGNkbWl1V0ZYdk9MN3pBNnVkQTN4U1Nta08zeThIV2c4Z1dzUW1rMVZuc2w2bjBiSFY3Mi0wWi1SRDNYVFgwazNwdXZPSHNfWTRITDNoQkQxM2lwdHYtb2kzLTJnRnBZcHF6czdmVFdhS21JVWxoMW9FaFh2Qng3WGU1SW8?oc=5",
+     "source": "IOL (via Google News)",
+     "date": "2026-11-09T07:14:27+00:00",
+     "category": "sa",
+     "summary": ""
+    },
+    {
+     "title": "Creativity impaired on Vyvanse/Ritalin but not Caffeine?",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xsnk2k/creativity_impaired_on_vyvanseritalin_but_not/",
+     "source": "Reddit r/Nootropics",
+     "date": "2026-11-10T13:57:47+00:00",
+     "category": "social",
+     "summary": "So I don't quite understand this and would like to hear if anyone else has experienced something similar. When I am on Vyvanse or Ritalin (for adhd), I am incredibly focused and can work efficiently for hours, however I am noticeably..."
+    }
+   ]
+  },
+  {
+   "id": "cognitive",
+   "label": "Brain & cognition",
+   "group": "Health area",
+   "score": 83,
+   "direction": "up",
+   "growth": 3.5,
+   "recent": 6,
+   "baseline": 9,
+   "recentSources": 4,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "This Supplement May Be A Secret Weapon For Women's Brain Health",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDQ3SkNPT3VyTGRIUGlJYnRuaHo3S2lsRjc1NU1fZVViRklhSW5YZW1ua2VZTk5Kb1NEU1YwZUUzcjNCY2FaM2J3QVRvYmNLR3V5aEpJbi1vRUlDRXFUaWh2dkYxT1pzOXZTX0JDMGJTWnI0OWtDTVpKN3MtQ1U3VG1Od2VkM1JmNzFqVlF5SVo4T09MU0E?oc=5",
+     "source": "Yahoo (via Google News)",
+     "date": "2026-11-10T10:11:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Tired, wired, but healthy: The optimal conditions for cognitive health research?",
+     "link": "https://www.vitafoodsinsights.com/cognitive-mental-health/tired-wired-but-healthy-the-optimal-conditions-for-cognitive-health-research-",
+     "source": "Vitafoods Insights",
+     "date": "2026-11-09T05:00:00+00:00",
+     "category": "news",
+     "summary": "Testing ingredients on tired, stressed, but otherwise healthy people could produce clearer evidence of efficacy, two experts in cognitive health say."
+    },
+    {
+     "title": "Desk workers: what small habit has helped your neck or back feel better?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xt53sr/desk_workers_what_small_habit_has_helped_your/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-11T01:43:12+00:00",
+     "category": "social",
+     "summary": "The post about stopping fish oil has stayed with me. The person had taken it every day for more than five years. About two weeks after stopping, they said their brain fog and fatigue had eased. That’s what interests me: something can..."
+    },
+    {
+     "title": "Sorry if this has been asked a million times here before",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xsf60n/sorry_if_this_has_been_asked_a_million_times_here/",
+     "source": "Reddit r/Nootropics",
+     "date": "2026-11-10T05:54:00+00:00",
+     "category": "social",
+     "summary": "Hello everyone! I am new to this nootrpics space. I wanted a recommendation from y'all So I have a vvvvery important exam coming up in about 6 months (Literally life altering exam). Could you please recommend: A nootropic for..."
+    },
+    {
+     "title": "TAK-653 and Sleep Disruption",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xr6d2d/tak653_and_sleep_disruption/",
+     "source": "Reddit r/Nootropics",
+     "date": "2026-11-08T19:11:03+00:00",
+     "category": "social",
+     "summary": "Yes, another TAK post.. Started few weeks ago 2.5 mg daily capsules and extremely happy with my experience thus far - improved mood, focus, word finding capabilities , etc best nootropic I’ve tried without question. Only issue is..."
+    },
+    {
+     "title": "would you say noopept + citicoline is most optimal base to take daily for adhd? If you dont look for strong stimulating effects?",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xqtec2/would_you_say_noopept_citicoline_is_most_optimal/",
+     "source": "Reddit r/Nootropics",
+     "date": "2026-11-08T08:13:29+00:00",
+     "category": "social",
+     "summary": "I'm new to nootropics and recently got phenylpiracetam(100mg) and alpha gpc(400mg) after a bit of researching. It gives great effects (improves mood, energy and I'm more social on it) but it also gives me huge crash with brain fog later..."
+    }
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "label": "fish oil",
+   "score": 92
+  },
+  {
+   "label": "chinese military",
+   "score": 72
+  },
+  {
+   "label": "wuxi apptec",
+   "score": 72
+  },
+  {
+   "label": "california law",
+   "score": 72
+  },
+  {
+   "label": "fda nod",
+   "score": 57
+  }
+ ]
+}
