@@ -1,0 +1,258 @@
+{
+ "slug": "week-2026-11-02",
+ "weekStart": "2026-11-02",
+ "weekEnd": "2026-11-06",
+ "weekLabel": "2 Nov – 6 Nov 2026",
+ "builtAt": "2026-11-11T09:03:54.483730Z",
+ "subject": "Top 5 supplement trends (2–6 Nov): Collagen, GLP-1 + 3 more",
+ "preview": "The top trend from each weekday, 2 Nov – 6 Nov 2026, with links to the original articles. Free, every Monday.",
+ "topics": [
+  "Collagen",
+  "GLP-1 (and 'GLP-1 support')",
+  "Gut health",
+  "Creatine",
+  "Blood sugar & metabolic"
+ ],
+ "trends": [
+  {
+   "day": "2026-11-02",
+   "dayLabel": "Monday 2 November",
+   "rankThatDay": 1,
+   "id": "collagen",
+   "label": "Collagen",
+   "group": "Ingredient",
+   "score": 28,
+   "direction": "flat",
+   "growth": 1.44,
+   "angle": "Collagen is shifting from plain powders to blends, drinks and gummies, and source (marine or bovine) is a key choice on pack.",
+   "why": "3 stories from 3 publishers in the three days to Mon 2 Nov: steady coverage that kept it near the top of the day's ranking.",
+   "articles": [
+    {
+     "title": "Can Collagen Drinks Improve Your Skin? What Research Shows",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUkdYelh6dnU4WFJmSVVHRXdDRFVCSkZjUVdIdnkwMnNrSE5RNHJBdGVBZTFiMlcwNUZOSS1VTDh1RFF5MWlLQzk3NHAtclB0TTF3M3pPbmpkMUVSWEZjenZDaGg5SWR0dHRyX3dhQmUydDZnUWE1bGhmZUJ5SUdqa0hFX25EWUJ2NE43a29zenZOWVQ5aEZCYzh5YUVaeE4zZk1zWUJBaTRvS3R1b3BFS3ozdVh0R3gxb0pEZkVaMDRHYzRkVjdETXZoS1ZoUDBFOGdpWE1jaw?oc=5",
+     "publisher": "USA Today",
+     "date": "2026-11-02T20:28:00+00:00",
+     "dateLabel": "2 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "The scientific truth about collagen supplements",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmF0NnlDbkpMS2JiMElNTlZRVmFnZGRPNDlJZXJ6WHdzMTBxemdnMDN4MHFBbnJhOWhEa1RXTDlQVGpsZlBIT3daRGFwOTQ1QXN2Zjhfbnl0ZEcyUjhoUFNFOE1mMDFrVGYyalJWaWVWcmNobVZaQUgydTIzTEh2VndFNDdwb0NrSTBEN01SRC13THFEcURwYQ?oc=5",
+     "publisher": "New Scientist",
+     "date": "2026-11-02T08:00:00+00:00",
+     "dateLabel": "2 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-03",
+   "dayLabel": "Tuesday 3 November",
+   "rankThatDay": 1,
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 47,
+   "direction": "up",
+   "growth": 1.67,
+   "angle": "Weight-loss drug news keeps spilling into supplements; 'GLP-1 support' wording draws regulator attention, so stick to claims you can back and are allowed to make.",
+   "why": "4 stories from 4 publishers in the three days to Tue 3 Nov: about 1.7× its usual pace.",
+   "articles": [
+    {
+     "title": "SupplySide Global Panelists Outline Product Opportunities Tied to GLP-1 Medication Use",
+     "link": "https://www.nutritionaloutlook.com/view/supplyside-global-panelists-outline-product-opportunities-glp-1-medication-use",
+     "publisher": "Nutritional Outlook",
+     "date": "2026-11-03T11:00:00+00:00",
+     "dateLabel": "3 Nov 2026",
+     "excerpt": "At SupplySide Global 2026, 5 speakers from ingredient suppliers discussed protein, fiber, botanicals, and peptides for consumers using or leaving…",
+     "social": false
+    },
+    {
+     "title": "GLP-1 weight-loss gummies, patches and drops – miracle alternatives or snake oil?",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmhTc2U4NWxfNnd4U1Y0MWszT1JFMjQwQzNYMjBPalVXZjh6TTdGbjZEeGozSE4xTHl6UnpmZGNSaFpwYXVkVHpfN0g2ZmU3RXMtUGt4Z19GRVRKQXRKSktUUENWVmNtQkV3MFRjaVJUeTRubDZEU3BVMXJ4QnNOcTZESHhDSWdxdlBQa1g1ZGc2VmNQX3RZZXl5TlZFbGFPT2MwLXRXTUhuaXNISUZpM0VrRlU?oc=5",
+     "publisher": "Johannesburg Sunday World",
+     "date": "2026-11-03T16:09:31+00:00",
+     "dateLabel": "3 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Sure, they're popular, but are GLP-1 supplements effective?",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXNhTlVIempfUWI2WHJFTUhRSDdTRnMtUmxRNkRZNVlaOTRyVTZTamo2SFM0dk43SUwtRTlZUHpLekt3SHFtUnVYelZQb0cwcDI0bWtHZmcyb3ZDUFVrX0VKY0U3eXN6NjFGbVRKM2dJOTlUdi1ZOTM5YmNLbEhVc2d0bWlhYkhSZ2M1bVdfUnR2NmdMOWZ1REdrengtOHY4R3JLUGtScWk2dVk4QVYwMmpiMEVXcXRoLTRv?oc=5",
+     "publisher": "Yahoo Health",
+     "date": "2026-11-03T16:46:04+00:00",
+     "dateLabel": "3 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-04",
+   "dayLabel": "Wednesday 4 November",
+   "rankThatDay": 3,
+   "id": "gut-health",
+   "label": "Gut health",
+   "group": "Health area",
+   "score": 71,
+   "direction": "up",
+   "growth": 2.74,
+   "angle": "Gut health is a broad umbrella; brands are narrowing in on a specific occasion or user to stand out.",
+   "why": "6 stories from 6 publishers in the three days to Wed 4 Nov: about 2.7× its usual pace.",
+   "articles": [
+    {
+     "title": "Probiotic Cultures Market Forecast to 2035: Demand Accelerates on Gut Health Science and Preventive Nutrition",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDJoeDlIS3NOa2VxV3BaZnRaMnFqTFdoRXJ5MGRzTG1pMTZQM0xrbmQ0RmJOXzN3cmZsWGpNSFNCYUhHWUlfWFFJVHFrbTlqM19FMS1YZ0RtaTRCVEJiRGVldzQ0U2RLc3g3LU5vNG5fRFlWUWFjdVUyS3hjQWFSTmZmWUFLRjNsZ0xvSE9kZUlxWmRVR1BteDZ5amRRQ1dWdktjaV9aSlVPRFV2dk11aUF5TzEzQjAzaDNGLXh5N3hXSG1ncUpnMkZwZXVKYllibEhKcw?oc=5",
+     "publisher": "IndexBox",
+     "date": "2026-11-04T21:26:04+00:00",
+     "dateLabel": "4 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Creatine For Gut Health? What A New Study Reveals For Inflammatory Conditions",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnNfUjRtRXp3TzBZMHIwSVVfVkhkblZ3NFdwT0tod25vRm41N3l6VFNfMDF6MUVOTFREMnViUllqVm9SM1dEWUtRanlVZkxkU2d5bTRlUHhBUGpyU01odTRKOUsxSzVJdjhLcmJialI4SU10U1FLSWtRSFZkQ2Zkb1NYU0V4YmxlZTFXRGdHRGVnbmJZZGRZc0o0X2FXY2tqMGhBdE5WWVlnZUtpc04tVEx6YV9ZQQ?oc=5",
+     "publisher": "MindBodyGreen",
+     "date": "2026-11-02T08:00:00+00:00",
+     "dateLabel": "2 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-05",
+   "dayLabel": "Thursday 5 November",
+   "rankThatDay": 3,
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "score": 80,
+   "direction": "up",
+   "growth": 2.48,
+   "angle": "Creatine has moved beyond the gym crowd; formats like gummies and flavoured sachets, plus independent purity testing, are where brands are competing.",
+   "why": "10 stories from 10 publishers in the three days to Thu 5 Nov: about 2.5× its usual pace.",
+   "articles": [
+    {
+     "title": "Can Creatine Supplements Make Your Brain Stronger?",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR096RWRyaHRHaGJYd293bDNCSm4yZ1ZuMl9SOVBpOEhoSnhhOEpnWFJULTBIR0V2ZmhQdVBaM2RMa1hVajhFdjVsUkNzMlVYNXF1RGxzQmJUdnl4akpSYkw1LTFMd0NSNFBqNEFzMjJ1Q3JqZGJHRmZxOXEyQjhNelI5WXlfbExlMmhTRDFB?oc=5",
+     "publisher": "The New York Times",
+     "date": "2026-11-05T10:00:49+00:00",
+     "dateLabel": "5 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Stateside Creatine Powders: CreaBoost Brings Monohydrate Production to Nebraska",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pTWFELXNaNWVtTE9Ldm5FeENJQ1g0cE4wNnhmdHh4RlBSdVlyaFRUcUcwdlV1dkpoa2Q5NUZXOUp1bmpaS1B6NG85em5LQm1pNjRjN0R5bWVyNVVuejhsbnl0Nm5PODhzOWtOQmRR?oc=5",
+     "publisher": "Trend Hunter",
+     "date": "2026-11-05T05:05:46+00:00",
+     "dateLabel": "5 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Does Creatine Cause Hair Loss? Here’s What You Need to Know",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcC1CbkZvblpxSWhpVnktVVlNdXdJWGpiekxKUEljRTR3N0xGZEswVy1IS2hpZXZTek9pX2FUSlJoZ2hlUmxrRmpQaExKQ1JXeGdtVUZyVXhtcUkydTJvQjFXZlBhYTl4VHF3NFAyU0RLZ0R0TzNfamR0MHB1MkktLU5relA2TVds?oc=5",
+     "publisher": "GoodRx",
+     "date": "2026-11-05T04:28:03+00:00",
+     "dateLabel": "5 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-06",
+   "dayLabel": "Friday 6 November",
+   "rankThatDay": 3,
+   "id": "metabolic",
+   "label": "Blood sugar & metabolic",
+   "group": "Health area",
+   "score": 94,
+   "direction": "up",
+   "growth": 4.15,
+   "angle": "Blood-sugar topics are growing alongside weight-loss drug news, and health claims here are tightly controlled.",
+   "why": "5 stories from 3 publishers in the three days to Fri 6 Nov: about 4.2× its usual pace.",
+   "articles": [
+    {
+     "title": "Givaudan's New Metabolic Health Botanical",
+     "link": "https://www.nutritionaloutlook.com/view/givaudan-new-metabolic-health-botanical",
+     "publisher": "Nutritional Outlook",
+     "date": "2026-11-06T11:00:00+00:00",
+     "dateLabel": "6 Nov 2026",
+     "excerpt": "Live from SupplySide Global 2026, Nutritional Outlook’s Nicholas Jacobus speaks with Brian Appell, product manager, Givaudan, about the launch of…",
+     "social": false
+    },
+    {
+     "title": "DIABETES | Elderly Limpopo couple skip diabetes medication as clinic stockouts strain their pensions",
+     "link": "https://health-e.org.za/2026/11/06/diabetes-elderly-limpopo-couple-skip-diabetes-medication-as-clinic-stockouts-strain-their-pensions/",
+     "publisher": "Health-e News",
+     "date": "2026-11-06T07:25:33+00:00",
+     "dateLabel": "6 Nov 2026",
+     "excerpt": "Health-e News DIABETES | Elderly Limpopo couple skip diabetes medication as clinic stockouts strain their pensions When 85-year-old Simon Seshibe…",
+     "social": false
+    },
+    {
+     "title": "DIABETES | ‘My father was never taught how to use insulin safely’",
+     "link": "https://health-e.org.za/2026/11/05/diabetes-my-father-was-never-taught-how-to-use-insulin-safely/",
+     "publisher": "Health-e News",
+     "date": "2026-11-05T15:02:41+00:00",
+     "dateLabel": "5 Nov 2026",
+     "excerpt": "Health-e News DIABETES | ‘My father was never taught how to use insulin safely’ Managing a chronic condition like diabetes requires clear guidance…",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  }
+ ],
+ "days": [
+  {
+   "day": "2026-11-02",
+   "source": "replay of items.json at end of 2026-11-02",
+   "kind": "replay",
+   "pick": "collagen",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-03",
+   "source": "replay of items.json at end of 2026-11-03",
+   "kind": "replay",
+   "pick": "glp1",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-04",
+   "source": "replay of items.json at end of 2026-11-04",
+   "kind": "replay",
+   "pick": "gut-health",
+   "rank": 3
+  },
+  {
+   "day": "2026-11-05",
+   "source": "replay of items.json at end of 2026-11-05",
+   "kind": "replay",
+   "pick": "creatine",
+   "rank": 3
+  },
+  {
+   "day": "2026-11-06",
+   "source": "replay of items.json at end of 2026-11-06",
+   "kind": "replay",
+   "pick": "metabolic",
+   "rank": 3
+  }
+ ],
+ "excludedTopics": [
+  "recalls"
+ ],
+ "disclaimer": "News signals, not health advice.",
+ "trendsUrl": "https://moesnetwork.pages.dev/trends",
+ "archiveUrl": "https://moesnetwork.pages.dev/newsletter/week-2026-11-02.html"
+}
