@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T10:33:14.582317Z",
+ "generatedAt": "2026-11-11T10:44:38.506920Z",
  "generator": "local_scan.py",
  "windowDays": 30,
  "recentDays": 3,
@@ -530,58 +530,6 @@
    ]
   },
   {
-   "id": "m-and-a",
-   "label": "Deals & acquisitions",
-   "group": "Market",
-   "kind": "topic",
-   "score": 102,
-   "direction": "up",
-   "growth": 4.5,
-   "recent": 6,
-   "baseline": 5,
-   "mentions": 11,
-   "sources": 6,
-   "recentSources": 4,
-   "categories": [
-    "news",
-    "pharma",
-    "sa"
-   ],
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    2,
-    0,
-    0,
-    0,
-    3,
-    3
-   ],
-   "examples": [
-    {
-     "title": "Unilever McCormick deal faces phase 2 investigation in the UK",
-     "link": "https://www.foodnavigator.com/Article/2026/11/11/unilever-mccormick-merger-faces-cma-hurdle/",
-     "source": "FoodNavigator"
-    },
-    {
-     "title": "Lilly-backed Oyster Therapeutics raises $60m for neurological degraders",
-     "link": "https://www.pharmaceutical-technology.com/news/oyster-60m-neurological-degraders-pipeline/",
-     "source": "Pharmaceutical Technology"
-    },
-    {
-     "title": "Hapag-Lloyd completes acquisition of 25% stake in Rotterdam’s Maasvlakte II",
-     "link": "https://www.foodbusinessmea.com/hapag-lloyd-completes-acquisition-of-25-stake-in-rotterdams-maasvlakte-ii/",
-     "source": "Food Business Africa"
-    }
-   ]
-  },
-  {
    "id": "caffeine",
    "label": "Caffeine & energy",
    "group": "Ingredient",
@@ -689,13 +637,13 @@
    "label": "Brain & cognition",
    "group": "Health area",
    "kind": "topic",
-   "score": 92,
+   "score": 94,
    "direction": "up",
-   "growth": 3.79,
+   "growth": 4.0,
    "recent": 7,
-   "baseline": 10,
-   "mentions": 17,
-   "sources": 11,
+   "baseline": 9,
+   "mentions": 16,
+   "sources": 10,
    "recentSources": 5,
    "categories": [
     "news",
@@ -1248,20 +1196,21 @@
    ]
   },
   {
-   "id": "sustainability",
-   "label": "Sustainability & packaging",
-   "group": "Market",
+   "id": "nad",
+   "label": "NAD+ / NMN",
+   "group": "Ingredient",
    "kind": "topic",
-   "score": 60,
+   "score": 58,
    "direction": "up",
-   "growth": 3.27,
-   "recent": 3,
-   "baseline": 2,
-   "mentions": 5,
+   "growth": 2.7,
+   "recent": 2,
+   "baseline": 1,
+   "mentions": 3,
    "sources": 3,
    "recentSources": 2,
    "categories": [
-    "news"
+    "news",
+    "social"
    ],
    "spark": [
     0,
@@ -1276,24 +1225,65 @@
     0,
     0,
     1,
-    2,
+    1,
     0
    ],
    "examples": [
     {
-     "title": "Quality Street scraps paper tubs... for now",
-     "link": "https://www.confectionerynews.com/Article/2026/11/10/nestle-scraps-quality-street-paper-tubs-but-does-not-rule-out-return/",
-     "source": "FoodNavigator"
+     "title": "NAD blood levels don’t fall with age, study finds, challenging longevity claims",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0RoX2oycktldXl5aWJVRXZwVXA1SXZYT3VhWE1BSXROU1lyS0t4ckVETFN5R3JBWnBvRVg5emxOcTlHV2xpM3RHUUJKODNrZUdTR3pqYW1IeE9yNjR6Z01SWDQxRGNGTXBsZ29jN01kZnJNanRiUWU4TDVBdUJxS0EybjI2ZUREWEl4eA?oc=5",
+     "source": "Nutraceutical Business Review (via Google News)"
     },
     {
-     "title": "7 confectionery trends set to dominate 2027",
-     "link": "https://www.foodnavigator.com/Article/2026/11/10/7-confectionery-trends-set-to-dominate-2027/",
-     "source": "FoodNavigator"
+     "title": "What have people noticed that have been taking nad+NR for several years, then stopping it? What did you notice after stopping?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xsggpr/what_have_people_noticed_that_have_been_taking/",
+     "source": "Reddit r/Supplements"
+    }
+   ]
+  },
+  {
+   "id": "b-vitamins",
+   "label": "B vitamins & folate",
+   "group": "Ingredient",
+   "kind": "topic",
+   "score": 58,
+   "direction": "up",
+   "growth": 2.7,
+   "recent": 2,
+   "baseline": 1,
+   "mentions": 3,
+   "sources": 3,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "examples": [
+    {
+     "title": "Vitamin B6 labeling: TGA proposes stricter warning requirements",
+     "link": "https://www.nutraingredients.com/Article/2026/11/09/vitamin-b6-in-australia-tga-consults-on-tightening-warning-statements/",
+     "source": "NutraIngredients"
     },
     {
-     "title": "Recyclable Tamper-Evident Closures: Amcor Introduces Lightweight Flip-Top Closures…",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NRmtNdXpMZFdDMFpqRGsxVndQSWdCYnRoYVRLeFhlZmpZQllsdEUzamE5U0xoTDNBckFSdnFVeURMSjA4bnp0WDB0bGdCY1hmemxxZnpFOUFpZGtXWllDWm9NWmo4RUsyMmg3WmRZbE9KbVBUUXB2cg?oc=5",
-     "source": "Trend Hunter (via Google News)"
+     "title": "Folate, ferritin, vitamin D3, omega-3, magnesium, and chronic fatigue, body aches, and numbness — is there a connection?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xs4hbu/folate_ferritin_vitamin_d3_omega3_magnesium_and/",
+     "source": "Reddit r/Supplements"
     }
    ]
   }
@@ -1432,9 +1422,7 @@
    "source": "FoodNavigator",
    "category": "news",
    "summary": "The UK competition watchdog has raised concerns over Unilever’s proposed acquisition of McCormick, citing risks to competition in dry ingredient mixes and pour-over sauces and opening the door to a Phase 2 probe",
-   "topics": [
-    "m-and-a"
-   ]
+   "topics": []
   },
   {
    "id": "f599283e",
@@ -1464,9 +1452,7 @@
    "source": "Pharmaceutical Technology",
    "category": "pharma",
    "summary": "Oyster Therapeutics has closed a $60m Series A-2 financing round to advance targeted protein degraders for neurodegenerative diseases including Alzheimer’s.",
-   "topics": [
-    "m-and-a"
-   ]
+   "topics": []
   },
   {
    "id": "d0ee8e0e",
@@ -1476,9 +1462,7 @@
    "source": "Food Business Africa",
    "category": "sa",
    "summary": "The 25% stake aligns with HGT's stated ambition to become a leading global terminal operator, targeting approximately 30 terminal investments worldwide by 2030.",
-   "topics": [
-    "m-and-a"
-   ]
+   "topics": []
   },
   {
    "id": "2b2a064e",
@@ -2304,9 +2288,7 @@
    "source": "Nutraceutical Business Review (via Google News)",
    "category": "news",
    "summary": "",
-   "topics": [
-    "clean-label"
-   ]
+   "topics": []
   },
   {
    "id": "4965aca2",
@@ -2348,9 +2330,7 @@
    "source": "STAT",
    "category": "pharma",
    "summary": "Oura, the smart ring maker that recently delayed plans to go public, said it will pay $625 million to acquire Counsel Health, a clinical AI startup.",
-   "topics": [
-    "m-and-a"
-   ]
+   "topics": []
   },
   {
    "id": "007b09b4",
@@ -2437,9 +2417,7 @@
    "source": "FoodNavigator",
    "category": "news",
    "summary": "Nestlé pauses Quality Street paper tub trial, switching back while it refines the packaging. Could the sustainable tub return at scale?",
-   "topics": [
-    "sustainability"
-   ]
+   "topics": []
   },
   {
    "id": "169f09a0",
@@ -2706,9 +2684,7 @@
    "source": "FoodNavigator",
    "category": "news",
    "summary": "Discover the 7 trends set to shape confectionery in 2027, from multisensory textures and brand collaborations to nostalgia, indulgence, functional treats, premiumisation and sustainability. Learn how Mars, Mondelēz, Nestlé, Ferrero,...",
-   "topics": [
-    "sustainability"
-   ]
+   "topics": []
   },
   {
    "id": "74bfddd5",
@@ -2928,9 +2904,7 @@
    "source": "Pharmaceutical Technology",
    "category": "pharma",
    "summary": "Delix Therapeutics has secured $100m in an oversubscribed Series C financing round to fund the development of Zalsupindole, an orally bioavailable neuroplastogen.",
-   "topics": [
-    "m-and-a"
-   ]
+   "topics": []
   },
   {
    "id": "11f56fe8",
@@ -3000,9 +2974,7 @@
    "source": "Pharmaceutical Technology",
    "category": "pharma",
    "summary": "CRL has signed definitive agreements to acquire Frontage’s bioanalysis and DMPK operations in Exton, Pennsylvania for roughly $470m in cash.",
-   "topics": [
-    "m-and-a"
-   ]
+   "topics": []
   },
   {
    "id": "f4d62ce8",
@@ -3805,9 +3777,7 @@
    "source": "Trend Hunter (via Google News)",
    "category": "news",
    "summary": "",
-   "topics": [
-    "sustainability"
-   ]
+   "topics": []
   },
   {
    "id": "d66eb507",
@@ -4030,9 +4000,7 @@
    "source": "FoodNavigator",
    "category": "news",
    "summary": "As congressional Democrats prepare to investigate tariff-driven price hikes across sectors, including food, here’s how CPG companies can prepare.",
-   "topics": [
-    "tariffs"
-   ]
+   "topics": []
   },
   {
    "id": "bc2e9fbc",
@@ -4460,9 +4428,7 @@
    "source": "FoodNavigator",
    "category": "news",
    "summary": "US tariff uncertainty complicates European bakery investment, with freight costs, customer demand and specialist production shaping whether to build or export.",
-   "topics": [
-    "tariffs"
-   ]
+   "topics": []
   },
   {
    "id": "e7c77d92",
@@ -4492,9 +4458,7 @@
    "source": "FoodNavigator",
    "category": "news",
    "summary": "A blue wave in Congress could influence tariffs, energy prices, regulation and trade for food and drink companies worldwide",
-   "topics": [
-    "tariffs"
-   ]
+   "topics": []
   },
   {
    "id": "4f1a0efe",
@@ -4802,7 +4766,7 @@
    "category": "news",
    "ok": true,
    "items": 20,
-   "new": 2
+   "new": 0
   },
   {
    "name": "FoodNavigator",
@@ -4810,7 +4774,7 @@
    "category": "news",
    "ok": true,
    "items": 20,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Nutritional Outlook",
@@ -4850,15 +4814,15 @@
    "category": "news",
    "ok": true,
    "items": 41,
-   "new": 2
+   "new": 0
   },
   {
    "name": "Google News: gut health",
    "url": "https://news.google.com/rss/search?q=gut+health+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 71,
-   "new": 5
+   "items": 72,
+   "new": 0
   },
   {
    "name": "Google News: creatine",
@@ -4866,7 +4830,7 @@
    "category": "news",
    "ok": true,
    "items": 63,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Google News: magnesium",
@@ -4914,7 +4878,7 @@
    "category": "pharma",
    "ok": true,
    "items": 20,
-   "new": 4
+   "new": 0
   },
   {
    "name": "Pharmaceutical Technology",
@@ -4922,7 +4886,7 @@
    "category": "pharma",
    "ok": true,
    "items": 10,
-   "new": 2
+   "new": 0
   },
   {
    "name": "Google News: Fierce Pharma / Fierce Biotech",
@@ -4930,7 +4894,7 @@
    "category": "pharma",
    "ok": true,
    "items": 100,
-   "new": 2
+   "new": 0
   },
   {
    "name": "FDA press releases",
@@ -4962,7 +4926,7 @@
    "category": "sa",
    "ok": true,
    "items": 32,
-   "new": 2
+   "new": 0
   },
   {
    "name": "Health-e News",
@@ -4994,7 +4958,7 @@
    "category": "sa",
    "ok": true,
    "items": 10,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Reddit r/Supplements",
@@ -5002,15 +4966,16 @@
    "category": "social",
    "ok": true,
    "items": 25,
-   "new": 6
+   "new": 0
   },
   {
    "name": "Reddit r/Nootropics",
    "url": "https://www.reddit.com/r/Nootropics/.rss",
    "category": "social",
-   "ok": true,
-   "items": 25,
-   "new": 6
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 429"
   },
   {
    "name": "Reddit r/southafrica (supplements)",
@@ -5019,7 +4984,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 403"
   },
   {
    "name": "YouTube: Andrew Huberman (example channel)",

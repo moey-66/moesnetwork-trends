@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generatedAt": "2026-11-11T10:33:14.582317Z",
+ "generatedAt": "2026-11-11T10:44:38.506920Z",
  "generator": "local_scan.py",
  "recentDays": 3,
  "trends": [
@@ -594,72 +594,6 @@
    ]
   },
   {
-   "id": "m-and-a",
-   "label": "Deals & acquisitions",
-   "group": "Market",
-   "score": 102,
-   "direction": "up",
-   "growth": 4.5,
-   "recent": 6,
-   "baseline": 5,
-   "recentSources": 4,
-   "categories": [
-    "news",
-    "pharma",
-    "sa"
-   ],
-   "articles": [
-    {
-     "title": "Unilever McCormick deal faces phase 2 investigation in the UK",
-     "link": "https://www.foodnavigator.com/Article/2026/11/11/unilever-mccormick-merger-faces-cma-hurdle/",
-     "source": "FoodNavigator",
-     "date": "2026-11-11T10:10:04+00:00",
-     "category": "news",
-     "summary": "The UK competition watchdog has raised concerns over Unilever’s proposed acquisition of McCormick, citing risks to competition in dry ingredient mixes and pour-over sauces and opening the door to a Phase 2 probe"
-    },
-    {
-     "title": "Lilly-backed Oyster Therapeutics raises $60m for neurological degraders",
-     "link": "https://www.pharmaceutical-technology.com/news/oyster-60m-neurological-degraders-pipeline/",
-     "source": "Pharmaceutical Technology",
-     "date": "2026-11-11T09:39:49+00:00",
-     "category": "pharma",
-     "summary": "Oyster Therapeutics has closed a $60m Series A-2 financing round to advance targeted protein degraders for neurodegenerative diseases including Alzheimer’s."
-    },
-    {
-     "title": "Hapag-Lloyd completes acquisition of 25% stake in Rotterdam’s Maasvlakte II",
-     "link": "https://www.foodbusinessmea.com/hapag-lloyd-completes-acquisition-of-25-stake-in-rotterdams-maasvlakte-ii/",
-     "source": "Food Business Africa",
-     "date": "2026-11-11T09:38:20+00:00",
-     "category": "sa",
-     "summary": "The 25% stake aligns with HGT's stated ambition to become a leading global terminal operator, targeting approximately 30 terminal investments worldwide by 2030."
-    },
-    {
-     "title": "STAT+: Oura to acquire Counsel Health for $625 million, placing a big bet on AI care",
-     "link": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/",
-     "source": "STAT",
-     "date": "2026-11-10T17:14:42+00:00",
-     "category": "pharma",
-     "summary": "Oura, the smart ring maker that recently delayed plans to go public, said it will pay $625 million to acquire Counsel Health, a clinical AI startup."
-    },
-    {
-     "title": "Delix Therapeutics raises $100m for zalsupindole development",
-     "link": "https://www.pharmaceutical-technology.com/news/delix-raises-100m-zalsupindole-development/",
-     "source": "Pharmaceutical Technology",
-     "date": "2026-11-10T10:22:34+00:00",
-     "category": "pharma",
-     "summary": "Delix Therapeutics has secured $100m in an oversubscribed Series C financing round to fund the development of Zalsupindole, an orally bioavailable neuroplastogen."
-    },
-    {
-     "title": "Charles River agrees $470m deal for Frontage assets",
-     "link": "https://www.pharmaceutical-technology.com/news/charles-river-470m-deal-frontage-assets/",
-     "source": "Pharmaceutical Technology",
-     "date": "2026-11-10T09:41:03+00:00",
-     "category": "pharma",
-     "summary": "CRL has signed definitive agreements to acquire Frontage’s bioanalysis and DMPK operations in Exton, Pennsylvania for roughly $470m in cash."
-    }
-   ]
-  },
-  {
    "id": "caffeine",
    "label": "Caffeine & energy",
    "group": "Ingredient",
@@ -778,11 +712,11 @@
    "id": "cognitive",
    "label": "Brain & cognition",
    "group": "Health area",
-   "score": 92,
+   "score": 94,
    "direction": "up",
-   "growth": 3.79,
+   "growth": 4.0,
    "recent": 7,
-   "baseline": 10,
+   "baseline": 9,
    "recentSources": 5,
    "categories": [
     "news",
@@ -952,6 +886,72 @@
      "date": "2026-11-09T14:34:44+00:00",
      "category": "social",
      "summary": "I thought creatine is safe? Also you will see a lot of supplement companies removing muscle building from their protein powder products to bypass this law in California. California's new law, Assembly Bill 2030 (AB 2030), signed by..."
+    }
+   ]
+  },
+  {
+   "id": "metabolic",
+   "label": "Blood sugar & metabolic",
+   "group": "Health area",
+   "score": 88,
+   "direction": "up",
+   "growth": 3.5,
+   "recent": 6,
+   "baseline": 9,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "pharma",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "DIABETES | The hidden cost behind effectively managing diabetes",
+     "link": "https://health-e.org.za/2026/11/11/diabetes-the-hidden-cost-behind-effectively-managing-diabetes/",
+     "source": "Health-e News",
+     "date": "2026-11-11T06:37:21+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | The hidden cost behind effectively managing diabetes 53-year-old Patricia Nhlapo has gone more than four months without her diabetes and other chronic medication because she cannot afford the R400 return trip to..."
+    },
+    {
+     "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
+     "link": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/",
+     "source": "STAT",
+     "date": "2026-11-10T18:04:30+00:00",
+     "category": "pharma",
+     "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss."
+    },
+    {
+     "title": "DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond",
+     "link": "https://health-e.org.za/2026/11/10/diabetes-navigating-type-1-diabetes-in-childhood-and-beyond/",
+     "source": "Health-e News",
+     "date": "2026-11-10T11:38:45+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | Navigating Type 1 Diabetes in Childhood and Beyond When Minenhle Mofokeng was 4 years old, her mother became worried about her daughter’s poor health, as she was constantly losing weight and had no appetite. She..."
+    },
+    {
+     "title": "DIABETES | From suspected sefola to amputation: the foot sore that cost a leg",
+     "link": "https://health-e.org.za/2026/11/10/diabetes-from-suspected-sefola-to-amputation-the-foot-sore-that-cost-a-leg/",
+     "source": "Health-e News",
+     "date": "2026-11-10T07:12:52+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | From suspected sefola to amputation: the foot sore that cost a leg When 54-year-old Themba Sepeng developed a second sore on his foot in the space of a year, he followed the advice of his friends and consulted a..."
+    },
+    {
+     "title": "An Endocrinologist Shares If Taking Magnesium Before Bed Can Affect Insulin Sensitivity",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnAxR05CSkV6bnRLaURwNXFpMGhNQ1RfTlkxWDgxR2ZKOTJLN1Q3bzlqdXh1UVltNXA5dWdPUjdxX01VcGhpWXFURHFweDdGYXgzVG5pZ24yd2xCWWNMNnhfcFp1UHF5OVhEMXJWRzhKWV9ZWnRKMmhtSXpEejFBbXJERlh2cHM?oc=5",
+     "source": "Verywell Health (via Google News)",
+     "date": "2026-11-09T18:08:36+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "DIABETES | Gauteng woman fears losing remaining sight while waiting for eye surgery",
+     "link": "https://health-e.org.za/2026/11/09/diabetes-gauteng-woman-fears-losing-remaining-sight-while-waiting-for-eye-surgery/",
+     "source": "Health-e News",
+     "date": "2026-11-09T11:32:16+00:00",
+     "category": "sa",
+     "summary": "Health-e News DIABETES | Gauteng woman fears losing remaining sight while waiting for eye surgery A 60-year-old woman from Meriting informal settlement in Lenasia South fears losing her remaining eyesight after developing eye..."
     }
    ]
   }
