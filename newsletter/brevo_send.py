@@ -128,7 +128,14 @@ def main():
     try:
         _, body = api("POST", "/v3/emailCampaigns", key, payload)
     except urllib.error.HTTPError as e:
-        explain(e, "creating the campaign")
+        msg = e.read().decode("utf-8", "replace")
+        if e.code == 400 and "no contacts" in msg.lower():
+            # Brevo refuses campaigns for an empty list. Not an error: skip this week, the issue is still archived.
+            print("No subscribers on the list yet, so Brevo can't create a campaign. Skipped this week; the issue is saved in newsletter/issues/.")
+            return 0
+        print("Brevo said HTTP %s while creating the campaign: %s" % (e.code, msg[:800]), file=sys.stderr)
+        if e.code == 400: print("Often an unverified sender (BREVO_SENDER_EMAIL) or a wrong BREVO_LIST_ID.", file=sys.stderr)
+        if e.code == 401: print("Check the BREVO_API_KEY secret.", file=sys.stderr)
         return 1
     cid = body.get("id")
     record = {"id": cid, "mode": mode, "listId": list_id, "subject": issue["subject"], "sent": False}
