@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Scan feeds
-        run: python3 local_scan.py --out trends.json
+        run: python3 local_scan.py --retag --out trends.json
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"

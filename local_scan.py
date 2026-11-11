@@ -134,7 +134,7 @@ TOPICS = [
     ["womens-health", "Women's health", "Health area", r"women'?s health|\bmenopaus|\bperimenopaus|\bpcos\b|\bprenatal\b|\bfertility\b|\bfemtech\b"],
     ["mens-health", "Men's health", "Health area", r"men'?s health|\btestosterone\b|\bprostate\b"],
     ["longevity", "Longevity & healthy ageing", "Health area", r"\blongevity\b|healthy ag(?:e)?ing|\banti-?ageing|\banti-?aging|\bhealthspan\b"],
-    ["cognitive", "Brain & cognition", "Health area", r"\bcognit|\bnootropic|\bbrain health\b|\bbrain fog\b|\bmemory (?:loss|support|decline)\b"],
+    ["cognitive", "Brain & cognition", "Health area", r"\bcogniti(?:ve|on)\b|\bnootropic|\bbrain health\b|\bbrain fog\b|\bmemory (?:loss|support|decline)\b"],
     ["stress-mood", "Stress & mood", "Health area", r"\bstress (?:relief|management|support|levels)\b|\banxiety\b|\bmood\b|\bcortisol\b|\badaptogen"],
     ["immunity", "Immunity", "Health area", r"\bimmunity\b|\bimmune (?:health|support|system|function)\b"],
     ["weight", "Weight management", "Health area", r"\bweight (?:loss|management)\b|\bobesity\b|\bsatiety\b|\bappetite\b"],
@@ -270,8 +270,22 @@ def parse_feed(xml, feed):
     return out
 
 
+# Market topics (deals, tariffs, AI...) only count when the story is about supplements or
+# nutrition, so a shipping deal or a biotech funding round is never a "supplement market" trend.
+NUTRITION_CONTEXT = re.compile(r"\bsupplement|\bnutraceutical|\bnutrition|\bvitamin|\bminerals?\b|\bprobiotic|\bprotein (?:powder|bar|shake|drink)|\bwhey\b"
+                               r"|\bwellness\b|\bdietary\b|\bbotanical|\bherbal|\bfunctional (?:food|beverage|ingredient)"
+                               r"|\bgumm(?:y|ies)\b|\bsports nutrition\b|\bconsumer health\b|\bself[- ]care\b|\bnutrient", re.I)
+MARKET_IDS = {t[0] for t in TOPICS if t[2] == "Market"}
+PRODUCT_IDS = {t[0] for t in TOPICS if t[2] in ("Ingredient", "Format")}
+
+
 def topics_for(text):
-    return [tid for tid, rx in TOPIC_RE if rx.search(text)]
+    found = [tid for tid, rx in TOPIC_RE if rx.search(text)]
+    if any(t in MARKET_IDS for t in found):
+        in_scope = NUTRITION_CONTEXT.search(text) or any(t in PRODUCT_IDS for t in found)
+        if not in_scope:
+            found = [t for t in found if t not in MARKET_IDS]
+    return found
 
 
 def grams_for(title):
