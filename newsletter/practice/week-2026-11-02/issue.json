@@ -1,0 +1,258 @@
+{
+ "slug": "week-2026-11-02",
+ "weekStart": "2026-11-02",
+ "weekEnd": "2026-11-06",
+ "weekLabel": "2 Nov – 6 Nov 2026",
+ "builtAt": "2026-11-12T06:56:48.111900Z",
+ "subject": "Top 5 supplement trends (2–6 Nov): Collagen, GLP-1 + 3 more",
+ "preview": "The top trend from each weekday, 2 Nov – 6 Nov 2026, with links to the original articles. Free, every Monday.",
+ "topics": [
+  "Collagen",
+  "GLP-1 (and 'GLP-1 support')",
+  "Gut health",
+  "Probiotics",
+  "Creatine"
+ ],
+ "trends": [
+  {
+   "day": "2026-11-02",
+   "dayLabel": "Monday 2 November",
+   "rankThatDay": 1,
+   "id": "collagen",
+   "label": "Collagen",
+   "group": "Ingredient",
+   "score": 28,
+   "direction": "flat",
+   "growth": 1.44,
+   "angle": "Collagen is shifting from plain powders to blends, drinks and gummies, and source (marine or bovine) is a key choice on pack.",
+   "why": "3 stories from 3 publishers in the three days to Mon 2 Nov: steady coverage that kept it near the top of the day's ranking.",
+   "articles": [
+    {
+     "title": "Can Collagen Drinks Improve Your Skin? What Research Shows",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUkdYelh6dnU4WFJmSVVHRXdDRFVCSkZjUVdIdnkwMnNrSE5RNHJBdGVBZTFiMlcwNUZOSS1VTDh1RFF5MWlLQzk3NHAtclB0TTF3M3pPbmpkMUVSWEZjenZDaGg5SWR0dHRyX3dhQmUydDZnUWE1bGhmZUJ5SUdqa0hFX25EWUJ2NE43a29zenZOWVQ5aEZCYzh5YUVaeE4zZk1zWUJBaTRvS3R1b3BFS3ozdVh0R3gxb0pEZkVaMDRHYzRkVjdETXZoS1ZoUDBFOGdpWE1jaw?oc=5",
+     "publisher": "USA Today",
+     "date": "2026-11-02T20:28:00+00:00",
+     "dateLabel": "2 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "The scientific truth about collagen supplements",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmF0NnlDbkpMS2JiMElNTlZRVmFnZGRPNDlJZXJ6WHdzMTBxemdnMDN4MHFBbnJhOWhEa1RXTDlQVGpsZlBIT3daRGFwOTQ1QXN2Zjhfbnl0ZEcyUjhoUFNFOE1mMDFrVGYyalJWaWVWcmNobVZaQUgydTIzTEh2VndFNDdwb0NrSTBEN01SRC13THFEcURwYQ?oc=5",
+     "publisher": "New Scientist",
+     "date": "2026-11-02T08:00:00+00:00",
+     "dateLabel": "2 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-03",
+   "dayLabel": "Tuesday 3 November",
+   "rankThatDay": 1,
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 47,
+   "direction": "up",
+   "growth": 1.67,
+   "angle": "Weight-loss drug news keeps spilling into supplements; 'GLP-1 support' wording draws regulator attention, so stick to claims you can back and are allowed to make.",
+   "why": "4 stories from 4 publishers in the three days to Tue 3 Nov: about 1.7× its usual pace.",
+   "articles": [
+    {
+     "title": "SupplySide Global Panelists Outline Product Opportunities Tied to GLP-1 Medication Use",
+     "link": "https://www.nutritionaloutlook.com/view/supplyside-global-panelists-outline-product-opportunities-glp-1-medication-use",
+     "publisher": "Nutritional Outlook",
+     "date": "2026-11-03T11:00:00+00:00",
+     "dateLabel": "3 Nov 2026",
+     "excerpt": "At SupplySide Global 2026, 5 speakers from ingredient suppliers discussed protein, fiber, botanicals, and peptides for consumers using or leaving…",
+     "social": false
+    },
+    {
+     "title": "GLP-1 weight-loss gummies, patches and drops – miracle alternatives or snake oil?",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmhTc2U4NWxfNnd4U1Y0MWszT1JFMjQwQzNYMjBPalVXZjh6TTdGbjZEeGozSE4xTHl6UnpmZGNSaFpwYXVkVHpfN0g2ZmU3RXMtUGt4Z19GRVRKQXRKSktUUENWVmNtQkV3MFRjaVJUeTRubDZEU3BVMXJ4QnNOcTZESHhDSWdxdlBQa1g1ZGc2VmNQX3RZZXl5TlZFbGFPT2MwLXRXTUhuaXNISUZpM0VrRlU?oc=5",
+     "publisher": "Johannesburg Sunday World",
+     "date": "2026-11-03T16:09:31+00:00",
+     "dateLabel": "3 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Sure, they're popular, but are GLP-1 supplements effective?",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXNhTlVIempfUWI2WHJFTUhRSDdTRnMtUmxRNkRZNVlaOTRyVTZTamo2SFM0dk43SUwtRTlZUHpLekt3SHFtUnVYelZQb0cwcDI0bWtHZmcyb3ZDUFVrX0VKY0U3eXN6NjFGbVRKM2dJOTlUdi1ZOTM5YmNLbEhVc2d0bWlhYkhSZ2M1bVdfUnR2NmdMOWZ1REdrengtOHY4R3JLUGtScWk2dVk4QVYwMmpiMEVXcXRoLTRv?oc=5",
+     "publisher": "Yahoo Health",
+     "date": "2026-11-03T16:46:04+00:00",
+     "dateLabel": "3 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-04",
+   "dayLabel": "Wednesday 4 November",
+   "rankThatDay": 3,
+   "id": "gut-health",
+   "label": "Gut health",
+   "group": "Health area",
+   "score": 71,
+   "direction": "up",
+   "growth": 2.74,
+   "angle": "Gut health is a broad umbrella; brands are narrowing in on a specific occasion or user to stand out.",
+   "why": "6 stories from 6 publishers in the three days to Wed 4 Nov: about 2.7× its usual pace.",
+   "articles": [
+    {
+     "title": "Probiotic Cultures Market Forecast to 2035: Demand Accelerates on Gut Health Science and Preventive Nutrition",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDJoeDlIS3NOa2VxV3BaZnRaMnFqTFdoRXJ5MGRzTG1pMTZQM0xrbmQ0RmJOXzN3cmZsWGpNSFNCYUhHWUlfWFFJVHFrbTlqM19FMS1YZ0RtaTRCVEJiRGVldzQ0U2RLc3g3LU5vNG5fRFlWUWFjdVUyS3hjQWFSTmZmWUFLRjNsZ0xvSE9kZUlxWmRVR1BteDZ5amRRQ1dWdktjaV9aSlVPRFV2dk11aUF5TzEzQjAzaDNGLXh5N3hXSG1ncUpnMkZwZXVKYllibEhKcw?oc=5",
+     "publisher": "IndexBox",
+     "date": "2026-11-04T21:26:04+00:00",
+     "dateLabel": "4 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Creatine For Gut Health? What A New Study Reveals For Inflammatory Conditions",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnNfUjRtRXp3TzBZMHIwSVVfVkhkblZ3NFdwT0tod25vRm41N3l6VFNfMDF6MUVOTFREMnViUllqVm9SM1dEWUtRanlVZkxkU2d5bTRlUHhBUGpyU01odTRKOUsxSzVJdjhLcmJialI4SU10U1FLSWtRSFZkQ2Zkb1NYU0V4YmxlZTFXRGdHRGVnbmJZZGRZc0o0X2FXY2tqMGhBdE5WWVlnZUtpc04tVEx6YV9ZQQ?oc=5",
+     "publisher": "MindBodyGreen",
+     "date": "2026-11-02T08:00:00+00:00",
+     "dateLabel": "2 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-05",
+   "dayLabel": "Thursday 5 November",
+   "rankThatDay": 3,
+   "id": "probiotics",
+   "label": "Probiotics",
+   "group": "Ingredient",
+   "score": 82,
+   "direction": "up",
+   "growth": 2.73,
+   "angle": "Probiotic launches keep coming, so a new one needs a clear strain story, a stated count at end of shelf life and packaging that protects it.",
+   "why": "9 stories from 8 publishers in the three days to Thu 5 Nov: about 2.7× its usual pace.",
+   "articles": [
+    {
+     "title": "Novonesis confirms 7–8% growth outlook as HMOs cushion probiotic slowdown",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3BuMHQtel9wd3FnUUw2TmRIdWtIeUFTQTRjNEVuMUNjelpoaENzT3VWZnRPN0NfaE5sTGJpX3g3RTlxc2hKU25VWVNySmhoVzVYUGF6bmU2elFVd3dEakE5YXFzdGdTR2hLZ0lHM2hsNUtMc0lnVlkzTm5mQmlZc0xzaUc4cXM3YVpXLXZ1TG9PWVNkelNMak13cTlodTNKTVdF?oc=5",
+     "publisher": "Nutrition Insight",
+     "date": "2026-11-05T12:46:22+00:00",
+     "dateLabel": "5 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Could marketing butyric acid as a postbiotic take it mainstream?",
+     "link": "https://www.vitafoodsinsights.com/probiotics-prebiotics-postbiotics/could-marketing-butyric-acid-as-a-postbiotic-take-it-mainstream-",
+     "publisher": "Vitafoods Insights",
+     "date": "2026-11-04T05:00:00+00:00",
+     "dateLabel": "4 Nov 2026",
+     "excerpt": "Mintel thinks so – but one ISAPP scientist argues that such a move would be “confusing and misleading”.",
+     "social": false
+    },
+    {
+     "title": "Probiotic Ingredients Market To 2035: Growth Driven by Gut-Health Awareness and Clinical-Strain Innovation - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ2ZJZnZuQkxiX0I2LWx6ai1mczZPQ1U1SENTQk81b0czOWJCVGtpTTdEWEF2eEYxU1pVcVA3cGp0aS1IaHBHN0hvZDhiLUJoYURfVk5SczhjMi1uQk0xQUFwY0w5S1lDTUtrTFhUOUZ6dXlRRXVQcHQ5YnZGcEoyOURHeFh6U192ODBfVWNWVnFqNUxKSWRoRUtJT0lsRXNOV2oyUjU3YmRPV3BDa3NNN2N3NThwWEFUWjRPejBzczJrSXZLMk9wMUV6OThHMUY0U1R3TVFNdzVZNWg0d21zZk9Lbw?oc=5",
+     "publisher": "IndexBox",
+     "date": "2026-11-05T04:31:06+00:00",
+     "dateLabel": "5 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-06",
+   "dayLabel": "Friday 6 November",
+   "rankThatDay": 2,
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "score": 103,
+   "direction": "up",
+   "growth": 3.35,
+   "angle": "Creatine has moved beyond the gym crowd; formats like gummies and flavoured sachets, plus independent purity testing, are where brands are competing.",
+   "why": "15 stories from 14 publishers in the three days to Fri 6 Nov: about 3.4× its usual pace.",
+   "articles": [
+    {
+     "title": "Can Creatine Supplements Make Your Brain Stronger?",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR096RWRyaHRHaGJYd293bDNCSm4yZ1ZuMl9SOVBpOEhoSnhhOEpnWFJULTBIR0V2ZmhQdVBaM2RMa1hVajhFdjVsUkNzMlVYNXF1RGxzQmJUdnl4akpSYkw1LTFMd0NSNFBqNEFzMjJ1Q3JqZGJHRmZxOXEyQjhNelI5WXlfbExlMmhTRDFB?oc=5",
+     "publisher": "The New York Times",
+     "date": "2026-11-05T10:00:49+00:00",
+     "dateLabel": "5 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Supplement Shorts: Not all berberine supplements meet label claims, new study finds",
+     "link": "https://www.supplysidesj.com/labs-testing/supplement-shorts-not-all-berberine-supplements-meet-label-claims-new-study-finds",
+     "publisher": "SupplySide Supplement Journal",
+     "date": "2026-11-06T14:28:19+00:00",
+     "dateLabel": "6 Nov 2026",
+     "excerpt": "This week in Supplement Shorts: Testing by Cata-Kor revealed not all berberine supplements match fact panels, functional mushrooms featured…",
+     "social": false
+    },
+    {
+     "title": "Is Creatine Just for Bodybuilders? Separating Fact From Fiction",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWnZMMDA1VTE0d1BFaHZmNXhKMlR4QXdDelhleVJ3S1ZPVzZvTXRMWjdmZnNNWENEeTBSa3l3bXNDSXVMUlZRS182VlY3VG9YcHNTRDdqWUx1dklqZ1BFbUtGem5nNHA4M3VFRjBR?oc=5",
+     "publisher": "Woman's World",
+     "date": "2026-11-06T17:39:09+00:00",
+     "dateLabel": "6 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  }
+ ],
+ "days": [
+  {
+   "day": "2026-11-02",
+   "source": "replay of items.json at end of 2026-11-02",
+   "kind": "replay",
+   "pick": "collagen",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-03",
+   "source": "replay of items.json at end of 2026-11-03",
+   "kind": "replay",
+   "pick": "glp1",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-04",
+   "source": "replay of items.json at end of 2026-11-04",
+   "kind": "replay",
+   "pick": "gut-health",
+   "rank": 3
+  },
+  {
+   "day": "2026-11-05",
+   "source": "replay of items.json at end of 2026-11-05",
+   "kind": "replay",
+   "pick": "probiotics",
+   "rank": 3
+  },
+  {
+   "day": "2026-11-06",
+   "source": "replay of items.json at end of 2026-11-06",
+   "kind": "replay",
+   "pick": "creatine",
+   "rank": 2
+  }
+ ],
+ "excludedTopics": [
+  "recalls"
+ ],
+ "disclaimer": "News signals, not health advice.",
+ "trendsUrl": "https://moesnetwork.pages.dev/trends",
+ "archiveUrl": "https://moesnetwork.pages.dev/newsletter/week-2026-11-02.html"
+}
