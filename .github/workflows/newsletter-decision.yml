@@ -1,0 +1,56 @@
+# The owner comments "approve" or "cancel" on a newsletter approval issue -> schedule/send or cancel.
+# Comments from anyone else, or any other text, are ignored.
+name: Newsletter decision
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: newsletter-review
+  cancel-in-progress: false
+
+jobs:
+  decide:
+    if: >-
+      github.event.issue.state == 'open' &&
+      contains(github.event.issue.labels.*.name, 'newsletter-approval') &&
+      github.event.comment.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Read the word
+        id: word
+        env:
+          BODY: ${{ github.event.comment.body }}
+        run: |
+          W=$(printf '%s' "$BODY" | tr -d '[:space:][:punct:]' | tr '[:upper:]' '[:lower:]')
+          case "$W" in approve|approved|yes|go) echo "word=approve" >> "$GITHUB_OUTPUT";; cancel|no|stop) echo "word=cancel" >> "$GITHUB_OUTPUT";; esac
+      - uses: actions/checkout@v4
+        if: steps.word.outputs.word != ''
+      - uses: actions/setup-python@v5
+        if: steps.word.outputs.word != ''
+        with:
+          python-version: "3.12"
+      - name: Apply
+        if: steps.word.outputs.word != ''
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_SENDER_EMAIL: ${{ vars.BREVO_SENDER_EMAIL }}
+          BREVO_SENDER_NAME: ${{ vars.BREVO_SENDER_NAME }}
+          NEWSLETTER_REVIEWER_EMAIL: ${{ vars.NEWSLETTER_REVIEWER_EMAIL }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 newsletter/review.py decide "${{ steps.word.outputs.word }}" "${{ github.event.issue.number }}"
+      - name: Commit
+        if: always() && steps.word.outputs.word != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add newsletter
+          git diff --staged --quiet || git commit -m "Newsletter decision: ${{ steps.word.outputs.word }}"
+          git pull --rebase --quiet || true
+          git push

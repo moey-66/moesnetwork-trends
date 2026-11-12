@@ -167,8 +167,9 @@ def week_range(any_day):
 
 
 def previous_week(today):
+    """The most recent finished Mon-Fri week: on Sat/Sun that is this week, otherwise last week."""
     this_mon = today - timedelta(days=today.weekday())
-    return week_range(this_mon - timedelta(days=7))
+    return week_range(this_mon if today.weekday() >= 5 else this_mon - timedelta(days=7))
 
 
 # ---- loading snapshots -------------------------------------------------------------------

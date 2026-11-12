@@ -1,34 +1,42 @@
-# Weekly newsletter: every Monday morning, build last week's top-5 trend brief and create it in Brevo.
-# Default is a DRAFT campaign in Brevo, which you check and send yourself.
-# To send automatically, add a repository variable NEWSLETTER_SEND_MODE = send (see newsletter/README.md).
+# Weekly newsletter, with an approval step.
+# Sunday 18:00 SAST: build the week's top-5 brief, create it in Brevo as a DRAFT, open an approval issue
+# and email the preview. Nothing reaches subscribers until the owner comments "approve" on that issue
+# (see newsletter-decision.yml). Hourly reminders: newsletter-reminders.yml. Details: newsletter/review.py.
 name: Weekly newsletter
 
 on:
   schedule:
-    - cron: "7 5 * * 1"     # Mondays 05:07 UTC = 07:07 SAST (GitHub can start scheduled jobs a bit late)
-  workflow_dispatch:         # "Run workflow" button for a manual run
+    - cron: "0 16 * * 0"     # Sundays 16:00 UTC = 18:00 SAST (GitHub can start scheduled jobs a bit late)
+  workflow_dispatch:
     inputs:
       week_of:
-        description: "Any date in the Mon-Fri week to cover (YYYY-MM-DD). Leave empty for last week."
+        description: "Any date in the Mon-Fri week to cover (YYYY-MM-DD). Empty = the week just finished."
         required: false
         default: ""
-      send_mode:
-        description: "draft = create a draft in Brevo; send = create and send now; default = use the NEWSLETTER_SEND_MODE variable"
-        type: choice
-        options: [default, draft, send]
-        default: default
+      practice:
+        description: "Practice run: emails + approval issue only, never touches subscribers or the website"
+        type: boolean
+        default: false
 
 permissions:
-  contents: write            # to commit the archive pages and the "already created" marker
+  contents: write
+  issues: write
 
 concurrency:
-  group: weekly-newsletter
+  group: newsletter-review
   cancel-in-progress: false
 
 jobs:
   newsletter:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+      BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID }}
+      BREVO_SENDER_EMAIL: ${{ vars.BREVO_SENDER_EMAIL }}
+      BREVO_SENDER_NAME: ${{ vars.BREVO_SENDER_NAME }}
+      NEWSLETTER_REVIEWER_EMAIL: ${{ vars.NEWSLETTER_REVIEWER_EMAIL }}
+      GITHUB_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,47 +46,37 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build the issue
+      - name: Build the issue (archive pages are held back until approval)
         id: build
         env:
           WEEK_OF: ${{ inputs.week_of }}
-          # Topic ids left out of the weekly 5. Unset = "recalls". Set the variable to "none" to allow all.
+          PRACTICE: ${{ inputs.practice && 'yes' || '' }}
           NEWSLETTER_EXCLUDE_TOPICS: ${{ vars.NEWSLETTER_EXCLUDE_TOPICS == 'none' && ' ' || vars.NEWSLETTER_EXCLUDE_TOPICS || 'recalls' }}
         run: |
-          if [ -n "$WEEK_OF" ]; then
-            if ! echo "$WEEK_OF" | grep -Eq '^[0-9]{4}-[0-9]{2}-[0-9]{2}$'; then echo "week_of must look like 2026-11-02"; exit 1; fi
-            python3 newsletter/weekly_digest.py --week-of "$WEEK_OF"
-          else
-            python3 newsletter/weekly_digest.py
-          fi
+          if [ -n "$WEEK_OF" ] && ! echo "$WEEK_OF" | grep -Eq '^[0-9]{4}-[0-9]{2}-[0-9]{2}$'; then echo "week_of must look like 2026-11-02"; exit 1; fi
+          OUT=newsletter/issues; [ -n "$PRACTICE" ] && OUT=newsletter/practice
+          PENDING="$RUNNER_TEMP/archive"; mkdir -p "$PENDING"; cp -R newsletter/archive/. "$PENDING"/ 2>/dev/null || true
+          ARGS="--out $OUT --archive $PENDING"; [ -n "$WEEK_OF" ] && ARGS="$ARGS --week-of $WEEK_OF"
+          python3 newsletter/weekly_digest.py $ARGS
+          DIR=$(grep '^issue_dir=' "$GITHUB_OUTPUT" | tail -1 | cut -d= -f2-)
+          mkdir -p "$DIR/archive" && cp -R "$PENDING"/. "$DIR/archive"/
+          echo "practice=$PRACTICE" >> "$GITHUB_OUTPUT"
 
-      - name: Create the campaign in Brevo
+      - name: Create the DRAFT in Brevo (real runs only)
+        if: steps.build.outputs.practice != 'yes'
         env:
-          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
-          BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID }}
-          BREVO_SENDER_EMAIL: ${{ vars.BREVO_SENDER_EMAIL }}
-          BREVO_SENDER_NAME: ${{ vars.BREVO_SENDER_NAME }}
-          NEWSLETTER_SEND_MODE: ${{ (inputs.send_mode == 'draft' || inputs.send_mode == 'send') && inputs.send_mode || vars.NEWSLETTER_SEND_MODE || 'draft' }}
-          ISSUE_DIR: ${{ steps.build.outputs.issue_dir }}
-        run: |
-          echo "Send mode: $NEWSLETTER_SEND_MODE"
-          python3 newsletter/brevo_send.py "$ISSUE_DIR"
+          NEWSLETTER_SEND_MODE: draft
+        run: python3 newsletter/brevo_send.py "${{ steps.build.outputs.issue_dir }}"
 
-      - name: Keep a copy of the issue (Actions > this run > Artifacts)
-        if: always() && steps.build.outputs.slug != ''
-        uses: actions/upload-artifact@v4
-        with:
-          name: newsletter-${{ steps.build.outputs.slug }}
-          path: |
-            ${{ steps.build.outputs.issue_dir }}
-            newsletter/archive/${{ steps.build.outputs.slug }}.html
+      - name: Open the approval issue and email the preview
+        run: python3 newsletter/review.py start "${{ steps.build.outputs.issue_dir }}" ${{ steps.build.outputs.practice == 'yes' && '--practice' || '' }}
 
-      - name: Commit the archive
+      - name: Commit
         if: always() && steps.build.outputs.slug != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          git add newsletter/archive newsletter/issues
-          git diff --staged --quiet || git commit -m "Weekly newsletter ${{ steps.build.outputs.slug }}"
+          git add newsletter/issues newsletter/practice 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Newsletter ${{ steps.build.outputs.slug }}: waiting for approval"
           git pull --rebase --quiet || true
           git push
