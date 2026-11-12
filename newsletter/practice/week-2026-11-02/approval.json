@@ -5,11 +5,10 @@
  "weekLabel": "2 Nov \u2013 6 Nov 2026",
  "campaignId": null,
  "practice": true,
- "status": "approved",
- "createdAt": "2026-11-12T06:56:48.228790+00:00",
+ "status": "pending",
+ "createdAt": "2026-11-12T07:18:54.829198+00:00",
  "reminders": 0,
- "lastEmailAt": "2026-11-12T06:56:49.512370+00:00",
- "issueNumber": 1,
- "issueUrl": "https://github.com/moey-66/moesnetwork-trends/issues/1",
- "decidedAt": "2026-11-12T07:00:58.029738+00:00"
+ "lastEmailAt": "2026-11-12T07:18:56.001860+00:00",
+ "issueNumber": 2,
+ "issueUrl": "https://github.com/moey-66/moesnetwork-trends/issues/2"
 }
