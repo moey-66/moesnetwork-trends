@@ -1,11 +1,15 @@
-# FREE alternative to the Cloudflare Worker: GitHub runs local_scan.py once a day and commits trends.json.
+# FREE alternative to the Cloudflare Worker: GitHub runs local_scan.py every hour and commits trends.json.
 # Use only in a PUBLIC repository (standard runners are free there, and the page can read the raw file).
-name: Daily trend scan
+name: Hourly trend scan
 
 on:
   schedule:
-    - cron: "17 4 * * *"   # 04:17 UTC = 06:17 SAST (off the top of the hour, when GitHub is busiest)
+    - cron: "17 * * * *"   # every hour at :17 (off the top of the hour, when GitHub is busiest). The trends page shows "Last updated".
   workflow_dispatch:        # adds a "Run workflow" button for manual runs
+
+concurrency:               # never run two scans at once (a slow run is skipped, not doubled)
+  group: trend-scan
+  cancel-in-progress: false
 
 permissions:
   contents: write           # needed to commit trends.json and history/ back to the repo
@@ -27,6 +31,6 @@ jobs:
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           git add trends.json .local_state/items.json
           if [ -d history ]; then git add history/; fi
-          git diff --staged --quiet || git commit -m "Daily trend scan $(date -u +%F)"
+          git diff --staged --quiet || git commit -m "Trend scan $(date -u +"%F %H:%M") UTC"
           git pull --rebase --quiet || true   # in case the weekly newsletter job pushed first
           git push

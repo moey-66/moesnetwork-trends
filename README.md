@@ -74,7 +74,7 @@ The brief asked for a Cloudflare Worker, and it's built and tested (Option B). T
 1. On github.com, select **+** (top right) → **New repository**. Name it `moesnetwork-trends`, set it to **Public**, and select **Create repository**.
 2. Upload everything in this `TrendScanner` folder, including the hidden `.github` folder. In Finder, press Cmd+Shift+. to see it.
 3. In the repository, open **Settings** → **Actions** → **General** → **Workflow permissions**, select **Read and write permissions**, then **Save**.
-4. Open the **Actions** tab, select **Daily trend scan** → **Run workflow**. After about 3 minutes, `trends.json` appears in the repo.
+4. Open the **Actions** tab, select **Hourly trend scan** → **Run workflow**. After about 3 minutes, `trends.json` appears in the repo.
 5. Your data URL is `https://raw.githubusercontent.com/<your-github-username>/moesnetwork-trends/main/trends.json`. Use it as `trendsUrl` in step 2 of "Add the Trends tab to the website" below.
 
 ### Option B: Cloudflare Worker
