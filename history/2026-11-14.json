@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generatedAt": "2026-11-14T17:03:52.063184Z",
+ "generatedAt": "2026-11-14T21:28:02.976881Z",
  "generator": "local_scan.py",
  "recentDays": 3,
  "trends": [
@@ -8,11 +8,11 @@
    "id": "stress-mood",
    "label": "Stress & mood",
    "group": "Health area",
-   "score": 137,
+   "score": 129,
    "direction": "up",
-   "growth": 7.36,
-   "recent": 17,
-   "baseline": 13,
+   "growth": 6.37,
+   "recent": 16,
+   "baseline": 15,
    "recentSources": 4,
    "categories": [
     "news",
@@ -34,6 +34,14 @@
      "date": "2026-11-12T04:30:48+00:00",
      "category": "news",
      "summary": ""
+    },
+    {
+     "title": "Magnesium Glycinate help & hurt?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwa4vb/magnesium_glycinate_help_hurt/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T18:52:12+00:00",
+     "category": "social",
+     "summary": "About a month ago I added 100mg of Magnesium Glycinate to the 2 g of glycine I was taking at night for sleep. It has been a game changer for sleep. However, I’ve started waking up in the morning with severe anxiety. (I already have an..."
     },
     {
      "title": "I bought CBD for sleep, anxiety and mood stabalizing for bipolar",
@@ -58,14 +66,6 @@
      "date": "2026-11-13T03:03:26+00:00",
      "category": "social",
      "summary": "Plant. Anything. I don’t really care. Latuda, Wellbutrin and Lexapro I’m on and they don’t do shit. I deal with anhedonia and non fatigue nor anxiety depression"
-    },
-    {
-     "title": "what are your experiences with off label meds for adhd?",
-     "link": "https://www.reddit.com/r/Nootropics/comments/1xuov78/what_are_your_experiences_with_off_label_meds_for/",
-     "source": "Reddit r/Nootropics",
-     "date": "2026-11-12T21:12:00+00:00",
-     "category": "social",
-     "summary": "i suffer from adhd I'm thinking about trying new meds ,tried many meds but they didn't work modafinil increases anxiety so much Wellbutrin good for mood not for adhd alcohol gives me a boost 10 mins not more than this then adhd symptoms..."
     }
    ]
   },
@@ -135,15 +135,80 @@
    ]
   },
   {
+   "id": "sleep",
+   "label": "Sleep",
+   "group": "Health area",
+   "score": 99,
+   "direction": "up",
+   "growth": 3.41,
+   "recent": 13,
+   "baseline": 28,
+   "recentSources": 5,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Do Magnesium Sleep Drinks Really Work? What the Science Says",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKTjllUlBHcGt3TE4tYUJxSmpwQ0RSNURLSWhkVGVmdGZ2Z2FDbnpkNzdFa3Q1ZEdtVDBUQU0zM3AwWEJuNVJwYzNTVjZhNUc3WUNyNnJGTklzWEpQdXhOOTZnaVpPUGpGZVE?oc=5",
+     "source": "Health.com (via Google News)",
+     "date": "2026-11-13T08:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Goli Stiks launch in Sleep, Gut, and Beauty jellies",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SNXJ1NUI0UVNWR09MSExZMHdsS3RnU3lYOXF4VHE5amRXTTY0dTFMa0xtY1hQQlRIMXkwaVg1ZkxndDZIVE9XRg?oc=5",
+     "source": "Stack3d (via Google News)",
+     "date": "2026-11-12T17:41:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "This Specific Probiotic Improves Mood & Sleep In Older Adults, New Study Finds",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWFyMUpiVG9pVVBzV3d3TURYYXQzZnhPam55Wl9sR214V3V1WXVGSTllQk5oelZ4Q1dnTThtUmU3Ukk5anFFNktIcm93OTRReE92Z2pOMkdvd2Fydi1ESGlkMW04My0wTnRiR0VCNVg1dFJRazBsaTdoUFpZSjZROVFCdkljS2UtYWNpVUNtV0p1clBLMjBzZEJVVkpJZkJuUUxsb0JLU1B1czRzM0doNHRlUzRTUFk?oc=5",
+     "source": "MindBodyGreen (via Google News)",
+     "date": "2026-11-12T04:30:48+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Magnesium Glycinate help & hurt?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwa4vb/magnesium_glycinate_help_hurt/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T18:52:12+00:00",
+     "category": "social",
+     "summary": "About a month ago I added 100mg of Magnesium Glycinate to the 2 g of glycine I was taking at night for sleep. It has been a game changer for sleep. However, I’ve started waking up in the morning with severe anxiety. (I already have an..."
+    },
+    {
+     "title": "Magnesium is overrated",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw4b7v/magnesium_is_overrated/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T14:54:29+00:00",
+     "category": "social",
+     "summary": "Anybody else think magnesium is overrated. I can never tolerate it, magnesium glycinate gives insomnia, citrate blows my guts up and other forms just crash my blood sugar and make me spaced out. I think the whole most of the population..."
+    },
+    {
+     "title": "Magnesium Glycinate and Theanine—the worst ways I’ve ever spent my money.",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw1xcj/magnesium_glycinate_and_theaninethe_worst_ways/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T13:03:53+00:00",
+     "category": "social",
+     "summary": "It’s 8 a.m., and I didn’t sleep at all last night. I’ve always been a light sleeper and sometimes struggle to fall asleep, so I’ve made a habit of using supplements to help. Lately, I’ve been dealing with some annoying insomnia, and I’d..."
+    }
+   ]
+  },
+  {
    "id": "creatine",
    "label": "Creatine",
    "group": "Ingredient",
-   "score": 99,
+   "score": 95,
    "direction": "up",
-   "growth": 2.12,
-   "recent": 19,
-   "baseline": 76,
-   "recentSources": 14,
+   "growth": 1.99,
+   "recent": 18,
+   "baseline": 77,
+   "recentSources": 13,
    "categories": [
     "news",
     "social"
@@ -261,71 +326,6 @@
      "date": "2026-11-12T00:21:04+00:00",
      "category": "news",
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "sleep",
-   "label": "Sleep",
-   "group": "Health area",
-   "score": 85,
-   "direction": "up",
-   "growth": 2.92,
-   "recent": 11,
-   "baseline": 28,
-   "recentSources": 4,
-   "categories": [
-    "news",
-    "social"
-   ],
-   "articles": [
-    {
-     "title": "Goli Stiks launch in Sleep, Gut, and Beauty jellies",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SNXJ1NUI0UVNWR09MSExZMHdsS3RnU3lYOXF4VHE5amRXTTY0dTFMa0xtY1hQQlRIMXkwaVg1ZkxndDZIVE9XRg?oc=5",
-     "source": "Stack3d (via Google News)",
-     "date": "2026-11-12T17:41:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "This Specific Probiotic Improves Mood & Sleep In Older Adults, New Study Finds",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWFyMUpiVG9pVVBzV3d3TURYYXQzZnhPam55Wl9sR214V3V1WXVGSTllQk5oelZ4Q1dnTThtUmU3Ukk5anFFNktIcm93OTRReE92Z2pOMkdvd2Fydi1ESGlkMW04My0wTnRiR0VCNVg1dFJRazBsaTdoUFpZSjZROVFCdkljS2UtYWNpVUNtV0p1clBLMjBzZEJVVkpJZkJuUUxsb0JLU1B1czRzM0doNHRlUzRTUFk?oc=5",
-     "source": "MindBodyGreen (via Google News)",
-     "date": "2026-11-12T04:30:48+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Magnesium is overrated",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw4b7v/magnesium_is_overrated/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T14:54:29+00:00",
-     "category": "social",
-     "summary": "Anybody else think magnesium is overrated. I can never tolerate it, magnesium glycinate gives insomnia, citrate blows my guts up and other forms just crash my blood sugar and make me spaced out. I think the whole most of the population..."
-    },
-    {
-     "title": "Magnesium Glycinate and Theanine—the worst ways I’ve ever spent my money.",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw1xcj/magnesium_glycinate_and_theaninethe_worst_ways/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T13:03:53+00:00",
-     "category": "social",
-     "summary": "It’s 8 a.m., and I didn’t sleep at all last night. I’ve always been a light sleeper and sometimes struggle to fall asleep, so I’ve made a habit of using supplements to help. Lately, I’ve been dealing with some annoying insomnia, and I’d..."
-    },
-    {
-     "title": "I bought CBD for sleep, anxiety and mood stabalizing for bipolar",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xvu68y/i_bought_cbd_for_sleep_anxiety_and_mood/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T05:21:25+00:00",
-     "category": "social",
-     "summary": "Hi, As the title says, Im taking 20mg in the evening for help with my mood and anxiety. Its making me progressively drowsy over the days, and the new sugar coated one I tried has me munching on it like candy lol. What dosing do you guys..."
-    },
-    {
-     "title": "Looking for sleep ideas for my mom (early 60s), she says her body won't \"shut off\"",
-     "link": "https://www.reddit.com/r/Nootropics/comments/1xvirf0/looking_for_sleep_ideas_for_my_mom_early_60s_she/",
-     "source": "Reddit r/Nootropics",
-     "date": "2026-11-13T20:27:59+00:00",
-     "category": "social",
-     "summary": "I'm trying to help my mom, who's in her early 60s, post-menopausal, and has a hard time falling asleep. She describes it as her body just not shutting down. She doesn't drink caffeine and exercises regularly. Most nights, I give her 5..."
     }
    ]
   },
@@ -495,67 +495,67 @@
    ]
   },
   {
-   "id": "magnesium",
-   "label": "Magnesium",
+   "id": "probiotics",
+   "label": "Probiotics",
    "group": "Ingredient",
-   "score": 78,
+   "score": 79,
    "direction": "up",
-   "growth": 2.34,
-   "recent": 12,
-   "baseline": 41,
-   "recentSources": 4,
+   "growth": 2.04,
+   "recent": 11,
+   "baseline": 44,
+   "recentSources": 7,
    "categories": [
     "news",
     "social"
    ],
    "articles": [
     {
-     "title": "Positive and Negative Aspects of Magnesium Supplementation",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckdQaGR3UDhnZDNpU3QtU1hIVWdOdmY3T2JZYUh2aFRmUDNsY2VlVk1xS0pWRUpYc29NVnJyMWJTdEpiN01lSW1YS3FvN0NuMU94TTF1MXNNckxyMjk0TUNQbWQ2ZDRzMDdlWXBZN1gxbjhidFllNGNPWHVuUnVoVVFzZHoyRjNYQkpmZmxGNmJkcjFhZTB0QWRZZlpiWV9z?oc=5",
-     "source": "TrialSite News (via Google News)",
-     "date": "2026-11-11T20:02:46+00:00",
+     "title": "O Positiv just gave its viral vaginal probiotic gummy a tropical twist",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkJJVjdQRXpUdlFnaGl1djZpZVRYS3VFbk5nb0pNY2o4d2VhYzZOb1FWWGZQT2VsMjg3SV91bUlyMXpxcHNGeVpBUFVEekNaV2hheTROb2dDdmtETHc3MHNGQUtTS2djeW94ZUJ5bEpJaWttN0I4RnBub19zbWVoYVhncURnZkttX2tOSGpqXzNTbzR6MzdYUFpPbWhJZw?oc=5",
+     "source": "Yahoo (via Google News)",
+     "date": "2026-11-14T18:58:18+00:00",
      "category": "news",
      "summary": ""
     },
     {
-     "title": "MD Logic Health x Blu Vitals Launch First Collaboration Product, Mag 9+, a Breakthrough Nine-Form Magnesium Complex",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSWhseFR6ZUtQQ1hUNlIxb1BOd0UxcmxMTVN4X0JXVG9OenRCUGVMM2FLMnlfQWdvZzVuM0R3ZE1qWm1VTzlTbldhTlIxdUlJWEQtZUo5RjVqdGNJQ04tUk92UW5PTkdCTmZhMUlkT2VjVTFPaGc3aUQyZm1uTnlOc3Nyc3BhejlRUmRvc1RlOWc4cHZFSUJ2WXduclZKRWRTMFFIRzh5OUNPZHdlRHowY0Y5T2VSZER4cVFYS2MzdUNoSWMzN1V4N0ZxSF9iclNkTWplVkpKbEd4VHRCWUZHVG1lRXhJQmM2Y0haaWZWVVlVWGV1emtUU3NZOHlGYS1r?oc=5",
-     "source": "markets.businessinsider.com (via Google News)",
-     "date": "2026-11-11T19:01:53+00:00",
+     "title": "Probiotic-iron combo boosts ferritin in iron-deficient women",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGxyV3lENkdMWUdzMzdpbTFBRUN2MHItSVVqRWJDLVpkbDRtbUxFcGNhZkFMQzliOHFLZTJEam9yYVJld0c0Tk9wR1JWbV9hMnZHaUNKZ194Z29RbWxJbWo3MVhBbklodTlNNkVyZG9xdjZKLWtXeU9kZXQzbk5LNzQzb29kMG94VXpoYXpR?oc=5",
+     "source": "Bioengineer.org (via Google News)",
+     "date": "2026-11-14T07:43:38+00:00",
      "category": "news",
      "summary": ""
     },
     {
-     "title": "Magnesium is overrated",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw4b7v/magnesium_is_overrated/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T14:54:29+00:00",
-     "category": "social",
-     "summary": "Anybody else think magnesium is overrated. I can never tolerate it, magnesium glycinate gives insomnia, citrate blows my guts up and other forms just crash my blood sugar and make me spaced out. I think the whole most of the population..."
+     "title": "Palmitoylethanolamide and Probiotics Alter Gut and Brain Genes in Stressed Middle-Aged Mice",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGZpU0lPZWIyUVdCcXFjY1Z0dGc3WVphb2VLSGFnQm9zWXVnNHFkVDhrUGVXS2d3ZUZjbWtJTGRMVU1YbVB6bVpmbE1nMWc5Sk9BcjR2a0ZERjhGNlNqTE53U2pYYzBlUjhwRU9Sck9DcDFkbnFaUlN3NmYxb3N5bzBENVo1cWhXWWVqekg0end4R0hNMlEwd2pUR25sQ1Znc3Z3TlY3ZUVHWTdDMkxVZnh2aXR3akU?oc=5",
+     "source": "Bioengineer.org (via Google News)",
+     "date": "2026-11-14T05:03:39+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
-     "title": "Magnesium Glycinate and Theanine—the worst ways I’ve ever spent my money.",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw1xcj/magnesium_glycinate_and_theaninethe_worst_ways/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T13:03:53+00:00",
-     "category": "social",
-     "summary": "It’s 8 a.m., and I didn’t sleep at all last night. I’ve always been a light sleeper and sometimes struggle to fall asleep, so I’ve made a habit of using supplements to help. Lately, I’ve been dealing with some annoying insomnia, and I’d..."
+     "title": "Probiotics Dietary Supplements Market Study Explores Industry Growth Toward $12.29 Billion",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcTFVOXdkbExfSlhaMGhEUWhXSlNEQTlxLXd2R1AyOUlRRFpDWGdCNzMwdWVOTHBkdlA2b3hDVUowV25rVU5BTDU3OWhvQUFtNUI3OTIxNjljSUVKS2VkejNOUkt2ekdPM2NZOHFoMV9ZRFU0WmUyV0haaDdxQ0ViYy1qVFZJNEZtNDBBZmZ4cFpIdUcwMXJxVE1NQnFDdw?oc=5",
+     "source": "openPR.com (via Google News)",
+     "date": "2026-11-13T09:19:07+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
-     "title": "Which magnesium for energy and against fatigue?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xvjnme/which_magnesium_for_energy_and_against_fatigue/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-13T21:02:52+00:00",
-     "category": "social",
-     "summary": "I get migraines that come with extreme fatigue and sometimes I have just crap fatigued days in between. I went on a bit of a journey to learn about supplements, but magnesium is still an unknown to me. Please recommend your favourite..."
+     "title": "4 Signs That Your Probiotics Are Working",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXIwN0xqclpoODZjdHVYelV3TUVFV0FSbzJRR2E5Nlc3RWNZUk51aDlodkxiQllNMEd4Z3ZtTlBwNldRdnlFMnpERDBwRV9qR2pfUTNoa3dwSl9yU0FnUDdWT05XMU5GU3RNSUpfdFdsc0ZtUHpqeXlNTm9qY3N0VlpOYw?oc=5",
+     "source": "GoodRx (via Google News)",
+     "date": "2026-11-13T01:51:11+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
-     "title": "searching for a multi that covers everything my drs have prescribed",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xvd29w/searching_for_a_multi_that_covers_everything_my/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-13T16:53:52+00:00",
-     "category": "social",
-     "summary": "at this point doctors have prescribed me: - magnesium - COQ10 - D3 - B2 (riboflavin) - B12 I also already take the flo PMS multivitamin, which is high in B6. Can someone please help me find a multivitamin that includes all of these? If..."
+     "title": "Probiotic Cultures Market to Reach US$11.47 Billion by 2035 as",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWVLek5fSW14X2tyUE9SWE5FUEhBYVFFTUxNUWxTWkZkLXJRWlVjd29WQVBPSkFyY1lUWE80WXBzYkFvMHFWcVczdzdsa3laMU0zQjR0VFZkNWI1eUhRd0o2RktPV24xR2JHZGMxUUFuZzNQNVNIejBzQnFTTTVZOE5HLXdZOVFzamVsV3ZidUpnaW1yMVlDM013djBBeE0?oc=5",
+     "source": "openPR.com (via Google News)",
+     "date": "2026-11-12T12:32:06+00:00",
+     "category": "news",
+     "summary": ""
     }
    ]
   },
@@ -675,6 +675,129 @@
    ]
   },
   {
+   "id": "magnesium",
+   "label": "Magnesium",
+   "group": "Ingredient",
+   "score": 73,
+   "direction": "up",
+   "growth": 2.25,
+   "recent": 12,
+   "baseline": 43,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Do Magnesium Sleep Drinks Really Work? What the Science Says",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKTjllUlBHcGt3TE4tYUJxSmpwQ0RSNURLSWhkVGVmdGZ2Z2FDbnpkNzdFa3Q1ZEdtVDBUQU0zM3AwWEJuNVJwYzNTVjZhNUc3WUNyNnJGTklzWEpQdXhOOTZnaVpPUGpGZVE?oc=5",
+     "source": "Health.com (via Google News)",
+     "date": "2026-11-13T08:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Magnesium Glycinate help & hurt?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwa4vb/magnesium_glycinate_help_hurt/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T18:52:12+00:00",
+     "category": "social",
+     "summary": "About a month ago I added 100mg of Magnesium Glycinate to the 2 g of glycine I was taking at night for sleep. It has been a game changer for sleep. However, I’ve started waking up in the morning with severe anxiety. (I already have an..."
+    },
+    {
+     "title": "Magnesium is overrated",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw4b7v/magnesium_is_overrated/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T14:54:29+00:00",
+     "category": "social",
+     "summary": "Anybody else think magnesium is overrated. I can never tolerate it, magnesium glycinate gives insomnia, citrate blows my guts up and other forms just crash my blood sugar and make me spaced out. I think the whole most of the population..."
+    },
+    {
+     "title": "Magnesium Glycinate and Theanine—the worst ways I’ve ever spent my money.",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw1xcj/magnesium_glycinate_and_theaninethe_worst_ways/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T13:03:53+00:00",
+     "category": "social",
+     "summary": "It’s 8 a.m., and I didn’t sleep at all last night. I’ve always been a light sleeper and sometimes struggle to fall asleep, so I’ve made a habit of using supplements to help. Lately, I’ve been dealing with some annoying insomnia, and I’d..."
+    },
+    {
+     "title": "Which magnesium for energy and against fatigue?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xvjnme/which_magnesium_for_energy_and_against_fatigue/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-13T21:02:52+00:00",
+     "category": "social",
+     "summary": "I get migraines that come with extreme fatigue and sometimes I have just crap fatigued days in between. I went on a bit of a journey to learn about supplements, but magnesium is still an unknown to me. Please recommend your favourite..."
+    },
+    {
+     "title": "searching for a multi that covers everything my drs have prescribed",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xvd29w/searching_for_a_multi_that_covers_everything_my/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-13T16:53:52+00:00",
+     "category": "social",
+     "summary": "at this point doctors have prescribed me: - magnesium - COQ10 - D3 - B2 (riboflavin) - B12 I also already take the flo PMS multivitamin, which is high in B6. Can someone please help me find a multivitamin that includes all of these? If..."
+    }
+   ]
+  },
+  {
+   "id": "longevity",
+   "label": "Longevity & healthy ageing",
+   "group": "Health area",
+   "score": 73,
+   "direction": "up",
+   "growth": 2.25,
+   "recent": 5,
+   "baseline": 15,
+   "recentSources": 5,
+   "categories": [
+    "news",
+    "pharma",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "4 Emerging Longevity Supplements Your Patients May Be Talking About",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTlN3d1BpeUFtaVZHVEFUNlQ1VWdreDctT1p3dXRRX3QxVDZUbExZQk1sTmt0Vzh1NXhLTHNuYXpjTkF3MXdEWFNMTkJsQldPek14dEZURF9udDlrQ3AzYmZ1M3dseW55X08tZ002dGt6T1hpenB2TnN3?oc=5",
+     "source": "Verywell Health (via Google News)",
+     "date": "2026-11-14T18:15:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "From Hair Growth to Skin Longevity: Science-Backed Beauty-from-within Actives",
+     "link": "https://www.nutritionaloutlook.com/view/from-hair-growth-to-skin-longevity-science-backed-beauty-from-within-actives",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-13T14:21:55+00:00",
+     "category": "news",
+     "summary": "Alice Olufeso, Senior Product Manager Food & Health of Mibelle Biochemistry, explains what the latest research reveals about supporting hair growth, collagen, and healthy skin aging."
+    },
+    {
+     "title": "Japan Focus: Japan-Singapore MOU, healthy longevity, Asia’s growth potential and more",
+     "link": "https://www.foodnavigator.com/Article/2026/11/13/japan-focus-japan-singapore-mou-healthy-longevity-asias-growth-potential-and-more/",
+     "source": "FoodNavigator",
+     "date": "2026-11-13T09:19:00+00:00",
+     "category": "news",
+     "summary": "This edition explores Japan-Singapore collaboration, healthy longevity and protein innovation, Asia’s global growth potential and APAC food-tech developments."
+    },
+    {
+     "title": "Podcast: Longevity, China, and AI the talk of the town at BIO Europe 2026",
+     "link": "https://www.pharmaceutical-technology.com/features/podcast-pharma-2027-landscape-according-to-bio-europe-2026/",
+     "source": "Pharmaceutical Technology",
+     "date": "2026-11-12T11:58:30+00:00",
+     "category": "pharma",
+     "summary": "The attending members of the editorial team talk through the key themes and takeaways from the 2026 BIO-Europe conference."
+    },
+    {
+     "title": "Keeping up with research",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xvcpab/keeping_up_with_research/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-13T16:40:31+00:00",
+     "category": "social",
+     "summary": "Where do you guys check to keep up with the latest findings and research on longevity, especially when it comes to supplements? Like it can be substacks, newsfeeds, conferences etc. So far I am following these: foundmyfitness, optispan,..."
+    }
+   ]
+  },
+  {
    "id": "claims",
    "label": "Health claims & labelling",
    "group": "Regulatory",
@@ -716,84 +839,27 @@
    ]
   },
   {
-   "id": "probiotics",
-   "label": "Probiotics",
-   "group": "Ingredient",
-   "score": 70,
-   "direction": "up",
-   "growth": 1.87,
-   "recent": 10,
-   "baseline": 44,
-   "recentSources": 6,
-   "categories": [
-    "news",
-    "social"
-   ],
-   "articles": [
-    {
-     "title": "Probiotic-iron combo boosts ferritin in iron-deficient women",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGxyV3lENkdMWUdzMzdpbTFBRUN2MHItSVVqRWJDLVpkbDRtbUxFcGNhZkFMQzliOHFLZTJEam9yYVJld0c0Tk9wR1JWbV9hMnZHaUNKZ194Z29RbWxJbWo3MVhBbklodTlNNkVyZG9xdjZKLWtXeU9kZXQzbk5LNzQzb29kMG94VXpoYXpR?oc=5",
-     "source": "Bioengineer.org (via Google News)",
-     "date": "2026-11-14T07:43:38+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Palmitoylethanolamide and Probiotics Alter Gut and Brain Genes in Stressed Middle-Aged Mice",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGZpU0lPZWIyUVdCcXFjY1Z0dGc3WVphb2VLSGFnQm9zWXVnNHFkVDhrUGVXS2d3ZUZjbWtJTGRMVU1YbVB6bVpmbE1nMWc5Sk9BcjR2a0ZERjhGNlNqTE53U2pYYzBlUjhwRU9Sck9DcDFkbnFaUlN3NmYxb3N5bzBENVo1cWhXWWVqekg0end4R0hNMlEwd2pUR25sQ1Znc3Z3TlY3ZUVHWTdDMkxVZnh2aXR3akU?oc=5",
-     "source": "Bioengineer.org (via Google News)",
-     "date": "2026-11-14T05:03:39+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Probiotics Dietary Supplements Market Study Explores Industry Growth Toward $12.29 Billion",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcTFVOXdkbExfSlhaMGhEUWhXSlNEQTlxLXd2R1AyOUlRRFpDWGdCNzMwdWVOTHBkdlA2b3hDVUowV25rVU5BTDU3OWhvQUFtNUI3OTIxNjljSUVKS2VkejNOUkt2ekdPM2NZOHFoMV9ZRFU0WmUyV0haaDdxQ0ViYy1qVFZJNEZtNDBBZmZ4cFpIdUcwMXJxVE1NQnFDdw?oc=5",
-     "source": "openPR.com (via Google News)",
-     "date": "2026-11-13T09:19:07+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "4 Signs That Your Probiotics Are Working",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXIwN0xqclpoODZjdHVYelV3TUVFV0FSbzJRR2E5Nlc3RWNZUk51aDlodkxiQllNMEd4Z3ZtTlBwNldRdnlFMnpERDBwRV9qR2pfUTNoa3dwSl9yU0FnUDdWT05XMU5GU3RNSUpfdFdsc0ZtUHpqeXlNTm9qY3N0VlpOYw?oc=5",
-     "source": "GoodRx (via Google News)",
-     "date": "2026-11-13T01:51:11+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Probiotic Cultures Market to Reach US$11.47 Billion by 2035 as",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWVLek5fSW14X2tyUE9SWE5FUEhBYVFFTUxNUWxTWkZkLXJRWlVjd29WQVBPSkFyY1lUWE80WXBzYkFvMHFWcVczdzdsa3laMU0zQjR0VFZkNWI1eUhRd0o2RktPV24xR2JHZGMxUUFuZzNQNVNIejBzQnFTTTVZOE5HLXdZOVFzamVsV3ZidUpnaW1yMVlDM013djBBeE0?oc=5",
-     "source": "openPR.com (via Google News)",
-     "date": "2026-11-12T12:32:06+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "EMEA Probiotic Pet Supplements Market (2027 - 2035)",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1FRQ1IwdzZGQXlpYVNoYXRqWm5HalZYM1N1dFRMcUszRy12YkgwR21xN2o1bkR3SElqX19JZnU5clNUS3ZwdE1tXzNrS0FVUWdyQ3RNU092YzNRcUVRM21aWW5LVmprUHc1MF9SU3JuTm4tVmk2ZEJHMXI5TFRTTFZmQTJkd2dSZUd6ZExTTTdnUlpIR21pb3lkYWo?oc=5",
-     "source": "Grand View Research (via Google News)",
-     "date": "2026-11-12T12:07:07+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gut-health",
    "label": "Gut health",
    "group": "Health area",
-   "score": 65,
+   "score": 66,
    "direction": "up",
-   "growth": 2.02,
+   "growth": 1.98,
    "recent": 8,
-   "baseline": 31,
-   "recentSources": 7,
+   "baseline": 32,
+   "recentSources": 8,
    "categories": [
     "news"
    ],
    "articles": [
+    {
+     "title": "Targeted Fiber Supplement Improves Gut Health in People With IBS Without Worsening Symptoms",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlY2dkdWMUhCMkUyaGgxSmVwNm5lSlAwT3k0a1gwOTFWY3FlX2F4R2ZJZmM5bldSTmJaZlYzUUV4Z2lkMkt6TGRyZHY5RGVSb3NVdkluVE1aaUZwM1Zpa09NWUpxTEFGTnBsTVRvTEd2UktiTWc5MGthZldJa2h6Z3c4Y0N1clAtcmdhOG5pQklFUW9DSGhYcWxrU3Vjc1VydmdiMi04azBxMzJTUkoxMDcxNFNJR3JvT3c?oc=5",
+     "source": "SSBCrack (via Google News)",
+     "date": "2026-11-14T13:26:16+00:00",
+     "category": "news",
+     "summary": ""
+    },
     {
      "title": "Supplement Shorts: Multivitamins support nutrition but do not prevent disease, review finds",
      "link": "https://www.supplysidesj.com/supplements/supplement-shorts-multivitamins-support-nutrition-but-do-not-prevent-disease-review-finds",
@@ -833,86 +899,9 @@
      "date": "2026-11-12T23:46:04+00:00",
      "category": "news",
      "summary": ""
-    },
-    {
-     "title": "Protein, creatine and gut health drive supplement trends",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdS03a1hyaVhKd3J6UzdoNkZoZHRkVHIyY0NreVFJd1JKVmxuVVZCSFk1VVRvTWhpdVM5dG5uc21VNFo1bXAzX0pRZlVLcDdhSVNQMWUtWTRjTnQyX1NoMjNkVXBEZUwxQS0wMmE0bEx1YmlLcjBWUVVucDhzNlgwRHEtMU53SjFfZUhleERhM3NEWGpZN3pQMDVWdVNqLUpiR2ZhV0J0NFE?oc=5",
-     "source": "SupplySide Supplement Journal (via Google News)",
-     "date": "2026-11-12T16:49:43+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "collagen",
-   "label": "Collagen",
-   "group": "Ingredient",
-   "score": 64,
-   "direction": "up",
-   "growth": 1.76,
-   "recent": 9,
-   "baseline": 42,
-   "recentSources": 8,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Doctors say this 'underrated' benefit of collagen for women over 50 has nothing to do with looks",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUw2MXhLSHFKZGxHOXhGcTZnSUJlRE5lNXU5QnlkLVFHMUx4X1RlOTB4TlJVYmxsczlKRWdpOUc0czVXTnNTanZPSkVRbG05UzA2Mk5NZU5tandramxkejdBaFp4VTlwc1o2RFR1LVpUYXFGdzZ3bjlZMjM2V052bnNGMFduTDVFanM1YTQwR0NKanVpU0gtQ01ZN1pTRjJyZWxoVDVzY2t6TnBlU2ItWVgzR3RKUTZJekJkVkgtX2RNYVprRnh3cDRQcHc1SHlvSXVsRw?oc=5",
-     "source": "AOL.com (via Google News)",
-     "date": "2026-11-13T19:10:09+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "The Outlook on Bioactive Collagen Peptides in 2027(1)-esv2-50p-bg-10p-music-10p",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFNKZkFuN0NkQkRvYUd3Q1VSZjZ2dkhfM3hQRXh3X2FmaHdQSG9nYW0xbG5Ea2NaNUpHVElFbGhvNTFqbDdscnMxVXBEN3NtaFdFUlRUbDZWTXdsVkcxZUk5VDVTRTFLWk5DNkNidFd3Q3FuVk44TXhiT05LOUxUbWJ3cnJ6UUlPRHRQVXAzWQ?oc=5",
-     "source": "Nutritional Outlook (via Google News)",
-     "date": "2026-11-13T18:07:40+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "From Hair Growth to Skin Longevity: Science-Backed Beauty-from-within Actives",
-     "link": "https://www.nutritionaloutlook.com/view/from-hair-growth-to-skin-longevity-science-backed-beauty-from-within-actives",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-13T14:21:55+00:00",
-     "category": "news",
-     "summary": "Alice Olufeso, Senior Product Manager Food & Health of Mibelle Biochemistry, explains what the latest research reveals about supporting hair growth, collagen, and healthy skin aging."
-    },
-    {
-     "title": "Addressing the Consumer in the Modern Nutraceutical Market",
-     "link": "https://www.nutritionaloutlook.com/view/addressing-the-consumer-in-the-modern-nutraceutical-market",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-12T18:35:02+00:00",
-     "category": "news",
-     "summary": "Amir Vanderfox, Global Sales Manager at BioCell Collagen, addresses what it takes to earn consumer trust in today's nutraceutical market."
-    },
-    {
-     "title": "Collagen powders, creams and bone broth: what the science says about their benefits",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWhLOWVpeFNOWHcyOUdGN0pnc3Z2Q21wejlmYk5HM0ZSbUlUaGo5MTB2SkZ3cDBPZHl3QWExXzJZTjQxLVlKUjVhUDVSUmRqd2IwdGFQRnIyWjZ6TEdNUHNKZWZoRjRGajhzMnJ5TDRoamxvbkJNX0dFZ3N0R2xxZkNUR3FJNUlBNzhrd3lkWUZQT0FEWVpDOWVtOHp0dXp1N29vck9FZ2FJTndDVkpVb3dkeVIwcU0?oc=5",
-     "source": "The Conversation (via Google News)",
-     "date": "2026-11-12T15:36:01+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Plant-Based Collagen Supplements Market Report 2026 Market Outlook Supported By A Forecast 11% CAGR",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZk1uUG5wSEVnZDJjeVpUVUFFLXpWem5XX0hPdlJNQ21jUjhyYTBlVkJpY1BrSDlGODBZWlNuSFNkTHNUSHgzbkMycHFUel8tRUFPZGdWaUhWX1JKbGpzUFIxV3NmRlJRa0RVRndDRElLZHZaOG52RWI1SHRyVzdhRmJpNXFEdzJFZHVkZDQ1YW1vRHBvU19SZnZn?oc=5",
-     "source": "openPR.com (via Google News)",
-     "date": "2026-11-12T08:33:56+00:00",
-     "category": "news",
-     "summary": ""
     }
    ]
   }
  ],
- "phrases": [
-  {
-   "label": "collagen peptides",
-   "score": 67
-  }
- ]
+ "phrases": []
 }
