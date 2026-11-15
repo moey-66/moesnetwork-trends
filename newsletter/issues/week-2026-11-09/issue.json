@@ -1,0 +1,258 @@
+{
+ "slug": "week-2026-11-09",
+ "weekStart": "2026-11-09",
+ "weekEnd": "2026-11-13",
+ "weekLabel": "9 Nov – 13 Nov 2026",
+ "builtAt": "2026-11-15T20:37:32.619548Z",
+ "subject": "Top 5 supplement trends (9–13 Nov): Sleep, Sports nutrition + 3 more",
+ "preview": "The top trend from each weekday, 9 Nov – 13 Nov 2026, with links to the original articles. Free, every Monday.",
+ "topics": [
+  "Sleep",
+  "Sports nutrition",
+  "Creatine",
+  "Stress & mood",
+  "Brain & cognition"
+ ],
+ "trends": [
+  {
+   "day": "2026-11-09",
+   "dayLabel": "Monday 9 November",
+   "rankThatDay": 1,
+   "id": "sleep",
+   "label": "Sleep",
+   "group": "Health area",
+   "score": 118,
+   "direction": "up",
+   "growth": 4.29,
+   "angle": "Sleep products are crowded; non-melatonin blends and evening rituals (drinks, sprays) are common positioning angles.",
+   "why": "9 stories from 8 publishers in the three days to Mon 9 Nov: about 4.3× its usual pace.",
+   "articles": [
+    {
+     "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
+     "link": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/",
+     "publisher": "STAT",
+     "date": "2026-11-09T14:30:00+00:00",
+     "dateLabel": "9 Nov 2026",
+     "excerpt": "Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in two late-stage studies, but it doesn’t appear as effective as Lilly’s injectable…",
+     "social": false
+    },
+    {
+     "title": "Lilly looks to gird Foundayo label after late-stage win in sleep apnea",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3dJejhBNnNDUlAyb3dTMGRMN3dOR1gwYzY4NmVRZEFrOVVuRldpOEY4aWo3b2s4eWthWDFvWnkxbHYxSjRXRG5Hbm52VFFjclFycU5ObElsMWtmY0RVZWR1QUpBQ3hCM0NHZ2VZOHBuQUljaTJxTVplVVJBb1A1cm90S01yb3pNQU4xZw?oc=5",
+     "publisher": "Fierce Pharma",
+     "date": "2026-11-09T14:30:00+00:00",
+     "dateLabel": "9 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Postbiotic may improve symptoms in menopausal women with high stress, study suggests",
+     "link": "https://www.nutraingredients.com/Article/2026/11/09/postbiotic-may-improve-symptoms-in-menopausal-women-with-high-stress-study-suggests/",
+     "publisher": "NutraIngredients",
+     "date": "2026-11-09T09:55:33+00:00",
+     "dateLabel": "9 Nov 2026",
+     "excerpt": "Heat-Killed Lactiplantibacillus plantarum L-137 (HK L-137) improved markers of inflammation and gut barrier function in menopausal women and was…",
+     "social": false
+    }
+   ],
+   "dataSource": "replay"
+  },
+  {
+   "day": "2026-11-10",
+   "dayLabel": "Tuesday 10 November",
+   "rankThatDay": 1,
+   "id": "sports",
+   "label": "Sports nutrition",
+   "group": "Health area",
+   "score": 116,
+   "direction": "up",
+   "growth": 4.5,
+   "angle": "Sports nutrition is widening to casual gym-goers; tested-for-sport certification and taste are strong selling points.",
+   "why": "11 stories from 10 publishers in the three days to Tue 10 Nov: about 4.5× its usual pace.",
+   "articles": [
+    {
+     "title": "What’s new in sports nutrition? Ingredients supporting performance and recovery [Video]",
+     "link": "https://www.vitafoodsinsights.com/sports-nutrition/what-s-new-in-sports-nutrition-ingredients-supporting-performance-and-recovery-video",
+     "publisher": "Vitafoods Insights",
+     "date": "2026-11-09T13:23:17+00:00",
+     "dateLabel": "9 Nov 2026",
+     "excerpt": "Explore what's fuelling elite athletes and everyday movers, from botanicals and amino acids to clean-label demands and the gut-muscle connection…",
+     "social": false
+    },
+    {
+     "title": "Givaudan highlights consumer trends as GLP-1 use transforms eating habits",
+     "link": "https://www.nutraingredients.com/Article/2026/11/10/givaudan-research-explores-driving-demands-for-glp-1/",
+     "publisher": "NutraIngredients",
+     "date": "2026-11-10T10:24:22+00:00",
+     "dateLabel": "10 Nov 2026",
+     "excerpt": "GLP-1 medications are driving demand for protein-rich, nutrient-dense foods, with users prioritizing muscle maintenance, healthy aging, gut health…",
+     "social": false
+    },
+    {
+     "title": "California to Restrict Sale of Muscle-Building Supplements to Minors Under New Law",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemE2QlRVSFlWdnhfcHd3eXdvaFJJX3FOLTlCTk1HdVFESnlUUnJURlJERHE4M2dpR3RUYjFpNjVSX0NDR1EzcFF1WHRmQ25ES292YzZCVVV5M3JJaXNENm1WaWEtV013R3BvVzM2M0tjNzVaWlJoLTlYSFNpZzhyQmFPdTlRblk?oc=5",
+     "publisher": "Generation Iron",
+     "date": "2026-11-10T14:38:07+00:00",
+     "dateLabel": "10 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "git"
+  },
+  {
+   "day": "2026-11-11",
+   "dayLabel": "Wednesday 11 November",
+   "rankThatDay": 3,
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "score": 124,
+   "direction": "up",
+   "growth": 3.57,
+   "angle": "Creatine has moved beyond the gym crowd; formats like gummies and flavoured sachets, plus independent purity testing, are where brands are competing.",
+   "why": "22 stories from 19 publishers in the three days to Wed 11 Nov: about 3.6× its usual pace.",
+   "articles": [
+    {
+     "title": "Creatine in 2026: 9 big takeaways from SupplySide Global",
+     "link": "https://www.supplysidesj.com/specialty-nutrients/creatine-today-supplement-industry-takeaways",
+     "publisher": "SupplySide Supplement Journal",
+     "date": "2026-11-11T12:38:14+00:00",
+     "dateLabel": "11 Nov 2026",
+     "excerpt": "The supplement industry’s star ingredient is getting rebranded, reformulated and put behind lock and key. Here are the big innovations and hard…",
+     "social": false
+    },
+    {
+     "title": "Catching up with sports nutrition supplements: A roundup of the latest science",
+     "link": "https://www.nutraingredients.com/Article/2026/11/11/catching-up-with-sports-nutrition-supplement-science/",
+     "publisher": "NutraIngredients",
+     "date": "2026-11-11T07:56:17+00:00",
+     "dateLabel": "11 Nov 2026",
+     "excerpt": "Gut health, recovery and cognitive performance feature prominently in the latest sports nutrition science, with studies exploring biotics and…",
+     "social": false
+    },
+    {
+     "title": "What creatine actually does to your body as California’s supplement restrictions spark confusion",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWlRXzF6bFNVNW1VcXU4VEZwdm03SHpjdlF2RGpkZnJjYWNyYkhKbnJqZnB2RjdBOWJaZFhJTnVFSTE0VkJMR1RMUDk1dkNObG9jck42aFlKM2RsWVlHLVZPTWlRT3JXcW1ZQk03WEdqRWY4M3pPRXVrRUlpcDM4QnVZbExEcUdSeEcxMFZyZHVUdlE?oc=5",
+     "publisher": "UNILAD Tech",
+     "date": "2026-11-11T11:29:36+00:00",
+     "dateLabel": "11 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "snapshot"
+  },
+  {
+   "day": "2026-11-12",
+   "dayLabel": "Thursday 12 November",
+   "rankThatDay": 2,
+   "id": "stress-mood",
+   "label": "Stress & mood",
+   "group": "Health area",
+   "score": 139,
+   "direction": "up",
+   "growth": 9.0,
+   "angle": "Stress and mood products are growing, and regulators watch mental-health wording closely, so keep it about everyday routines.",
+   "why": "15 stories from 3 publishers in the three days to Thu 12 Nov: about 9× its usual pace.",
+   "articles": [
+    {
+     "title": "This Specific Probiotic Improves Mood & Sleep In Older Adults, New Study Finds",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWFyMUpiVG9pVVBzV3d3TURYYXQzZnhPam55Wl9sR214V3V1WXVGSTllQk5oelZ4Q1dnTThtUmU3Ukk5anFFNktIcm93OTRReE92Z2pOMkdvd2Fydi1ESGlkMW04My0wTnRiR0VCNVg1dFJRazBsaTdoUFpZSjZROVFCdkljS2UtYWNpVUNtV0p1clBLMjBzZEJVVkpJZkJuUUxsb0JLU1B1czRzM0doNHRlUzRTUFk?oc=5",
+     "publisher": "MindBodyGreen",
+     "date": "2026-11-12T04:30:48+00:00",
+     "dateLabel": "12 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Bad anxiety from magnesium l threonate",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xu6f4x/bad_anxiety_from_magnesium_l_threonate/",
+     "publisher": "Reddit r/Nootropics",
+     "date": "2026-11-12T07:22:23+00:00",
+     "dateLabel": "12 Nov 2026",
+     "excerpt": "Started taking it to help with morning fatigue and brain fog. Only change is an increase in anxiety and restlessness. Does this stop over time or is…",
+     "social": true
+    }
+   ],
+   "dataSource": "snapshot"
+  },
+  {
+   "day": "2026-11-13",
+   "dayLabel": "Friday 13 November",
+   "rankThatDay": 2,
+   "id": "cognitive",
+   "label": "Brain & cognition",
+   "group": "Health area",
+   "score": 122,
+   "direction": "up",
+   "growth": 5.87,
+   "angle": "Brain-and-focus products are popular with students and professionals, but claims are scrutinised, so wording needs care.",
+   "why": "14 stories from 4 publishers in the three days to Fri 13 Nov: about 5.9× its usual pace.",
+   "articles": [
+    {
+     "title": "The science connecting adaptogens, nootropics and mood",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQm5qNmJlc0l4YlJVSE1SMU1xU0ZaRHJVRnNmS2RYaFB3bkUtZ1hzODUwcUZVN3h0YWFWSGM4RFctajFTMmRxYlZjaXF2akU1N2U3bTBsekZ3bUJvanFYZDZycFZ6NHVzQ1VGajlGU1lTakNrZUJxcENnNXItOV9UOTlwUnFIdUJsaGVRV2otdlpLa3c3eUpfRg?oc=5",
+     "publisher": "Nutraceutical Business Review",
+     "date": "2026-11-12T08:02:12+00:00",
+     "dateLabel": "12 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Germany Nootropics order - Triangle?",
+     "link": "https://www.reddit.com/r/Nootropics/comments/1xv9t75/germany_nootropics_order_triangle/",
+     "publisher": "Reddit r/Nootropics",
+     "date": "2026-11-13T14:48:43+00:00",
+     "dateLabel": "13 Nov 2026",
+     "excerpt": "I wanted to order from EC, but becouse they ship from the US iam unsure about how it will go with customs. Is there any triangle shipment method for…",
+     "social": true
+    }
+   ],
+   "dataSource": "snapshot"
+  }
+ ],
+ "days": [
+  {
+   "day": "2026-11-09",
+   "source": "replay of items.json at end of 2026-11-09",
+   "kind": "replay",
+   "pick": "sleep",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-10",
+   "source": "git 2a35f2e",
+   "kind": "git",
+   "pick": "sports",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-11",
+   "source": "history/2026-11-11.json",
+   "kind": "snapshot",
+   "pick": "creatine",
+   "rank": 3
+  },
+  {
+   "day": "2026-11-12",
+   "source": "history/2026-11-12.json",
+   "kind": "snapshot",
+   "pick": "stress-mood",
+   "rank": 2
+  },
+  {
+   "day": "2026-11-13",
+   "source": "history/2026-11-13.json",
+   "kind": "snapshot",
+   "pick": "cognitive",
+   "rank": 2
+  }
+ ],
+ "excludedTopics": [
+  "recalls"
+ ],
+ "disclaimer": "News signals, not health advice.",
+ "trendsUrl": "https://moesnetwork.pages.dev/trends",
+ "archiveUrl": "https://moesnetwork.pages.dev/newsletter/week-2026-11-09.html"
+}
