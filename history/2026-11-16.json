@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generatedAt": "2026-11-16T02:01:45.728708Z",
+ "generatedAt": "2026-11-16T09:36:58.524466Z",
  "generator": "local_scan.py",
  "recentDays": 3,
  "trends": [
@@ -71,79 +71,14 @@
    ]
   },
   {
-   "id": "magnesium",
-   "label": "Magnesium",
-   "group": "Ingredient",
-   "score": 89,
-   "direction": "up",
-   "growth": 2.68,
-   "recent": 16,
-   "baseline": 48,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "social"
-   ],
-   "articles": [
-    {
-     "title": "Top 5 Best Magnesium Supplement For Women 2026",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CanVRUXFnaEJSenZkd0VEakwxNWtpcU45aHlhYzQ5U2RKWkVPTzRVS0ppV2dDekdteUlsY2FkdXFKOFJsLWZkaDBBMU9BTEkwdEdjRGJwakZ6WVNJeDR4MDQwZHh6ajI1YXc0clVNLW9nWm1BRFp4TQ?oc=5",
-     "source": "Pixelfy.me (via Google News)",
-     "date": "2026-11-15T17:10:03+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Top 5 Best Magnesium Supplement For Heart 2026",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iNFA0R3dyNHk5RlU5OEpZTWVZSUExSVBsUW9RTVpFUXVUa3V4dXdRZ2ZucVh4dnlQUUc5U011ZFktaVlNVHZTV2VacmpTdUNxUjJ3MzBxdC1RUkE5T3RkQkduNFBqeWtBbWxfVGo3WnAtNndwQ3hGNQ?oc=5",
-     "source": "Pixelfy.me (via Google News)",
-     "date": "2026-11-15T16:10:06+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Do Magnesium Sleep Drinks Really Work? What the Science Says",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKTjllUlBHcGt3TE4tYUJxSmpwQ0RSNURLSWhkVGVmdGZ2Z2FDbnpkNzdFa3Q1ZEdtVDBUQU0zM3AwWEJuNVJwYzNTVjZhNUc3WUNyNnJGTklzWEpQdXhOOTZnaVpPUGpGZVE?oc=5",
-     "source": "Health.com (via Google News)",
-     "date": "2026-11-13T08:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "What Happens to Your Body When You Add Magnesium to Your Diet",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kRDJELW9OcmtDTHJ0eG5mZE5Fdks4dlNZVTJLY0hJTzltY1ZMZmdFYy1fdWhQUFBnLWpQQmFJUzB5THhpUVBzQUg2aUdQbjhuSXdVZkRvWWlmVF9CZ2NnLV9mcW0tVVh2a1B4cmpB?oc=5",
-     "source": "Health.com (via Google News)",
-     "date": "2026-11-13T08:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Dr. recommended 300-600mg of elemental magnesium per day. How to know how much this brand contains?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xx13mm/dr_recommended_300600mg_of_elemental_magnesium/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-15T17:20:33+00:00",
-     "category": "social",
-     "summary": ""
-    },
-    {
-     "title": "Magnesium Oxide pills burn my fingers. Any ideas?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwxxbr/magnesium_oxide_pills_burn_my_fingers_any_ideas/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-15T15:13:56+00:00",
-     "category": "social",
-     "summary": "Hello! My mother takes magnesium oxide supplements (solid pills not capsules) every day for her hypomagnesemia. When I touch the pills, let it be for as little as a few seconds, the contact point on my fingers begins to burn and tingle...."
-    }
-   ]
-  },
-  {
    "id": "powders",
    "label": "Powders & drink mixes",
    "group": "Format",
-   "score": 84,
+   "score": 75,
    "direction": "up",
-   "growth": 3.24,
-   "recent": 8,
-   "baseline": 16,
+   "growth": 2.77,
+   "recent": 7,
+   "baseline": 17,
    "recentSources": 4,
    "categories": [
     "news",
@@ -201,67 +136,67 @@
    ]
   },
   {
-   "id": "longevity",
-   "label": "Longevity & healthy ageing",
-   "group": "Health area",
-   "score": 72,
+   "id": "omega-3",
+   "label": "Omega-3",
+   "group": "Ingredient",
+   "score": 73,
    "direction": "up",
-   "growth": 2.52,
+   "growth": 3.15,
    "recent": 6,
-   "baseline": 16,
-   "recentSources": 5,
+   "baseline": 11,
+   "recentSources": 2,
    "categories": [
     "news",
     "social"
    ],
    "articles": [
     {
-     "title": "7 Winter Wellness Tips for Immunity, Energy, and Longevity",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXp6bWI0Q1pJZHJKcEdZcUlmVUZuZDJzYld1TE50ZDhENEZjVEtnZlB6N0FMUlA2bzFHUEQ3aXcyR09Cc0pMelkwakNDOXoxUGFSQlBkc3Y2RTBuWEh6MEVwcm9WNDQ1al9obUI4VHJQWk1oNVpFa3dDbTA2M3FnSl9LVmU1TnJsYThEX1RkMVVMYUdpeVpoa1QwYVRJOEw1MV9wYTZIeVVENjc3alVBYzhkYVp1QnNrNjc4Q3R3QnFFcmxxZ1BGQVlSUklVMVljWkd2ZEJR?oc=5",
-     "source": "Mark Hyman, MD (via Google News)",
-     "date": "2026-11-15T06:30:01+00:00",
+     "title": "The supplements the nutritionists take — from creatine to omega-3",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJmY200OUtsazVvSmhxN042Q0FlaEdjWDc1b25fd2lFNC1RajF0Ql9UOHpPUWw4bXJHaFRZcTdaSjByX0dtTGkyMHpkNGxIZ2pDNmFQV3ZWaWdFV2pBV29LaFludTdXWVRjTWRMOG1zRmotcHJra21qVFhQYm5vZFdxNlhFYkRya19Ddlg0dDdJbF9YeU5nVXN2U2xSZmZ6?oc=5",
+     "source": "The Times (via Google News)",
+     "date": "2026-11-14T13:30:00+00:00",
      "category": "news",
      "summary": ""
     },
     {
-     "title": "4 Emerging Longevity Supplements Your Patients May Be Talking About",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTlN3d1BpeUFtaVZHVEFUNlQ1VWdreDctT1p3dXRRX3QxVDZUbExZQk1sTmt0Vzh1NXhLTHNuYXpjTkF3MXdEWFNMTkJsQldPek14dEZURF9udDlrQ3AzYmZ1M3dseW55X08tZ002dGt6T1hpenB2TnN3?oc=5",
-     "source": "Verywell Health (via Google News)",
-     "date": "2026-11-14T18:15:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "From Hair Growth to Skin Longevity: Science-Backed Beauty-from-within Actives",
-     "link": "https://www.nutritionaloutlook.com/view/from-hair-growth-to-skin-longevity-science-backed-beauty-from-within-actives",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-13T14:21:55+00:00",
-     "category": "news",
-     "summary": "Alice Olufeso, Senior Product Manager Food & Health of Mibelle Biochemistry, explains what the latest research reveals about supporting hair growth, collagen, and healthy skin aging."
-    },
-    {
-     "title": "Japan Focus: Japan-Singapore MOU, healthy longevity, Asia’s growth potential and more",
-     "link": "https://www.foodnavigator.com/Article/2026/11/13/japan-focus-japan-singapore-mou-healthy-longevity-asias-growth-potential-and-more/",
-     "source": "FoodNavigator",
-     "date": "2026-11-13T09:19:00+00:00",
-     "category": "news",
-     "summary": "This edition explores Japan-Singapore collaboration, healthy longevity and protein innovation, Asia’s global growth potential and APAC food-tech developments."
-    },
-    {
-     "title": "Question about longevity of B Complex supplements",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xx1vtn/question_about_longevity_of_b_complex_supplements/",
+     "title": "Is this fish oil tablet gone bad?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxkdzm/is_this_fish_oil_tablet_gone_bad/",
      "source": "Reddit r/Supplements",
-     "date": "2026-11-15T17:51:01+00:00",
+     "date": "2026-11-16T08:42:53+00:00",
      "category": "social",
-     "summary": "The last couple of times I have purchased B Complex capsules, within short order they turn mottled, with dark spots. The label indicates they have many months left before they expire and I keep them out of warm temperatures and they..."
+     "summary": "Since its gone blurry. It's a different brand than the one I used earlier. That one had clear texture."
     },
     {
-     "title": "Keeping up with research",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xvcpab/keeping_up_with_research/",
+     "title": "Okay so I read half a dozen posts on this subreddit asking for an Omega 3 recommendation. So this is the one, right?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwnccr/okay_so_i_read_half_a_dozen_posts_on_this/",
      "source": "Reddit r/Supplements",
-     "date": "2026-11-13T16:40:31+00:00",
+     "date": "2026-11-15T05:25:20+00:00",
      "category": "social",
-     "summary": "Where do you guys check to keep up with the latest findings and research on longevity, especially when it comes to supplements? Like it can be substacks, newsfeeds, conferences etc. So far I am following these: foundmyfitness, optispan,..."
+     "summary": "Or am I still missing something? The 2nd most recommended brand (I think) was Nordic Naturals."
+    },
+    {
+     "title": "do i have to take omega3 if i get too much omega6",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwedn5/do_i_have_to_take_omega3_if_i_get_too_much_omega6/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T21:53:57+00:00",
+     "category": "social",
+     "summary": "im a female,30ish and take pumpkinseed oil capsules for hairdensity. theres alot of omega6 in pumpkinseed , will it affect my omega3 levels?"
+    },
+    {
+     "title": "Algae omega 3 oils that aren’t rancid?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw7eyw/algae_omega_3_oils_that_arent_rancid/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T17:03:21+00:00",
+     "category": "social",
+     "summary": "At least half the time omega oils are rancid when I get them. Any suggestions on better quality ones?"
+    },
+    {
+     "title": "The actual best omega 3 supplement",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xv8zsd/the_actual_best_omega_3_supplement/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-13T14:14:59+00:00",
+     "category": "social",
+     "summary": "Hasn’t been made yet. I said in an earlier post that sports research triple strength omega 3 fish oil was the best but I was wrong. It has too many side effects in my experience. Mostly headaches and muscle aches. Currently the best..."
     }
    ]
   },
@@ -307,14 +242,144 @@
    ]
   },
   {
+   "id": "longevity",
+   "label": "Longevity & healthy ageing",
+   "group": "Health area",
+   "score": 70,
+   "direction": "up",
+   "growth": 2.42,
+   "recent": 6,
+   "baseline": 17,
+   "recentSources": 5,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Longevity-related claim: What’s allowed and not allowed?",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/longevity-related-claim-whats-allowed-and-not-allowed/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T04:14:30+00:00",
+     "category": "news",
+     "summary": "The healthy longevity supplement category has flourished in recent years, but making effective product health claims is still a key challenge due to a lag between regulatory and industry development, said an expert panel in last week’s..."
+    },
+    {
+     "title": "7 Winter Wellness Tips for Immunity, Energy, and Longevity",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXp6bWI0Q1pJZHJKcEdZcUlmVUZuZDJzYld1TE50ZDhENEZjVEtnZlB6N0FMUlA2bzFHUEQ3aXcyR09Cc0pMelkwakNDOXoxUGFSQlBkc3Y2RTBuWEh6MEVwcm9WNDQ1al9obUI4VHJQWk1oNVpFa3dDbTA2M3FnSl9LVmU1TnJsYThEX1RkMVVMYUdpeVpoa1QwYVRJOEw1MV9wYTZIeVVENjc3alVBYzhkYVp1QnNrNjc4Q3R3QnFFcmxxZ1BGQVlSUklVMVljWkd2ZEJR?oc=5",
+     "source": "Mark Hyman, MD (via Google News)",
+     "date": "2026-11-15T06:30:01+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "4 Emerging Longevity Supplements Your Patients May Be Talking About",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTlN3d1BpeUFtaVZHVEFUNlQ1VWdreDctT1p3dXRRX3QxVDZUbExZQk1sTmt0Vzh1NXhLTHNuYXpjTkF3MXdEWFNMTkJsQldPek14dEZURF9udDlrQ3AzYmZ1M3dseW55X08tZ002dGt6T1hpenB2TnN3?oc=5",
+     "source": "Verywell Health (via Google News)",
+     "date": "2026-11-14T18:15:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "From Hair Growth to Skin Longevity: Science-Backed Beauty-from-within Actives",
+     "link": "https://www.nutritionaloutlook.com/view/from-hair-growth-to-skin-longevity-science-backed-beauty-from-within-actives",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-13T14:21:55+00:00",
+     "category": "news",
+     "summary": "Alice Olufeso, Senior Product Manager Food & Health of Mibelle Biochemistry, explains what the latest research reveals about supporting hair growth, collagen, and healthy skin aging."
+    },
+    {
+     "title": "Question about longevity of B Complex supplements",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xx1vtn/question_about_longevity_of_b_complex_supplements/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T17:51:01+00:00",
+     "category": "social",
+     "summary": "The last couple of times I have purchased B Complex capsules, within short order they turn mottled, with dark spots. The label indicates they have many months left before they expire and I keep them out of warm temperatures and they..."
+    },
+    {
+     "title": "Keeping up with research",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xvcpab/keeping_up_with_research/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-13T16:40:31+00:00",
+     "category": "social",
+     "summary": "Where do you guys check to keep up with the latest findings and research on longevity, especially when it comes to supplements? Like it can be substacks, newsfeeds, conferences etc. So far I am following these: foundmyfitness, optispan,..."
+    }
+   ]
+  },
+  {
+   "id": "magnesium",
+   "label": "Magnesium",
+   "group": "Ingredient",
+   "score": 69,
+   "direction": "up",
+   "growth": 2.1,
+   "recent": 13,
+   "baseline": 51,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Top 5 Best Magnesium Supplement For Women 2026",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CanVRUXFnaEJSenZkd0VEakwxNWtpcU45aHlhYzQ5U2RKWkVPTzRVS0ppV2dDekdteUlsY2FkdXFKOFJsLWZkaDBBMU9BTEkwdEdjRGJwakZ6WVNJeDR4MDQwZHh6ajI1YXc0clVNLW9nWm1BRFp4TQ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-15T17:10:03+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Top 5 Best Magnesium Supplement For Heart 2026",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iNFA0R3dyNHk5RlU5OEpZTWVZSUExSVBsUW9RTVpFUXVUa3V4dXdRZ2ZucVh4dnlQUUc5U011ZFktaVlNVHZTV2VacmpTdUNxUjJ3MzBxdC1RUkE5T3RkQkduNFBqeWtBbWxfVGo3WnAtNndwQ3hGNQ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-15T16:10:06+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Dr. recommended 300-600mg of elemental magnesium per day. How to know how much this brand contains?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xx13mm/dr_recommended_300600mg_of_elemental_magnesium/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T17:20:33+00:00",
+     "category": "social",
+     "summary": ""
+    },
+    {
+     "title": "Magnesium Oxide pills burn my fingers. Any ideas?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwxxbr/magnesium_oxide_pills_burn_my_fingers_any_ideas/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T15:13:56+00:00",
+     "category": "social",
+     "summary": "Hello! My mother takes magnesium oxide supplements (solid pills not capsules) every day for her hypomagnesemia. When I touch the pills, let it be for as little as a few seconds, the contact point on my fingers begins to burn and tingle...."
+    },
+    {
+     "title": "Should I be cautious of magnesium glycinate every night for sleep if I have treatment resistant depression?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwwy4v/should_i_be_cautious_of_magnesium_glycinate_every/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T14:32:45+00:00",
+     "category": "social",
+     "summary": "I've been taking doxylamine and magnesium every night for insomnia. And I've been waking up with a feeling of being fuzzy headed, anxious. Since I've been diagnosed with KIF1A and FOXP4 genetic mutations which can manifest in terms of..."
+    },
+    {
+     "title": "does anyone else take magnesium but notice a difference depending on the form?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwrinf/does_anyone_else_take_magnesium_but_notice_a/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T09:41:59+00:00",
+     "category": "social",
+     "summary": "i keep seeing people distinguish between magnesium glycinate, citrate, malate and threonate, and the discussions get pretty confusing some people seem to swear by one particular form, while others say they barely notice any difference..."
+    }
+   ]
+  },
+  {
    "id": "creatine",
    "label": "Creatine",
    "group": "Ingredient",
-   "score": 71,
-   "direction": "up",
-   "growth": 1.53,
-   "recent": 15,
-   "baseline": 85,
+   "score": 66,
+   "direction": "flat",
+   "growth": 1.42,
+   "recent": 14,
+   "baseline": 86,
    "recentSources": 6,
    "categories": [
     "news",
@@ -372,79 +437,14 @@
    ]
   },
   {
-   "id": "sleep",
-   "label": "Sleep",
-   "group": "Health area",
-   "score": 71,
-   "direction": "up",
-   "growth": 2.36,
-   "recent": 10,
-   "baseline": 33,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "social"
-   ],
-   "articles": [
-    {
-     "title": "Do Magnesium Sleep Drinks Really Work? What the Science Says",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKTjllUlBHcGt3TE4tYUJxSmpwQ0RSNURLSWhkVGVmdGZ2Z2FDbnpkNzdFa3Q1ZEdtVDBUQU0zM3AwWEJuNVJwYzNTVjZhNUc3WUNyNnJGTklzWEpQdXhOOTZnaVpPUGpGZVE?oc=5",
-     "source": "Health.com (via Google News)",
-     "date": "2026-11-13T08:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Advice with Glycine (Bulk) for better sleep",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xx0eu6/advice_with_glycine_bulk_for_better_sleep/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-15T16:54:20+00:00",
-     "category": "social",
-     "summary": "A small bit of context would be for several years now I've had issues sleeping through. More often than not I fall asleep ok but always seem to wake up 3-4am. Then I'm mostly resting/keeping my eyes closed until my alarm goes off. And a..."
-    },
-    {
-     "title": "Should I be cautious of magnesium glycinate every night for sleep if I have treatment resistant depression?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwwy4v/should_i_be_cautious_of_magnesium_glycinate_every/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-15T14:32:45+00:00",
-     "category": "social",
-     "summary": "I've been taking doxylamine and magnesium every night for insomnia. And I've been waking up with a feeling of being fuzzy headed, anxious. Since I've been diagnosed with KIF1A and FOXP4 genetic mutations which can manifest in terms of..."
-    },
-    {
-     "title": "Magnesium Glycinate help & hurt?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwa4vb/magnesium_glycinate_help_hurt/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T18:52:12+00:00",
-     "category": "social",
-     "summary": "About a month ago I added 100mg of Magnesium Glycinate to the 2 g of glycine I was taking at night for sleep. It has been a game changer for sleep. However, I’ve started waking up in the morning with severe anxiety. (I already have an..."
-    },
-    {
-     "title": "Magnesium is overrated",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw4b7v/magnesium_is_overrated/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T14:54:29+00:00",
-     "category": "social",
-     "summary": "Anybody else think magnesium is overrated. I can never tolerate it, magnesium glycinate gives insomnia, citrate blows my guts up and other forms just crash my blood sugar and make me spaced out. I think the whole most of the population..."
-    },
-    {
-     "title": "Magnesium Glycinate and Theanine—the worst ways I’ve ever spent my money.",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw1xcj/magnesium_glycinate_and_theaninethe_worst_ways/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T13:03:53+00:00",
-     "category": "social",
-     "summary": "It’s 8 a.m., and I didn’t sleep at all last night. I’ve always been a light sleeper and sometimes struggle to fall asleep, so I’ve made a habit of using supplements to help. Lately, I’ve been dealing with some annoying insomnia, and I’d..."
-    }
-   ]
-  },
-  {
-   "id": "omega-3",
-   "label": "Omega-3",
+   "id": "iron",
+   "label": "Iron",
    "group": "Ingredient",
-   "score": 64,
+   "score": 58,
    "direction": "up",
    "growth": 2.7,
-   "recent": 5,
-   "baseline": 11,
+   "recent": 2,
+   "baseline": 1,
    "recentSources": 2,
    "categories": [
     "news",
@@ -452,85 +452,20 @@
    ],
    "articles": [
     {
-     "title": "The supplements the nutritionists take — from creatine to omega-3",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJmY200OUtsazVvSmhxN042Q0FlaEdjWDc1b25fd2lFNC1RajF0Ql9UOHpPUWw4bXJHaFRZcTdaSjByX0dtTGkyMHpkNGxIZ2pDNmFQV3ZWaWdFV2pBV29LaFludTdXWVRjTWRMOG1zRmotcHJra21qVFhQYm5vZFdxNlhFYkRya19Ddlg0dDdJbF9YeU5nVXN2U2xSZmZ6?oc=5",
-     "source": "The Times (via Google News)",
-     "date": "2026-11-14T13:30:00+00:00",
+     "title": "Vitamin Angels to expand MMS access in Cambodia amid high maternal anemia prevalence",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/vitamin-angels-to-expand-mms-access-in-cambodia-amid-high-maternal-anemia-prevalence/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T04:12:10+00:00",
      "category": "news",
-     "summary": ""
+     "summary": "Vitamin Angels to support scale-up of multiple micronutrient supplements (MMS) for pregnant women in Cambodia amid high prevalence of maternal anemia"
     },
     {
-     "title": "Okay so I read half a dozen posts on this subreddit asking for an Omega 3 recommendation. So this is the one, right?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwnccr/okay_so_i_read_half_a_dozen_posts_on_this/",
+     "title": "B12 and folate are two halves of one cycle: why taking folate alone can hide a B12 deficiency",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxeb0c/b12_and_folate_are_two_halves_of_one_cycle_why/",
      "source": "Reddit r/Supplements",
-     "date": "2026-11-15T05:25:20+00:00",
+     "date": "2026-11-16T02:52:30+00:00",
      "category": "social",
-     "summary": "Or am I still missing something? The 2nd most recommended brand (I think) was Nordic Naturals."
-    },
-    {
-     "title": "do i have to take omega3 if i get too much omega6",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwedn5/do_i_have_to_take_omega3_if_i_get_too_much_omega6/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T21:53:57+00:00",
-     "category": "social",
-     "summary": "im a female,30ish and take pumpkinseed oil capsules for hairdensity. theres alot of omega6 in pumpkinseed , will it affect my omega3 levels?"
-    },
-    {
-     "title": "Algae omega 3 oils that aren’t rancid?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw7eyw/algae_omega_3_oils_that_arent_rancid/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T17:03:21+00:00",
-     "category": "social",
-     "summary": "At least half the time omega oils are rancid when I get them. Any suggestions on better quality ones?"
-    },
-    {
-     "title": "The actual best omega 3 supplement",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xv8zsd/the_actual_best_omega_3_supplement/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-13T14:14:59+00:00",
-     "category": "social",
-     "summary": "Hasn’t been made yet. I said in an earlier post that sports research triple strength omega 3 fish oil was the best but I was wrong. It has too many side effects in my experience. Mostly headaches and muscle aches. Currently the best..."
-    }
-   ]
-  },
-  {
-   "id": "womens-health",
-   "label": "Women's health",
-   "group": "Health area",
-   "score": 58,
-   "direction": "up",
-   "growth": 2.4,
-   "recent": 3,
-   "baseline": 6,
-   "recentSources": 3,
-   "categories": [
-    "pharma",
-    "social"
-   ],
-   "articles": [
-    {
-     "title": "5 takeaways from STAT’s investigation of the sprawling ‘three-parent IVF’ industry",
-     "link": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/",
-     "source": "STAT",
-     "date": "2026-11-13T09:30:00+00:00",
-     "category": "pharma",
-     "summary": "A STAT investigation of the fertility tourism industry found that clinics are offering an unproven IVF procedure to older women. Here are 5 takeaways from the investigation."
-    },
-    {
-     "title": "Looking for sleep ideas for my mom (early 60s), she says her body won't \"shut off\"",
-     "link": "https://www.reddit.com/r/Nootropics/comments/1xvirf0/looking_for_sleep_ideas_for_my_mom_early_60s_she/",
-     "source": "Reddit r/Nootropics",
-     "date": "2026-11-13T20:27:59+00:00",
-     "category": "social",
-     "summary": "I'm trying to help my mom, who's in her early 60s, post-menopausal, and has a hard time falling asleep. She describes it as her body just not shutting down. She doesn't drink caffeine and exercises regularly. Most nights, I give her 5..."
-    },
-    {
-     "title": "What in this is helping me actually fall/stay asleep?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xvd5p2/what_in_this_is_helping_me_actually_fallstay/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-13T16:57:19+00:00",
-     "category": "social",
-     "summary": "Mid 40s, dealing with perimenopause. Decided to add a multivitamin. Been taking it before bed nightly on an empty stomach and I can both fall and stay asleep, and wake up feeling like I got quality sleep. Its the only thing I've added,..."
+     "summary": "Short version: B12 and folate meet at one enzyme, methionine synthase. When B12 runs low, folate gets stuck in a form the body can't use for DNA synthesis, and megaloblastic anemia can follow. Historically, high-dose folic acid improved..."
     }
    ]
   },
@@ -599,41 +534,64 @@
    ]
   },
   {
-   "id": "clean-label",
-   "label": "Clean label & natural",
-   "group": "Market",
-   "score": 49,
-   "direction": "up",
-   "growth": 2.12,
-   "recent": 3,
-   "baseline": 8,
-   "recentSources": 2,
+   "id": "collagen",
+   "label": "Collagen",
+   "group": "Ingredient",
+   "score": 50,
+   "direction": "flat",
+   "growth": 1.35,
+   "recent": 8,
+   "baseline": 51,
+   "recentSources": 8,
    "categories": [
-    "news",
-    "sa"
+    "news"
    ],
    "articles": [
     {
-     "title": "Spirulina Dryers Market To 2035: Nutraceutical Demand and Plant-Based Protein Drive Growth - News and Statistics",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTk5CZEU1Z3VwQlphbGoyQUlUTXNnT0ZCUE42ZW1KS3VWY3hDa1dHMnIxTlp6bDctLXI5bGhEb3hjNVl5OExRbUJEaXVfbWhkMG5nQmxtaC1DUE1Zc2U3TzdXOVRHRzlFUWJCS29BRXkyQmdtNkRTRFlRdE1WZkc1QjFIcjZmcWhoaXU4MHlPdFhrWWNlQXZ6eWNTTk01elA4ZzhidVJlQlQtcXRHcjdjX1R0RllXT3JzYXlKZ0tYeVdYMVZzcXlLNUlQZHR3LXI2R3I5N1dlMXQ?oc=5",
-     "source": "IndexBox (via Google News)",
-     "date": "2026-11-14T12:41:04+00:00",
+     "title": "Top 5 Best Collagen Supplement For Joints 2026",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82VEhvQ0xZN0wtaE9MaGEzSUxUeDE4VHFGQnJJbkNSYS1ERlJVWDBnTzVDWXVNY2c1QjJFbG42eVNTRWwxMGRzajZaU2FZcFdxZ0lURG9lb1dkRWp4WFVZVHN4MF9YVThVY0J1djZUZUtHNjQ1ZVBiNQ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-16T02:45:04+00:00",
      "category": "news",
      "summary": ""
     },
     {
-     "title": "Good Protein raises US$90M to expand plant-based protein drinks business",
-     "link": "https://www.foodbusinessmea.com/good-protein-raises-us90m-to-expand-plant-based-protein-drinks-business/",
-     "source": "Food Business Africa",
-     "date": "2026-11-14T09:46:53+00:00",
-     "category": "sa",
-     "summary": "The Montreal-based company has sold more than 100 million shakes and supplies over 4,500 stores across Canada."
+     "title": "Collagen Has a Protein Quality Score of Zero (Whey Scores 1.09). Yet the Market Is Booming. Here's What the Science Really Says",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0FpQ3FFeFNsRU43Z3ZWZVhPOGNXN3dYX1dFOGczZkRsOG8tX0RBZHM5aGZ6V2oyQUQ2R3oyOVFhNHVYV3JlRW1ldWVNUURGUE5oVUVFNXluanNHZlVacEZ2blhpczBUbTFaN2VzVzQzUUhKTzh2My1OeEp3SlcwX2doOA?oc=5",
+     "source": "BoxLife Magazine (via Google News)",
+     "date": "2026-11-15T16:06:04+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
-     "title": "Pumpkin Seed Oil Market Forecast to 2035: Demand Accelerates on Clean-Label and Nutraceutical Formulation Trends",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2wxdW54bUZOWDlrWl93SzZDc1g4dFU0Vl9EaXFkRU5WazhTY1NDbkcyVVU5Qm9yRjBnaVQ2b0Y0VlRTZkxuXzVNSl96WDJXeGxmWTUzNHpFNzlYZkpuNG0tSkhQZWpKUl96UFRGRkQ0NUU2T1JXZlU2Y09UcEE4WDM5ZFd0cTcyZmlNU0hsWW5HV2FjUTZNd3Vza2Y5SFNwZmVkY3BRSGVsUE1HbV9RUjVBYzBmd1JVVmM1YkotWC1ZZ0FlX2ZJb01KUDYwQUFOWkdqbkFINTA?oc=5",
-     "source": "IndexBox (via Google News)",
-     "date": "2026-11-13T04:56:04+00:00",
+     "title": "The scientific benefits of collagen powders, creams and bone broth",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMC1zdU9sN21vb2MwVVRvSEF4b3V6ZHN6bTJQbWtvUW1YaW4xUFl4N292eHZxc1hnRVpwTkNPZTh2M0ZtWTB4ODhuY1FiNjktM1FXVk02T3d1dGozbnVqTjVpME5GQ3pEaFVMY1ppdVFPT0ZqZ0F0cE1Ed2RtLWdWLVprWTRkbm1xNVpZUTZUNEFkN0tHRHJKdVh2NXpOWmlueHVMcTVQcWo1dw?oc=5",
+     "source": "The Shillong Times (via Google News)",
+     "date": "2026-11-15T01:27:53+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Types of Collagen: I, II, III, V and X Explained",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MM0p1M3dWOHBlamc5MVpnLVkxejMyWlZsem9sYnNCU1c4R2twdXNZbHdNenFtclJfekY0RGc0WFdnLWxDMGtOX0J0cmU1ZTJ5REZDWk1nRGVrU3BxTEYzOWxn?oc=5",
+     "source": "https://balancejournal.co/ (via Google News)",
+     "date": "2026-11-15T00:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "9 Best Marine Collagen Powders of 2026 (Fish-Sourced Picks)",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PblQzc1hPR3VZdVNFYzAxQVJ1X282MHBRdWtQYUJ4dmRoWDQ1NmlhY3dTaFJVZHJRYmJPNWN2amNyeWNmR2FTb0I2UWR3MWh1b3JwT2pzUzZYY2piRFRRd1BwYw?oc=5",
+     "source": "Fitness Volt (via Google News)",
+     "date": "2026-11-14T22:40:30+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Doctors say this 'underrated' benefit of collagen for women over 50 has nothing to do with looks",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUw2MXhLSHFKZGxHOXhGcTZnSUJlRE5lNXU5QnlkLVFHMUx4X1RlOTB4TlJVYmxsczlKRWdpOUc0czVXTnNTanZPSkVRbG05UzA2Mk5NZU5tandramxkejdBaFp4VTlwc1o2RFR1LVpUYXFGdzZ3bjlZMjM2V052bnNGMFduTDVFanM1YTQwR0NKanVpU0gtQ01ZN1pTRjJyZWxoVDVzY2t6TnBlU2ItWVgzR3RKUTZJekJkVkgtX2RNYVprRnh3cDRQcHc1SHlvSXVsRw?oc=5",
+     "source": "AOL.com (via Google News)",
+     "date": "2026-11-13T19:10:09+00:00",
      "category": "news",
      "summary": ""
     }
@@ -681,6 +639,103 @@
    ]
   },
   {
+   "id": "claims",
+   "label": "Health claims & labelling",
+   "group": "Regulatory",
+   "score": 47,
+   "direction": "up",
+   "growth": 2.08,
+   "recent": 2,
+   "baseline": 4,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "Longevity-related claim: What’s allowed and not allowed?",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/longevity-related-claim-whats-allowed-and-not-allowed/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T04:14:30+00:00",
+     "category": "news",
+     "summary": "The healthy longevity supplement category has flourished in recent years, but making effective product health claims is still a key challenge due to a lag between regulatory and industry development, said an expert panel in last week’s..."
+    },
+    {
+     "title": "FDA bans methylene chloride in fruit and vegetable inks from 2027",
+     "link": "https://www.foodbusinessmea.com/fda-bans-methylene-chloride-in-fruit-and-vegetable-inks-from-2027/",
+     "source": "Food Business Africa",
+     "date": "2026-11-14T10:16:31+00:00",
+     "category": "sa",
+     "summary": "The January 2027 deadline provides roughly two months for labelling changes, supplier verification and stock rotation."
+    }
+   ]
+  },
+  {
+   "id": "sleep",
+   "label": "Sleep",
+   "group": "Health area",
+   "score": 45,
+   "direction": "up",
+   "growth": 1.84,
+   "recent": 8,
+   "baseline": 35,
+   "recentSources": 2,
+   "categories": [
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Advice with Glycine (Bulk) for better sleep",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xx0eu6/advice_with_glycine_bulk_for_better_sleep/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T16:54:20+00:00",
+     "category": "social",
+     "summary": "A small bit of context would be for several years now I've had issues sleeping through. More often than not I fall asleep ok but always seem to wake up 3-4am. Then I'm mostly resting/keeping my eyes closed until my alarm goes off. And a..."
+    },
+    {
+     "title": "Should I be cautious of magnesium glycinate every night for sleep if I have treatment resistant depression?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwwy4v/should_i_be_cautious_of_magnesium_glycinate_every/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T14:32:45+00:00",
+     "category": "social",
+     "summary": "I've been taking doxylamine and magnesium every night for insomnia. And I've been waking up with a feeling of being fuzzy headed, anxious. Since I've been diagnosed with KIF1A and FOXP4 genetic mutations which can manifest in terms of..."
+    },
+    {
+     "title": "Magnesium Glycinate help & hurt?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwa4vb/magnesium_glycinate_help_hurt/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T18:52:12+00:00",
+     "category": "social",
+     "summary": "About a month ago I added 100mg of Magnesium Glycinate to the 2 g of glycine I was taking at night for sleep. It has been a game changer for sleep. However, I’ve started waking up in the morning with severe anxiety. (I already have an..."
+    },
+    {
+     "title": "Magnesium is overrated",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw4b7v/magnesium_is_overrated/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T14:54:29+00:00",
+     "category": "social",
+     "summary": "Anybody else think magnesium is overrated. I can never tolerate it, magnesium glycinate gives insomnia, citrate blows my guts up and other forms just crash my blood sugar and make me spaced out. I think the whole most of the population..."
+    },
+    {
+     "title": "Magnesium Glycinate and Theanine—the worst ways I’ve ever spent my money.",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw1xcj/magnesium_glycinate_and_theaninethe_worst_ways/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T13:03:53+00:00",
+     "category": "social",
+     "summary": "It’s 8 a.m., and I didn’t sleep at all last night. I’ve always been a light sleeper and sometimes struggle to fall asleep, so I’ve made a habit of using supplements to help. Lately, I’ve been dealing with some annoying insomnia, and I’d..."
+    },
+    {
+     "title": "I bought CBD for sleep, anxiety and mood stabalizing for bipolar",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xvu68y/i_bought_cbd_for_sleep_anxiety_and_mood/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T05:21:25+00:00",
+     "category": "social",
+     "summary": "Hi, As the title says, Im taking 20mg in the evening for help with my mood and anxiety. Its making me progressively drowsy over the days, and the new sugar coated one I tried has me munching on it like candy lol. What dosing do you guys..."
+    }
+   ]
+  },
+  {
    "id": "menopause",
    "label": "Menopause",
    "group": "Health area",
@@ -713,130 +768,67 @@
    ]
   },
   {
-   "id": "collagen",
-   "label": "Collagen",
-   "group": "Ingredient",
-   "score": 41,
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 40,
    "direction": "flat",
-   "growth": 1.22,
-   "recent": 7,
-   "baseline": 50,
-   "recentSources": 7,
+   "growth": 1.12,
+   "recent": 6,
+   "baseline": 47,
+   "recentSources": 6,
    "categories": [
-    "news"
+    "news",
+    "pharma"
    ],
    "articles": [
     {
-     "title": "Collagen Has a Protein Quality Score of Zero (Whey Scores 1.09). Yet the Market Is Booming. Here's What the Science Really Says",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0FpQ3FFeFNsRU43Z3ZWZVhPOGNXN3dYX1dFOGczZkRsOG8tX0RBZHM5aGZ6V2oyQUQ2R3oyOVFhNHVYV3JlRW1ldWVNUURGUE5oVUVFNXluanNHZlVacEZ2blhpczBUbTFaN2VzVzQzUUhKTzh2My1OeEp3SlcwX2doOA?oc=5",
-     "source": "BoxLife Magazine (via Google News)",
-     "date": "2026-11-15T16:06:04+00:00",
+     "title": "Applied Nutrition profit up amid weight-loss jab and GLP-1 supplement boom",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeXlEYUdTa09oZEtkazFTR3ZCQS1rMDZHcXM5T3JjVVFBUWpScHpSNUJMLW9rZ1pKRl95N0dKQ0s3dlRaZVFfa1U4VnJqVU95OTlmcHY2cHRLSjYtSTlULWw1Q3N6QU94eWlBcXQ4bDhqMzNOTmd2YXZBNnFhSWhDYkFqczM4VU1wN0xYSzdLcFBUdmfSAZgBQVVfeXFMTkZjRk5uQnRNenhNNkIwYjdQNnl6QlNqdmt6ZS11UWlpQVZlZjhJMEUzSzRUVExnNlg3WUQ0b0g5OTBrRms1MlZvcm5hN2c3bjJGZHZwbXhmaDBKTkg3akM5MzZRU3BKdU5Xc2dycGFTZ3VhRGF4dGxUdWg5dHJsRDVLQXNPU2RYU1JLZDNSdC0yUmxlaEZic1E?oc=5",
+     "source": "Business Live (via Google News)",
+     "date": "2026-11-16T07:43:00+00:00",
      "category": "news",
      "summary": ""
     },
     {
-     "title": "The scientific benefits of collagen powders, creams and bone broth",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMC1zdU9sN21vb2MwVVRvSEF4b3V6ZHN6bTJQbWtvUW1YaW4xUFl4N292eHZxc1hnRVpwTkNPZTh2M0ZtWTB4ODhuY1FiNjktM1FXVk02T3d1dGozbnVqTjVpME5GQ3pEaFVMY1ppdVFPT0ZqZ0F0cE1Ed2RtLWdWLVprWTRkbm1xNVpZUTZUNEFkN0tHRHJKdVh2NXpOWmlueHVMcTVQcWo1dw?oc=5",
-     "source": "The Shillong Times (via Google News)",
-     "date": "2026-11-15T01:27:53+00:00",
+     "title": "GLP-1 support is 50% off at Veracity’s biggest supplement sale of 2026",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc2V4M2UzdmVDS1lMZlc2NXFYR3VKeEF5TG9TZm1PQjBJYllKbU5ORmFDUjE4UWVCSkdqLUtBZDFPSzM3ZG8zVzVERVBWYmdlUm1XSWhveUdkbHRDdFh3UlVVbV9aUm11bEtLWU5FZ01oc0xVUDk3eDFKSWJJQ2xqRnpybDB3T0N6TUt5LVQ2Y3FXc1duelpqUklqZE9lUlRqVFVyUXJwNWxjTENFTGVLZ25nSUM2ZHdRUEFCRGpMb2ZNcm5f?oc=5",
+     "source": "Daily American (via Google News)",
+     "date": "2026-11-16T04:17:00+00:00",
      "category": "news",
      "summary": ""
     },
     {
-     "title": "Types of Collagen: I, II, III, V and X Explained",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MM0p1M3dWOHBlamc5MVpnLVkxejMyWlZsem9sYnNCU1c4R2twdXNZbHdNenFtclJfekY0RGc0WFdnLWxDMGtOX0J0cmU1ZTJ5REZDWk1nRGVrU3BxTEYzOWxn?oc=5",
-     "source": "https://balancejournal.co/ (via Google News)",
-     "date": "2026-11-15T00:00:00+00:00",
+     "title": "Natural GLP-1 Supplement Drink for Diverse Eating",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGNPMldNWkJOeHpoRXltYmgtM19oN3lMY29GNi1QUmQzNk1rMTQ2MXNSM2dkeGxuOWJORjViX2xRNVhUWXZ4dmhac0EtSmFMZGl6MDdNTnJ6dV9jb2tNMnRrWGR3WklXYjk5QXJzVzJvTzlyUy05aEVielR5M1o2bFdEeU1LcW9ZdGc?oc=5",
+     "source": "2UrbanGirls (via Google News)",
+     "date": "2026-11-14T17:52:03+00:00",
      "category": "news",
      "summary": ""
     },
     {
-     "title": "9 Best Marine Collagen Powders of 2026 (Fish-Sourced Picks)",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PblQzc1hPR3VZdVNFYzAxQVJ1X282MHBRdWtQYUJ4dmRoWDQ1NmlhY3dTaFJVZHJRYmJPNWN2amNyeWNmR2FTb0I2UWR3MWh1b3JwT2pzUzZYY2piRFRRd1BwYw?oc=5",
-     "source": "Fitness Volt (via Google News)",
-     "date": "2026-11-14T22:40:30+00:00",
+     "title": "AHA26: Semaglutide’s real-world CV benefits highlight importance of persistence",
+     "link": "https://www.pharmaceutical-technology.com/analyst-comment/aha26-semaglutides-real-world-cv-benefits-highlight-importance-of-persistence/",
+     "source": "Pharmaceutical Technology",
+     "date": "2026-11-13T16:07:31+00:00",
+     "category": "pharma",
+     "summary": "Real-world semaglutide CV outcomes mirror clinical trials, with greater treatment persistence linked to better outcomes."
+    },
+    {
+     "title": "How wide is the GLP-1 halo?",
+     "link": "https://www.foodnavigator.com/Article/2026/11/13/glp-1-halo-effect-a-2-billion-demand-pool/",
+     "source": "FoodNavigator",
+     "date": "2026-11-13T12:26:08+00:00",
      "category": "news",
+     "summary": "The GLP-1 halo effect, where consumers follow diets similar to those of GLP-1 users without taking the drugs, is highly influential on consumer demand. In fact, suggests Kline and Company, the halo is far larger than the drugs' actual..."
+    },
+    {
+     "title": "Novo amps up Wegovy marketing with DJ Khaled spinning his weight-loss tale",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXQzU3dWZ04xM3BTQktET2s0WTcyNW9KNUpIWm95b3B4SGhZTXZSTU5IUHVtdlpTLVFjbmtVc3JFdXBsR1hoLU5lRzU2MTZmVVNnS1pqbWlULW00dHMwb1VBdjM1R3VxOHllZ2RsWUtKNXVKdlhhdm9EWE9pOWU0cGRnRnY1NTZoV0VqQWZyWVVwSEEtcTJQMWE2Ym5WTzRQQ05PazFVSGg?oc=5",
+     "source": "Fierce Pharma (via Google News)",
+     "date": "2026-11-13T11:03:32+00:00",
+     "category": "pharma",
      "summary": ""
-    },
-    {
-     "title": "Doctors say this 'underrated' benefit of collagen for women over 50 has nothing to do with looks",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUw2MXhLSHFKZGxHOXhGcTZnSUJlRE5lNXU5QnlkLVFHMUx4X1RlOTB4TlJVYmxsczlKRWdpOUc0czVXTnNTanZPSkVRbG05UzA2Mk5NZU5tandramxkejdBaFp4VTlwc1o2RFR1LVpUYXFGdzZ3bjlZMjM2V052bnNGMFduTDVFanM1YTQwR0NKanVpU0gtQ01ZN1pTRjJyZWxoVDVzY2t6TnBlU2ItWVgzR3RKUTZJekJkVkgtX2RNYVprRnh3cDRQcHc1SHlvSXVsRw?oc=5",
-     "source": "AOL.com (via Google News)",
-     "date": "2026-11-13T19:10:09+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "The Outlook on Bioactive Collagen Peptides in 2027(1)-esv2-50p-bg-10p-music-10p",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFNKZkFuN0NkQkRvYUd3Q1VSZjZ2dkhfM3hQRXh3X2FmaHdQSG9nYW0xbG5Ea2NaNUpHVElFbGhvNTFqbDdscnMxVXBEN3NtaFdFUlRUbDZWTXdsVkcxZUk5VDVTRTFLWk5DNkNidFd3Q3FuVk44TXhiT05LOUxUbWJ3cnJ6UUlPRHRQVXAzWQ?oc=5",
-     "source": "Nutritional Outlook (via Google News)",
-     "date": "2026-11-13T18:07:40+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "mag-glycinate",
-   "label": "Magnesium glycinate",
-   "group": "Ingredient",
-   "score": 36,
-   "direction": "up",
-   "growth": 3.79,
-   "recent": 7,
-   "baseline": 10,
-   "recentSources": 1,
-   "categories": [
-    "social"
-   ],
-   "articles": [
-    {
-     "title": "Should I be cautious of magnesium glycinate every night for sleep if I have treatment resistant depression?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwwy4v/should_i_be_cautious_of_magnesium_glycinate_every/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-15T14:32:45+00:00",
-     "category": "social",
-     "summary": "I've been taking doxylamine and magnesium every night for insomnia. And I've been waking up with a feeling of being fuzzy headed, anxious. Since I've been diagnosed with KIF1A and FOXP4 genetic mutations which can manifest in terms of..."
-    },
-    {
-     "title": "does anyone else take magnesium but notice a difference depending on the form?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwrinf/does_anyone_else_take_magnesium_but_notice_a/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-15T09:41:59+00:00",
-     "category": "social",
-     "summary": "i keep seeing people distinguish between magnesium glycinate, citrate, malate and threonate, and the discussions get pretty confusing some people seem to swear by one particular form, while others say they barely notice any difference..."
-    },
-    {
-     "title": "I just learned about the magnesium glycinate scam from nutricost",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwqpv0/i_just_learned_about_the_magnesium_glycinate_scam/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-15T08:51:01+00:00",
-     "category": "social",
-     "summary": "which other products and brands should I skip?"
-    },
-    {
-     "title": "Magnesium Glycinate help & hurt?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xwa4vb/magnesium_glycinate_help_hurt/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T18:52:12+00:00",
-     "category": "social",
-     "summary": "About a month ago I added 100mg of Magnesium Glycinate to the 2 g of glycine I was taking at night for sleep. It has been a game changer for sleep. However, I’ve started waking up in the morning with severe anxiety. (I already have an..."
-    },
-    {
-     "title": "Magnesium is overrated",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw4b7v/magnesium_is_overrated/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T14:54:29+00:00",
-     "category": "social",
-     "summary": "Anybody else think magnesium is overrated. I can never tolerate it, magnesium glycinate gives insomnia, citrate blows my guts up and other forms just crash my blood sugar and make me spaced out. I think the whole most of the population..."
-    },
-    {
-     "title": "Magnesium Glycinate and Theanine—the worst ways I’ve ever spent my money.",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xw1xcj/magnesium_glycinate_and_theaninethe_worst_ways/",
-     "source": "Reddit r/Supplements",
-     "date": "2026-11-14T13:03:53+00:00",
-     "category": "social",
-     "summary": "It’s 8 a.m., and I didn’t sleep at all last night. I’ve always been a light sleeper and sometimes struggle to fall asleep, so I’ve made a habit of using supplements to help. Lately, I’ve been dealing with some annoying insomnia, and I’d..."
     }
    ]
   }
