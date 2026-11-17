@@ -1,0 +1,776 @@
+{
+ "date": "2026-11-17",
+ "generatedAt": "2026-11-17T03:50:02.233003Z",
+ "generator": "local_scan.py",
+ "recentDays": 3,
+ "trends": [
+  {
+   "id": "protein",
+   "label": "Protein",
+   "group": "Ingredient",
+   "score": 99,
+   "direction": "up",
+   "growth": 3.94,
+   "recent": 6,
+   "baseline": 7,
+   "recentSources": 5,
+   "categories": [
+    "news",
+    "sa",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "High-protein boom fuels Leprino’s $35 million whey expansion",
+     "link": "https://www.foodnavigator.com/Article/2026/11/16/leprino-quadruples-microparticulated-whey-protein-capacity/",
+     "source": "FoodNavigator",
+     "date": "2026-11-16T14:14:35+00:00",
+     "category": "news",
+     "summary": "Leprino’s $35 million Lubbock expansion boosts microparticulated whey protein capacity for high-protein foods and drinks with smoother textures."
+    },
+    {
+     "title": "Collagen Has a Protein Quality Score of Zero (Whey Scores 1.09). Yet the Market Is Booming. Here's What the Science Really Says",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0FpQ3FFeFNsRU43Z3ZWZVhPOGNXN3dYX1dFOGczZkRsOG8tX0RBZHM5aGZ6V2oyQUQ2R3oyOVFhNHVYV3JlRW1ldWVNUURGUE5oVUVFNXluanNHZlVacEZ2blhpczBUbTFaN2VzVzQzUUhKTzh2My1OeEp3SlcwX2doOA?oc=5",
+     "source": "BoxLife Magazine (via Google News)",
+     "date": "2026-11-15T16:06:04+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Spirulina Dryers Market To 2035: Nutraceutical Demand and Plant-Based Protein Drive Growth - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTk5CZEU1Z3VwQlphbGoyQUlUTXNnT0ZCUE42ZW1KS3VWY3hDa1dHMnIxTlp6bDctLXI5bGhEb3hjNVl5OExRbUJEaXVfbWhkMG5nQmxtaC1DUE1Zc2U3TzdXOVRHRzlFUWJCS29BRXkyQmdtNkRTRFlRdE1WZkc1QjFIcjZmcWhoaXU4MHlPdFhrWWNlQXZ6eWNTTk01elA4ZzhidVJlQlQtcXRHcjdjX1R0RllXT3JzYXlKZ0tYeVdYMVZzcXlLNUlQZHR3LXI2R3I5N1dlMXQ?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-14T12:41:04+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Good Protein raises US$90M to expand plant-based protein drinks business",
+     "link": "https://www.foodbusinessmea.com/good-protein-raises-us90m-to-expand-plant-based-protein-drinks-business/",
+     "source": "Food Business Africa",
+     "date": "2026-11-14T09:46:53+00:00",
+     "category": "sa",
+     "summary": "The Montreal-based company has sold more than 100 million shakes and supplies over 4,500 stores across Canada."
+    },
+    {
+     "title": "Bulk brand is cheapest safe whey protein in EU region?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwvrvq/bulk_brand_is_cheapest_safe_whey_protein_in_eu/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T13:41:14+00:00",
+     "category": "social",
+     "summary": "Even though they are also increasing prices compared to last year by reducing protein percentage and real BF day is the only day of the year they are giving really good deals. I used to buy Myprotein, but their prices started to be..."
+    },
+    {
+     "title": "46F - Can I take protein shake twice a day",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw0wi2/46f_can_i_take_protein_shake_twice_a_day/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T12:09:20+00:00",
+     "category": "social",
+     "summary": "Hi there, I am 46F trying to increase my protein intake. I had some muscle loss and now i have osteoarthritis so i cant do a lot of exercises. But i do try and do what i can to mainly activate muscles and also very few strengthening - I..."
+    }
+   ]
+  },
+  {
+   "id": "magnesium",
+   "label": "Magnesium",
+   "group": "Ingredient",
+   "score": 77,
+   "direction": "up",
+   "growth": 2.32,
+   "recent": 15,
+   "baseline": 53,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Top 5 Best Magnesium Supplement For Immune System 2026",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1JlVlJYYmFfSkNIVFNVSVRGWkFmX0Vrd0ZxNGFrWUgxbHN6S2dYa01oVUV3ZEJ1UlBEeGJvQ01JTUQ2UjNGeW00b2RESXRGbjVsYlQ4WGYyblVpanJSM1dlSHFycVhGdVNyc3NhZFE1MVF0dHZDVFJuM2F3SVdIYkZkTQ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-16T10:25:03+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Top 5 Best Zinc And Magnesium Supplement 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vSU95UTVrbFBwVGRXN3FlOXNBVmFfb3o4M2Q4YW1sYTRKQVdrNVVPVmtuZlFFTEdSN040NHFEQVZjYlZJb3dmMGh2UFM0MkVFR2JIbW1WOVRNM25SdVlDVm9QSlBHMF9zemprTDhOVHFJaWwtYklZ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-16T09:50:13+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Top 5 Best Magnesium Supplement For Women 2026",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CanVRUXFnaEJSenZkd0VEakwxNWtpcU45aHlhYzQ5U2RKWkVPTzRVS0ppV2dDekdteUlsY2FkdXFKOFJsLWZkaDBBMU9BTEkwdEdjRGJwakZ6WVNJeDR4MDQwZHh6ajI1YXc0clVNLW9nWm1BRFp4TQ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-15T17:10:03+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Top 5 Best Magnesium Supplement For Heart 2026",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iNFA0R3dyNHk5RlU5OEpZTWVZSUExSVBsUW9RTVpFUXVUa3V4dXdRZ2ZucVh4dnlQUUc5U011ZFktaVlNVHZTV2VacmpTdUNxUjJ3MzBxdC1RUkE5T3RkQkduNFBqeWtBbWxfVGo3WnAtNndwQ3hGNQ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-15T16:10:06+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Magnesium",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxy19q/magnesium/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-16T19:05:07+00:00",
+     "category": "social",
+     "summary": "I don’t know why but my body doesn’t agree with magnesium at all. I wake up tired and anxious when taking this even if I take d3 with k2 in the morning. It’s a weird feeling. Then ppl say maybe it’s the glycine, yea yea lol…. I’ve tried..."
+    },
+    {
+     "title": "My stack experience",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxr57g/my_stack_experience/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-16T14:45:11+00:00",
+     "category": "social",
+     "summary": "Pardon the clutter, I just moved. Have been taking all of this for 2-3 months now, with some of them longer. Diet-wise, I couldn't really identify any deficiencies other than getting 500mg of magnesium a day is tough so it's less..."
+    }
+   ]
+  },
+  {
+   "id": "omega-3",
+   "label": "Omega-3",
+   "group": "Ingredient",
+   "score": 74,
+   "direction": "up",
+   "growth": 3.0,
+   "recent": 6,
+   "baseline": 12,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Higher DHA levels linked to lower risk of developing frailty",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/higher-blood-dha-levels-linked-to-18-lower-risk-of-frailty/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T11:49:16+00:00",
+     "category": "news",
+     "summary": "A UK Biobank study of 38,577 adults found that higher blood levels of the omega-3 fatty acid DHA were associated with an 18% lower risk of developing frailty over a median follow-up of 9.37 years. Higher DHA levels were also linked to..."
+    },
+    {
+     "title": "The supplements the nutritionists take — from creatine to omega-3",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJmY200OUtsazVvSmhxN042Q0FlaEdjWDc1b25fd2lFNC1RajF0Ql9UOHpPUWw4bXJHaFRZcTdaSjByX0dtTGkyMHpkNGxIZ2pDNmFQV3ZWaWdFV2pBV29LaFludTdXWVRjTWRMOG1zRmotcHJra21qVFhQYm5vZFdxNlhFYkRya19Ddlg0dDdJbF9YeU5nVXN2U2xSZmZ6?oc=5",
+     "source": "The Times (via Google News)",
+     "date": "2026-11-14T13:30:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Is this fish oil tablet gone bad?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxkdzm/is_this_fish_oil_tablet_gone_bad/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-16T08:42:53+00:00",
+     "category": "social",
+     "summary": "Since its gone blurry. It's a different brand than the one I used earlier. That one had clear texture."
+    },
+    {
+     "title": "Okay so I read half a dozen posts on this subreddit asking for an Omega 3 recommendation. So this is the one, right?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwnccr/okay_so_i_read_half_a_dozen_posts_on_this/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T05:25:20+00:00",
+     "category": "social",
+     "summary": "Or am I still missing something? The 2nd most recommended brand (I think) was Nordic Naturals."
+    },
+    {
+     "title": "do i have to take omega3 if i get too much omega6",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwedn5/do_i_have_to_take_omega3_if_i_get_too_much_omega6/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T21:53:57+00:00",
+     "category": "social",
+     "summary": "im a female,30ish and take pumpkinseed oil capsules for hairdensity. theres alot of omega6 in pumpkinseed , will it affect my omega3 levels?"
+    },
+    {
+     "title": "Algae omega 3 oils that aren’t rancid?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw7eyw/algae_omega_3_oils_that_arent_rancid/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T17:03:21+00:00",
+     "category": "social",
+     "summary": "At least half the time omega oils are rancid when I get them. Any suggestions on better quality ones?"
+    }
+   ]
+  },
+  {
+   "id": "powders",
+   "label": "Powders & drink mixes",
+   "group": "Format",
+   "score": 70,
+   "direction": "up",
+   "growth": 2.67,
+   "recent": 7,
+   "baseline": 18,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "The scientific benefits of collagen powders, creams and bone broth",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMC1zdU9sN21vb2MwVVRvSEF4b3V6ZHN6bTJQbWtvUW1YaW4xUFl4N292eHZxc1hnRVpwTkNPZTh2M0ZtWTB4ODhuY1FiNjktM1FXVk02T3d1dGozbnVqTjVpME5GQ3pEaFVMY1ppdVFPT0ZqZ0F0cE1Ed2RtLWdWLVprWTRkbm1xNVpZUTZUNEFkN0tHRHJKdVh2NXpOWmlueHVMcTVQcWo1dw?oc=5",
+     "source": "The Shillong Times (via Google News)",
+     "date": "2026-11-15T01:27:53+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "9 Best Marine Collagen Powders of 2026 (Fish-Sourced Picks)",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PblQzc1hPR3VZdVNFYzAxQVJ1X282MHBRdWtQYUJ4dmRoWDQ1NmlhY3dTaFJVZHJRYmJPNWN2amNyeWNmR2FTb0I2UWR3MWh1b3JwT2pzUzZYY2piRFRRd1BwYw?oc=5",
+     "source": "Fitness Volt (via Google News)",
+     "date": "2026-11-14T22:40:30+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Probiotics are supposed to be alive. So why did pasteurized Akkermansia do better in the main trial?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xy7wl6/probiotics_are_supposed_to_be_alive_so_why_did/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-17T01:51:40+00:00",
+     "category": "social",
+     "summary": "Akkermansia keeps coming up in gut health threads as the next big probiotic. The version that made sense to me first: a probiotic has to be alive. That's the whole point. Dead bacteria is just expensive powder. Then I found out the main..."
+    },
+    {
+     "title": "How do you take your creatine supplement?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xx0z5a/how_do_you_take_your_creatine_supplement/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T17:15:47+00:00",
+     "category": "social",
+     "summary": "Hi guys, I’m pretty consistent with taking my creatine supplement (10 g per day post loading phase) each day. I take a plain powder form in water and pound that down but lately I’ve been less motivated to do so because it tastes like..."
+    },
+    {
+     "title": "Which one of these brands include measuring spoon in their powders?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwyne1/which_one_of_these_brands_include_measuring_spoon/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T15:44:12+00:00",
+     "category": "social",
+     "summary": "If anybody used one of these particular supplements, did it come with measuring scoop?"
+    },
+    {
+     "title": "What’s the deal with those greens powders and gummies?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwgj03/whats_the_deal_with_those_greens_powders_and/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T23:31:51+00:00",
+     "category": "social",
+     "summary": "I see some people saying greens powers are scams, and other people swearing by them as if they are a superfood. If I have a reasonable diet and already take a centrum multi is there any benefit? Also after the whole creatine gummy thing..."
+    }
+   ]
+  },
+  {
+   "id": "creatine-women",
+   "label": "Creatine for women",
+   "group": "Topic",
+   "score": 68,
+   "direction": "up",
+   "growth": 3.21,
+   "recent": 4,
+   "baseline": 5,
+   "recentSources": 4,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Creatine for women: What to know before you start",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanhENXFDNVNWVXQ1LW1CcGRnTFJxOTNwUGtZQjFTU19VbE9SNllFYUljUUZKdUl2aUg5S1NZdVhlRWc1WS1jTnNzMnBMU1R0Z2xkZ1FUSnJfU3dzT3dPeGZfQm5yYU5PQXhCV2U4QVg4ajh5SS1EQWRZcXVkcDZYaWdGMHdsZjBvSlZ6LUxUZktQd3ZXYUZTbGc2NzdTODF2c01ETkNWVG5TX2FXV0c2YXREU1l2RkMwT18zOVQ2S2NZRHVkOGZmTjlyUUh5TTJzRkE?oc=5",
+     "source": "cbs19news.com (via Google News)",
+     "date": "2026-11-16T14:00:07+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Why are so many young women getting obsessed with creatine?",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBKWjMteE1RTVB0ZnUzWndSWkdjeWdIMGd1MkUyRDVGd3pzdmZnRjdSNmpQYmhtX2F6V1lPa2VWaU5hMWh6ajBhTHA4VFRJb0NYY2RLREYxUjJjZ1UwdUZiUVpwZ0FZSkxjLWFETS1ReUxiMUI3em04b09uQ201Qzh2cEIyWXM0RElZU1RBeXhnSHM5Vk9sekwxR01zdVZQQ2xMVGRlU1VIb3BMaGZ6V0Q5T0RIUXh6UHpVUnRLbDEtaVlsTDF4YkRGbw?oc=5",
+     "source": "Dazed (via Google News)",
+     "date": "2026-11-16T12:50:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Inside The Creatine Boom—How Brands Are Developing Products For Women",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUdOQTBiXzRrVVRyQ0ZMUHpnb01fcXg3TVBMdWcyYThpZXp0aTdLYlpSSFRrcDd0MWJyai1Ldkk5SmpMVFlFSzJBbjlWVU1EcGtGMm5YNk1kZFNKX1Z4S3lPUFM0RnJOSTE1Q1NrcXQyeGRPaVhydmNMZUYtaHV0My1yeTQ1UlJjR3J5V3h1eHMzTzItRmlxdWtmWGhCbExXaFBhLTR2WGxIOG5YZ1V1eVV6dFBrWlFEQjdBMHFlOA?oc=5",
+     "source": "Forbes (via Google News)",
+     "date": "2026-11-16T11:58:08+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Why Is Creatine Important For Every Women | Grazia India",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkJOSU1tX1pRTVlEbTRyNzFkdlhYSXJKa25Rc3d2S2dGa2xEU245cGl3UzdRWjktZ0VaWURaYTZ5aWpObWpjUUV5TW1Ua3IzakRlWFNZYXFCTEZUaVV0eG5YaC1nSVpkcnRUTUlFeUtuMVRVTHhJdjgzSzZfYWdxeFJ1SjY2NENwUURJSmMxcFVkMFl0WXhkR2JaeGk4d9IBnAFBVV95cUxOOUpUNWZPNnZfaHpPOUxsUUI1enZ3UGkwLTVMSjRndVhHdmNGb3M3bDJZRWw5WjRoT1JBOWg1bFRJdzRPQ1RDcHV5RVRQUDJ5S3VDYlFvcTJPazh4SmNFZGlCQk5fTnVnb01pd2FNd0JLek4xRHphZFlqZjNFZkVjM2ROaE1lcG10ZUk0Q2kzbnBCU2NoUnVmN3R4R0E?oc=5",
+     "source": "Grazia India (via Google News)",
+     "date": "2026-11-16T06:33:28+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "eye",
+   "label": "Eye health",
+   "group": "Health area",
+   "score": 68,
+   "direction": "up",
+   "growth": 3.27,
+   "recent": 3,
+   "baseline": 2,
+   "recentSources": 2,
+   "categories": [
+    "pharma",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "J&J bets $2.2B on Ollin’s vision loss drug",
+     "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
+     "source": "BioPharma Dive",
+     "date": "2026-11-16T16:57:00+00:00",
+     "category": "pharma",
+     "summary": "The deal hands J&J a treatment that could complement its existing eye care franchise, but would vie for share of a crowded and competitive market."
+    },
+    {
+     "title": "What would be a quality eye health supplement for symptoms such as light sensitivity and night blindness?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxeuwq/what_would_be_a_quality_eye_health_supplement_for/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-16T03:20:30+00:00",
+     "category": "social",
+     "summary": "I have a history of eye sensitivity issues. Some of it is from screen time but some is general light senstivity, night blindness, and migraines. I was curious if there were any eye supplements worth trying which might improve some of..."
+    },
+    {
+     "title": "Two lutein supplements, $15 vs. $40. What would actually justify the price difference?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwdyzv/two_lutein_supplements_15_vs_40_what_would/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T21:35:32+00:00",
+     "category": "social",
+     "summary": "I'm looking into how people compare eye health supplements, and the price differences are pretty surprising. You can find a basic lutein and zeaxanthin supplement for around $15, while other formulas cost closer to $40. The more..."
+    }
+   ]
+  },
+  {
+   "id": "immunity",
+   "label": "Immunity",
+   "group": "Health area",
+   "score": 68,
+   "direction": "up",
+   "growth": 3.0,
+   "recent": 3,
+   "baseline": 3,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Top 5 Best Magnesium Supplement For Immune System 2026",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1JlVlJYYmFfSkNIVFNVSVRGWkFmX0Vrd0ZxNGFrWUgxbHN6S2dYa01oVUV3ZEJ1UlBEeGJvQ01JTUQ2UjNGeW00b2RESXRGbjVsYlQ4WGYyblVpanJSM1dlSHFycVhGdVNyc3NhZFE1MVF0dHZDVFJuM2F3SVdIYkZkTQ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-16T10:25:03+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "7 Winter Wellness Tips for Immunity, Energy, and Longevity",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXp6bWI0Q1pJZHJKcEdZcUlmVUZuZDJzYld1TE50ZDhENEZjVEtnZlB6N0FMUlA2bzFHUEQ3aXcyR09Cc0pMelkwakNDOXoxUGFSQlBkc3Y2RTBuWEh6MEVwcm9WNDQ1al9obUI4VHJQWk1oNVpFa3dDbTA2M3FnSl9LVmU1TnJsYThEX1RkMVVMYUdpeVpoa1QwYVRJOEw1MV9wYTZIeVVENjc3alVBYzhkYVp1QnNrNjc4Q3R3QnFFcmxxZ1BGQVlSUklVMVljWkd2ZEJR?oc=5",
+     "source": "Mark Hyman, MD (via Google News)",
+     "date": "2026-11-15T06:30:01+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+     "link": "https://www.youtube.com/watch?v=7mEK5wZHpto",
+     "source": "YouTube: Andrew Huberman (example channel)",
+     "date": "2026-11-16T13:00:40+00:00",
+     "category": "social",
+     "summary": "Paul Stamets is widely regarded as the father of modern applied mycology for his work on fungi and their applications in human health. We discuss how mushrooms and other fungi affect, and can improve, our immune system; how certain..."
+    }
+   ]
+  },
+  {
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "score": 67,
+   "direction": "flat",
+   "growth": 1.34,
+   "recent": 14,
+   "baseline": 92,
+   "recentSources": 7,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Creatine for women: What to know before you start",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanhENXFDNVNWVXQ1LW1CcGRnTFJxOTNwUGtZQjFTU19VbE9SNllFYUljUUZKdUl2aUg5S1NZdVhlRWc1WS1jTnNzMnBMU1R0Z2xkZ1FUSnJfU3dzT3dPeGZfQm5yYU5PQXhCV2U4QVg4ajh5SS1EQWRZcXVkcDZYaWdGMHdsZjBvSlZ6LUxUZktQd3ZXYUZTbGc2NzdTODF2c01ETkNWVG5TX2FXV0c2YXREU1l2RkMwT18zOVQ2S2NZRHVkOGZmTjlyUUh5TTJzRkE?oc=5",
+     "source": "cbs19news.com (via Google News)",
+     "date": "2026-11-16T14:00:07+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Why are so many young women getting obsessed with creatine?",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBKWjMteE1RTVB0ZnUzWndSWkdjeWdIMGd1MkUyRDVGd3pzdmZnRjdSNmpQYmhtX2F6V1lPa2VWaU5hMWh6ajBhTHA4VFRJb0NYY2RLREYxUjJjZ1UwdUZiUVpwZ0FZSkxjLWFETS1ReUxiMUI3em04b09uQ201Qzh2cEIyWXM0RElZU1RBeXhnSHM5Vk9sekwxR01zdVZQQ2xMVGRlU1VIb3BMaGZ6V0Q5T0RIUXh6UHpVUnRLbDEtaVlsTDF4YkRGbw?oc=5",
+     "source": "Dazed (via Google News)",
+     "date": "2026-11-16T12:50:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Inside The Creatine Boom—How Brands Are Developing Products For Women",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUdOQTBiXzRrVVRyQ0ZMUHpnb01fcXg3TVBMdWcyYThpZXp0aTdLYlpSSFRrcDd0MWJyai1Ldkk5SmpMVFlFSzJBbjlWVU1EcGtGMm5YNk1kZFNKX1Z4S3lPUFM0RnJOSTE1Q1NrcXQyeGRPaVhydmNMZUYtaHV0My1yeTQ1UlJjR3J5V3h1eHMzTzItRmlxdWtmWGhCbExXaFBhLTR2WGxIOG5YZ1V1eVV6dFBrWlFEQjdBMHFlOA?oc=5",
+     "source": "Forbes (via Google News)",
+     "date": "2026-11-16T11:58:08+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Why Is Creatine Important For Every Women | Grazia India",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkJOSU1tX1pRTVlEbTRyNzFkdlhYSXJKa25Rc3d2S2dGa2xEU245cGl3UzdRWjktZ0VaWURaYTZ5aWpObWpjUUV5TW1Ua3IzakRlWFNZYXFCTEZUaVV0eG5YaC1nSVpkcnRUTUlFeUtuMVRVTHhJdjgzSzZfYWdxeFJ1SjY2NENwUURJSmMxcFVkMFl0WXhkR2JaeGk4d9IBnAFBVV95cUxOOUpUNWZPNnZfaHpPOUxsUUI1enZ3UGkwLTVMSjRndVhHdmNGb3M3bDJZRWw5WjRoT1JBOWg1bFRJdzRPQ1RDcHV5RVRQUDJ5S3VDYlFvcTJPazh4SmNFZGlCQk5fTnVnb01pd2FNd0JLek4xRHphZFlqZjNFZkVjM2ROaE1lcG10ZUk0Q2kzbnBCU2NoUnVmN3R4R0E?oc=5",
+     "source": "Grazia India (via Google News)",
+     "date": "2026-11-16T06:33:28+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "The supplements the nutritionists take — from creatine to omega-3",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJmY200OUtsazVvSmhxN042Q0FlaEdjWDc1b25fd2lFNC1RajF0Ql9UOHpPUWw4bXJHaFRZcTdaSjByX0dtTGkyMHpkNGxIZ2pDNmFQV3ZWaWdFV2pBV29LaFludTdXWVRjTWRMOG1zRmotcHJra21qVFhQYm5vZFdxNlhFYkRya19Ddlg0dDdJbF9YeU5nVXN2U2xSZmZ6?oc=5",
+     "source": "The Times (via Google News)",
+     "date": "2026-11-14T13:30:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "What to Know About Creatine’s Benefits, Dosage and Risks",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3RiYlpDcDB1VXU4NTJLVHJ4SWNUb3ZqRzFvR25WOFdzUDZFdHBmbXJSRW80MUVOdFAxZXlqRGlqVFkzR24tdE56WDRwY1lBYlZNWHl6OEROMU1ON3lfaThjUFZjMHdYVlRtbW1lSl9rNmJzdHZvYXRTa2xFUnBXNk15TGJpR19a?oc=5",
+     "source": "SSBCrack (via Google News)",
+     "date": "2026-11-14T13:24:18+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claims",
+   "label": "Health claims & labelling",
+   "group": "Regulatory",
+   "score": 61,
+   "direction": "up",
+   "growth": 2.77,
+   "recent": 3,
+   "baseline": 4,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "Across the Nutraverse: B6 in Australia, McKinsey’s wellness report, CreaBoost in the USA",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/this-weeks-nutraverse-b6-in-australia-mckinseys-wellness-report-creaboost-in-the-usa/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T11:49:48+00:00",
+     "category": "news",
+     "summary": "Australia’s Therapeutic Goods Administration is proposing stricter labeling and classification for vitamin B6 supplements due to risks of nerve damage from excessive intake, urging manufacturers to review cumulative exposure across..."
+    },
+    {
+     "title": "Longevity-related claim: What’s allowed and not allowed?",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/longevity-related-claim-whats-allowed-and-not-allowed/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T04:14:30+00:00",
+     "category": "news",
+     "summary": "The healthy longevity supplement category has flourished in recent years, but making effective product health claims is still a key challenge due to a lag between regulatory and industry development, said an expert panel in last week’s..."
+    },
+    {
+     "title": "FDA bans methylene chloride in fruit and vegetable inks from 2027",
+     "link": "https://www.foodbusinessmea.com/fda-bans-methylene-chloride-in-fruit-and-vegetable-inks-from-2027/",
+     "source": "Food Business Africa",
+     "date": "2026-11-14T10:16:31+00:00",
+     "category": "sa",
+     "summary": "The January 2027 deadline provides roughly two months for labelling changes, supplier verification and stock rotation."
+    }
+   ]
+  },
+  {
+   "id": "iron",
+   "label": "Iron",
+   "group": "Ingredient",
+   "score": 58,
+   "direction": "up",
+   "growth": 2.7,
+   "recent": 2,
+   "baseline": 1,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Vitamin Angels to expand MMS access in Cambodia amid high maternal anemia prevalence",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/vitamin-angels-to-expand-mms-access-in-cambodia-amid-high-maternal-anemia-prevalence/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T04:12:10+00:00",
+     "category": "news",
+     "summary": "Vitamin Angels to support scale-up of multiple micronutrient supplements (MMS) for pregnant women in Cambodia amid high prevalence of maternal anemia"
+    },
+    {
+     "title": "B12 and folate are two halves of one cycle: why taking folate alone can hide a B12 deficiency",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxeb0c/b12_and_folate_are_two_halves_of_one_cycle_why/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-16T02:52:30+00:00",
+     "category": "social",
+     "summary": "Short version: B12 and folate meet at one enzyme, methionine synthase. When B12 runs low, folate gets stuck in a form the body can't use for DNA synthesis, and megaloblastic anemia can follow. Historically, high-dose folic acid improved..."
+    }
+   ]
+  },
+  {
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 56,
+   "direction": "flat",
+   "growth": 1.37,
+   "recent": 8,
+   "baseline": 50,
+   "recentSources": 7,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
+     "link": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/",
+     "source": "STAT",
+     "date": "2026-11-16T18:18:25+00:00",
+     "category": "pharma",
+     "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries."
+    },
+    {
+     "title": "Bioma GLP-1 Booster Review (2026): Our Honest Thoughts",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FSjBkbVNrWVZraFNCZi1tMTl2WnU5ZHZKTng3Q2N4dXpyeC1TNDRtSXBoRlBRME1wNmt2aDBlS05BSUdraEFhako0SFlUaDllM3hWN3JWNzBDa1FKSXNOTWxrZll0UQ?oc=5",
+     "source": "Fortune (via Google News)",
+     "date": "2026-11-16T15:30:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
+     "link": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/",
+     "source": "STAT",
+     "date": "2026-11-16T14:17:01+00:00",
+     "category": "pharma",
+     "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year"
+    },
+    {
+     "title": "Pharmacist urges people on Wegovy and Mounjaro to take 1p pill at same time",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHNicEZ6NmVSbGdobG0xd1RzTGRPSjc0UksxOHZzT3c4UFFyY1hXejRJVmNVZGxxZTVVMVNaY2V5R1lLNkhjalpJUzBZckFNTlg4XzdUZ0ZSTy0xWjc0SWYxT0dXTDNRMk5rLU9jbzQ3dVctcHFkeG1yMzlzRDE2VEVHWW1yWWhzUUVMazF30gGTAUFVX3lxTE9WSFJQejdaLTU5a2NlZ0RQVGpQRWdfWi1rVjdjTGV3SVVjbGtrMDhUaWFYS0d3MGVwd1ZfbkVBZHEzdE1zUl9mTDE2SHR3SW44Q0ctTHpCRzZXN0o5b190OUd0UmV4M0M1QTVZbjhMVjIzOFNUaXpVN3JEQmhMTDNJZlZzUkItWEFtbWpuX1F0RnJJVQ?oc=5",
+     "source": "The Mirror (via Google News)",
+     "date": "2026-11-16T13:23:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "GLP-1 boom leads to ‘insatiable’ demand for health and wellness",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/glp-1-market-moves-insatiable-retailer-interest-in-health-and-nutrition/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T10:17:56+00:00",
+     "category": "news",
+     "summary": "The GLP-1 boom has accelerated existing macro trends in the sports and active nutrition category while creating an ‘insatiable hunger’ for health and wellness products in retail stores."
+    },
+    {
+     "title": "Applied Nutrition profit up amid weight-loss jab and GLP-1 supplement boom",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeXlEYUdTa09oZEtkazFTR3ZCQS1rMDZHcXM5T3JjVVFBUWpScHpSNUJMLW9rZ1pKRl95N0dKQ0s3dlRaZVFfa1U4VnJqVU95OTlmcHY2cHRLSjYtSTlULWw1Q3N6QU94eWlBcXQ4bDhqMzNOTmd2YXZBNnFhSWhDYkFqczM4VU1wN0xYSzdLcFBUdmfSAZgBQVVfeXFMTkZjRk5uQnRNenhNNkIwYjdQNnl6QlNqdmt6ZS11UWlpQVZlZjhJMEUzSzRUVExnNlg3WUQ0b0g5OTBrRms1MlZvcm5hN2c3bjJGZHZwbXhmaDBKTkg3akM5MzZRU3BKdU5Xc2dycGFTZ3VhRGF4dGxUdWg5dHJsRDVLQXNPU2RYU1JLZDNSdC0yUmxlaEZic1E?oc=5",
+     "source": "Business Live (via Google News)",
+     "date": "2026-11-16T07:43:00+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "supplement-reg",
+   "label": "Supplement regulation",
+   "group": "Regulatory",
+   "score": 52,
+   "direction": "up",
+   "growth": 2.12,
+   "recent": 3,
+   "baseline": 8,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "FDA Proposes Rule to Allow NAC as a Dietary Supplement Ingredient",
+     "link": "https://www.nutritionaloutlook.com/view/fda-proposes-rule-allow-nac-dietary-supplement-ingredient",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-16T19:04:00+00:00",
+     "category": "news",
+     "summary": "The proposal would reverse FDA’s position that N-acetyl-L-cysteine is excluded from the supplement definition and would replace the agency’s enforcement discretion policy if finalized."
+    },
+    {
+     "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
+     "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/",
+     "source": "STAT",
+     "date": "2026-11-16T18:54:06+00:00",
+     "category": "pharma",
+     "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area."
+    },
+    {
+     "title": "UK bans hundreds of supplement ads over ADHD and autism claims",
+     "link": "https://www.vitafoodsinsights.com/regulations/uk-bans-hundreds-of-supplement-ads-over-adhd-and-autism-claims",
+     "source": "Vitafoods Insights",
+     "date": "2026-11-16T05:00:00+00:00",
+     "category": "news",
+     "summary": "The UK’s Advertising Standards Authority (ASA) has banned almost 1,400 adverts from supplement brands that claimed products counteract or prevent autism and ADHD."
+    }
+   ]
+  },
+  {
+   "id": "zinc",
+   "label": "Zinc",
+   "group": "Ingredient",
+   "score": 52,
+   "direction": "up",
+   "growth": 2.25,
+   "recent": 3,
+   "baseline": 7,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Top 5 Best Zinc And Magnesium Supplement 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vSU95UTVrbFBwVGRXN3FlOXNBVmFfb3o4M2Q4YW1sYTRKQVdrNVVPVmtuZlFFTEdSN040NHFEQVZjYlZJb3dmMGh2UFM0MkVFR2JIbW1WOVRNM25SdVlDVm9QSlBHMF9zemprTDhOVHFJaWwtYklZ?oc=5",
+     "source": "Pixelfy.me (via Google News)",
+     "date": "2026-11-16T09:50:13+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "How Zinc Supports Growth and Development?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxkr4j/how_zinc_supports_growth_and_development/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-16T09:06:26+00:00",
+     "category": "social",
+     "summary": ""
+    },
+    {
+     "title": "Tiny Dark Spots and Discoloration on Cut Zinc Citrate Tablets. Is It Oxidation or Mold",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xw22uv/tiny_dark_spots_and_discoloration_on_cut_zinc/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T13:11:34+00:00",
+     "category": "social",
+     "summary": "​ I take zinc citrate supplements, but due to esophagitis, I have difficulty swallowing whole tablets. So, I cut the tablets in half and put the pieces inside empty capsules to make them easier to swallow. Some time ago, I cut several..."
+    }
+   ]
+  },
+  {
+   "id": "gummies",
+   "label": "Gummies",
+   "group": "Format",
+   "score": 47,
+   "direction": "up",
+   "growth": 2.0,
+   "recent": 3,
+   "baseline": 9,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "O Positiv just gave its viral vaginal probiotic gummy a tropical twist",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkJJVjdQRXpUdlFnaGl1djZpZVRYS3VFbk5nb0pNY2o4d2VhYzZOb1FWWGZQT2VsMjg3SV91bUlyMXpxcHNGeVpBUFVEekNaV2hheTROb2dDdmtETHc3MHNGQUtTS2djeW94ZUJ5bEpJaWttN0I4RnBub19zbWVoYVhncURnZkttX2tOSGpqXzNTbzR6MzdYUFpPbWhJZw?oc=5",
+     "source": "Yahoo (via Google News)",
+     "date": "2026-11-14T18:58:18+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Trying to start creatine, but struggling to find something that tastes good",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xxcu1c/trying_to_start_creatine_but_struggling_to_find/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-16T01:39:23+00:00",
+     "category": "social",
+     "summary": "I bought some creatine gummies that had good reviews and they were downright awful. Grainy and had a terrible taste. I'm looking for something that ideally has no taste and isn't chalky or grainy. What options are out there?"
+    },
+    {
+     "title": "What’s the deal with those greens powders and gummies?",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xwgj03/whats_the_deal_with_those_greens_powders_and/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-14T23:31:51+00:00",
+     "category": "social",
+     "summary": "I see some people saying greens powers are scams, and other people swearing by them as if they are a superfood. If I have a reasonable diet and already take a centrum multi is there any benefit? Also after the whole creatine gummy thing..."
+    }
+   ]
+  },
+  {
+   "id": "longevity",
+   "label": "Longevity & healthy ageing",
+   "group": "Health area",
+   "score": 46,
+   "direction": "up",
+   "growth": 1.61,
+   "recent": 4,
+   "baseline": 19,
+   "recentSources": 4,
+   "categories": [
+    "news",
+    "social"
+   ],
+   "articles": [
+    {
+     "title": "Longevity-related claim: What’s allowed and not allowed?",
+     "link": "https://www.nutraingredients.com/Article/2026/11/16/longevity-related-claim-whats-allowed-and-not-allowed/",
+     "source": "NutraIngredients",
+     "date": "2026-11-16T04:14:30+00:00",
+     "category": "news",
+     "summary": "The healthy longevity supplement category has flourished in recent years, but making effective product health claims is still a key challenge due to a lag between regulatory and industry development, said an expert panel in last week’s..."
+    },
+    {
+     "title": "7 Winter Wellness Tips for Immunity, Energy, and Longevity",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXp6bWI0Q1pJZHJKcEdZcUlmVUZuZDJzYld1TE50ZDhENEZjVEtnZlB6N0FMUlA2bzFHUEQ3aXcyR09Cc0pMelkwakNDOXoxUGFSQlBkc3Y2RTBuWEh6MEVwcm9WNDQ1al9obUI4VHJQWk1oNVpFa3dDbTA2M3FnSl9LVmU1TnJsYThEX1RkMVVMYUdpeVpoa1QwYVRJOEw1MV9wYTZIeVVENjc3alVBYzhkYVp1QnNrNjc4Q3R3QnFFcmxxZ1BGQVlSUklVMVljWkd2ZEJR?oc=5",
+     "source": "Mark Hyman, MD (via Google News)",
+     "date": "2026-11-15T06:30:01+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "4 Emerging Longevity Supplements Your Patients May Be Talking About",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTlN3d1BpeUFtaVZHVEFUNlQ1VWdreDctT1p3dXRRX3QxVDZUbExZQk1sTmt0Vzh1NXhLTHNuYXpjTkF3MXdEWFNMTkJsQldPek14dEZURF9udDlrQ3AzYmZ1M3dseW55X08tZ002dGt6T1hpenB2TnN3?oc=5",
+     "source": "Verywell Health (via Google News)",
+     "date": "2026-11-14T18:15:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Question about longevity of B Complex supplements",
+     "link": "https://www.reddit.com/r/Supplements/comments/1xx1vtn/question_about_longevity_of_b_complex_supplements/",
+     "source": "Reddit r/Supplements",
+     "date": "2026-11-15T17:51:01+00:00",
+     "category": "social",
+     "summary": "The last couple of times I have purchased B Complex capsules, within short order they turn mottled, with dark spots. The label indicates they have many months left before they expire and I keep them out of warm temperatures and they..."
+    }
+   ]
+  }
+ ],
+ "phrases": []
+}
