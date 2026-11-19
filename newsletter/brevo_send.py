@@ -11,7 +11,7 @@ Settings (environment variables; in GitHub they come from the repo's secrets and
     BREVO_LIST_ID         the number of the newsletter list. If empty and the account has exactly
                           one list, that list is used; otherwise the run stops and prints your lists.
     BREVO_SENDER_EMAIL    a sender address already added and verified in Brevo (Settings > Senders).
-    BREVO_SENDER_NAME     optional, default "Moe's Network".
+    BREVO_SENDER_NAME     optional, default "The Artha Network".
     NEWSLETTER_SEND_MODE  "draft" (default) or "send".
     BREVO_API_BASE        optional, for testing only (default https://api.brevo.com).
 
@@ -28,7 +28,7 @@ Use --force to create it again anyway.
 """
 import json, os, sys, urllib.request, urllib.error
 
-UA = "MoesNetworkNewsletter/1.0 (+https://moesnetwork.pages.dev)"
+UA = "ArthaNetworkNewsletter/1.0 (+https://arthanetwork.pages.dev)"
 
 
 def api(method, path, key, body=None):
@@ -97,7 +97,7 @@ def main():
         print("NEWSLETTER_SEND_MODE must be 'draft' or 'send', not %r" % mode, file=sys.stderr)
         return 2
     sender_email = os.environ.get("BREVO_SENDER_EMAIL", "").strip()
-    sender_name = os.environ.get("BREVO_SENDER_NAME", "").strip() or "Moe's Network"
+    sender_name = os.environ.get("BREVO_SENDER_NAME", "").strip() or "The Artha Network"
     payload = {
         "name": "Weekly trend brief " + issue["slug"],      # internal name in Brevo
         "subject": issue["subject"],

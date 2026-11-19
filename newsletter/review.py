@@ -26,7 +26,7 @@ from datetime import date, datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SAST = timezone(timedelta(hours=2))
-UA = "MoesNetworkNewsletter/1.0 (+https://moesnetwork.pages.dev)"
+UA = "ArthaNetworkNewsletter/1.0 (+https://arthanetwork.pages.dev)"
 QUIET_START, QUIET_END = 22, 6          # SAST hours
 REMIND_GAP = timedelta(minutes=50)      # cron runs hourly; a little slack for GitHub's late starts
 LABEL = "newsletter-approval"
@@ -66,7 +66,7 @@ def send_mail(subject, html):
     if not to:
         print("No reviewer email (NEWSLETTER_REVIEWER_EMAIL / BREVO_SENDER_EMAIL); email skipped.", file=sys.stderr)
         return
-    sender = {"name": os.environ.get("BREVO_SENDER_NAME") or "Moe's Network", "email": os.environ["BREVO_SENDER_EMAIL"]}
+    sender = {"name": os.environ.get("BREVO_SENDER_NAME") or "The Artha Network", "email": os.environ["BREVO_SENDER_EMAIL"]}
     brevo("POST", "/v3/smtp/email", {"sender": sender, "to": [{"email": to}], "subject": subject,
                                       "htmlContent": html, "tags": ["newsletter-review"]})
     print("Emailed %s: %s" % (to, subject))
@@ -103,14 +103,14 @@ def banner(state, kind):
     practice = ('<p style="margin:0 0 10px;color:#b45309;font-weight:700">PRACTICE RUN: nothing will be sent to subscribers.</p>'
                 if state.get("practice") else "")
     return (
-        '<div style="background:#111;border:2px solid #d4af37;border-radius:10px;padding:18px 20px;margin:16px auto;'
+        '<div style="background:#111;border:2px solid #FF4A2E;border-radius:10px;padding:18px 20px;margin:16px auto;'
         'max-width:600px;font-family:Arial,Helvetica,sans-serif;color:#fff">'
         + practice +
-        '<p style="margin:0 0 8px;font-size:18px;font-weight:700;color:#d4af37">%s</p>'
+        '<p style="margin:0 0 8px;font-size:18px;font-weight:700;color:#FF4A2E">%s</p>'
         '<p style="margin:0 0 12px;font-size:14px;line-height:1.5">Nothing goes to subscribers until you approve. '
         'Approve before <b>%s</b> and it goes out then; later than that and it goes out straight away. '
         'Not approved by <b>%s</b> = skipped this week.</p>'
-        '<p style="margin:0 0 14px"><a href="%s" style="display:inline-block;background:#d4af37;color:#111;'
+        '<p style="margin:0 0 14px"><a href="%s" style="display:inline-block;background:#FF4A2E;color:#111;'
         'text-decoration:none;font-weight:700;padding:12px 18px;border-radius:8px">Open the approval page</a></p>'
         '<p style="margin:0;font-size:13px;line-height:1.5;color:#ddd">On that page (GitHub app or website), add a comment '
         'with just the word <b>approve</b> or <b>cancel</b>. The email below is exactly what subscribers will get.</p>'
@@ -130,7 +130,7 @@ def preview_email(state, kind):
 
 def note_email(title, lines):
     return ('<div style="font-family:Arial,Helvetica,sans-serif;max-width:600px;margin:16px auto;padding:18px 20px;'
-            'border:2px solid #d4af37;border-radius:10px"><p style="font-size:18px;font-weight:700;margin:0 0 10px">%s</p>%s</div>'
+            'border:2px solid #FF4A2E;border-radius:10px"><p style="font-size:18px;font-weight:700;margin:0 0 10px">%s</p>%s</div>'
             % (title, "".join('<p style="margin:0 0 8px;line-height:1.5">%s</p>' % l for l in lines)))
 
 
@@ -192,7 +192,7 @@ def cmd_start(issue_dir, practice):
                                               fmt(send_at), fmt(first), fmt(cutoff), owner()))
     try:
         try:
-            github("POST", "/labels", {"name": LABEL, "color": "d4af37", "description": "Weekly newsletter waiting for approval"})
+            github("POST", "/labels", {"name": LABEL, "color": "FF4A2E", "description": "Weekly newsletter waiting for approval"})
         except urllib.error.HTTPError:
             pass                                            # label already exists
         gi = github("POST", "/issues", {"title": "%sApprove newsletter: %s" % ("[Practice] " if practice else "", issue.get("weekLabel") or issue["slug"]),

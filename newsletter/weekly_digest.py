@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Moe's Network weekly newsletter builder.
+The Artha Network weekly newsletter builder.
 
 Takes the previous Monday-Friday of trend-scanner data, picks the #1 trend from each day
 (5 different topics), adds 2-3 source articles for each, and writes:
@@ -32,7 +32,7 @@ import argparse, copy, glob, html, json, os, re, subprocess, sys
 from datetime import datetime, timedelta, timezone, date
 
 SAST = timezone(timedelta(hours=2), "SAST")
-SITE = "https://moesnetwork.pages.dev"
+SITE = "https://arthanetwork.pages.dev"
 LOGO_URL = SITE + "/assets/logo-gold.png"
 TRENDS_URL = SITE + "/trends"
 SIGNUP_URL = SITE + "/#newsletter"          # change once the signup block is on the site
@@ -42,12 +42,12 @@ DISCLAIMER = "News signals, not health advice."
 # recalls, not supplement trends. Override with --exclude-topics or NEWSLETTER_EXCLUDE_TOPICS
 # (comma-separated ids, e.g. "recalls,supplement-reg"; an empty value allows every topic).
 DEFAULT_EXCLUDE_TOPICS = "recalls"
-BRAND = "Moe's Network"
+BRAND = "The Artha Network"
 RECENT_DAYS = 3
 
 # Email colours (match Website/styles.css)
-C_BG, C_PANEL, C_LINE = "#000000", "#14110b", "#3a2f17"
-C_GOLD, C_GOLDHI, C_TEXT, C_MUTED, C_DIM = "#E2B857", "#F6D77B", "#F3EFE6", "#B4A88C", "#8a806b"
+C_BG, C_PANEL, C_LINE = "#000000", "#121A2B", "#3a2f17"
+C_GOLD, C_GOLDHI, C_TEXT, C_MUTED, C_DIM = "#FF4A2E", "#FF7A5C", "#EEF3F8", "#93A4B8", "#6E7F94"
 FONT = "Montserrat, -apple-system, 'Segoe UI', Arial, Helvetica, sans-serif"
 
 # ---- "What it means / product angle": one plain sentence per topic. ---------------------
@@ -559,10 +559,10 @@ def email_text(issue):
 
 # ---- rendering: web archive -------------------------------------------------------------
 WEB_CSS = """
-:root{--bg:#000;--bg2:#0d0b07;--panel:#14110b;--line:rgba(214,168,62,.28);--gold:#E2B857;--gold2:#C9962F;--goldhi:#F6D77B;--text:#F3EFE6;--muted:#B4A88C;--dim:#8a806b}
+:root{--bg:#0A0F1A;--bg2:#0E1524;--panel:#121A2B;--line:rgba(56,200,255,.28);--gold:#FF4A2E;--gold2:#E0381E;--goldhi:#FF7A5C;--text:#EEF3F8;--muted:#93A4B8;--dim:#6E7F94}
 *{box-sizing:border-box}
 body{margin:0;font-family:Montserrat,-apple-system,Arial,sans-serif;color:var(--text);line-height:1.6;
- background:radial-gradient(ellipse at 80% -10%,#2a2110 0%,var(--bg2) 35%,var(--bg) 70%) fixed;background-color:#000}
+ background:radial-gradient(ellipse at 80% -10%,#10283A 0%,var(--bg2) 35%,var(--bg) 70%) fixed;background-color:#000}
 a{color:var(--gold)}
 .wrap{max-width:760px;margin:0 auto;padding:28px 16px 60px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-bottom:18px;border-bottom:1px solid var(--line)}
@@ -577,7 +577,7 @@ h1{font-size:clamp(28px,5vw,42px);line-height:1.1;margin:0 0 12px;font-weight:80
 .card .why{color:var(--dim);font-size:13px}
 .card h3{color:var(--muted);letter-spacing:2px;text-transform:uppercase;font-size:11px;margin:16px 0 6px}
 .card ul{list-style:none;padding:0;margin:0}
-.card li{padding:8px 0;border-top:1px solid rgba(214,168,62,.12)}
+.card li{padding:8px 0;border-top:1px solid rgba(56,200,255,.12)}
 .card li a{font-weight:700}
 .card li .meta{display:block;color:var(--dim);font-size:12px}
 .card li .ex{display:block;color:var(--muted);font-size:14px}

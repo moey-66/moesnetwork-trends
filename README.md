@@ -1,4 +1,4 @@
-# Moe's Network Trend Scanner
+# The Artha Network Trend Scanner
 
 A daily scanner that reads free public news feeds about supplements, nutraceuticals, pharma, regulation and South African health, counts which topics are suddenly getting more coverage, and feeds a **Trends** tab on the website.
 
@@ -46,7 +46,7 @@ python3 -m http.server 8000      # then open http://localhost:8000/trends.html
 - The WHO news feed is mostly years old.
 - IOL, News24/Health24, Daily Maverick, SA Pharmacist, Endpoints and Healthline either have no working feed or block scanners.
 
-The scanner never tries to get around a block. It identifies itself as `MoesNetworkTrendScanner/1.0 (+https://moesnetwork.pages.dev)`, waits between requests, and gives each feed a 15-second timeout. One failing feed never stops the others. To add or remove a feed, edit `FEEDS` in both files.
+The scanner never tries to get around a block. It identifies itself as `ArthaNetworkTrendScanner/1.0 (+https://arthanetwork.pages.dev)`, waits between requests, and gives each feed a 15-second timeout. One failing feed never stops the others. To add or remove a feed, edit `FEEDS` in both files.
 
 ## Social media: what's covered and what isn't
 
@@ -90,7 +90,7 @@ All paths are from Cloudflare's current docs (checked 10 Nov 2026).
 7. **Test it.** Open `https://moesnetwork-trends.<your-subdomain>.workers.dev/run?key=<your RUN_KEY>`. It scans all the feeds, which takes about 1–2 minutes because of the polite pauses, and shows a short report. Then open `.../trends.json` to see the data. Past runs are under **Settings** → **Trigger Events** → **View events**.
 8. Your data URL is `https://moesnetwork-trends.<your-subdomain>.workers.dev/trends.json`.
 
-The Worker allows the website `https://moesnetwork.pages.dev`, its preview URLs and `localhost:8000` to read the data (CORS). Edit `ALLOWED_ORIGINS` in `worker.js` if you add a custom domain.
+The Worker allows the website `https://arthanetwork.pages.dev`, its preview URLs and `localhost:8000` to read the data (CORS). Edit `ALLOWED_ORIGINS` in `worker.js` if you add a custom domain.
 
 #### Optional: AI summary (off by default)
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Moe's Network Trend Scanner - local version.
+The Artha Network Trend Scanner - local version.
 
 Does the same job as worker.js (fetch feeds -> parse -> dedupe -> tag topics ->
 score emerging trends) but runs on this Mac and writes sample-trends.json, so the
@@ -35,7 +35,7 @@ HISTORY_DIR = os.path.join(HERE, "history")   # daily snapshots for the weekly n
 HISTORY_TOPICS = 15      # topics kept per snapshot
 HISTORY_ARTICLES = 6     # example articles kept per topic
 
-USER_AGENT = "MoesNetworkTrendScanner/1.0 (+https://moesnetwork.pages.dev)"
+USER_AGENT = "ArthaNetworkTrendScanner/1.0 (+https://arthanetwork.pages.dev)"
 WINDOW_DAYS = 30        # keep items this long
 RECENT_DAYS = 3         # "now" window
 SPARK_DAYS = 14         # sparkline length
