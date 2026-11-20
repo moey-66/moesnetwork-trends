@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T03:09:59.347937Z",
+ "generatedAt": "2026-11-20T11:31:31.645180Z",
  "generator": "local_scan.py",
  "windowDays": 30,
  "recentDays": 3,
@@ -67,16 +67,169 @@
  },
  "trends": [
   {
+   "id": "sports",
+   "label": "Sports nutrition",
+   "group": "Health area",
+   "kind": "topic",
+   "score": 83,
+   "direction": "up",
+   "growth": 2.3,
+   "recent": 11,
+   "baseline": 38,
+   "mentions": 49,
+   "sources": 22,
+   "recentSources": 4,
+   "categories": [
+    "news",
+    "pharma",
+    "social"
+   ],
+   "spark": [
+    0,
+    1,
+    7,
+    5,
+    5,
+    3,
+    7,
+    2,
+    1,
+    0,
+    2,
+    3,
+    4,
+    2
+   ],
+   "examples": [
+    {
+     "title": "Opinion: More doctors should prescribe exercise after a concussion",
+     "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/",
+     "source": "STAT"
+    },
+    {
+     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
+     "source": "NutraIngredients"
+    },
+    {
+     "title": "What’s next for sports nutrition? SANS US 2027 tackles the big questions",
+     "link": "https://www.nutraingredients.com/Article/2026/11/19/whats-next-for-sports-nutrition-sans-us-2027-tackles-the-big-questions/",
+     "source": "NutraIngredients"
+    }
+   ]
+  },
+  {
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "kind": "topic",
+   "score": 82,
+   "direction": "up",
+   "growth": 2.0,
+   "recent": 13,
+   "baseline": 54,
+   "mentions": 67,
+   "sources": 36,
+   "recentSources": 7,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "spark": [
+    0,
+    0,
+    7,
+    6,
+    5,
+    2,
+    4,
+    1,
+    0,
+    7,
+    2,
+    5,
+    6,
+    1
+   ],
+   "examples": [
+    {
+     "title": "Tonum Health targets GLP-1 protein needs in Euvita telehealth partnership",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3RhUnNuUzNDSXFLX1FUelh5UzAxd0hFZUZmOG5sQUEzNDdvZGNqRVVRcTdILTNOS3FlSmtnNVFnbzNZLVBQWXdOWFNtTWlJWFR0OGprekZ4ZkhlZUJaM3RFVnNTVE9XMXB4aXZsdmhCVzBDemZqVlNVbXFQNUxZSWJKcFZTQkJ5dnNadk4xV0J0WDVIQjktVw?oc=5",
+     "source": "Nutrition Insight (via Google News)"
+    },
+    {
+     "title": "How GLP-1s are accelerating dairy protein demand",
+     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
+     "source": "FoodNavigator"
+    },
+    {
+     "title": "What’s next for sports nutrition? SANS US 2027 tackles the big questions",
+     "link": "https://www.nutraingredients.com/Article/2026/11/19/whats-next-for-sports-nutrition-sans-us-2027-tackles-the-big-questions/",
+     "source": "NutraIngredients"
+    }
+   ]
+  },
+  {
+   "id": "probiotics",
+   "label": "Probiotics",
+   "group": "Ingredient",
+   "kind": "topic",
+   "score": 78,
+   "direction": "up",
+   "growth": 1.96,
+   "recent": 14,
+   "baseline": 60,
+   "mentions": 74,
+   "sources": 39,
+   "recentSources": 13,
+   "categories": [
+    "news"
+   ],
+   "spark": [
+    2,
+    2,
+    3,
+    3,
+    3,
+    5,
+    3,
+    3,
+    0,
+    3,
+    4,
+    5,
+    5,
+    1
+   ],
+   "examples": [
+    {
+     "title": "China likely to become the biggest probiotic market by 2030, says IPA chief",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/china-likely-to-become-the-biggest-probiotic-market-by-2030-says-ipa-chief/",
+     "source": "NutraIngredients"
+    },
+    {
+     "title": "Solnul Replication Trial Reproduces Bifidobacterium and Stool Form Effects",
+     "link": "https://www.nutritionaloutlook.com/view/solnul-replication-trial-reproduces-bifidobacterium-stool-form-effects",
+     "source": "Nutritional Outlook"
+    },
+    {
+     "title": "Shelf-Stable Probiotic Carriers Market Size, Share & Forecast 2036",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oRjhEWW5JdGZFNzN1WFRXYWlwWXNsM3BjUG9YakUyaTB2cnJ4TDRsZjJCOEc4VmhfOE5zR0Zhcl91VG8xdGRhTzBmaXZocU1zOVRwQU5zam95ZWFISXc0U3hjeTF0MVl4WDNQU1VMMFk3OHF1NFdV?oc=5",
+     "source": "Fact.MR (via Google News)"
+    }
+   ]
+  },
+  {
    "id": "gut-health",
    "label": "Gut health",
    "group": "Health area",
    "kind": "topic",
-   "score": 85,
+   "score": 78,
    "direction": "up",
-   "growth": 2.42,
-   "recent": 13,
-   "baseline": 43,
-   "mentions": 56,
+   "growth": 2.17,
+   "recent": 12,
+   "baseline": 45,
+   "mentions": 57,
    "sources": 39,
    "recentSources": 10,
    "categories": [
@@ -84,7 +237,7 @@
    ],
    "spark": [
     1,
-    0,
+    1,
     4,
     6,
     5,
@@ -95,10 +248,15 @@
     0,
     9,
     4,
-    1,
+    2,
     0
    ],
    "examples": [
+    {
+     "title": "Intestinal Formulas Market Forecast to 2035: Demand Accelerates on Proactive Gut Health and Microbiome Science",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMXdlV2xpdGk3VGc5X1hta250NEI4eXBYWlp1dkV4UVBzbzdYcl9mVmJWUWoyQnA3ZVVoYlh0OHktOC14MEtvV3JXWDhVbjd3T3lTX1JQSWRhY2w5dFRYZld3RHdpalJ0VXUyZ2ZRcXROaXBkRXhfUjBtdzlmVGpfWS1SZjQyaDVzblU5bEJxMzJxMEJSYm9RcEx3NjlfZHFlYkVsQVhqbUZtYmxxd2ZBbmJsTlptQi1KTWVIRVgxYWVEQ2p1QkNaN2VMelJjeWFvSkc5ckln?oc=5",
+     "source": "IndexBox (via Google News)"
+    },
     {
      "title": "Collagen for Gut Health: Does It Help Bloating?",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdVpoT0FmaU1paktvRmY1dTZ2QkxtRFBZMmdCeHpyeHo0YzIyVW0xczJjcExHZFdoQWN1aVA0Tl9rY1B3QWpHbGJZR0lneHBLRFRrVXdNMXVEM05tRWttbnhCSk5xS1ZqSVE?oc=5",
@@ -108,11 +266,6 @@
      "title": "Functional Gut Health Carriers Market Size, Share & Forecast 2036",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvOTVVQUJJQmxxbmotUEdUMlM1d3JVV1FTSmQ4VkZ0ZDhOQWhOSG1sMXpsdHF3VC0yck9IT1llRE5TZGxmX3QtZzNyMDlpMTNMYW91eWd2RlgxWmNxX1VBSDFpWkZfWnluRjR3VlBvT01mbk50cXc?oc=5",
      "source": "Fact.MR (via Google News)"
-    },
-    {
-     "title": "Gut Health Goes Mainstream: How Probiotics Are Driving Growth in Food, Nutrition and Healthcare",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWhNZnN5OExQRnZMdzZ3X090ZHdaekFWRXE3aU5QZVIzUmE2dmozcTROT1g0dVJwWjVIQWp4WHo5UUZkb1Fnb2p4LVh1eExxZ3ZBekJPbExON1RiX09GRHluOWNXQk1QalJHWFlPMnptZFE0VUtiZ1lKOHBVbHpoSThhbDRmQnBBQTh4QlJ1cVNQRFpvRU1QT0p4eENQVVNXVlVnQVVTVC1zWFlyQmp4NlJUOGg2ZW5fM0NpaVUtZGJaRi1HMzIxc3lvWWw5SmdCeHc?oc=5",
-     "source": "businessnewsthisweek.com (via Google News)"
     }
    ]
   },
@@ -121,13 +274,13 @@
    "label": "Weight management",
    "group": "Health area",
    "kind": "topic",
-   "score": 81,
+   "score": 72,
    "direction": "up",
-   "growth": 2.06,
-   "recent": 7,
-   "baseline": 26,
+   "growth": 1.75,
+   "recent": 6,
+   "baseline": 27,
    "mentions": 33,
-   "sources": 18,
+   "sources": 17,
    "recentSources": 5,
    "categories": [
     "news",
@@ -149,9 +302,14 @@
     3,
     2,
     2,
-    0
+    1
    ],
    "examples": [
+    {
+     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
+     "source": "NutraIngredients"
+    },
     {
      "title": "Weight-loss companion supplements target satiety, spikes and side effects",
      "link": "https://www.nutraingredients.com/Article/2026/11/19/weight-loss-companion-supplements-target-satiety-spikes-and-side-effects/",
@@ -161,163 +319,6 @@
      "title": "Some SA firms start subsidising employees’ weight-loss meds",
      "link": "https://www.medicalbrief.co.za/some-sa-firms-start-subsidising-employees-weight-loss-meds/",
      "source": "Medical Brief"
-    },
-    {
-     "title": "Optimising preventive nutrition for healthy ageing in the GLP-1 era",
-     "link": "https://www.vitafoodsinsights.com/healthy-ageing/optimising-preventive-nutrition-for-healthy-ageing-in-the-glp-1-era",
-     "source": "Vitafoods Insights"
-    }
-   ]
-  },
-  {
-   "id": "glp1",
-   "label": "GLP-1 (and 'GLP-1 support')",
-   "group": "Topic",
-   "kind": "topic",
-   "score": 77,
-   "direction": "up",
-   "growth": 1.91,
-   "recent": 13,
-   "baseline": 57,
-   "mentions": 70,
-   "sources": 39,
-   "recentSources": 6,
-   "categories": [
-    "news",
-    "pharma"
-   ],
-   "spark": [
-    0,
-    0,
-    7,
-    6,
-    5,
-    2,
-    4,
-    1,
-    0,
-    7,
-    2,
-    5,
-    6,
-    0
-   ],
-   "examples": [
-    {
-     "title": "How GLP-1s are accelerating dairy protein demand",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
-     "source": "FoodNavigator"
-    },
-    {
-     "title": "What’s next for sports nutrition? SANS US 2027 tackles the big questions",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/whats-next-for-sports-nutrition-sans-us-2027-tackles-the-big-questions/",
-     "source": "NutraIngredients"
-    },
-    {
-     "title": "Male users and pill format driving growth in GLP-1 use",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/glp-1-pill-and-men-drives-weight-loss-drug-boom-in-great-britain/",
-     "source": "FoodNavigator"
-    }
-   ]
-  },
-  {
-   "id": "probiotics",
-   "label": "Probiotics",
-   "group": "Ingredient",
-   "kind": "topic",
-   "score": 68,
-   "direction": "up",
-   "growth": 1.7,
-   "recent": 12,
-   "baseline": 60,
-   "mentions": 72,
-   "sources": 38,
-   "recentSources": 11,
-   "categories": [
-    "news"
-   ],
-   "spark": [
-    2,
-    2,
-    3,
-    3,
-    3,
-    5,
-    3,
-    3,
-    0,
-    3,
-    4,
-    5,
-    4,
-    0
-   ],
-   "examples": [
-    {
-     "title": "Solnul Replication Trial Reproduces Bifidobacterium and Stool Form Effects",
-     "link": "https://www.nutritionaloutlook.com/view/solnul-replication-trial-reproduces-bifidobacterium-stool-form-effects",
-     "source": "Nutritional Outlook"
-    },
-    {
-     "title": "Probi LP299V probiotic features in multi-biotic supplement launch in Thailand",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdUYlktZFhqRkJ4dHFVbnZtSlY2MTZOcEpmS0N0SnBHOTVwZExlRlgxWXBFc0NGMDJqa29NNU5URjNfemlZODdvSnpSRmd3aGxHRF96NUxjM2NJNXVYVWRPVGlyWnZ6VnlWZnB1b3ltenVDS3gxRHJiV185MEp0Mm10dFBjR0JqTXc3SF95T0VJTUhy?oc=5",
-     "source": "Nutraceutical Business Review (via Google News)"
-    },
-    {
-     "title": "Probiotics Market to Reach US$301.15 Billion by 2033 at 12.9%",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdwSEt6ZEVYNHpYa3NacTBiRGRSUndPX3AtYk9VODRlN0hPcEFETWRkbU5SbDl0UlVOUmFFLTcwS3VsNWZaX2Fza2FTVUVVaEFJWV9yM1RBQ3EyMHpBRy1qSjcxeUpZdVZsWFIwLTZCc1QzU1lyclJJSkx3MURYOXZJLXJYbXVza3VlMUpFYVBvMkVfV00xVDRGa0I?oc=5",
-     "source": "openPR.com (via Google News)"
-    }
-   ]
-  },
-  {
-   "id": "sports",
-   "label": "Sports nutrition",
-   "group": "Health area",
-   "kind": "topic",
-   "score": 60,
-   "direction": "up",
-   "growth": 1.91,
-   "recent": 9,
-   "baseline": 38,
-   "mentions": 47,
-   "sources": 21,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "social"
-   ],
-   "spark": [
-    0,
-    1,
-    7,
-    5,
-    5,
-    3,
-    7,
-    2,
-    1,
-    0,
-    2,
-    3,
-    4,
-    0
-   ],
-   "examples": [
-    {
-     "title": "What’s next for sports nutrition? SANS US 2027 tackles the big questions",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/whats-next-for-sports-nutrition-sans-us-2027-tackles-the-big-questions/",
-     "source": "NutraIngredients"
-    },
-    {
-     "title": "The Vitamin Shoppe sees double-digit growth in sports nutrition, creatine and on-the-go products",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/the-vitamin-shoppe-sees-double-digit-growth-in-sports-nutrition-creatine-and-on-the-go-products/",
-     "source": "NutraIngredients"
-    },
-    {
-     "title": "Herbalife and Ulster University to collaborate on GLP-1 nutrition support research",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/herbalife-and-ulster-university-to-collaborate-on-glp-1-nutrition-support-research/",
-     "source": "NutraIngredients"
     }
    ]
   },
@@ -380,10 +381,10 @@
    "kind": "topic",
    "score": 56,
    "direction": "flat",
-   "growth": 1.18,
+   "growth": 1.16,
    "recent": 14,
-   "baseline": 105,
-   "mentions": 119,
+   "baseline": 107,
+   "mentions": 121,
    "sources": 76,
    "recentSources": 12,
    "categories": [
@@ -476,115 +477,18 @@
    ]
   },
   {
-   "id": "powders",
-   "label": "Powders & drink mixes",
-   "group": "Format",
-   "kind": "topic",
-   "score": 36,
-   "direction": "flat",
-   "growth": 1.29,
-   "recent": 4,
-   "baseline": 26,
-   "mentions": 30,
-   "sources": 17,
-   "recentSources": 4,
-   "categories": [
-    "news",
-    "social"
-   ],
-   "spark": [
-    0,
-    1,
-    2,
-    2,
-    2,
-    1,
-    2,
-    4,
-    3,
-    0,
-    5,
-    0,
-    0,
-    0
-   ],
-   "examples": [
-    {
-     "title": "The Best Electrolyte Powders, Tested by Editors and Dietitians",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVeDZIaVZKZGtvNUc3UW83MTRXcEtOMjBtNjVCenhlb2FMTTIwTWhxaFJxOXdrb2FsdTNtLW5CODVHUmhpQnBNcU9jR1R3WGZIRnRFZmR3U1lCRGlfdjRDUHhjdWU3NVhmMGhRZWtRT0REZmNZV0I2VW83TQ?oc=5",
-     "source": "Men's Health (via Google News)"
-    },
-    {
-     "title": "The Best Greens Powder of 2026: Tested and Approved",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yUXk4LU43ZXBfZjhOYm1LUEU5UG4xTE9KS1A2eFJYeXNVQTU2V2ZlQjJNYVZjUmFyank2dDBsZHFZQkVJTVdOb0ktQy1zUHowZW9kcWhqZlpNUnM?oc=5",
-     "source": "Fortune (via Google News)"
-    },
-    {
-     "title": "Can baker’s yeast protein compete with whey? Spacemilk is betting on it",
-     "link": "https://www.foodnavigator.com/Article/2026/11/17/spacemilk-bets-on-bakers-yeast-protein-with-sprouts-launch/",
-     "source": "FoodNavigator"
-    }
-   ]
-  },
-  {
-   "id": "heart",
-   "label": "Heart health",
-   "group": "Health area",
-   "kind": "topic",
-   "score": 33,
-   "direction": "up",
-   "growth": 1.5,
-   "recent": 2,
-   "baseline": 9,
-   "mentions": 11,
-   "sources": 8,
-   "recentSources": 2,
-   "categories": [
-    "pharma",
-    "social"
-   ],
-   "spark": [
-    0,
-    0,
-    3,
-    0,
-    1,
-    1,
-    1,
-    0,
-    0,
-    1,
-    1,
-    1,
-    0,
-    0
-   ],
-   "examples": [
-    {
-     "title": "FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVhQdDVBRlk3RnpEUDh3WE5FakprRDc1NnJhV2xHVzBFY21qVGlUZGhRS3kxRVhUTTVDYmM4MDg2dG5HcGN1MDJSejVrOGc1R21FVEhiVXlpV2xvd2RJQjhSQVRrZXJPdXNNTUY2ejdhTDZNU3ZtLXo3cDBjM0Y5WXptcG1YdlZTekRQUllFbHZSRWgxcVd4Unh5bXJNdjZyZW5EeHBXOFpoRjQ?oc=5",
-     "source": "Fierce Pharma (via Google News)"
-    },
-    {
-     "title": "Effects of Omega-3 Supplementation on Inflammatory Biomarkers and Ambulatory and Central Blood Pressure in Patients Treated for Hypertension and Dyslipidemia: A Randomized, Double-Blind, Placebo-Controlled Trial",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xyhk9f/effects_of_omega3_supplementation_on_inflammatory/",
-     "source": "Reddit r/Supplements"
-    }
-   ]
-  },
-  {
    "id": "protein",
    "label": "Protein",
    "group": "Ingredient",
    "kind": "topic",
-   "score": 32,
+   "score": 47,
    "direction": "up",
-   "growth": 1.71,
-   "recent": 3,
+   "growth": 2.14,
+   "recent": 4,
    "baseline": 12,
-   "mentions": 15,
-   "sources": 9,
-   "recentSources": 2,
+   "mentions": 16,
+   "sources": 10,
+   "recentSources": 3,
    "categories": [
     "news"
    ],
@@ -601,7 +505,7 @@
     1,
     2,
     0,
-    1,
+    2,
     0
    ],
    "examples": [
@@ -611,14 +515,14 @@
      "source": "FoodNavigator"
     },
     {
+     "title": "5 things you should never mix with protein powder – and what’s actually fine",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Zb2Frd0xYZTdpZ1ZYd1BQdG5DM2VHUlNLLUV6VW5qZnZvTS1vR2RoSEZRekRVYV84VXYxVlZWaWYwQlhKb3paaTJDcjJjQ192QkJ6UC1zU0lIS3V0V0FwMXh5bFNKZWhqTGNwMjNuWmhuNjFQQ2dR?oc=5",
+     "source": "Yahoo Life UK (via Google News)"
+    },
+    {
      "title": "Yaí Pro green tea with Atlhetica Nutrition's Best Whey",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TOFVVNjVhQ0hFMWxNQ1dBN2hzU3pFS0VSeWFreWNwVm1pbjZOYVpBajVoNUs4eGx0VWNEeHdtZ1JZNWdqMzNtcUVoRi05Q0dxUWVqZk1qY2p3VnhzR09mZGpNSUpIRV82bVEzcXhJQQ?oc=5",
      "source": "Stack3d (via Google News)"
-    },
-    {
-     "title": "Can baker’s yeast protein compete with whey? Spacemilk is betting on it",
-     "link": "https://www.foodnavigator.com/Article/2026/11/17/spacemilk-bets-on-bakers-yeast-protein-with-sprouts-launch/",
-     "source": "FoodNavigator"
     }
    ]
   },
@@ -672,12 +576,12 @@
    "label": "Magnesium",
    "group": "Ingredient",
    "kind": "topic",
-   "score": 31,
+   "score": 30,
    "direction": "flat",
-   "growth": 1.0,
+   "growth": 0.99,
    "recent": 8,
-   "baseline": 72,
-   "mentions": 80,
+   "baseline": 73,
+   "mentions": 81,
    "sources": 36,
    "recentSources": 6,
    "categories": [
@@ -692,7 +596,7 @@
     5,
     5,
     3,
-    9,
+    10,
     7,
     1,
     6,
@@ -728,7 +632,7 @@
    "recent": 4,
    "baseline": 22,
    "mentions": 26,
-   "sources": 15,
+   "sources": 14,
    "recentSources": 3,
    "categories": [
     "news"
@@ -747,9 +651,14 @@
     1,
     2,
     1,
-    0
+    1
    ],
    "examples": [
+    {
+     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
+     "source": "NutraIngredients"
+    },
     {
      "title": "'Age Appropriate': I’ve taken creatine for 10 years. Does it help healthy aging?",
      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2VLMG5VZ3UwQkdJSkt2YWQ4U0JtbFpuWEZPeUtHN1NxUVVlTTF3TlljUGx6UDVYUXlTWFg5NTdQRVY0eGIyUkVXcFp6TXBjeFlyRUhtN21iUlVpdUt4b2s1MldPcUpCMjM4ZjN6bU8yMjhteXFEVHZldFBwRkJhY1FxOA?oc=5",
@@ -759,61 +668,56 @@
      "title": "NutraIngredients Europe Awards 2027 celebrate ingredient innovation",
      "link": "https://www.nutraingredients.com/Article/2026/11/18/from-microbiome-to-mind-and-mood-celebrating-ingredient-innovation-at-the-2027-nutraingredients-europe-awards/",
      "source": "NutraIngredients"
-    },
-    {
-     "title": "Optimising preventive nutrition for healthy ageing in the GLP-1 era",
-     "link": "https://www.vitafoodsinsights.com/healthy-ageing/optimising-preventive-nutrition-for-healthy-ageing-in-the-glp-1-era",
-     "source": "Vitafoods Insights"
     }
    ]
   },
   {
-   "id": "collagen",
-   "label": "Collagen",
-   "group": "Ingredient",
+   "id": "powders",
+   "label": "Powders & drink mixes",
+   "group": "Format",
    "kind": "topic",
-   "score": 28,
+   "score": 27,
    "direction": "flat",
-   "growth": 1.04,
-   "recent": 7,
-   "baseline": 60,
-   "mentions": 67,
-   "sources": 44,
-   "recentSources": 5,
+   "growth": 1.25,
+   "recent": 4,
+   "baseline": 27,
+   "mentions": 31,
+   "sources": 18,
+   "recentSources": 4,
    "categories": [
     "news"
    ],
    "spark": [
-    4,
     0,
-    3,
-    3,
-    3,
-    7,
-    3,
     1,
-    3,
+    2,
+    2,
+    2,
+    1,
+    2,
     4,
-    1,
+    3,
+    0,
     5,
+    0,
     1,
     0
    ],
    "examples": [
     {
-     "title": "Collagen for Gut Health: Does It Help Bloating?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdVpoT0FmaU1paktvRmY1dTZ2QkxtRFBZMmdCeHpyeHo0YzIyVW0xczJjcExHZFdoQWN1aVA0Tl9rY1B3QWpHbGJZR0lneHBLRFRrVXdNMXVEM05tRWttbnhCSk5xS1ZqSVE?oc=5",
-     "source": "https://balancejournal.co/ (via Google News)"
+     "title": "5 things you should never mix with protein powder – and what’s actually fine",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Zb2Frd0xYZTdpZ1ZYd1BQdG5DM2VHUlNLLUV6VW5qZnZvTS1vR2RoSEZRekRVYV84VXYxVlZWaWYwQlhKb3paaTJDcjJjQ192QkJ6UC1zU0lIS3V0V0FwMXh5bFNKZWhqTGNwMjNuWmhuNjFQQ2dR?oc=5",
+     "source": "Yahoo Life UK (via Google News)"
     },
     {
-     "title": "This Black Friday collagen and creatine deal comes with 30% off and two free gifts",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2NjVmFub3RZS0pFdmJOSnVVVjV3aE1PeXcySXZNMDhrNzk5OXBqVUpoZkxKWVJfUTZfbHdFUkRjOHFzTWRfdndGbDRfRlYtR1dWeU9qLTk4THYtcHhoZ2MtLTJta29HZTliYWtuQ2w0UmZFYUo1cW0tUFVXV090c3QtVTdfOXhFX3NDeVNTT1kwT3o2LUhkQ0JTSXExVE9ad1RBdUVwNFdzMVd0VjkzYl9EYm51Ui02TVpEWDNLb25RMlZLQ1NDag?oc=5",
-     "source": "USA Today (via Google News)"
+     "title": "The Best Electrolyte Powders, Tested by Editors and Dietitians",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVeDZIaVZKZGtvNUc3UW83MTRXcEtOMjBtNjVCenhlb2FMTTIwTWhxaFJxOXdrb2FsdTNtLW5CODVHUmhpQnBNcU9jR1R3WGZIRnRFZmR3U1lCRGlfdjRDUHhjdWU3NVhmMGhRZWtRT0REZmNZV0I2VW83TQ?oc=5",
+     "source": "Men's Health (via Google News)"
     },
     {
-     "title": "Live Conscious Beyond Collagen is 40% off ahead of Black Friday 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTEo4Y1RfWkY1cGFJMTlVN0E4Ykx4TWFSSnRVX05fUlpsaF9rQXpBLURFSW1abkxHeFYwZnUyVUx6aHF6RzBkdUlrQ1NSNDNTRGhFVnNpU3Q4VnVpUkpPcXJDWkVxMzRQWUZTSC16UVlERl9HdGJrM2s1MHJzVzlPMzNJZ0xESUdGZTVZSHFwNmEwVWxmN1FxYVlwYlI3bXVQTGp0OFpySmFKZ1E?oc=5",
-     "source": "USA Today (via Google News)"
+     "title": "The Best Greens Powder of 2026: Tested and Approved",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yUXk4LU43ZXBfZjhOYm1LUEU5UG4xTE9KS1A2eFJYeXNVQTU2V2ZlQjJNYVZjUmFyank2dDBsZHFZQkVJTVdOb0ktQy1zUHowZW9kcWhqZlpNUnM?oc=5",
+     "source": "Fortune (via Google News)"
     }
    ]
   },
@@ -863,48 +767,52 @@
    ]
   },
   {
-   "id": "vitamin-d",
-   "label": "Vitamin D",
+   "id": "collagen",
+   "label": "Collagen",
    "group": "Ingredient",
    "kind": "topic",
-   "score": 18,
+   "score": 16,
    "direction": "flat",
-   "growth": 1.08,
-   "recent": 2,
-   "baseline": 16,
-   "mentions": 18,
-   "sources": 5,
-   "recentSources": 2,
+   "growth": 0.9,
+   "recent": 6,
+   "baseline": 61,
+   "mentions": 67,
+   "sources": 44,
+   "recentSources": 4,
    "categories": [
-    "news",
-    "social"
+    "news"
    ],
    "spark": [
-    0,
-    0,
-    2,
     5,
-    1,
-    1,
-    0,
     0,
     3,
-    2,
+    3,
+    3,
+    7,
+    3,
     1,
+    3,
+    4,
     1,
-    0,
+    5,
+    1,
     0
    ],
    "examples": [
     {
-     "title": "Infusd: Ingredient transformation could open new formats for creatine and other difficult actives",
-     "link": "https://www.nutraingredients.com/Article/2026/11/18/ingredient-transformation-could-open-new-formats-for-creatine-and-other-difficult-actives/",
-     "source": "NutraIngredients"
+     "title": "Collagen for Gut Health: Does It Help Bloating?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdVpoT0FmaU1paktvRmY1dTZ2QkxtRFBZMmdCeHpyeHo0YzIyVW0xczJjcExHZFdoQWN1aVA0Tl9rY1B3QWpHbGJZR0lneHBLRFRrVXdNMXVEM05tRWttbnhCSk5xS1ZqSVE?oc=5",
+     "source": "https://balancejournal.co/ (via Google News)"
     },
     {
-     "title": "Anyone else dealt with low ferritin (15), D3 (13), and borderline B12 (279) at the same time? What did it actually feel like?",
-     "link": "https://www.reddit.com/r/Supplements/comments/1xybq02/anyone_else_dealt_with_low_ferritin_15_d3_13_and/",
-     "source": "Reddit r/Supplements"
+     "title": "This Black Friday collagen and creatine deal comes with 30% off and two free gifts",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2NjVmFub3RZS0pFdmJOSnVVVjV3aE1PeXcySXZNMDhrNzk5OXBqVUpoZkxKWVJfUTZfbHdFUkRjOHFzTWRfdndGbDRfRlYtR1dWeU9qLTk4THYtcHhoZ2MtLTJta29HZTliYWtuQ2w0UmZFYUo1cW0tUFVXV090c3QtVTdfOXhFX3NDeVNTT1kwT3o2LUhkQ0JTSXExVE9ad1RBdUVwNFdzMVd0VjkzYl9EYm51Ui02TVpEWDNLb25RMlZLQ1NDag?oc=5",
+     "source": "USA Today (via Google News)"
+    },
+    {
+     "title": "Live Conscious Beyond Collagen is 40% off ahead of Black Friday 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTEo4Y1RfWkY1cGFJMTlVN0E4Ykx4TWFSSnRVX05fUlpsaF9rQXpBLURFSW1abkxHeFYwZnUyVUx6aHF6RzBkdUlrQ1NSNDNTRGhFVnNpU3Q4VnVpUkpPcXJDWkVxMzRQWUZTSC16UVlERl9HdGJrM2s1MHJzVzlPMzNJZ0xESUdGZTVZSHFwNmEwVWxmN1FxYVlwYlI3bXVQTGp0OFpySmFKZ1E?oc=5",
+     "source": "USA Today (via Google News)"
     }
    ]
   },
@@ -913,13 +821,13 @@
    "label": "Blood sugar & metabolic",
    "group": "Health area",
    "kind": "topic",
-   "score": 9,
+   "score": 10,
    "direction": "flat",
-   "growth": 0.87,
+   "growth": 0.9,
    "recent": 2,
-   "baseline": 22,
-   "mentions": 24,
-   "sources": 13,
+   "baseline": 21,
+   "mentions": 23,
+   "sources": 12,
    "recentSources": 2,
    "categories": [
     "pharma",
@@ -1008,6 +916,146 @@
  "phrases": [],
  "items": [
   {
+   "id": "b09340b0",
+   "title": "Local wellness brand launches all-in-one supplement for women",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNC1YNm5peGxmZ2NibWJnX3J6Mm9GUE5VSzc3UzNfR3JJZHFoa0E5MzgxcnZUUFprQ2tqUkNEdU9lMGtXWF9scTdvSkxIUUFrOFpmNUxxQjBydjl0bUI1ZlpNQ2pmanpGMjF3bHZ1WHlQNkJvcFp4dUdTdng2REViaFBWUHpCSW1RZGlLRGlfY3pLRk1JVndMcE41UmU3ZTdNUG1pa1Y1R3pYUQ?oc=5",
+   "date": "2026-11-20T10:42:33+00:00",
+   "source": "Bizcommunity (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": []
+  },
+  {
+   "id": "ae02bf2a",
+   "title": "Protein made from ‘thin air’ receives positive EFSA safety opinion",
+   "link": "https://www.nutraingredients.com/Article/2026/11/20/protein-made-from-thin-air-receives-positive-efsa-safety-opinion/",
+   "date": "2026-11-20T10:08:45+00:00",
+   "source": "NutraIngredients",
+   "category": "news",
+   "summary": "Finnish food technology company Solar Foods has secured a positive European Food Safety Authority (EFSA) safety opinion for Solein, its innovative alternative protein produced from hydrogen and carbon dioxide through gas fermentation,...",
+   "topics": []
+  },
+  {
+   "id": "38fba395",
+   "title": "China likely to become the biggest probiotic market by 2030, says IPA chief",
+   "link": "https://www.nutraingredients.com/Article/2026/11/20/china-likely-to-become-the-biggest-probiotic-market-by-2030-says-ipa-chief/",
+   "date": "2026-11-20T09:47:28+00:00",
+   "source": "NutraIngredients",
+   "category": "news",
+   "summary": "While the US is still the leading probiotic market, China is quickly catching up, seeing double digit growth in the years leading up to 2026.",
+   "topics": [
+    "probiotics"
+   ]
+  },
+  {
+   "id": "4066443b",
+   "title": "Feeling better for longer in a decentralized, agentic world",
+   "link": "https://www.nutraingredients.com/Article/2026/11/20/feeling-better-for-longer-in-a-decentralized-agentic-world/",
+   "date": "2026-11-20T09:46:11+00:00",
+   "source": "NutraIngredients",
+   "category": "news",
+   "summary": "People want to live longer, healthier lives while feeling good in a world increasingly compressed by climate change, soil degradation, biodiversity loss, poor diet, pollution, social disconnection, geopolitical instability and...",
+   "topics": []
+  },
+  {
+   "id": "62f7f11b",
+   "title": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
+   "link": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/",
+   "date": "2026-11-20T09:30:00+00:00",
+   "source": "STAT",
+   "category": "pharma",
+   "summary": "Ian Burkhart, founder of a coalition of brain implant trial participants, says device developers should give patients more agency in research.",
+   "topics": []
+  },
+  {
+   "id": "60519cd3",
+   "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+   "link": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/",
+   "date": "2026-11-20T09:30:00+00:00",
+   "source": "STAT",
+   "category": "pharma",
+   "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
+   "topics": []
+  },
+  {
+   "id": "9f0a6c1b",
+   "title": "Opinion: More doctors should prescribe exercise after a concussion",
+   "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/",
+   "date": "2026-11-20T09:30:00+00:00",
+   "source": "STAT",
+   "category": "pharma",
+   "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both.",
+   "topics": [
+    "sports"
+   ]
+  },
+  {
+   "id": "0e090737",
+   "title": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
+   "link": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/",
+   "date": "2026-11-20T09:30:00+00:00",
+   "source": "STAT",
+   "category": "pharma",
+   "summary": "The systems built to grow global surgery are not required to measure the number of women surgeons.",
+   "topics": []
+  },
+  {
+   "id": "92dcfcfc",
+   "title": "Tonum Health targets GLP-1 protein needs in Euvita telehealth partnership",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3RhUnNuUzNDSXFLX1FUelh5UzAxd0hFZUZmOG5sQUEzNDdvZGNqRVVRcTdILTNOS3FlSmtnNVFnbzNZLVBQWXdOWFNtTWlJWFR0OGprekZ4ZkhlZUJaM3RFVnNTVE9XMXB4aXZsdmhCVzBDemZqVlNVbXFQNUxZSWJKcFZTQkJ5dnNadk4xV0J0WDVIQjktVw?oc=5",
+   "date": "2026-11-20T09:14:27+00:00",
+   "source": "Nutrition Insight (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "glp1"
+   ]
+  },
+  {
+   "id": "61a24846",
+   "title": "Merz Therapeutics: Staying focused while scaling a global neuroscience business",
+   "link": "https://www.pharmaceutical-technology.com/interviews/merz-therapeutics-staying-focused-while-scaling-a-global-neuroscience-business/",
+   "date": "2026-11-20T08:00:00+00:00",
+   "source": "Pharmaceutical Technology",
+   "category": "pharma",
+   "summary": "",
+   "topics": []
+  },
+  {
+   "id": "3bb3dc28",
+   "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
+   "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
+   "date": "2026-11-20T07:25:31+00:00",
+   "source": "NutraIngredients",
+   "category": "news",
+   "summary": "Find out the latest trends in Asia-Pacific's nutraceutical sector in this round-up.",
+   "topics": [
+    "longevity",
+    "weight",
+    "sports"
+   ]
+  },
+  {
+   "id": "d9e0fa69",
+   "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+   "link": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/",
+   "date": "2026-11-20T07:23:34+00:00",
+   "source": "STAT",
+   "category": "pharma",
+   "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
+   "topics": []
+  },
+  {
+   "id": "b6a1b8b8",
+   "title": "How analysing Amazon market data can help suppliers and manufacturers",
+   "link": "https://www.vitafoodsinsights.com/manufacturing/how-analysing-amazon-market-data-can-help-suppliers-and-manufacturers",
+   "date": "2026-11-20T05:00:00+00:00",
+   "source": "Vitafoods Insights",
+   "category": "news",
+   "summary": "Analysing data from the world’s largest online marketplace can help suppliers and manufacturers identify untapped opportunities and build coherent business strategies.",
+   "topics": []
+  },
+  {
    "id": "17514fc1",
    "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
    "link": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/",
@@ -1027,6 +1075,18 @@
    "summary": "",
    "topics": [
     "creatine"
+   ]
+  },
+  {
+   "id": "e4fb0f68",
+   "title": "Intestinal Formulas Market Forecast to 2035: Demand Accelerates on Proactive Gut Health and Microbiome Science",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMXdlV2xpdGk3VGc5X1hta250NEI4eXBYWlp1dkV4UVBzbzdYcl9mVmJWUWoyQnA3ZVVoYlh0OHktOC14MEtvV3JXWDhVbjd3T3lTX1JQSWRhY2w5dFRYZld3RHdpalJ0VXUyZ2ZRcXROaXBkRXhfUjBtdzlmVGpfWS1SZjQyaDVzblU5bEJxMzJxMEJSYm9RcEx3NjlfZHFlYkVsQVhqbUZtYmxxd2ZBbmJsTlptQi1KTWVIRVgxYWVEQ2p1QkNaN2VMelJjeWFvSkc5ckln?oc=5",
+   "date": "2026-11-19T23:26:05+00:00",
+   "source": "IndexBox (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "gut-health"
    ]
   },
   {
@@ -1050,6 +1110,16 @@
    "topics": [
     "kids"
    ]
+  },
+  {
+   "id": "5862aba1",
+   "title": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVFXTDVpQUc5NHp1UVdHZFBIaFNLbkhKLWdpU3FSV2hFcTN0aFFqRV9DbmwweVBJOWhFNFBWR1ZmLV9wb1JETE5vNEJDUXl0TG9ybzBNaTgwdlVuRnoyOW1Ra2thRnZwbWhOVnFfeVF2T280bGw1a3k5MTZleld5YVhQaVgtOFlfaVdVX3VmTXhuRFZuZ1owbjFsT3pOdldLZWxzYzkwT3RkSGFmc0tOTndqTXRaZGlKSEE0YXFqekh6eUo5R2pz?oc=5",
+   "date": "2026-11-19T22:31:12+00:00",
+   "source": "Fierce Biotech (via Google News)",
+   "category": "pharma",
+   "summary": "",
+   "topics": []
   },
   {
    "id": "2fceb5a5",
@@ -1094,6 +1164,18 @@
    "category": "news",
    "summary": "",
    "topics": []
+  },
+  {
+   "id": "981e84ca",
+   "title": "Shelf-Stable Probiotic Carriers Market Size, Share & Forecast 2036",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oRjhEWW5JdGZFNzN1WFRXYWlwWXNsM3BjUG9YakUyaTB2cnJ4TDRsZjJCOEc4VmhfOE5zR0Zhcl91VG8xdGRhTzBmaXZocU1zOVRwQU5zam95ZWFISXc0U3hjeTF0MVl4WDNQU1VMMFk3OHF1NFdV?oc=5",
+   "date": "2026-11-19T18:30:00+00:00",
+   "source": "Fact.MR (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "probiotics"
+   ]
   },
   {
    "id": "0032ac37",
@@ -1295,6 +1377,16 @@
    "topics": []
   },
   {
+   "id": "76b9e48b",
+   "title": "Medicine supply crisis exposes gaps in South Africa’s health system",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemtrRUwzOEliUldGb1VOZ19VV1ExdG9xMFpZeUttTU9qU2ZwOG9MOVdMQWxPSDFXOU5DV2NTMU8xWWFpQ0h5Tl92b0U2MlRKcVRSaXNUNVgxR0ZUeVFDa0RxY2kxV0NFQ1dITTNFS182MTJDOFlUUEdnaUxCalBaZ01tUDNPU2t6RjNnMmdLMnRIYTl5UXVOYngzaEgtSFdxYXF5TUlicUo?oc=5",
+   "date": "2026-11-19T15:43:47+00:00",
+   "source": "The South African Star (via Google News)",
+   "category": "regulatory",
+   "summary": "",
+   "topics": []
+  },
+  {
    "id": "60f5d698",
    "title": "Lineage enters race to Huntington’s market with NeuroAirmid takeover",
    "link": "https://www.pharmaceutical-technology.com/news/lineage-neuroairmid-acquisition-huntingtons-disease/",
@@ -1351,6 +1443,19 @@
    "category": "pharma",
    "summary": "The product of a collaboration with Alnylam, Livsayis is now Regeneron’s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx.",
    "topics": []
+  },
+  {
+   "id": "53b63dee",
+   "title": "5 things you should never mix with protein powder – and what’s actually fine",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Zb2Frd0xYZTdpZ1ZYd1BQdG5DM2VHUlNLLUV6VW5qZnZvTS1vR2RoSEZRekRVYV84VXYxVlZWaWYwQlhKb3paaTJDcjJjQ192QkJ6UC1zU0lIS3V0V0FwMXh5bFNKZWhqTGNwMjNuWmhuNjFQQ2dR?oc=5",
+   "date": "2026-11-19T15:07:00+00:00",
+   "source": "Yahoo Life UK (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "protein",
+    "powders"
+   ]
   },
   {
    "id": "777c7a5a",
@@ -2745,6 +2850,18 @@
    ]
   },
   {
+   "id": "03ddd301",
+   "title": "Proposed US Rule May Boost Supplement Industry Chances In ‘Race To Market’ For New Ingredients",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdWZoNlkybVRGQW96TmJJVWVjUWdUT2Z6NGJKT1U0UGw1MklNNGhCeEFHOUtMd2s5MnFNX2pCc0FnR2RWYnNiX0V0NlVDNl9vMExIZHA4c055b3pYdG1IYjFYcTlvQzZrQUtjejcxRjZUNl9IOXlnVnNnVk5pQmc4d0dpTTd2OU9ZbEx4ZDBpLTZ5TU55UzZvVjdSS3RlUVo4cWRKMFhlMDgxUU5Bb1VwZW1tXzBkeVZya3pvdm5NQnlQdDd3NjNqUmJGdkl0ZWVwYU01NHJ2VGg5N0ZfTXp2LXhoSkhtUW13RHp1bEZNUW1PeDhXUVpKNm1jejRXM0R6bHBVWWVyWFpzeTY3ckZONUQyRmdKejgxcG1sWFdBLUcySGtQSXRVTE1RX3o?oc=5",
+   "date": "2026-11-18T04:40:13+00:00",
+   "source": "HBW Insight (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "supplement-reg"
+   ]
+  },
+  {
    "id": "05d3836d",
    "title": "Collagen supplements: What matters when choosing one",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeElSckdwb0dZUGJ6cVQtdVVZY2duRWg3dk5VbDRTZ0xPNlEzeVZyWXVBTU4xLW5vZ3kwM3dUOW5YSXhoMF9PTnF0Wm5QTUdzSGFFeGxIV0RIcTFzUFY0Y05SYXgxZ2JMMXpNWVh4SVUyV2tGZENVdGcxS3REUURMZ1pGbHladnpiRjUtcnBOdG5qTVVBZVJ3ZEYxVjkzWkNydmMxd3ZFOTBGWG1SQklROQ?oc=5",
@@ -4082,214 +4199,9 @@
    "category": "pharma",
    "summary": "The FDA refused to overlook ivonescimab’s failure to initially extend survival in a form of lung cancer, setting back Summit’s first chance to win a U.S. approval.",
    "topics": []
-  },
-  {
-   "id": "434076f8",
-   "title": "J&J outlays up to $3.3bn to buy ophthalmology specialist Ollin Biosciences",
-   "link": "https://www.pharmaceutical-technology.com/news/jj-outlays-up-to-3-3bn-to-buy-ophthalmology-specialist-ollin-biosciences/",
-   "date": "2026-11-16T17:03:50+00:00",
-   "source": "Pharmaceutical Technology",
-   "category": "pharma",
-   "summary": "The deal sees J&J bolster its pipeline with a bispecific antibody in Phase III development for wAMD and DME.",
-   "topics": []
-  },
-  {
-   "id": "e4d85486",
-   "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
-   "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
-   "date": "2026-11-16T17:00:00+00:00",
-   "source": "BioPharma Dive",
-   "category": "pharma",
-   "summary": "CG’s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street’s expectations and lifting company shares.",
-   "topics": []
-  },
-  {
-   "id": "5fb84c97",
-   "title": "J&J bets $2.2B on Ollin’s vision loss drug",
-   "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
-   "date": "2026-11-16T16:57:00+00:00",
-   "source": "BioPharma Dive",
-   "category": "pharma",
-   "summary": "The deal hands J&J a treatment that could complement its existing eye care franchise, but would vie for share of a crowded and competitive market.",
-   "topics": [
-    "eye"
-   ]
-  },
-  {
-   "id": "84a5c7e8",
-   "title": "STAT+: Biotech’s rebound isn’t lifting all boats equally",
-   "link": "https://www.statnews.com/2026/11/16/biotech-news-rebound-isnt-lifting-all-boats-equally/",
-   "date": "2026-11-16T16:56:33+00:00",
-   "source": "STAT",
-   "category": "pharma",
-   "summary": "Biotech is having a good year, though you wouldn't necessarily know it from how investors are treating positive clinical data.",
-   "topics": []
-  },
-  {
-   "id": "c3cc989d",
-   "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
-   "link": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/",
-   "date": "2026-11-16T16:52:09+00:00",
-   "source": "STAT",
-   "category": "pharma",
-   "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
-   "topics": []
-  },
-  {
-   "id": "e7b1081b",
-   "title": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
-   "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aldi-recalls-priano-protein-carbonara-tortelloni-and-priano-protein-herb-cheese-tortelloni-because",
-   "date": "2026-11-16T16:20:00+00:00",
-   "source": "FDA recalls",
-   "category": "regulatory",
-   "summary": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures,...",
-   "topics": [
-    "recalls"
-   ]
-  },
-  {
-   "id": "cece05a7",
-   "title": "Energy drinks, stimulant supplements raise risk of heart problems — Study",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTm43Ny14bVFyczBkLUtyd2ZpdXlWS1BrZFMzVXlvTy1WRER1YVQ5SU41WUJKSnk5Y29sc202Ty1jTThIRlhSbTlwUk95XzFmdktpSWFaNnB4dmFNYmxvajZWMDdjZXpPeDNDXzZsb2dENmNfYlIyTnN6dUI1RHBsUU1fVkExQ3VJeURxcFAzcXd6MlZYSzJzNE1RMG5rSGZ5?oc=5",
-   "date": "2026-11-16T16:18:42+00:00",
-   "source": "Tribune Online (via Google News)",
-   "category": "sa",
-   "summary": "",
-   "topics": [
-    "caffeine"
-   ]
-  },
-  {
-   "id": "7777e7be",
-   "title": "RevMed CEO on tackling “complex” launch for wonder pancreatic drug",
-   "link": "https://www.pharmaceutical-technology.com/news/revmed-ceo-on-tackling-complex-launch-for-pancreatic-drug/",
-   "date": "2026-11-16T16:15:02+00:00",
-   "source": "Pharmaceutical Technology",
-   "category": "pharma",
-   "summary": "One of oncology’s biggest success stories this year, RevMed's Rasonque, has started with strong uptake in the US.",
-   "topics": []
-  },
-  {
-   "id": "54c5f3a4",
-   "title": "Flagship Pioneering expands to UK with £100m AI-native lab",
-   "link": "https://www.pharmaceutical-technology.com/news/flagship-pioneering-uk-expansion-100m-ai-native-lab/",
-   "date": "2026-11-16T16:01:20+00:00",
-   "source": "Pharmaceutical Technology",
-   "category": "pharma",
-   "summary": "Flagship's UK investment marks another sign of turning tides for the UK life sciences sector, following prior big pharma funding pullouts.",
-   "topics": []
-  },
-  {
-   "id": "459c28f6",
-   "title": "Roche’s Gazyva adds 3rd immune indication with first FDA nod for primary membranous nephropathy",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3ZOWE10anY0cjljZ3NJV0lZSnlHQ1F3ZGctenl3V2FkcmxGNEhySFd6OW1mODQ2NUdNdUJXODZkNTFNT3pTN3hBZThBWW9NTnVFamFIOG1qaXFsUUh1eDl1Tl9IVGV5cFhlYko4MXJ4RVdQNzdkc2p4SnF5YnhkSHFBbFZDekRlbnVPUDgtcjFzdlNKMVRJcWoxVTB3R2ZOTlVseXQ2Nmk0RnRYYVVNRG9UZ2Q4Qk1QM196Ug?oc=5",
-   "date": "2026-11-16T16:00:00+00:00",
-   "source": "Fierce Pharma (via Google News)",
-   "category": "pharma",
-   "summary": "",
-   "topics": []
-  },
-  {
-   "id": "2330a062",
-   "title": "What am I missing",
-   "link": "https://www.reddit.com/r/Supplements/comments/1xxt1fz/what_am_i_missing/",
-   "date": "2026-11-16T15:59:08+00:00",
-   "source": "Reddit r/Supplements",
-   "category": "social",
-   "summary": "I eat a ton of pineapple so not taking anything for vitamin C but curious what else I should be taking.",
-   "topics": []
-  },
-  {
-   "id": "ae16e4a4",
-   "title": "Eisai, Linus Health launch ‘brain health’ digital resource",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWpMR25ITl9EeUVxeTF5cVB2OUlsa3g1YlV4LUlnSC1RTTJJeWo2bnhrZjM5cjExWmVvam1OU0dDTXVsZmRWRVU0RXM4NWp0VFdGQzNfcFNMWENqaERVY3lXd0lsdlJGWnJ5QUlUTmZZVVNfQ1ZVOFVnT3NPcF9JYmNpaVI2Vmx3UnpDWUVRYlFWY25XNHUtVTJR?oc=5",
-   "date": "2026-11-16T15:45:43+00:00",
-   "source": "Fierce Pharma (via Google News)",
-   "category": "pharma",
-   "summary": "",
-   "topics": [
-    "cognitive"
-   ]
-  },
-  {
-   "id": "76429e10",
-   "title": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUExadXR6UDJhdlVfV20td1Zwc05xaHJiUEM2Y0VxZXhQbW9FWHlUSlVZR2ZwMkhEeURvRzVSVlZCcThVTjFCMnl1Q21SRGRYeEtZTmRPZnl5Y240WDRYTUpqWE81ZlRZaUtGN2NLZEwtVmFpNndmVVdldmN6TUJmaXZUMkRRTjhxeDFzOEVSMkZoR19qeDNEUTJFRHc1bTZSQ25oN3prS2Y?oc=5",
-   "date": "2026-11-16T15:40:00+00:00",
-   "source": "Fierce Biotech (via Google News)",
-   "category": "pharma",
-   "summary": "",
-   "topics": []
-  },
-  {
-   "id": "c02357cb",
-   "title": "With Klygefa approvals, AZ expands myasthenia gravis domain beyond Soliris, Ultomiris",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWdRTG1oY0RfSllOQ29YQzBDNmw3TlpBNHhlRTVleU1UcWdTMklvY3VpaFVRRlU5NXR3NktpT1RKQjNQV0RuczU0SzBkNkdWenJ2dW40dEJzaHdpT0drMHZXaW0xemlnNGZSZkw2blBaWXNybDg4RUZxOHdoaGpkX01qUXhOSEN2QjlmOHdET24ya29TV0pFNU9kTWJSSHhadFp5Z1kxelZDUXRZQXBBOUlzQWE?oc=5",
-   "date": "2026-11-16T15:39:05+00:00",
-   "source": "Fierce Pharma (via Google News)",
-   "category": "pharma",
-   "summary": "",
-   "topics": []
-  },
-  {
-   "id": "85127ba7",
-   "title": "Bioma GLP-1 Booster Review (2026): Our Honest Thoughts",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FSjBkbVNrWVZraFNCZi1tMTl2WnU5ZHZKTng3Q2N4dXpyeC1TNDRtSXBoRlBRME1wNmt2aDBlS05BSUdraEFhako0SFlUaDllM3hWN3JWNzBDa1FKSXNOTWxrZll0UQ?oc=5",
-   "date": "2026-11-16T15:30:00+00:00",
-   "source": "Fortune (via Google News)",
-   "category": "news",
-   "summary": "",
-   "topics": [
-    "glp1"
-   ]
-  },
-  {
-   "id": "055d578d",
-   "title": "Any way to take Vitamin E without getting the nausea?",
-   "link": "https://www.reddit.com/r/Supplements/comments/1xxs9hs/any_way_to_take_vitamin_e_without_getting_the/",
-   "date": "2026-11-16T15:28:49+00:00",
-   "source": "Reddit r/Supplements",
-   "category": "social",
-   "summary": "I've tried right before bed, I've tried with food.. any other options?",
-   "topics": []
-  },
-  {
-   "id": "110e113d",
-   "title": "Beauty drinks: Can collagen and functional beverages turn wellness into a daily habit?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzJOU1Z1VFV1WHZMWlMtazRvMzAta3hsRmIxanlkY2plT21lVnVlODBCZUhvMGk1b1VOeDFRS09TSWtNWHFVWEVWb3A1aXA0Q2lrbF9kZ3F1RDVTUXo3OVFRMHFBdlN4TjhoQzN0TFUtY24tZzZWWEtUQ0k0X1Y2cHZ1TG0tSTBHRkpFdDA5N0w0VV80SDBtaE9QbXhGQQ?oc=5",
-   "date": "2026-11-16T15:28:34+00:00",
-   "source": "SIAL Network (via Google News)",
-   "category": "news",
-   "summary": "",
-   "topics": [
-    "collagen",
-    "skin-beauty"
-   ]
-  },
-  {
-   "id": "4b46eb9d",
-   "title": "First time this has happened to me",
-   "link": "https://www.reddit.com/r/Supplements/comments/1xxs2qw/first_time_this_has_happened_to_me/",
-   "date": "2026-11-16T15:21:29+00:00",
-   "source": "Reddit r/Supplements",
-   "category": "social",
-   "summary": "3 scoops inside my brand new tub of creatine lmao",
-   "topics": [
-    "creatine"
-   ]
-  },
-  {
-   "id": "10207a76",
-   "title": "Biogen inks $411M neurodegeneration pact with protein degrader biotech TrimTech",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjhkaE9LMWFxWjRKdUc5YS1RdlBrejFIOHdMbjZ1QWRnWGdXQmFnMFRBb0VjRGR3VFNIZVRGcG5wLW1sQ000cUN4dkMwNVl4ZzZ6RWJ6TlpzMlVYMmFNbHcxVG5uQlhsSjRBX0FEME83MWJjT0ZEVUpsbXU5NUtnR1V5LThzRVRJWFl4djhpaWxRTXI2eHFjUFBrUXRxREZOWWZrN3FaaVE2M25WMVNHQXpLNGxyVFZV?oc=5",
-   "date": "2026-11-16T15:00:00+00:00",
-   "source": "Fierce Biotech (via Google News)",
-   "category": "pharma",
-   "summary": "",
-   "topics": []
   }
  ],
- "itemCount": 1549,
+ "itemCount": 1558,
  "sources": [
   {
    "name": "NutraIngredients",
@@ -4297,7 +4209,7 @@
    "category": "news",
    "ok": true,
    "items": 20,
-   "new": 0
+   "new": 4
   },
   {
    "name": "FoodNavigator",
@@ -4313,7 +4225,7 @@
    "category": "news",
    "ok": true,
    "items": 30,
-   "new": 1
+   "new": 0
   },
   {
    "name": "SupplySide Supplement Journal",
@@ -4329,14 +4241,14 @@
    "category": "news",
    "ok": true,
    "items": 50,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Google News: nutraceutical trends",
    "url": "https://news.google.com/rss/search?q=nutraceutical+trend+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "new": 0
   },
   {
@@ -4345,14 +4257,14 @@
    "category": "news",
    "ok": true,
    "items": 42,
-   "new": 1
+   "new": 2
   },
   {
    "name": "Google News: gut health",
    "url": "https://news.google.com/rss/search?q=gut+health+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 65,
+   "items": 67,
    "new": 2
   },
   {
@@ -4361,31 +4273,31 @@
    "category": "news",
    "ok": true,
    "items": 57,
-   "new": 1
+   "new": 2
   },
   {
    "name": "Google News: magnesium",
    "url": "https://news.google.com/rss/search?q=magnesium+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 40,
-   "new": 2
+   "items": 38,
+   "new": 1
   },
   {
    "name": "Google News: collagen",
    "url": "https://news.google.com/rss/search?q=collagen+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 47,
-   "new": 1
+   "items": 48,
+   "new": 2
   },
   {
    "name": "Google News: GLP-1 supplements",
    "url": "https://news.google.com/rss/search?q=GLP-1+supplements+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 24,
-   "new": 0
+   "items": 28,
+   "new": 4
   },
   {
    "name": "BioPharma Dive",
@@ -4401,7 +4313,7 @@
    "category": "pharma",
    "ok": true,
    "items": 10,
-   "new": 1
+   "new": 0
   },
   {
    "name": "STAT",
@@ -4409,7 +4321,7 @@
    "category": "pharma",
    "ok": true,
    "items": 20,
-   "new": 3
+   "new": 5
   },
   {
    "name": "Pharmaceutical Technology",
@@ -4417,7 +4329,7 @@
    "category": "pharma",
    "ok": true,
    "items": 10,
-   "new": 0
+   "new": 1
   },
   {
    "name": "Google News: Fierce Pharma / Fierce Biotech",
@@ -4425,7 +4337,7 @@
    "category": "pharma",
    "ok": true,
    "items": 100,
-   "new": 6
+   "new": 1
   },
   {
    "name": "FDA press releases",
@@ -4448,7 +4360,7 @@
    "url": "https://news.google.com/rss/search?q=SAHPRA+when%3A30d&hl=en-ZA&gl=ZA&ceid=ZA:en",
    "category": "regulatory",
    "ok": true,
-   "items": 17,
+   "items": 16,
    "new": 1
   },
   {
@@ -4456,8 +4368,8 @@
    "url": "https://news.google.com/rss/search?q=supplements+South+Africa+when%3A30d&hl=en-ZA&gl=ZA&ceid=ZA:en",
    "category": "sa",
    "ok": true,
-   "items": 34,
-   "new": 0
+   "items": 33,
+   "new": 1
   },
   {
    "name": "Health-e News",
@@ -4507,7 +4419,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
    "name": "Reddit r/southafrica (supplements)",
@@ -4516,7 +4428,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP 404"
+   "error": "HTTP 429"
   },
   {
    "name": "YouTube: Andrew Huberman (example channel)",
