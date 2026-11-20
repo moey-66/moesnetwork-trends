@@ -1,23 +1,199 @@
 {
  "date": "2026-11-20",
- "generatedAt": "2026-11-20T11:31:31.645180Z",
+ "generatedAt": "2026-11-20T20:10:35.889738Z",
  "generator": "local_scan.py",
  "recentDays": 3,
  "trends": [
   {
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 98,
+   "direction": "up",
+   "growth": 2.35,
+   "recent": 16,
+   "baseline": 56,
+   "recentSources": 9,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "GLP-1 vision warning: Could demand be affected?",
+     "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
+     "source": "FoodNavigator",
+     "date": "2026-11-20T16:46:56+00:00",
+     "category": "news",
+     "summary": "The US's Food and Drug Administration (FDA) recently ruled that GLP-1 weight-loss drugs should include warnings of their potential links to NAION, a condition that can cause vision loss. With warnings reminding users of the risks every..."
+    },
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    },
+    {
+     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:43:27+00:00",
+     "category": "news",
+     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
+    },
+    {
+     "title": "Learn how to take GLP-1 companion innovation to the next level.",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3hKUnlHcjk1WXJzWG1pZ2pQS3ZSV0FxNEowRHV2T1NsOFNwbkI5RWhTVjlzSmQzNXJZbEVrd3l5cVQwR2pGLWxETUZhd3RMY2JhSE91RkR1VklQVS04d1ZCRG1Zc1ZsVjlxWTNNaktKZEN6UVhvczhsMVhYX2lXOXJNaDFKS3pFS0U2SGl0R29INkpGb3owbmE4NHJJUQ?oc=5",
+     "source": "SupplySide Supplement Journal (via Google News)",
+     "date": "2026-11-20T15:10:03+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Tonum Health targets GLP-1 protein needs in Euvita telehealth partnership",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3RhUnNuUzNDSXFLX1FUelh5UzAxd0hFZUZmOG5sQUEzNDdvZGNqRVVRcTdILTNOS3FlSmtnNVFnbzNZLVBQWXdOWFNtTWlJWFR0OGprekZ4ZkhlZUJaM3RFVnNTVE9XMXB4aXZsdmhCVzBDemZqVlNVbXFQNUxZSWJKcFZTQkJ5dnNadk4xV0J0WDVIQjktVw?oc=5",
+     "source": "Nutrition Insight (via Google News)",
+     "date": "2026-11-20T09:14:27+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "How GLP-1s are accelerating dairy protein demand",
+     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
+     "source": "FoodNavigator",
+     "date": "2026-11-19T16:39:02+00:00",
+     "category": "news",
+     "summary": "GLP-1 drugs are driving demand for dairy proteins, particularly whey. Companies such as Danone, Yili, Arla and Saputo have pointed to GLP-1s as a demand driver. Yet products explicitly declaring suitability for GLP-1 users are rare...."
+    }
+   ]
+  },
+  {
+   "id": "probiotics",
+   "label": "Probiotics",
+   "group": "Ingredient",
+   "score": 86,
+   "direction": "up",
+   "growth": 2.15,
+   "recent": 16,
+   "baseline": 62,
+   "recentSources": 13,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Morinaga Nutritional Foods Details Japan-Based Probiotic Manufacturing Behind Its Human-Residential Bifidobacteria Ingredients",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWWhfUFVoWnktVDNTRFZEUks1TXozVnNZQ3FIVTR1enJWb1pIcVRIQ3JLUklaZnBxTms4N2xwRW1neEQ2akdZU1I1SEFXMTgxXzVpVFFEYzNZOHJ4a294T2dQanoySGxHYVRlMHNnZ3czNnY0d0ZJRC1HRmd5ejd0X0hNT0x6WFB5LVUyUjktZEdPOFhDWnRWR1RDRDhUUXQ0Z0NnSFBteXlsaWU5dnVKeW5FSS1lWk95Q0VwWENGMXlqMnZjdmZJTllSVjc5WEM4UG91cDRrYVJIZXl1N21Fc3FCeVFsSXhnYmJGZzRhYVJXWG55dklPV1hVVWVXbzNUNldtT3U3WDNoUQ?oc=5",
+     "source": "USA Today (via Google News)",
+     "date": "2026-11-20T16:59:04+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "NutraCast: Akkermansia research points to postbiotic potential for metabolic health, weight maintenance",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/nutracast-akkermansia-research-points-to-postbiotic-potential-for-metabolic-health-weight-maintenance/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:44:22+00:00",
+     "category": "news",
+     "summary": "Professor Willem de Vos explores Akkermansia research, postbiotic benefits, metabolic health and the potential to support long-term weight maintenance."
+    },
+    {
+     "title": "China likely to become the biggest probiotic market by 2030, says IPA chief",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/china-likely-to-become-the-biggest-probiotic-market-by-2030-says-ipa-chief/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T09:47:28+00:00",
+     "category": "news",
+     "summary": "While the US is still the leading probiotic market, China is quickly catching up, seeing double digit growth in the years leading up to 2026."
+    },
+    {
+     "title": "Solnul Replication Trial Reproduces Bifidobacterium and Stool Form Effects",
+     "link": "https://www.nutritionaloutlook.com/view/solnul-replication-trial-reproduces-bifidobacterium-stool-form-effects",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-19T21:11:17+00:00",
+     "category": "news",
+     "summary": "A 4-week trial of 3.5 g of Solnul resistant potato starch increased Bifidobacterium and normal stools versus placebo."
+    },
+    {
+     "title": "Shelf-Stable Probiotic Carriers Market Size, Share & Forecast 2036",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oRjhEWW5JdGZFNzN1WFRXYWlwWXNsM3BjUG9YakUyaTB2cnJ4TDRsZjJCOEc4VmhfOE5zR0Zhcl91VG8xdGRhTzBmaXZocU1zOVRwQU5zam95ZWFISXc0U3hjeTF0MVl4WDNQU1VMMFk3OHF1NFdV?oc=5",
+     "source": "Fact.MR (via Google News)",
+     "date": "2026-11-19T18:30:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Probiotic Stability Excipient Platforms Market Size, Share & Forecast 2036",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHpzU3JuRWtLVUcyU0tZazVsNW1kMTV4NTRJbV95bk5LMG1qUEptVFBTTHJlNVdDRGdUX2hpUm1qQmR5X3N0NU1LOXVTcnZyVm5TSjFud2RMamQwZVBuaDNXcXJiQ1c2dlhuc0k2b1R6b0pDNUFxMWY0ak84Nl84bzNB?oc=5",
+     "source": "Fact.MR (via Google News)",
+     "date": "2026-11-19T18:30:00+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "eye",
+   "label": "Eye health",
+   "group": "Health area",
+   "score": 68,
+   "direction": "up",
+   "growth": 3.21,
+   "recent": 4,
+   "baseline": 5,
+   "recentSources": 4,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Celebrating 30 Years of Innovation with FloraGlo Lutein",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1ZNTdiWmxVdS1nN0REa3U3ZnQ4SWRfWUQxc0p5SkRMNVRCNjZuOEdqNEFpd1V5MGpHaTdJYzk2WUZkNWswb282TTVQNEV0RE1lU3Z2Q19JMzJhbDM5Yk1yd3hjYXFGS2Q0X2tpMkhOdVpKMTROY3Q2YUpuNnpNLVdWaEZ4Tk5XNHc3UFJYN3dkaW82bW5sQ3RB?oc=5",
+     "source": "Nutritional Outlook (via Google News)",
+     "date": "2026-11-20T17:58:11+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "GLP-1 vision warning: Could demand be affected?",
+     "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
+     "source": "FoodNavigator",
+     "date": "2026-11-20T16:46:56+00:00",
+     "category": "news",
+     "summary": "The US's Food and Drug Administration (FDA) recently ruled that GLP-1 weight-loss drugs should include warnings of their potential links to NAION, a condition that can cause vision loss. With warnings reminding users of the risks every..."
+    },
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    },
+    {
+     "title": "FloraGlo at 30: How lutein science moved beyond eye health",
+     "link": "https://www.nutraingredients.com/Article/2026/11/18/floraglo-at-30-how-lutein-science-moved-beyond-eye-health/",
+     "source": "NutraIngredients",
+     "date": "2026-11-18T10:12:03+00:00",
+     "category": "news",
+     "summary": "FloraGlo lutein, introduced by Kemin 30 years ago, has evolved from a pioneering eye health ingredient to one with potential benefits across cognition and early-life nutrition, supported by over 130 clinical trials. While initially..."
+    }
+   ]
+  },
+  {
    "id": "sports",
    "label": "Sports nutrition",
    "group": "Health area",
-   "score": 83,
+   "score": 64,
    "direction": "up",
-   "growth": 2.3,
-   "recent": 11,
-   "baseline": 38,
-   "recentSources": 4,
+   "growth": 2.02,
+   "recent": 10,
+   "baseline": 40,
+   "recentSources": 3,
    "categories": [
     "news",
-    "pharma",
-    "social"
+    "pharma"
    ],
    "articles": [
     {
@@ -27,6 +203,14 @@
      "date": "2026-11-20T09:30:00+00:00",
      "category": "pharma",
      "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both."
+    },
+    {
+     "title": "Protein, creatine, pre-workout, testosterone boosters: Gym stack holds fertility risks men often miss",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFhoZWJGMTJFUWZZVWx1MnV6aHg1Rzd0TGFiT1ZwNGpxc3B1Tl9PQ1YtQmdQeXYzODVqcTlCZWdzYV9qajB1V05PSmZOa0VXRkJJdVU1SjQ5VXVKVFJlUXNpVnZPb2UwRDFZRElxZjFaN1ZBNEh3V3poLXZ5VF9iaFRhVW9iWWpWTVF0anJiN0HSAZYBQVVfeXFMTjhCQWxZc0pJekY5UjZOWms2eWJ3MmdKdWk1TXZxdVJiRzExSGdIOHNGcmJPY1MtUDgzV3c0bW9idnQ4aWN0cXg1VzFrTmtmNmFKSHBmVllPQ29ORjR2OThuVWRHTjhzLVVlMnFYcGdEZE8tX00yOUxZWF9lemFLRmVOdldhdjc3T3RSdzR1VWt0MGs1UkpB?oc=5",
+     "source": "News9live (via Google News)",
+     "date": "2026-11-20T08:58:30+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
      "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
@@ -59,143 +243,6 @@
      "date": "2026-11-19T12:12:17+00:00",
      "category": "news",
      "summary": "Herbalife has partnered with Ulster University on a two-year clinical research trial investigating how protein and micronutrient shakes can support people taking GLP-1 weight-loss medications, addressing muscle loss and nutritional..."
-    },
-    {
-     "title": "Multi-ingredient supplement may reduce knee pain in active individuals: Study",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/multi-ingredient-supplement-may-support-knee-pain-in-active-individuals-study/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T10:42:27+00:00",
-     "category": "news",
-     "summary": "A multi-ingredient joint health formula improved exercise tolerance in individuals with knee pain, according to a recent pilot study."
-    }
-   ]
-  },
-  {
-   "id": "glp1",
-   "label": "GLP-1 (and 'GLP-1 support')",
-   "group": "Topic",
-   "score": 82,
-   "direction": "up",
-   "growth": 2.0,
-   "recent": 13,
-   "baseline": 54,
-   "recentSources": 7,
-   "categories": [
-    "news",
-    "pharma"
-   ],
-   "articles": [
-    {
-     "title": "Tonum Health targets GLP-1 protein needs in Euvita telehealth partnership",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3RhUnNuUzNDSXFLX1FUelh5UzAxd0hFZUZmOG5sQUEzNDdvZGNqRVVRcTdILTNOS3FlSmtnNVFnbzNZLVBQWXdOWFNtTWlJWFR0OGprekZ4ZkhlZUJaM3RFVnNTVE9XMXB4aXZsdmhCVzBDemZqVlNVbXFQNUxZSWJKcFZTQkJ5dnNadk4xV0J0WDVIQjktVw?oc=5",
-     "source": "Nutrition Insight (via Google News)",
-     "date": "2026-11-20T09:14:27+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "How GLP-1s are accelerating dairy protein demand",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T16:39:02+00:00",
-     "category": "news",
-     "summary": "GLP-1 drugs are driving demand for dairy proteins, particularly whey. Companies such as Danone, Yili, Arla and Saputo have pointed to GLP-1s as a demand driver. Yet products explicitly declaring suitability for GLP-1 users are rare...."
-    },
-    {
-     "title": "What’s next for sports nutrition? SANS US 2027 tackles the big questions",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/whats-next-for-sports-nutrition-sans-us-2027-tackles-the-big-questions/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T15:35:24+00:00",
-     "category": "news",
-     "summary": "The Sports & Active Nutrition Summit USA 2027, set for February in Dallas, will address key industry topics including GLP-1 medications, muscle health, women’s performance, and regulatory developments."
-    },
-    {
-     "title": "Male users and pill format driving growth in GLP-1 use",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/glp-1-pill-and-men-drives-weight-loss-drug-boom-in-great-britain/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T14:19:14+00:00",
-     "category": "news",
-     "summary": "GLP-1 pill adoption is accelerating across Great Britain, helping drive user growth to 8.5% of households as men and pill format fuel demand"
-    },
-    {
-     "title": "Weight-loss companion supplements target satiety, spikes and side effects",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/weight-loss-companion-supplements-target-satiety-spikes-and-side-effects/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T13:07:30+00:00",
-     "category": "news",
-     "summary": "As the use of pharmaceutical GLP-1 weight-loss treatments continues to shape the weight management market, supplement brands are developing products designed to complement-loss journeys."
-    },
-    {
-     "title": "Herbalife and Ulster University to collaborate on GLP-1 nutrition support research",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/herbalife-and-ulster-university-to-collaborate-on-glp-1-nutrition-support-research/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T12:12:17+00:00",
-     "category": "news",
-     "summary": "Herbalife has partnered with Ulster University on a two-year clinical research trial investigating how protein and micronutrient shakes can support people taking GLP-1 weight-loss medications, addressing muscle loss and nutritional..."
-    }
-   ]
-  },
-  {
-   "id": "probiotics",
-   "label": "Probiotics",
-   "group": "Ingredient",
-   "score": 78,
-   "direction": "up",
-   "growth": 1.96,
-   "recent": 14,
-   "baseline": 60,
-   "recentSources": 13,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "China likely to become the biggest probiotic market by 2030, says IPA chief",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/china-likely-to-become-the-biggest-probiotic-market-by-2030-says-ipa-chief/",
-     "source": "NutraIngredients",
-     "date": "2026-11-20T09:47:28+00:00",
-     "category": "news",
-     "summary": "While the US is still the leading probiotic market, China is quickly catching up, seeing double digit growth in the years leading up to 2026."
-    },
-    {
-     "title": "Solnul Replication Trial Reproduces Bifidobacterium and Stool Form Effects",
-     "link": "https://www.nutritionaloutlook.com/view/solnul-replication-trial-reproduces-bifidobacterium-stool-form-effects",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-19T21:11:17+00:00",
-     "category": "news",
-     "summary": "A 4-week trial of 3.5 g of Solnul resistant potato starch increased Bifidobacterium and normal stools versus placebo."
-    },
-    {
-     "title": "Shelf-Stable Probiotic Carriers Market Size, Share & Forecast 2036",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oRjhEWW5JdGZFNzN1WFRXYWlwWXNsM3BjUG9YakUyaTB2cnJ4TDRsZjJCOEc4VmhfOE5zR0Zhcl91VG8xdGRhTzBmaXZocU1zOVRwQU5zam95ZWFISXc0U3hjeTF0MVl4WDNQU1VMMFk3OHF1NFdV?oc=5",
-     "source": "Fact.MR (via Google News)",
-     "date": "2026-11-19T18:30:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Probi LP299V probiotic features in multi-biotic supplement launch in Thailand",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdUYlktZFhqRkJ4dHFVbnZtSlY2MTZOcEpmS0N0SnBHOTVwZExlRlgxWXBFc0NGMDJqa29NNU5URjNfemlZODdvSnpSRmd3aGxHRF96NUxjM2NJNXVYVWRPVGlyWnZ6VnlWZnB1b3ltenVDS3gxRHJiV185MEp0Mm10dFBjR0JqTXc3SF95T0VJTUhy?oc=5",
-     "source": "Nutraceutical Business Review (via Google News)",
-     "date": "2026-11-19T16:29:06+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Probiotics Market to Reach US$301.15 Billion by 2033 at 12.9%",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdwSEt6ZEVYNHpYa3NacTBiRGRSUndPX3AtYk9VODRlN0hPcEFETWRkbU5SbDl0UlVOUmFFLTcwS3VsNWZaX2Fza2FTVUVVaEFJWV9yM1RBQ3EyMHpBRy1qSjcxeUpZdVZsWFIwLTZCc1QzU1lyclJJSkx3MURYOXZJLXJYbXVza3VlMUpFYVBvMkVfV00xVDRGa0I?oc=5",
-     "source": "openPR.com (via Google News)",
-     "date": "2026-11-19T16:17:25+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Toe Nail Fungus Probiotics: Supplement Review 2026 - View rDPqGVIWV",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTldJNmtSYjJ6VW52NDNzWHN2YVNWS3lrTFktMFpWZWZTT2dKSjFXMVQweXlDRU9fM3YtbFFQRDRMTS1zMzlvaE94cmlxR0Q3akl5VjJCMGdHanhPTFdzT2V6M1JpX3A3VWdISnlXSWM1d0ViejdBR21BNGhrRE5Rcjh2aHJabVAxajlVM0s2UTdkY2RvY2VTb1NIdV9Zd1Z4T2EzQ3lYTHJHNndqXy1FMFQwNi1ZMW9zVEQ0VlNETEh0N3NjUkhSZUtmb0JfdmIwdkdhcXd6cDA?oc=5",
-     "source": "Tuniscope (via Google News)",
-     "date": "2026-11-19T01:20:55+00:00",
-     "category": "news",
-     "summary": ""
     }
    ]
   },
@@ -203,16 +250,24 @@
    "id": "gut-health",
    "label": "Gut health",
    "group": "Health area",
-   "score": 78,
+   "score": 58,
    "direction": "up",
-   "growth": 2.17,
-   "recent": 12,
-   "baseline": 45,
-   "recentSources": 10,
+   "growth": 1.55,
+   "recent": 9,
+   "baseline": 49,
+   "recentSources": 9,
    "categories": [
     "news"
    ],
    "articles": [
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    },
     {
      "title": "Intestinal Formulas Market Forecast to 2035: Demand Accelerates on Proactive Gut Health and Microbiome Science",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMXdlV2xpdGk3VGc5X1hta250NEI4eXBYWlp1dkV4UVBzbzdYcl9mVmJWUWoyQnA3ZVVoYlh0OHktOC14MEtvV3JXWDhVbjd3T3lTX1JQSWRhY2w5dFRYZld3RHdpalJ0VXUyZ2ZRcXROaXBkRXhfUjBtdzlmVGpfWS1SZjQyaDVzblU5bEJxMzJxMEJSYm9RcEx3NjlfZHFlYkVsQVhqbUZtYmxxd2ZBbmJsTlptQi1KTWVIRVgxYWVEQ2p1QkNaN2VMelJjeWFvSkc5ckln?oc=5",
@@ -252,14 +307,6 @@
      "date": "2026-11-18T10:27:48+00:00",
      "category": "news",
      "summary": "Ingredient innovation continues to shape the future of the nutrition industry, with advances spanning beauty-from-within, microbiome health, sports nutrition, healthy aging and beyond. The 2027 NutraIngredients Europe Awards are..."
-    },
-    {
-     "title": "Probiotics Market Growth: How Natural Ingredients and Gut Health Trends Are Creating New Business Opportunities",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHlSRlZkNWMwS21DTktEMVhoei0zUXJsbGdvR0FRdU44SEg0NjFjS09rLVlzZjJ3b1o5dklqRDJpZEl1bko5MTZJMTN4NGp2eV9UbmZScW0wcWR2S1YxQ18zcThOb2JBUmRpYWlKVTR0TE9SajNlWndPeHoxRzNtX29ybzNhQzlyLVBGRTlnS2VUTTh5UlhtbWRNQW9OOWF2VTRzTGtxWWIyQTJsZlAwaEloZVJBd2wxTHR1UWdoeG5EYzdKdEFjLTJtT3VXVGFoTWt1NDBuenNsczVaMmZrd0kyMjAtQQ?oc=5",
-     "source": "Business News This Week (via Google News)",
-     "date": "2026-11-18T10:26:52+00:00",
-     "category": "news",
-     "summary": ""
     }
    ]
   },
@@ -267,15 +314,14 @@
    "id": "weight",
    "label": "Weight management",
    "group": "Health area",
-   "score": 72,
-   "direction": "up",
-   "growth": 1.75,
-   "recent": 6,
-   "baseline": 27,
-   "recentSources": 5,
+   "score": 51,
+   "direction": "flat",
+   "growth": 1.46,
+   "recent": 5,
+   "baseline": 28,
+   "recentSources": 4,
    "categories": [
     "news",
-    "pharma",
     "sa",
     "social"
    ],
@@ -313,142 +359,12 @@
      "summary": "Weight loss may lower biological age, but GLP-1 users and other groups face what one expert from Nestlé Research describes as “hidden malnutrition”, prompting calls for targeted nutritional support."
     },
     {
-     "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-     "link": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/",
-     "source": "STAT",
-     "date": "2026-11-17T14:25:41+00:00",
-     "category": "pharma",
-     "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product"
-    },
-    {
      "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
      "link": "https://www.youtube.com/watch?v=8YHTMsy0bT8",
      "source": "YouTube: Andrew Huberman (example channel)",
      "date": "2026-11-19T13:00:35+00:00",
      "category": "social",
      "summary": "In this Huberman Lab Essentials episode, I explain how nicotine affects the brain and body, including how it increases dopamine, acetylcholine and norepinephrine to boost motivation, focus and alertness, suppresses appetite and raises..."
-    }
-   ]
-  },
-  {
-   "id": "recalls",
-   "label": "Recalls & safety alerts",
-   "group": "Regulatory",
-   "score": 60,
-   "direction": "up",
-   "growth": 1.93,
-   "recent": 5,
-   "baseline": 19,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "regulatory",
-    "sa"
-   ],
-   "articles": [
-    {
-     "title": "Once Upon A Farm sued over Tractor Wheels recall and toddler marketing",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/once-upon-a-farm-sued-over-tractor-wheels-safety-claims/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T14:25:27+00:00",
-     "category": "news",
-     "summary": "Once Upon A Farm faces a proposed class action alleging misleading toddler snack bar marketing and inadequate refunds following its Tractor Wheels recall."
-    },
-    {
-     "title": "Airborne Tablets Recalled in SA Over Children’s Usage Labels",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2VxU3N3N2gzNWhoa1VVNHF0NjlpNGhiRWN6VHlRNC00aGxqUU5pY256bktTbkoyOWxpX1VoRk5jNHZqODk5eFg5OEE1a3ZnQ1dhdGRKVERZeVpNLVRvOWxwdmFQM3Y3cGtvUlZkQUlqLWgzRFlPNDcxZzhwR2JPZUtfWG1KaGlXMWc5OEhUcmptTnc?oc=5",
-     "source": "Newcastillian News (via Google News)",
-     "date": "2026-11-19T11:20:02+00:00",
-     "category": "sa",
-     "summary": ""
-    },
-    {
-     "title": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Con",
-     "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grand-strand-sandwich-company-recalls-lunch-box-bacon-egg-and-cheese-biscuit-lunch-box-jumbo-sausage",
-     "source": "FDA recalls",
-     "date": "2026-11-19T05:00:00+00:00",
-     "category": "regulatory",
-     "summary": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box..."
-    },
-    {
-     "title": "Larbi Inc. Recalls Yellow Dock Root Because of Possible Health Risk",
-     "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/larbi-inc-recalls-yellow-dock-root-because-possible-health-risk",
-     "source": "FDA recalls",
-     "date": "2026-11-17T23:30:00+00:00",
-     "category": "regulatory",
-     "summary": "Larbi Inc. of Valley Cottage, NY, is recalling three lots of Herb To Body Yellow Dock Root C/S 4oz, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in..."
-    },
-    {
-     "title": "Fresh & Ready Foods LLC Expands Recall to Include Fresh to You Brand Sausage, Egg & Cheese Biscuit Sandwich and Meals Made in Minutes Brand Biscuit & Sausage Gravy Due to Possible Health Risk",
-     "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresh-ready-foods-llc-expands-recall-include-fresh-you-brand-sausage-egg-cheese-biscuit-sandwich-and",
-     "source": "FDA recalls",
-     "date": "2026-11-17T16:18:00+00:00",
-     "category": "regulatory",
-     "summary": "LONGVIEW, Texas, November 17, 2026 — Fresh & Ready Foods LLC is expanding its November 8th recall of select Fresh To You Sausage, Egg & Cheese Biscuit Sandwiches to now include the additional products listed below produced at Fresh &..."
-    }
-   ]
-  },
-  {
-   "id": "creatine",
-   "label": "Creatine",
-   "group": "Ingredient",
-   "score": 56,
-   "direction": "flat",
-   "growth": 1.16,
-   "recent": 14,
-   "baseline": 107,
-   "recentSources": 12,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Creatine Supplements Surge in Popularity Among U.S. College Students Amid Growing Fitness and Body-Image Pressures",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnZ1R2Y4bW9lN2daMkdKN3k2ZEJ2dkYtRjY0NS1yMnpVMjFMcVZSMVlrNnFOQTU2VWFOZW9od2FKVFJaVWZGcUlGc1VsT2s5MnBVRkJsUUFDbjVqNXJwZnpoemctZHZ5TEFSSjhUQjA5TGI5T21JMzRVajFTMkNzbDhXMG4xa0sySDZYbDRMSFBiZ1ljSW9ZV0s0N1NTZmtMN1g4SkF5eExnb0hWYUxSNWdjRzBzQ3VObkZmMHNlZDZPYTNaV29yRjBvTlhGeGFOMFBwc1hkTFcwbF85RXZZd2lBdU0wZk0?oc=5",
-     "source": "Discover Magazine (via Google News)",
-     "date": "2026-11-19T23:52:35+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "CreaPrime previews Candeez chewable creatine with 1g per tablet",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZXZ5UDU1b19xLVhTUVNWQlEyT2piVEg5Z1lXSXJhTm1Qa1pNenRlNW9JSkxQeVNPQ3dBMkdSOGMwUy1CRzNQS3ZHTlA5czFSQnQtSnA1QVJ1SjdsV2VSaDlkWnZoTk5RT2FDdm8yLXlkc2dYWEtr?oc=5",
-     "source": "Stack3d (via Google News)",
-     "date": "2026-11-19T21:10:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "The Vitamin Shoppe sees double-digit growth in sports nutrition, creatine and on-the-go products",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/the-vitamin-shoppe-sees-double-digit-growth-in-sports-nutrition-creatine-and-on-the-go-products/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T15:33:44+00:00",
-     "category": "news",
-     "summary": "The Vitamin Shoppe is seeing sustained double-digit growth in creatine and strong momentum across sports nutrition, ready-to-drink (RTD) beverages and on-the-go products, according to its senior vice president of merchandising, Jack Gayton."
-    },
-    {
-     "title": "'Age Appropriate': I’ve taken creatine for 10 years. Does it help healthy aging?",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2VLMG5VZ3UwQkdJSkt2YWQ4U0JtbFpuWEZPeUtHN1NxUVVlTTF3TlljUGx6UDVYUXlTWFg5NTdQRVY0eGIyUkVXcFp6TXBjeFlyRUhtN21iUlVpdUt4b2s1MldPcUpCMjM4ZjN6bU8yMjhteXFEVHZldFBwRkJhY1FxOA?oc=5",
-     "source": "AOL.com (via Google News)",
-     "date": "2026-11-19T12:08:02+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Could creatine help you stay stronger as you get older?",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnA3dDNlX1ZjemFiRHVzUktVcjFzOTh5cTFvS0ZmMUxnOENJM0NoMTRfNzg2TEdZdGthRGdBX0xvdzZLN1VuTlJrRXlSRFBqbUNuNFE1WFc1R3hXY3dwTWJhYnp2by1EbjJabjlVWDdKQW03RjhmZ1FFSEJlVXA4ZFpVb3V5RjRob3BQek5BMA?oc=5",
-     "source": "Times & Star (via Google News)",
-     "date": "2026-11-19T05:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Creatine supplement use nearly doubles among US college students, new study finds",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUVJWGdzeGY3RVVER2IxUHdEWkdELVlUTGcxYjI4OGpUNTZMZl9FUEkyMzZ1UUtVT1F1aHhabjRidzh0WHhSOExoeDhoRkprM2hIdDgxVWNMa2ZFdnMzV3g2TEdid0tmaFNQRC1hMkMwSkNIYV9OMW1rVjZ0WlRIaWJqajJhaUk?oc=5",
-     "source": "Medical Xpress (via Google News)",
-     "date": "2026-11-18T22:40:05+00:00",
-     "category": "news",
-     "summary": ""
     }
    ]
   },
@@ -495,163 +411,35 @@
    ]
   },
   {
-   "id": "protein",
-   "label": "Protein",
-   "group": "Ingredient",
-   "score": 47,
-   "direction": "up",
-   "growth": 2.14,
-   "recent": 4,
-   "baseline": 12,
-   "recentSources": 3,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "How GLP-1s are accelerating dairy protein demand",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T16:39:02+00:00",
-     "category": "news",
-     "summary": "GLP-1 drugs are driving demand for dairy proteins, particularly whey. Companies such as Danone, Yili, Arla and Saputo have pointed to GLP-1s as a demand driver. Yet products explicitly declaring suitability for GLP-1 users are rare...."
-    },
-    {
-     "title": "5 things you should never mix with protein powder – and what’s actually fine",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Zb2Frd0xYZTdpZ1ZYd1BQdG5DM2VHUlNLLUV6VW5qZnZvTS1vR2RoSEZRekRVYV84VXYxVlZWaWYwQlhKb3paaTJDcjJjQ192QkJ6UC1zU0lIS3V0V0FwMXh5bFNKZWhqTGNwMjNuWmhuNjFQQ2dR?oc=5",
-     "source": "Yahoo Life UK (via Google News)",
-     "date": "2026-11-19T15:07:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Yaí Pro green tea with Atlhetica Nutrition's Best Whey",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TOFVVNjVhQ0hFMWxNQ1dBN2hzU3pFS0VSeWFreWNwVm1pbjZOYVpBajVoNUs4eGx0VWNEeHdtZ1JZNWdqMzNtcUVoRi05Q0dxUWVqZk1qY2p3VnhzR09mZGpNSUpIRV82bVEzcXhJQQ?oc=5",
-     "source": "Stack3d (via Google News)",
-     "date": "2026-11-17T23:35:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Can baker’s yeast protein compete with whey? Spacemilk is betting on it",
-     "link": "https://www.foodnavigator.com/Article/2026/11/17/spacemilk-bets-on-bakers-yeast-protein-with-sprouts-launch/",
-     "source": "FoodNavigator",
-     "date": "2026-11-17T12:57:40+00:00",
-     "category": "news",
-     "summary": "Spacemilk is bringing its baker’s yeast protein powder to Sprouts Farmers Market, positioning it as an alternative to whey and plant proteins."
-    }
-   ]
-  },
-  {
-   "id": "electrolytes",
-   "label": "Electrolytes & hydration",
-   "group": "Ingredient",
-   "score": 32,
-   "direction": "up",
-   "growth": 1.8,
-   "recent": 2,
-   "baseline": 6,
-   "recentSources": 2,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Synergy Flavours showcases hydration and clear protein concepts at FiE 2026",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmJQbm42aURuWE4wTnU1R1FMc1V6bjZ5YXFSazEtX29CTDJNd1Npc0x1djdJNHpmMzVRY3JjVDIxUEx5ek9PTjRyTC1hcnhiYmhKLUJEOHZHR1JPTUtHNFhFeC1JVzRnNmZVT2lLZ082VTRPVlJDNVRoWC1CT2xMOGtVejdxamJxdEhWbGp0VzlpNkYwVzcyUkdmNy1yZVRHUWI1aWFn?oc=5",
-     "source": "Nutraceutical Business Review (via Google News)",
-     "date": "2026-11-18T07:31:05+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "The Best Electrolyte Powders, Tested by Editors and Dietitians",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVeDZIaVZKZGtvNUc3UW83MTRXcEtOMjBtNjVCenhlb2FMTTIwTWhxaFJxOXdrb2FsdTNtLW5CODVHUmhpQnBNcU9jR1R3WGZIRnRFZmR3U1lCRGlfdjRDUHhjdWU3NVhmMGhRZWtRT0REZmNZV0I2VW83TQ?oc=5",
-     "source": "Men's Health (via Google News)",
-     "date": "2026-11-17T19:25:00+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "magnesium",
-   "label": "Magnesium",
-   "group": "Ingredient",
-   "score": 30,
-   "direction": "flat",
-   "growth": 0.99,
-   "recent": 8,
-   "baseline": 73,
-   "recentSources": 6,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "6 Drinks That Are High in Magnesium, According to Dietitians",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4Q1VjQldIMXhSUFFrZUlKVGpuRlJLa2IxOU9MWUwtUkctU1podFdjRzlKQUpkYXBLRzJNakVKM2J3NDJJczk0M01FWVBfUTIzSzFuYVIwcGtmWDRUWW1naU1sTnJWc2NBaWlfUVBZS2pYM25mNVdlUA?oc=5",
-     "source": "EatingWell (via Google News)",
-     "date": "2026-11-19T16:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "In Vitro Tests Link Concentrated Enteral Formula to Delayed Magnesium Oxide Disintegration",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFRSTnZnNEo2NzBuUG9BMjBSdEJ2OWpwR2NBMEw3NUZKZ3QtYnBuN21hZ1A5bUxvTEh3d3BCRmdiYXVLQ3ZibzVTV1VuamZXVThIVEhaWWlnTUEzZUt3UFFiQ3JibDlhV3ZFUEZ4OXgtZ1ZYWWtPNXhJTU00MWZvZEM2NElIampuOXZPeUJPZnlKSm55UGoxWjJFdzB5SV9Pb2M5cU50Nl9oNzYxaW1PeVZRX2pDdw?oc=5",
-     "source": "Bioengineer.org (via Google News)",
-     "date": "2026-11-18T20:21:26+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Magnesium Feed Supplements Do Not Consistently Reduce Tail Biting in Rearing Pigs",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU0UtZWNkN0ZnbVo5NUdfVmM5T3dHcGVpcW9RMXZWeXFGUldYOWdVUHVSa3l1VHVyeUZ4VjRxSWNKdm5GdjZDcm15eTJvTW5qRjdjbFdnYkZ1Z2gzSzdXb19neDJzeERCTHN3QXBCbWE1SUhJTVphNEQ4YzlrV3hfRjZIZ082R1h6dm1FTlNXNmR6c1VmbGxDY09uUUowd0J4aHBsNHZwVURxdw?oc=5",
-     "source": "Bioengineer.org (via Google News)",
-     "date": "2026-11-18T17:58:59+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "A Doctor Explains How Magnesium Interacts With Common Sleep Aids",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1o2OU83UXNSOVZJV0c0WHBxWlRCd3gyTjJKc2UteWRMTkt1NXY5U0RFOHRzclBlR0J3eW9uRFhwUHpaRGxPRGZ3Z0JvR2NZenJiRlJ0Zl9lUElNOExWTHpibUVIczhyV0FDbjRKR2xXQkY0UklQSHIzcy16TlZyRERkbUFXZFYwc0c0Z2lR?oc=5",
-     "source": "Verywell Health (via Google News)",
-     "date": "2026-11-18T15:30:53+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "5 Foods To Eat Alongside Magnesium for Better Absorption",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVBQSXJBUmJfel96V3Fiak9yandod3ZvYmlYWlVSTHE4a3JfQm96UXpBWVNRRUFLV3hTcTBydVk2N0lwaHRjM2ZxczEyRW5fR0JfZ0dpUzNpUDB4b2lVRnlKQzAyTjQzOGlYZjhEeEQtalhEWnlJaFVBMUlCeDZoZ3laYjZmb0JP?oc=5",
-     "source": "Health.com (via Google News)",
-     "date": "2026-11-18T14:35:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Infusd: Ingredient transformation could open new formats for creatine and other difficult actives",
-     "link": "https://www.nutraingredients.com/Article/2026/11/18/ingredient-transformation-could-open-new-formats-for-creatine-and-other-difficult-actives/",
-     "source": "NutraIngredients",
-     "date": "2026-11-18T13:27:59+00:00",
-     "category": "news",
-     "summary": "Infusd Nutrition has developed a platform that transforms difficult-to-formulate ingredients, such as creatine monohydrate, magnesium bisglycinate, and vitamin D oil, into water-soluble, stable, and neutral-tasting forms suitable for..."
-    }
-   ]
-  },
-  {
    "id": "longevity",
    "label": "Longevity & healthy ageing",
    "group": "Health area",
-   "score": 30,
-   "direction": "flat",
-   "growth": 1.45,
-   "recent": 4,
-   "baseline": 22,
-   "recentSources": 3,
+   "score": 50,
+   "direction": "up",
+   "growth": 1.97,
+   "recent": 6,
+   "baseline": 23,
+   "recentSources": 4,
    "categories": [
     "news"
    ],
    "articles": [
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    },
+    {
+     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:43:27+00:00",
+     "category": "news",
+     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
+    },
     {
      "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
      "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
@@ -687,19 +475,149 @@
    ]
   },
   {
-   "id": "powders",
-   "label": "Powders & drink mixes",
-   "group": "Format",
-   "score": 27,
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "score": 49,
    "direction": "flat",
-   "growth": 1.25,
+   "growth": 1.06,
+   "recent": 13,
+   "baseline": 110,
+   "recentSources": 11,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Protein, creatine, pre-workout, testosterone boosters: Gym stack holds fertility risks men often miss",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFhoZWJGMTJFUWZZVWx1MnV6aHg1Rzd0TGFiT1ZwNGpxc3B1Tl9PQ1YtQmdQeXYzODVqcTlCZWdzYV9qajB1V05PSmZOa0VXRkJJdVU1SjQ5VXVKVFJlUXNpVnZPb2UwRDFZRElxZjFaN1ZBNEh3V3poLXZ5VF9iaFRhVW9iWWpWTVF0anJiN0HSAZYBQVVfeXFMTjhCQWxZc0pJekY5UjZOWms2eWJ3MmdKdWk1TXZxdVJiRzExSGdIOHNGcmJPY1MtUDgzV3c0bW9idnQ4aWN0cXg1VzFrTmtmNmFKSHBmVllPQ29ORjR2OThuVWRHTjhzLVVlMnFYcGdEZE8tX00yOUxZWF9lemFLRmVOdldhdjc3T3RSdzR1VWt0MGs1UkpB?oc=5",
+     "source": "News9live (via Google News)",
+     "date": "2026-11-20T08:58:30+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Creatine Supplements Surge in Popularity Among U.S. College Students Amid Growing Fitness and Body-Image Pressures",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnZ1R2Y4bW9lN2daMkdKN3k2ZEJ2dkYtRjY0NS1yMnpVMjFMcVZSMVlrNnFOQTU2VWFOZW9od2FKVFJaVWZGcUlGc1VsT2s5MnBVRkJsUUFDbjVqNXJwZnpoemctZHZ5TEFSSjhUQjA5TGI5T21JMzRVajFTMkNzbDhXMG4xa0sySDZYbDRMSFBiZ1ljSW9ZV0s0N1NTZmtMN1g4SkF5eExnb0hWYUxSNWdjRzBzQ3VObkZmMHNlZDZPYTNaV29yRjBvTlhGeGFOMFBwc1hkTFcwbF85RXZZd2lBdU0wZk0?oc=5",
+     "source": "Discover Magazine (via Google News)",
+     "date": "2026-11-19T23:52:35+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "CreaPrime previews Candeez chewable creatine with 1g per tablet",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZXZ5UDU1b19xLVhTUVNWQlEyT2piVEg5Z1lXSXJhTm1Qa1pNenRlNW9JSkxQeVNPQ3dBMkdSOGMwUy1CRzNQS3ZHTlA5czFSQnQtSnA1QVJ1SjdsV2VSaDlkWnZoTk5RT2FDdm8yLXlkc2dYWEtr?oc=5",
+     "source": "Stack3d (via Google News)",
+     "date": "2026-11-19T21:10:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "The Vitamin Shoppe sees double-digit growth in sports nutrition, creatine and on-the-go products",
+     "link": "https://www.nutraingredients.com/Article/2026/11/19/the-vitamin-shoppe-sees-double-digit-growth-in-sports-nutrition-creatine-and-on-the-go-products/",
+     "source": "NutraIngredients",
+     "date": "2026-11-19T15:33:44+00:00",
+     "category": "news",
+     "summary": "The Vitamin Shoppe is seeing sustained double-digit growth in creatine and strong momentum across sports nutrition, ready-to-drink (RTD) beverages and on-the-go products, according to its senior vice president of merchandising, Jack Gayton."
+    },
+    {
+     "title": "'Age Appropriate': I’ve taken creatine for 10 years. Does it help healthy aging?",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2VLMG5VZ3UwQkdJSkt2YWQ4U0JtbFpuWEZPeUtHN1NxUVVlTTF3TlljUGx6UDVYUXlTWFg5NTdQRVY0eGIyUkVXcFp6TXBjeFlyRUhtN21iUlVpdUt4b2s1MldPcUpCMjM4ZjN6bU8yMjhteXFEVHZldFBwRkJhY1FxOA?oc=5",
+     "source": "AOL.com (via Google News)",
+     "date": "2026-11-19T12:08:02+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Could creatine help you stay stronger as you get older?",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnA3dDNlX1ZjemFiRHVzUktVcjFzOTh5cTFvS0ZmMUxnOENJM0NoMTRfNzg2TEdZdGthRGdBX0xvdzZLN1VuTlJrRXlSRFBqbUNuNFE1WFc1R3hXY3dwTWJhYnp2by1EbjJabjlVWDdKQW03RjhmZ1FFSEJlVXA4ZFpVb3V5RjRob3BQek5BMA?oc=5",
+     "source": "Times & Star (via Google News)",
+     "date": "2026-11-19T05:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "recalls",
+   "label": "Recalls & safety alerts",
+   "group": "Regulatory",
+   "score": 49,
+   "direction": "up",
+   "growth": 1.55,
    "recent": 4,
-   "baseline": 27,
+   "baseline": 20,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "regulatory",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "Once Upon A Farm sued over Tractor Wheels recall and toddler marketing",
+     "link": "https://www.foodnavigator.com/Article/2026/11/19/once-upon-a-farm-sued-over-tractor-wheels-safety-claims/",
+     "source": "FoodNavigator",
+     "date": "2026-11-19T14:25:27+00:00",
+     "category": "news",
+     "summary": "Once Upon A Farm faces a proposed class action alleging misleading toddler snack bar marketing and inadequate refunds following its Tractor Wheels recall."
+    },
+    {
+     "title": "Airborne Tablets Recalled in SA Over Children’s Usage Labels",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2VxU3N3N2gzNWhoa1VVNHF0NjlpNGhiRWN6VHlRNC00aGxqUU5pY256bktTbkoyOWxpX1VoRk5jNHZqODk5eFg5OEE1a3ZnQ1dhdGRKVERZeVpNLVRvOWxwdmFQM3Y3cGtvUlZkQUlqLWgzRFlPNDcxZzhwR2JPZUtfWG1KaGlXMWc5OEhUcmptTnc?oc=5",
+     "source": "Newcastillian News (via Google News)",
+     "date": "2026-11-19T11:20:02+00:00",
+     "category": "sa",
+     "summary": ""
+    },
+    {
+     "title": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Con",
+     "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grand-strand-sandwich-company-recalls-lunch-box-bacon-egg-and-cheese-biscuit-lunch-box-jumbo-sausage",
+     "source": "FDA recalls",
+     "date": "2026-11-19T05:00:00+00:00",
+     "category": "regulatory",
+     "summary": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box..."
+    },
+    {
+     "title": "Larbi Inc. Recalls Yellow Dock Root Because of Possible Health Risk",
+     "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/larbi-inc-recalls-yellow-dock-root-because-possible-health-risk",
+     "source": "FDA recalls",
+     "date": "2026-11-17T23:30:00+00:00",
+     "category": "regulatory",
+     "summary": "Larbi Inc. of Valley Cottage, NY, is recalling three lots of Herb To Body Yellow Dock Root C/S 4oz, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in..."
+    }
+   ]
+  },
+  {
+   "id": "protein",
+   "label": "Protein",
+   "group": "Ingredient",
+   "score": 48,
+   "direction": "up",
+   "growth": 2.05,
+   "recent": 4,
+   "baseline": 13,
    "recentSources": 4,
    "categories": [
     "news"
    ],
    "articles": [
+    {
+     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:43:27+00:00",
+     "category": "news",
+     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
+    },
+    {
+     "title": "How GLP-1s are accelerating dairy protein demand",
+     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
+     "source": "FoodNavigator",
+     "date": "2026-11-19T16:39:02+00:00",
+     "category": "news",
+     "summary": "GLP-1 drugs are driving demand for dairy proteins, particularly whey. Companies such as Danone, Yili, Arla and Saputo have pointed to GLP-1s as a demand driver. Yet products explicitly declaring suitability for GLP-1 users are rare...."
+    },
     {
      "title": "5 things you should never mix with protein powder – and what’s actually fine",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Zb2Frd0xYZTdpZ1ZYd1BQdG5DM2VHUlNLLUV6VW5qZnZvTS1vR2RoSEZRekRVYV84VXYxVlZWaWYwQlhKb3paaTJDcjJjQ192QkJ6UC1zU0lIS3V0V0FwMXh5bFNKZWhqTGNwMjNuWmhuNjFQQ2dR?oc=5",
@@ -709,60 +627,119 @@
      "summary": ""
     },
     {
-     "title": "The Best Electrolyte Powders, Tested by Editors and Dietitians",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVeDZIaVZKZGtvNUc3UW83MTRXcEtOMjBtNjVCenhlb2FMTTIwTWhxaFJxOXdrb2FsdTNtLW5CODVHUmhpQnBNcU9jR1R3WGZIRnRFZmR3U1lCRGlfdjRDUHhjdWU3NVhmMGhRZWtRT0REZmNZV0I2VW83TQ?oc=5",
-     "source": "Men's Health (via Google News)",
-     "date": "2026-11-17T19:25:00+00:00",
+     "title": "Yaí Pro green tea with Atlhetica Nutrition's Best Whey",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TOFVVNjVhQ0hFMWxNQ1dBN2hzU3pFS0VSeWFreWNwVm1pbjZOYVpBajVoNUs4eGx0VWNEeHdtZ1JZNWdqMzNtcUVoRi05Q0dxUWVqZk1qY2p3VnhzR09mZGpNSUpIRV82bVEzcXhJQQ?oc=5",
+     "source": "Stack3d (via Google News)",
+     "date": "2026-11-17T23:35:00+00:00",
      "category": "news",
      "summary": ""
-    },
-    {
-     "title": "The Best Greens Powder of 2026: Tested and Approved",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yUXk4LU43ZXBfZjhOYm1LUEU5UG4xTE9KS1A2eFJYeXNVQTU2V2ZlQjJNYVZjUmFyank2dDBsZHFZQkVJTVdOb0ktQy1zUHowZW9kcWhqZlpNUnM?oc=5",
-     "source": "Fortune (via Google News)",
-     "date": "2026-11-17T18:21:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Can baker’s yeast protein compete with whey? Spacemilk is betting on it",
-     "link": "https://www.foodnavigator.com/Article/2026/11/17/spacemilk-bets-on-bakers-yeast-protein-with-sprouts-launch/",
-     "source": "FoodNavigator",
-     "date": "2026-11-17T12:57:40+00:00",
-     "category": "news",
-     "summary": "Spacemilk is bringing its baker’s yeast protein powder to Sprouts Farmers Market, positioning it as an alternative to whey and plant proteins."
     }
    ]
   },
   {
-   "id": "clean-label",
-   "label": "Clean label & natural",
-   "group": "Market",
-   "score": 20,
-   "direction": "flat",
-   "growth": 1.35,
+   "id": "claims",
+   "label": "Health claims & labelling",
+   "group": "Regulatory",
+   "score": 38,
+   "direction": "up",
+   "growth": 1.69,
    "recent": 2,
-   "baseline": 11,
+   "baseline": 7,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+     "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/",
+     "source": "STAT",
+     "date": "2026-11-20T14:16:35+00:00",
+     "category": "pharma",
+     "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:"
+    },
+    {
+     "title": "Once Upon A Farm sued over Tractor Wheels recall and toddler marketing",
+     "link": "https://www.foodnavigator.com/Article/2026/11/19/once-upon-a-farm-sued-over-tractor-wheels-safety-claims/",
+     "source": "FoodNavigator",
+     "date": "2026-11-19T14:25:27+00:00",
+     "category": "news",
+     "summary": "Once Upon A Farm faces a proposed class action alleging misleading toddler snack bar marketing and inadequate refunds following its Tractor Wheels recall."
+    }
+   ]
+  },
+  {
+   "id": "metabolic",
+   "label": "Blood sugar & metabolic",
+   "group": "Health area",
+   "score": 36,
+   "direction": "flat",
+   "growth": 1.2,
+   "recent": 3,
+   "baseline": 21,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "pharma",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "NutraCast: Akkermansia research points to postbiotic potential for metabolic health, weight maintenance",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/nutracast-akkermansia-research-points-to-postbiotic-potential-for-metabolic-health-weight-maintenance/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:44:22+00:00",
+     "category": "news",
+     "summary": "Professor Willem de Vos explores Akkermansia research, postbiotic benefits, metabolic health and the potential to support long-term weight maintenance."
+    },
+    {
+     "title": "Quad bikes bring chronic medication to elderly patients in rural Eastern Cape",
+     "link": "https://health-e.org.za/2026/11/19/quad-bikes-bring-chronic-medication-to-elderly-patients-in-rural-eastern-cape/",
+     "source": "Health-e News",
+     "date": "2026-11-19T07:21:31+00:00",
+     "category": "sa",
+     "summary": "Health-e News Quad bikes bring chronic medication to elderly patients in rural Eastern Cape For 91-year-old Nowenzile Mcwayi, collecting medication for diabetes and hypertension has meant waking up before sunrise, travelling long..."
+    },
+    {
+     "title": "Scientists uncover ‘very detailed map’ of an enzyme target for rare metabolic disease",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjc0UWJjeWxsenpKT0FLeDNjak1yVGxldk9KX1BWclB4eVZwXzdQT1NwNmE0NzRCcVVfQ3F6MS0tT0RMU08tSUlJOHlTOU5fcVpmcEJ1Z0loZnF1ZTlxa1VqVlFma1FOUTR0MFc2OW5oaDY3MThLSnFibjlaMnhPTnJ1aGFqSXRoM2V0anR1ZzZiR1AyRzFPNTZXMUZqMko3bkQyZnJGbExtTjJ6UHVxWEdmNkNMWDh2QVg2eEZyZw?oc=5",
+     "source": "Fierce Biotech (via Google News)",
+     "date": "2026-11-17T20:31:11+00:00",
+     "category": "pharma",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "personalised",
+   "label": "Personalised nutrition",
+   "group": "Market",
+   "score": 30,
+   "direction": "up",
+   "growth": 1.69,
+   "recent": 2,
+   "baseline": 7,
    "recentSources": 2,
    "categories": [
     "news"
    ],
    "articles": [
     {
-     "title": "Probiotics Market Growth: How Natural Ingredients and Gut Health Trends Are Creating New Business Opportunities",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHlSRlZkNWMwS21DTktEMVhoei0zUXJsbGdvR0FRdU44SEg0NjFjS09rLVlzZjJ3b1o5dklqRDJpZEl1bko5MTZJMTN4NGp2eV9UbmZScW0wcWR2S1YxQ18zcThOb2JBUmRpYWlKVTR0TE9SajNlWndPeHoxRzNtX29ybzNhQzlyLVBGRTlnS2VUTTh5UlhtbWRNQW9OOWF2VTRzTGtxWWIyQTJsZlAwaEloZVJBd2wxTHR1UWdoeG5EYzdKdEFjLTJtT3VXVGFoTWt1NDBuenNsczVaMmZrd0kyMjAtQQ?oc=5",
-     "source": "Business News This Week (via Google News)",
-     "date": "2026-11-18T10:26:52+00:00",
+     "title": "Nestlé Deep Tech Center signals new era of innovation",
+     "link": "https://www.confectionerynews.com/Article/2026/11/20/nestle-deep-tech-center-to-accelerate-ai-innovation-and-personalised-nutrition/",
+     "source": "FoodNavigator",
+     "date": "2026-11-20T13:30:10+00:00",
      "category": "news",
-     "summary": ""
+     "summary": "Nestlé has opened a new Deep Tech Center in Switzerland to accelerate AI, robotics and personalised nutrition innovation, helping the food giant develop products faster, improve manufacturing efficiency and better meet evolving consumer..."
     },
     {
-     "title": "What will bring consumers back to plant-based meat and dairy?",
-     "link": "https://www.foodnavigator.com/Article/2026/11/17/plant-based-foods-what-will-bring-consumers-back/",
-     "source": "FoodNavigator",
-     "date": "2026-11-17T12:51:46+00:00",
+     "title": "Function expands membership with supplement recommendations, specialist referrals",
+     "link": "https://www.nutraingredients.com/Article/2026/11/19/function-expands-membership-with-supplement-recommendations-specialist-referrals/",
+     "source": "NutraIngredients",
+     "date": "2026-11-19T15:36:41+00:00",
      "category": "news",
-     "summary": "What will drive plant-based food growth? Explore how manufacturers are rethinking taste, nutrition, ingredients and affordability across meat, seafood and dairy alternatives."
+     "summary": "Function Health is expanding its membership with personalized health action plans, supplement recommendations, specialist referrals and at-home blood draws."
     }
    ]
   },
@@ -770,12 +747,12 @@
    "id": "collagen",
    "label": "Collagen",
    "group": "Ingredient",
-   "score": 16,
+   "score": 27,
    "direction": "flat",
-   "growth": 0.9,
-   "recent": 6,
+   "growth": 1.03,
+   "recent": 7,
    "baseline": 61,
-   "recentSources": 4,
+   "recentSources": 5,
    "categories": [
     "news"
    ],
@@ -793,6 +770,14 @@
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2NjVmFub3RZS0pFdmJOSnVVVjV3aE1PeXcySXZNMDhrNzk5OXBqVUpoZkxKWVJfUTZfbHdFUkRjOHFzTWRfdndGbDRfRlYtR1dWeU9qLTk4THYtcHhoZ2MtLTJta29HZTliYWtuQ2w0UmZFYUo1cW0tUFVXV090c3QtVTdfOXhFX3NDeVNTT1kwT3o2LUhkQ0JTSXExVE9ad1RBdUVwNFdzMVd0VjkzYl9EYm51Ui02TVpEWDNLb25RMlZLQ1NDag?oc=5",
      "source": "USA Today (via Google News)",
      "date": "2026-11-18T17:50:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "11 Of The Best Collagen Supplements For 2026, As Recommended By Experts And Editors",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kVHhfX0tCZW1xV0xENU82Ym13Tmk1Q05EX0JhTlZQeVVnMTdidmJfNV9Zam5kN3JYUlNVdjROakNhTmVTb1RWVzl5ZE1MX0ZvbkZXZlJLMy1aVWtnSlA5QVE0REd5dTl5aHFPRHUxRmFidw?oc=5",
+     "source": "Vogue (via Google News)",
+     "date": "2026-11-18T11:11:08+00:00",
      "category": "news",
      "summary": ""
     },
@@ -817,14 +802,6 @@
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeElSckdwb0dZUGJ6cVQtdVVZY2duRWg3dk5VbDRTZ0xPNlEzeVZyWXVBTU4xLW5vZ3kwM3dUOW5YSXhoMF9PTnF0Wm5QTUdzSGFFeGxIV0RIcTFzUFY0Y05SYXgxZ2JMMXpNWVh4SVUyV2tGZENVdGcxS3REUURMZ1pGbHladnpiRjUtcnBOdG5qTVVBZVJ3ZEYxVjkzWkNydmMxd3ZFOTBGWG1SQklROQ?oc=5",
      "source": "CNA Lifestyle (via Google News)",
      "date": "2026-11-18T02:23:59+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "6 Best Liquid Collagen Supplements of 2026 (No-Mix Picks)",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lREdRTWRBT3h2QlZaR0tHZGp4UWhQVzFpOE9TRlFpWmk1S2ZEVnZMWjU0dVVBdnFqUkcxLTZCNFJ5XzhGTURxRnBHZDdiM2pyQmxpZkxXTzlkVXRmc2lrZFhRUUdrUU9J?oc=5",
-     "source": "Fitness Volt (via Google News)",
-     "date": "2026-11-18T00:30:33+00:00",
      "category": "news",
      "summary": ""
     }
