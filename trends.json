@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T23:11:38.649987Z",
+ "generatedAt": "2026-11-22T03:08:08.141214Z",
  "generator": "local_scan.py",
  "windowDays": 30,
  "recentDays": 3,
@@ -71,20 +71,19 @@
    "label": "Probiotics",
    "group": "Ingredient",
    "kind": "topic",
-   "score": 76,
-   "direction": "up",
-   "growth": 1.64,
-   "recent": 13,
-   "baseline": 68,
+   "score": 65,
+   "direction": "flat",
+   "growth": 1.37,
+   "recent": 11,
+   "baseline": 70,
    "mentions": 81,
    "sources": 41,
-   "recentSources": 10,
+   "recentSources": 8,
    "categories": [
     "news",
     "sa"
    ],
    "spark": [
-    2,
     3,
     3,
     3,
@@ -97,6 +96,7 @@
     6,
     7,
     5,
+    0,
     0
    ],
    "examples": [
@@ -135,7 +135,6 @@
     "pharma"
    ],
    "spark": [
-    1,
     8,
     5,
     5,
@@ -148,6 +147,7 @@
     3,
     5,
     4,
+    0,
     0
    ],
    "examples": [
@@ -185,7 +185,6 @@
     "news"
    ],
    "spark": [
-    0,
     7,
     6,
     5,
@@ -198,6 +197,7 @@
     5,
     6,
     5,
+    0,
     0
    ],
    "examples": [
@@ -237,7 +237,6 @@
     "sa"
    ],
    "spark": [
-    1,
     0,
     1,
     0,
@@ -250,6 +249,7 @@
     0,
     3,
     1,
+    0,
     0
    ],
    "examples": [
@@ -291,7 +291,6 @@
     0,
     0,
     0,
-    0,
     1,
     1,
     0,
@@ -300,6 +299,7 @@
     1,
     0,
     3,
+    0,
     0
    ],
    "examples": [
@@ -338,7 +338,6 @@
     "sa"
    ],
    "spark": [
-    0,
     2,
     5,
     2,
@@ -351,6 +350,7 @@
     2,
     2,
     3,
+    0,
     0
    ],
    "examples": [
@@ -388,7 +388,6 @@
     "news"
    ],
    "spark": [
-    2,
     10,
     11,
     13,
@@ -401,7 +400,8 @@
     6,
     7,
     1,
-    5
+    5,
+    0
    ],
    "examples": [
     {
@@ -439,7 +439,6 @@
     "pharma"
    ],
    "spark": [
-    0,
     1,
     0,
     0,
@@ -452,6 +451,7 @@
     0,
     1,
     1,
+    0,
     0
    ],
    "examples": [
@@ -484,7 +484,6 @@
     "news"
    ],
    "spark": [
-    0,
     3,
     1,
     0,
@@ -497,6 +496,7 @@
     0,
     2,
     1,
+    0,
     0
    ],
    "examples": [
@@ -534,7 +534,6 @@
     "news"
    ],
    "spark": [
-    0,
     4,
     0,
     1,
@@ -547,6 +546,7 @@
     0,
     2,
     1,
+    0,
     0
    ],
    "examples": [
@@ -585,7 +585,6 @@
    ],
    "spark": [
     0,
-    0,
     1,
     1,
     2,
@@ -597,6 +596,7 @@
     0,
     1,
     1,
+    0,
     0
    ],
    "examples": [
@@ -630,7 +630,6 @@
     "sa"
    ],
    "spark": [
-    0,
     2,
     5,
     4,
@@ -643,6 +642,7 @@
     0,
     1,
     2,
+    0,
     0
    ],
    "examples": [
@@ -680,7 +680,6 @@
     "news"
    ],
    "spark": [
-    0,
     2,
     1,
     1,
@@ -693,6 +692,7 @@
     0,
     1,
     1,
+    0,
     0
    ],
    "examples": [
@@ -726,7 +726,6 @@
     "social"
    ],
    "spark": [
-    0,
     3,
     3,
     3,
@@ -739,6 +738,7 @@
     2,
     2,
     1,
+    0,
     0
    ],
    "examples": [
@@ -776,7 +776,6 @@
     "pharma"
    ],
    "spark": [
-    0,
     2,
     1,
     1,
@@ -789,7 +788,8 @@
     2,
     1,
     0,
-    1
+    1,
+    0
    ],
    "examples": [
     {
@@ -810,18 +810,17 @@
    "group": "Health area",
    "kind": "topic",
    "score": 0,
-   "direction": "flat",
-   "growth": 0.68,
-   "recent": 4,
-   "baseline": 57,
+   "direction": "down",
+   "growth": 0.54,
+   "recent": 3,
+   "baseline": 58,
    "mentions": 61,
    "sources": 41,
-   "recentSources": 4,
+   "recentSources": 3,
    "categories": [
     "news"
    ],
    "spark": [
-    1,
     4,
     6,
     5,
@@ -834,6 +833,7 @@
     4,
     2,
     2,
+    0,
     0
    ],
    "examples": [
@@ -855,51 +855,6 @@
    ]
   },
   {
-   "id": "collagen",
-   "label": "Collagen",
-   "group": "Ingredient",
-   "kind": "topic",
-   "score": 0,
-   "direction": "down",
-   "growth": 0.35,
-   "recent": 2,
-   "baseline": 68,
-   "mentions": 70,
-   "sources": 46,
-   "recentSources": 2,
-   "categories": [
-    "news"
-   ],
-   "spark": [
-    0,
-    3,
-    3,
-    3,
-    7,
-    3,
-    1,
-    3,
-    4,
-    1,
-    6,
-    1,
-    0,
-    1
-   ],
-   "examples": [
-    {
-     "title": "Are Your Patients Expecting Too Much From Collagen?",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT3JFem1WaVZNOWpTeHZ4d01nc2wwMzVpQ2lVdnRiS2hqNmJ1ZUxLYW0zOVJMLUtKb1YyTmc2Vk5VTFg4a1lvRGtxWjBFNlBJVTVWdTN4dDN4ZzhXb3haWkhZUXY3NXdIYXJhWGhYaVNXSEZ6TEJibVNQY0pGNy1GN1BKbUlrMEtpcVpmdUkxbW5Qdmgy?oc=5",
-     "source": "Verywell Health (via Google News)"
-    },
-    {
-     "title": "Collagen for Gut Health: Does It Help Bloating?",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdVpoT0FmaU1paktvRmY1dTZ2QkxtRFBZMmdCeHpyeHo0YzIyVW0xczJjcExHZFdoQWN1aVA0Tl9rY1B3QWpHbGJZR0lneHBLRFRrVXdNMXVEM05tRWttbnhCSk5xS1ZqSVE?oc=5",
-     "source": "https://balancejournal.co/ (via Google News)"
-    }
-   ]
-  },
-  {
    "id": "cognitive",
    "label": "Brain & cognition",
    "group": "Health area",
@@ -916,7 +871,6 @@
     "news"
    ],
    "spark": [
-    2,
     1,
     3,
     3,
@@ -929,6 +883,7 @@
     1,
     0,
     2,
+    0,
     0
    ],
    "examples": [
@@ -961,7 +916,6 @@
     "news"
    ],
    "spark": [
-    1,
     2,
     2,
     2,
@@ -974,6 +928,7 @@
     0,
     1,
     1,
+    0,
     0
    ],
    "examples": [
@@ -4342,57 +4297,64 @@
    "name": "Google News: nutraceutical trends",
    "url": "https://news.google.com/rss/search?q=nutraceutical+trend+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
-   "ok": true,
-   "items": 12,
-   "new": 0
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Google News: probiotics",
    "url": "https://news.google.com/rss/search?q=probiotics+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
-   "ok": true,
-   "items": 36,
-   "new": 0
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Google News: gut health",
    "url": "https://news.google.com/rss/search?q=gut+health+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
-   "ok": true,
-   "items": 100,
-   "new": 5
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Google News: creatine",
    "url": "https://news.google.com/rss/search?q=creatine+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
-   "ok": true,
-   "items": 96,
-   "new": 18
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Google News: magnesium",
    "url": "https://news.google.com/rss/search?q=magnesium+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
-   "ok": true,
-   "items": 39,
-   "new": 1
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Google News: collagen",
    "url": "https://news.google.com/rss/search?q=collagen+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
-   "ok": true,
-   "items": 41,
-   "new": 1
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Google News: GLP-1 supplements",
    "url": "https://news.google.com/rss/search?q=GLP-1+supplements+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
-   "ok": true,
-   "items": 28,
-   "new": 0
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "BioPharma Dive",
@@ -4400,7 +4362,7 @@
    "category": "pharma",
    "ok": true,
    "items": 10,
-   "new": 1
+   "new": 0
   },
   {
    "name": "PharmaTimes",
@@ -4430,9 +4392,10 @@
    "name": "Google News: Fierce Pharma / Fierce Biotech",
    "url": "https://news.google.com/rss/search?q=site%3Afiercepharma.com+OR+site%3Afiercebiotech.com+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "pharma",
-   "ok": true,
-   "items": 100,
-   "new": 0
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "FDA press releases",
@@ -4454,17 +4417,19 @@
    "name": "Google News: SAHPRA",
    "url": "https://news.google.com/rss/search?q=SAHPRA+when%3A30d&hl=en-ZA&gl=ZA&ceid=ZA:en",
    "category": "regulatory",
-   "ok": true,
-   "items": 16,
-   "new": 0
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Google News: supplements South Africa",
    "url": "https://news.google.com/rss/search?q=supplements+South+Africa+when%3A30d&hl=en-ZA&gl=ZA&ceid=ZA:en",
    "category": "sa",
-   "ok": true,
-   "items": 34,
-   "new": 0
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 503"
   },
   {
    "name": "Health-e News",
@@ -4514,7 +4479,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
    "name": "Reddit r/southafrica (supplements)",
@@ -4523,7 +4488,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP 404"
+   "error": "HTTP 429"
   },
   {
    "name": "YouTube: Andrew Huberman (example channel)",
