@@ -1,19 +1,333 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T11:16:09.475685Z",
+ "generatedAt": "2026-11-22T18:32:21.891486Z",
  "generator": "local_scan.py",
  "recentDays": 3,
  "trends": [
   {
+   "id": "eye",
+   "label": "Eye health",
+   "group": "Health area",
+   "score": 50,
+   "direction": "up",
+   "growth": 2.4,
+   "recent": 3,
+   "baseline": 6,
+   "recentSources": 3,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Celebrating 30 Years of Innovation with FloraGlo Lutein",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1ZNTdiWmxVdS1nN0REa3U3ZnQ4SWRfWUQxc0p5SkRMNVRCNjZuOEdqNEFpd1V5MGpHaTdJYzk2WUZkNWswb282TTVQNEV0RE1lU3Z2Q19JMzJhbDM5Yk1yd3hjYXFGS2Q0X2tpMkhOdVpKMTROY3Q2YUpuNnpNLVdWaEZ4Tk5XNHc3UFJYN3dkaW82bW5sQ3RB?oc=5",
+     "source": "Nutritional Outlook (via Google News)",
+     "date": "2026-11-20T17:58:11+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "GLP-1 vision warning: Could demand be affected?",
+     "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
+     "source": "FoodNavigator",
+     "date": "2026-11-20T16:46:56+00:00",
+     "category": "news",
+     "summary": "The US's Food and Drug Administration (FDA) recently ruled that GLP-1 weight-loss drugs should include warnings of their potential links to NAION, a condition that can cause vision loss. With warnings reminding users of the risks every..."
+    },
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    }
+   ]
+  },
+  {
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "score": 29,
+   "direction": "flat",
+   "growth": 0.73,
+   "recent": 11,
+   "baseline": 139,
+   "recentSources": 9,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Muscle Growth To Better Recovery: AIIMS, Harvard-Trained Doctor Explains What Creatine Can And Cannot Do",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMEVrM2JrRUlGMGNOMnFEdmpIbHJhSkdKMkZYVTl6RHhQYldDcC1UV05weDJCZEk4VTdPOHg4VmI0bTVHNk5uM2daVWNQdTNTOE9udHAtVUlzbUI0cVNDTUxWUUxEellWN0llTVNIWE9TZGJ5Tjc1ZVIyVDA5T2JDZ1BfMmhRV3VScWFEdnBZdy1yTXBVUkF6a1ZlSktGVkdGMVI4Qm93RGpsUVZSanF1aWJVU3JsZWRvQjdUWWtNcHYxTERkWk94OXl2YWplV2lvNE9TWFRjVzlpdDFSSEZQdHk2QWNILUlncVE?oc=5",
+     "source": "NDTV (via Google News)",
+     "date": "2026-11-22T11:30:05+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Edible Creatine Chews: CreaPrime Turns Its Creatine Supplement Into Chewable Candy-Style…",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xWXQ3TEVnZmxpaXNnNHFPVXRZMHY1Wk9uSzUtZDNDTTlwdzZpZ2pZNnJKNnBCd3FnMnZyc0p6ZDhGTWhtdEpaN1JTaDRsaEp4MDNlMWtERGZoWXVwUzN5aW9wekp6eVU?oc=5",
+     "source": "Trend Hunter (via Google News)",
+     "date": "2026-11-21T18:22:28+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Transparent Labs expands Creatine HMB variety pack to 30 sticks",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHFiZHlJSnB6bXRuZTV0N0lVWHNNN3FRaGVYeVh3TmNJWkpnSVhYMXYzT045dkc5eGJyM1dlSWhKdUlmd2ZRS3hjNjNYUm84SHg4S3lOaGVURTZpN3VxdTVELTh1NHUzSkV5RTNjTFJxcmFGUzM0a0pGODhIVmtvMEZzR2JxaFFRS0RiNA?oc=5",
+     "source": "Stack3d (via Google News)",
+     "date": "2026-11-21T18:12:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Creatine Use Among US College Students Nearly Doubles Since 2020",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUJHVFNrbVRiaFREd05VWU4xOUtoVUxiV0J0U2NQdmhjZEstVlFqMEZLaVFQQlRqU0RLa1lOZGVRakp4UWwxLTZGVHNpcURQaGRHR1NfMU1id1Q3WFVwa19GVWhjbkx4RXpUSUZqbHlpMmdHUzRtSWVsckNpM2FsZmdidkVwa0t2WnFvOFlxcVR3OTFpRURtZzdxcnlJRmlyRFpybVB3eUNXS3NfU3VZUkJmRDdTVzllV3JZWlRDT2ZyZw?oc=5",
+     "source": "Global Agriculture (via Google News)",
+     "date": "2026-11-21T15:21:42+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Experts Say Women Over 40 Should Consider a Creatine Supplement—Here’s Why",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HOGJ1ekprYVdKdVBxMFQ5aTNZZzRZbEtrbjlkeC1QRGx3NUZNaWg1WGlDakcwTWliSF9lZnFGX3MyQ0hDRzBBVFl1QmYxQkJieUwxV0dIS0EwX1diN3pWNGEzd2ZEckx4NllYUnc3SQ?oc=5",
+     "source": "EatingWell (via Google News)",
+     "date": "2026-11-21T13:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Why Women Over 40 Should Consider a Creatine Supplement",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWF2dTdrbkxWdUszcXlKZXR4ckFHRUVTdWVmZENZM29UY0Fsbm1QREV3bllUYjRGS29raFRyQ2lOSzJaejE2ZV9MTjFYempPaXZZZjNnQ2NfVnRIVTZTYjNjeWtzRWwtTDZ5VUVTVlB5bnAyVnBLSWQxa1VIdURuRDZuMmNPbjBNTGt1Z0d0OHFBMVZmQVJ0akxtT2k2c0MxZ2ctbENnMmVsT2FvVV9VVGhmdUFFQQ?oc=5",
+     "source": "Yahoo Health (via Google News)",
+     "date": "2026-11-21T13:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 28,
+   "direction": "flat",
+   "growth": 0.97,
+   "recent": 7,
+   "baseline": 65,
+   "recentSources": 6,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Supplements offer GLP-1 alternatives beyond weight loss",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2JQX0NodVMybTdwMnhIZnJJNUVHZUtpNThTMkFHbUtrU0Roc2trQ3RPRXZfcnc4VUNheTdkTkdxaUN3ZDdabmlvelBfSE5VWmQ0bV94ejlTYTRNX1dRQjQxTWdDYUF5MlFkQ1NpRVd2UjVuWk10OVljRC1sOVJLamd4eGhMWGRpSkg5QlY3dlRyaUd0NHFURmFUUVFxQWw4WTRXd2laNA?oc=5",
+     "source": "SupplySide Supplement Journal (via Google News)",
+     "date": "2026-11-22T15:56:08+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Metabolic health without the meds: What supplement brands need to know about GLP-1 alternatives",
+     "link": "https://www.supplysidesj.com/weight-management/what-supplement-brands-need-know-about-glp-1-alternatives",
+     "source": "SupplySide Supplement Journal",
+     "date": "2026-11-22T15:06:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global 2026, suppliers showcased branded ingredients for consumers who want results without the GLP-1 drugs — or a way to maintain their progress after quitting them."
+    },
+    {
+     "title": "GLP-1 vision warning: Could demand be affected?",
+     "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
+     "source": "FoodNavigator",
+     "date": "2026-11-20T16:46:56+00:00",
+     "category": "news",
+     "summary": "The US's Food and Drug Administration (FDA) recently ruled that GLP-1 weight-loss drugs should include warnings of their potential links to NAION, a condition that can cause vision loss. With warnings reminding users of the risks every..."
+    },
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    },
+    {
+     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:43:27+00:00",
+     "category": "news",
+     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
+    },
+    {
+     "title": "Learn how to take GLP-1 companion innovation to the next level.",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3hKUnlHcjk1WXJzWG1pZ2pQS3ZSV0FxNEowRHV2T1NsOFNwbkI5RWhTVjlzSmQzNXJZbEVrd3l5cVQwR2pGLWxETUZhd3RMY2JhSE91RkR1VklQVS04d1ZCRG1Zc1ZsVjlxWTNNaktKZEN6UVhvczhsMVhYX2lXOXJNaDFKS3pFS0U2SGl0R29INkpGb3owbmE4NHJJUQ?oc=5",
+     "source": "SupplySide Supplement Journal (via Google News)",
+     "date": "2026-11-20T15:10:03+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "longevity",
+   "label": "Longevity & healthy ageing",
+   "group": "Health area",
+   "score": 25,
+   "direction": "flat",
+   "growth": 1.29,
+   "recent": 4,
+   "baseline": 26,
+   "recentSources": 3,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    },
+    {
+     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:43:27+00:00",
+     "category": "news",
+     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
+    },
+    {
+     "title": "Doctors Reveal Which Healthy Aging Supplements Actually Hold Up",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNl9GUXpraHVaTnBWZHBIUTRkb0xyR0RiSUl1c1pJSkRjRzhRYjA2eE5zaFpBQVFFdXJhTkZKZDd0NHFjdEI5ZWRyM25kNlF5YjdVeFZLTndTa3NxbFV6all4ZmMybmxQNHNkeDY1b2lGYVds?oc=5",
+     "source": "Health.com (via Google News)",
+     "date": "2026-11-20T08:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T07:25:31+00:00",
+     "category": "news",
+     "summary": "Find out the latest trends in Asia-Pacific's nutraceutical sector in this round-up."
+    }
+   ]
+  },
+  {
+   "id": "metabolic",
+   "label": "Blood sugar & metabolic",
+   "group": "Health area",
+   "score": 24,
+   "direction": "flat",
+   "growth": 1.09,
+   "recent": 3,
+   "baseline": 24,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "Metabolic health without the meds: What supplement brands need to know about GLP-1 alternatives",
+     "link": "https://www.supplysidesj.com/weight-management/what-supplement-brands-need-know-about-glp-1-alternatives",
+     "source": "SupplySide Supplement Journal",
+     "date": "2026-11-22T15:06:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global 2026, suppliers showcased branded ingredients for consumers who want results without the GLP-1 drugs — or a way to maintain their progress after quitting them."
+    },
+    {
+     "title": "NutraCast: Akkermansia research points to postbiotic potential for metabolic health, weight maintenance",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/nutracast-akkermansia-research-points-to-postbiotic-potential-for-metabolic-health-weight-maintenance/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T15:44:22+00:00",
+     "category": "news",
+     "summary": "Professor Willem de Vos explores Akkermansia research, postbiotic benefits, metabolic health and the potential to support long-term weight maintenance."
+    },
+    {
+     "title": "Fermented Olive Leaf Postbiotic Ingredients Market To 2035: Immune and Metabolic Health Demand Drives Growth - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUGxkVDRoV21NSEVJMGVqZTBCYmFTZFlyb1VGQWJaUXctZDVDVDVZTnhBSVdQaFlkek9NU1dnVUZZYzBBTElRRzI3SEVXZmw3T1FZdGdBR1lRTk5WZDVUUFRlV3Qwam4ydEJpZWFvRXdaLVNGSXpyaU9UYzllWk1SNDZmLW4zZHlIdS04NU9WalFCb2lTaFJ6cWlEVl9IMVE2bVZHVzE0X2lfNjBDNG9KQlhPQkJUMDA3TWNXVGVzRUpYLWYxQXVQaTlDRGhWMFZoTFNhRk83NHBpZFBPTnVWVGlGRHF2bVRE?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-20T14:51:04+00:00",
+     "category": "sa",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "sports",
+   "label": "Sports nutrition",
+   "group": "Health area",
+   "score": 23,
+   "direction": "flat",
+   "growth": 0.84,
+   "recent": 5,
+   "baseline": 55,
+   "recentSources": 5,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "Muscle Growth To Better Recovery: AIIMS, Harvard-Trained Doctor Explains What Creatine Can And Cannot Do",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMEVrM2JrRUlGMGNOMnFEdmpIbHJhSkdKMkZYVTl6RHhQYldDcC1UV05weDJCZEk4VTdPOHg4VmI0bTVHNk5uM2daVWNQdTNTOE9udHAtVUlzbUI0cVNDTUxWUUxEellWN0llTVNIWE9TZGJ5Tjc1ZVIyVDA5T2JDZ1BfMmhRV3VScWFEdnBZdy1yTXBVUkF6a1ZlSktGVkdGMVI4Qm93RGpsUVZSanF1aWJVU3JsZWRvQjdUWWtNcHYxTERkWk94OXl2YWplV2lvNE9TWFRjVzlpdDFSSEZQdHk2QWNILUlncVE?oc=5",
+     "source": "NDTV (via Google News)",
+     "date": "2026-11-22T11:30:05+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Stability, Taste, Absorption: Tackling Sports Nutrition's Toughest Formulation Problems",
+     "link": "https://www.nutritionaloutlook.com/view/stability-taste-absorption-tackling-sports-nutrition-s-toughest-formulation-problems",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T19:58:53+00:00",
+     "category": "news",
+     "summary": "Ben Yeap, Chief Science Officer at CoreFX Ingredients, discusses the formulation hurdles facing sports nutrition brands as the category moves beyond powders into gummies, ready-to-drink beverages, and stick packs."
+    },
+    {
+     "title": "Opinion: More doctors should prescribe exercise after a concussion",
+     "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/",
+     "source": "STAT",
+     "date": "2026-11-20T09:30:00+00:00",
+     "category": "pharma",
+     "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both."
+    },
+    {
+     "title": "Protein, creatine, pre-workout, testosterone boosters: Gym stack holds fertility risks men often miss",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFhoZWJGMTJFUWZZVWx1MnV6aHg1Rzd0TGFiT1ZwNGpxc3B1Tl9PQ1YtQmdQeXYzODVqcTlCZWdzYV9qajB1V05PSmZOa0VXRkJJdVU1SjQ5VXVKVFJlUXNpVnZPb2UwRDFZRElxZjFaN1ZBNEh3V3poLXZ5VF9iaFRhVW9iWWpWTVF0anJiN0HSAZYBQVVfeXFMTjhCQWxZc0pJekY5UjZOWms2eWJ3MmdKdWk1TXZxdVJiRzExSGdIOHNGcmJPY1MtUDgzV3c0bW9idnQ4aWN0cXg1VzFrTmtmNmFKSHBmVllPQ29ORjR2OThuVWRHTjhzLVVlMnFYcGdEZE8tX00yOUxZWF9lemFLRmVOdldhdjc3T3RSdzR1VWt0MGs1UkpB?oc=5",
+     "source": "News9live (via Google News)",
+     "date": "2026-11-20T08:58:30+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T07:25:31+00:00",
+     "category": "news",
+     "summary": "Find out the latest trends in Asia-Pacific's nutraceutical sector in this round-up."
+    }
+   ]
+  },
+  {
    "id": "probiotics",
    "label": "Probiotics",
    "group": "Ingredient",
-   "score": 65,
+   "score": 20,
    "direction": "flat",
-   "growth": 1.38,
-   "recent": 11,
-   "baseline": 69,
-   "recentSources": 8,
+   "growth": 0.76,
+   "recent": 6,
+   "baseline": 74,
+   "recentSources": 5,
    "categories": [
     "news",
     "sa"
@@ -70,442 +384,14 @@
    ]
   },
   {
-   "id": "eye",
-   "label": "Eye health",
-   "group": "Health area",
-   "score": 50,
-   "direction": "up",
-   "growth": 2.4,
-   "recent": 3,
-   "baseline": 6,
-   "recentSources": 3,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Celebrating 30 Years of Innovation with FloraGlo Lutein",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1ZNTdiWmxVdS1nN0REa3U3ZnQ4SWRfWUQxc0p5SkRMNVRCNjZuOEdqNEFpd1V5MGpHaTdJYzk2WUZkNWswb282TTVQNEV0RE1lU3Z2Q19JMzJhbDM5Yk1yd3hjYXFGS2Q0X2tpMkhOdVpKMTROY3Q2YUpuNnpNLVdWaEZ4Tk5XNHc3UFJYN3dkaW82bW5sQ3RB?oc=5",
-     "source": "Nutritional Outlook (via Google News)",
-     "date": "2026-11-20T17:58:11+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "GLP-1 vision warning: Could demand be affected?",
-     "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
-     "source": "FoodNavigator",
-     "date": "2026-11-20T16:46:56+00:00",
-     "category": "news",
-     "summary": "The US's Food and Drug Administration (FDA) recently ruled that GLP-1 weight-loss drugs should include warnings of their potential links to NAION, a condition that can cause vision loss. With warnings reminding users of the risks every..."
-    },
-    {
-     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
-     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-20T16:41:00+00:00",
-     "category": "news",
-     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
-    }
-   ]
-  },
-  {
-   "id": "glp1",
-   "label": "GLP-1 (and 'GLP-1 support')",
-   "group": "Topic",
-   "score": 47,
-   "direction": "flat",
-   "growth": 1.41,
-   "recent": 10,
-   "baseline": 61,
-   "recentSources": 5,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "GLP-1 vision warning: Could demand be affected?",
-     "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
-     "source": "FoodNavigator",
-     "date": "2026-11-20T16:46:56+00:00",
-     "category": "news",
-     "summary": "The US's Food and Drug Administration (FDA) recently ruled that GLP-1 weight-loss drugs should include warnings of their potential links to NAION, a condition that can cause vision loss. With warnings reminding users of the risks every..."
-    },
-    {
-     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
-     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-20T16:41:00+00:00",
-     "category": "news",
-     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
-    },
-    {
-     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
-     "source": "NutraIngredients",
-     "date": "2026-11-20T15:43:27+00:00",
-     "category": "news",
-     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
-    },
-    {
-     "title": "Learn how to take GLP-1 companion innovation to the next level.",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3hKUnlHcjk1WXJzWG1pZ2pQS3ZSV0FxNEowRHV2T1NsOFNwbkI5RWhTVjlzSmQzNXJZbEVrd3l5cVQwR2pGLWxETUZhd3RMY2JhSE91RkR1VklQVS04d1ZCRG1Zc1ZsVjlxWTNNaktKZEN6UVhvczhsMVhYX2lXOXJNaDFKS3pFS0U2SGl0R29INkpGb3owbmE4NHJJUQ?oc=5",
-     "source": "SupplySide Supplement Journal (via Google News)",
-     "date": "2026-11-20T15:10:03+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Tonum Health targets GLP-1 protein needs in Euvita telehealth partnership",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3RhUnNuUzNDSXFLX1FUelh5UzAxd0hFZUZmOG5sQUEzNDdvZGNqRVVRcTdILTNOS3FlSmtnNVFnbzNZLVBQWXdOWFNtTWlJWFR0OGprekZ4ZkhlZUJaM3RFVnNTVE9XMXB4aXZsdmhCVzBDemZqVlNVbXFQNUxZSWJKcFZTQkJ5dnNadk4xV0J0WDVIQjktVw?oc=5",
-     "source": "Nutrition Insight (via Google News)",
-     "date": "2026-11-20T09:14:27+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "How GLP-1s are accelerating dairy protein demand",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T16:39:02+00:00",
-     "category": "news",
-     "summary": "GLP-1 drugs are driving demand for dairy proteins, particularly whey. Companies such as Danone, Yili, Arla and Saputo have pointed to GLP-1s as a demand driver. Yet products explicitly declaring suitability for GLP-1 users are rare...."
-    }
-   ]
-  },
-  {
-   "id": "sports",
-   "label": "Sports nutrition",
-   "group": "Health area",
-   "score": 40,
-   "direction": "flat",
-   "growth": 1.22,
-   "recent": 7,
-   "baseline": 50,
-   "recentSources": 4,
-   "categories": [
-    "news",
-    "pharma"
-   ],
-   "articles": [
-    {
-     "title": "Stability, Taste, Absorption: Tackling Sports Nutrition's Toughest Formulation Problems",
-     "link": "https://www.nutritionaloutlook.com/view/stability-taste-absorption-tackling-sports-nutrition-s-toughest-formulation-problems",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-20T19:58:53+00:00",
-     "category": "news",
-     "summary": "Ben Yeap, Chief Science Officer at CoreFX Ingredients, discusses the formulation hurdles facing sports nutrition brands as the category moves beyond powders into gummies, ready-to-drink beverages, and stick packs."
-    },
-    {
-     "title": "Opinion: More doctors should prescribe exercise after a concussion",
-     "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/",
-     "source": "STAT",
-     "date": "2026-11-20T09:30:00+00:00",
-     "category": "pharma",
-     "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both."
-    },
-    {
-     "title": "Protein, creatine, pre-workout, testosterone boosters: Gym stack holds fertility risks men often miss",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFhoZWJGMTJFUWZZVWx1MnV6aHg1Rzd0TGFiT1ZwNGpxc3B1Tl9PQ1YtQmdQeXYzODVqcTlCZWdzYV9qajB1V05PSmZOa0VXRkJJdVU1SjQ5VXVKVFJlUXNpVnZPb2UwRDFZRElxZjFaN1ZBNEh3V3poLXZ5VF9iaFRhVW9iWWpWTVF0anJiN0HSAZYBQVVfeXFMTjhCQWxZc0pJekY5UjZOWms2eWJ3MmdKdWk1TXZxdVJiRzExSGdIOHNGcmJPY1MtUDgzV3c0bW9idnQ4aWN0cXg1VzFrTmtmNmFKSHBmVllPQ29ORjR2OThuVWRHTjhzLVVlMnFYcGdEZE8tX00yOUxZWF9lemFLRmVOdldhdjc3T3RSdzR1VWt0MGs1UkpB?oc=5",
-     "source": "News9live (via Google News)",
-     "date": "2026-11-20T08:58:30+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
-     "source": "NutraIngredients",
-     "date": "2026-11-20T07:25:31+00:00",
-     "category": "news",
-     "summary": "Find out the latest trends in Asia-Pacific's nutraceutical sector in this round-up."
-    },
-    {
-     "title": "What’s next for sports nutrition? SANS US 2027 tackles the big questions",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/whats-next-for-sports-nutrition-sans-us-2027-tackles-the-big-questions/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T15:35:24+00:00",
-     "category": "news",
-     "summary": "The Sports & Active Nutrition Summit USA 2027, set for February in Dallas, will address key industry topics including GLP-1 medications, muscle health, women’s performance, and regulatory developments."
-    },
-    {
-     "title": "The Vitamin Shoppe sees double-digit growth in sports nutrition, creatine and on-the-go products",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/the-vitamin-shoppe-sees-double-digit-growth-in-sports-nutrition-creatine-and-on-the-go-products/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T15:33:44+00:00",
-     "category": "news",
-     "summary": "The Vitamin Shoppe is seeing sustained double-digit growth in creatine and strong momentum across sports nutrition, ready-to-drink (RTD) beverages and on-the-go products, according to its senior vice president of merchandising, Jack Gayton."
-    }
-   ]
-  },
-  {
-   "id": "claims",
-   "label": "Health claims & labelling",
-   "group": "Regulatory",
-   "score": 38,
-   "direction": "up",
-   "growth": 1.69,
-   "recent": 2,
-   "baseline": 7,
-   "recentSources": 2,
-   "categories": [
-    "news",
-    "pharma"
-   ],
-   "articles": [
-    {
-     "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
-     "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/",
-     "source": "STAT",
-     "date": "2026-11-20T14:16:35+00:00",
-     "category": "pharma",
-     "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:"
-    },
-    {
-     "title": "Once Upon A Farm sued over Tractor Wheels recall and toddler marketing",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/once-upon-a-farm-sued-over-tractor-wheels-safety-claims/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T14:25:27+00:00",
-     "category": "news",
-     "summary": "Once Upon A Farm faces a proposed class action alleging misleading toddler snack bar marketing and inadequate refunds following its Tractor Wheels recall."
-    }
-   ]
-  },
-  {
-   "id": "creatine",
-   "label": "Creatine",
-   "group": "Ingredient",
-   "score": 37,
-   "direction": "flat",
-   "growth": 0.83,
-   "recent": 12,
-   "baseline": 132,
-   "recentSources": 10,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Edible Creatine Chews: CreaPrime Turns Its Creatine Supplement Into Chewable Candy-Style…",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xWXQ3TEVnZmxpaXNnNHFPVXRZMHY1Wk9uSzUtZDNDTTlwdzZpZ2pZNnJKNnBCd3FnMnZyc0p6ZDhGTWhtdEpaN1JTaDRsaEp4MDNlMWtERGZoWXVwUzN5aW9wekp6eVU?oc=5",
-     "source": "Trend Hunter (via Google News)",
-     "date": "2026-11-21T18:22:28+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Transparent Labs expands Creatine HMB variety pack to 30 sticks",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHFiZHlJSnB6bXRuZTV0N0lVWHNNN3FRaGVYeVh3TmNJWkpnSVhYMXYzT045dkc5eGJyM1dlSWhKdUlmd2ZRS3hjNjNYUm84SHg4S3lOaGVURTZpN3VxdTVELTh1NHUzSkV5RTNjTFJxcmFGUzM0a0pGODhIVmtvMEZzR2JxaFFRS0RiNA?oc=5",
-     "source": "Stack3d (via Google News)",
-     "date": "2026-11-21T18:12:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Creatine Use Among US College Students Nearly Doubles Since 2020",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUJHVFNrbVRiaFREd05VWU4xOUtoVUxiV0J0U2NQdmhjZEstVlFqMEZLaVFQQlRqU0RLa1lOZGVRakp4UWwxLTZGVHNpcURQaGRHR1NfMU1id1Q3WFVwa19GVWhjbkx4RXpUSUZqbHlpMmdHUzRtSWVsckNpM2FsZmdidkVwa0t2WnFvOFlxcVR3OTFpRURtZzdxcnlJRmlyRFpybVB3eUNXS3NfU3VZUkJmRDdTVzllV3JZWlRDT2ZyZw?oc=5",
-     "source": "Global Agriculture (via Google News)",
-     "date": "2026-11-21T15:21:42+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Experts Say Women Over 40 Should Consider a Creatine Supplement—Here’s Why",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HOGJ1ekprYVdKdVBxMFQ5aTNZZzRZbEtrbjlkeC1QRGx3NUZNaWg1WGlDakcwTWliSF9lZnFGX3MyQ0hDRzBBVFl1QmYxQkJieUwxV0dIS0EwX1diN3pWNGEzd2ZEckx4NllYUnc3SQ?oc=5",
-     "source": "EatingWell (via Google News)",
-     "date": "2026-11-21T13:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Why Women Over 40 Should Consider a Creatine Supplement",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWF2dTdrbkxWdUszcXlKZXR4ckFHRUVTdWVmZENZM29UY0Fsbm1QREV3bllUYjRGS29raFRyQ2lOSzJaejE2ZV9MTjFYempPaXZZZjNnQ2NfVnRIVTZTYjNjeWtzRWwtTDZ5VUVTVlB5bnAyVnBLSWQxa1VIdURuRDZuMmNPbjBNTGt1Z0d0OHFBMVZmQVJ0akxtT2k2c0MxZ2ctbENnMmVsT2FvVV9VVGhmdUFFQQ?oc=5",
-     "source": "Yahoo Health (via Google News)",
-     "date": "2026-11-21T13:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "ATP Lab launches standalone creatine with 5g of Pürest",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5OUl1VG92c0E0WndXUDFQUVZxWXNDSVZYMmNkdm56anhlZjNFSmg4QUJvczBmbjdmdkV3VmZLdXBzT0dBRWNIdkI1dnUtZmt1Rkx1dDFiUEtmNUh0Nk5LeXl1WDQ4QWpiNnpyVXV3?oc=5",
-     "source": "Stack3d (via Google News)",
-     "date": "2026-11-21T02:05:37+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "recalls",
-   "label": "Recalls & safety alerts",
-   "group": "Regulatory",
-   "score": 37,
-   "direction": "flat",
-   "growth": 1.24,
-   "recent": 3,
-   "baseline": 20,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "regulatory",
-    "sa"
-   ],
-   "articles": [
-    {
-     "title": "Shanghai San Niu Food Co., LTD. Is Recalling Sanniu Evergeen Biscuits Due to Undeclared Milk and Sanniu Salt and Pepper Soda Biscuits Due to Undeclared Milk and Shrimp",
-     "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/shanghai-san-niu-food-co-ltd-recalling-sanniu-evergeen-biscuits-due-undeclared-milk-and-sanniu-salt",
-     "source": "FDA recalls",
-     "date": "2026-11-20T17:58:00+00:00",
-     "category": "regulatory",
-     "summary": "Shanghai San Niu Food Co., Ltd.of Shanghai, China is recalling all Sanniu Evergreen Biscuits and Salt and Pepper Soda Biscuits, because it may contain undeclared milk in Sanniu Evergreen Biscuits (三牛万年青饼干) and undeclared milk and shrimp..."
-    },
-    {
-     "title": "Once Upon A Farm sued over Tractor Wheels recall and toddler marketing",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/once-upon-a-farm-sued-over-tractor-wheels-safety-claims/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T14:25:27+00:00",
-     "category": "news",
-     "summary": "Once Upon A Farm faces a proposed class action alleging misleading toddler snack bar marketing and inadequate refunds following its Tractor Wheels recall."
-    },
-    {
-     "title": "Airborne Tablets Recalled in SA Over Children’s Usage Labels",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2VxU3N3N2gzNWhoa1VVNHF0NjlpNGhiRWN6VHlRNC00aGxqUU5pY256bktTbkoyOWxpX1VoRk5jNHZqODk5eFg5OEE1a3ZnQ1dhdGRKVERZeVpNLVRvOWxwdmFQM3Y3cGtvUlZkQUlqLWgzRFlPNDcxZzhwR2JPZUtfWG1KaGlXMWc5OEhUcmptTnc?oc=5",
-     "source": "Newcastillian News (via Google News)",
-     "date": "2026-11-19T11:20:02+00:00",
-     "category": "sa",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "protein",
-   "label": "Protein",
-   "group": "Ingredient",
-   "score": 31,
-   "direction": "up",
-   "growth": 1.57,
-   "recent": 3,
-   "baseline": 14,
-   "recentSources": 3,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
-     "source": "NutraIngredients",
-     "date": "2026-11-20T15:43:27+00:00",
-     "category": "news",
-     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
-    },
-    {
-     "title": "How GLP-1s are accelerating dairy protein demand",
-     "link": "https://www.foodnavigator.com/Article/2026/11/19/arla-danone-glp-1s-drive-dairy-protein-demand/",
-     "source": "FoodNavigator",
-     "date": "2026-11-19T16:39:02+00:00",
-     "category": "news",
-     "summary": "GLP-1 drugs are driving demand for dairy proteins, particularly whey. Companies such as Danone, Yili, Arla and Saputo have pointed to GLP-1s as a demand driver. Yet products explicitly declaring suitability for GLP-1 users are rare...."
-    },
-    {
-     "title": "5 things you should never mix with protein powder – and what’s actually fine",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Zb2Frd0xYZTdpZ1ZYd1BQdG5DM2VHUlNLLUV6VW5qZnZvTS1vR2RoSEZRekRVYV84VXYxVlZWaWYwQlhKb3paaTJDcjJjQ192QkJ6UC1zU0lIS3V0V0FwMXh5bFNKZWhqTGNwMjNuWmhuNjFQQ2dR?oc=5",
-     "source": "Yahoo Life UK (via Google News)",
-     "date": "2026-11-19T15:07:00+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "personalised",
-   "label": "Personalised nutrition",
-   "group": "Market",
-   "score": 30,
-   "direction": "up",
-   "growth": 1.69,
-   "recent": 2,
-   "baseline": 7,
-   "recentSources": 2,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Nestlé Deep Tech Center signals new era of innovation",
-     "link": "https://www.confectionerynews.com/Article/2026/11/20/nestle-deep-tech-center-to-accelerate-ai-innovation-and-personalised-nutrition/",
-     "source": "FoodNavigator",
-     "date": "2026-11-20T13:30:10+00:00",
-     "category": "news",
-     "summary": "Nestlé has opened a new Deep Tech Center in Switzerland to accelerate AI, robotics and personalised nutrition innovation, helping the food giant develop products faster, improve manufacturing efficiency and better meet evolving consumer..."
-    },
-    {
-     "title": "Function expands membership with supplement recommendations, specialist referrals",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/function-expands-membership-with-supplement-recommendations-specialist-referrals/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T15:36:41+00:00",
-     "category": "news",
-     "summary": "Function Health is expanding its membership with personalized health action plans, supplement recommendations, specialist referrals and at-home blood draws."
-    }
-   ]
-  },
-  {
-   "id": "longevity",
-   "label": "Longevity & healthy ageing",
-   "group": "Health area",
-   "score": 26,
-   "direction": "flat",
-   "growth": 1.32,
-   "recent": 4,
-   "baseline": 25,
-   "recentSources": 3,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
-     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-20T16:41:00+00:00",
-     "category": "news",
-     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
-    },
-    {
-     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
-     "source": "NutraIngredients",
-     "date": "2026-11-20T15:43:27+00:00",
-     "category": "news",
-     "summary": "The American Dairy Products Institute highlights opportunities for whey protein in healthy aging, formulation challenges and emerging GLP-1 weight-loss research."
-    },
-    {
-     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
-     "source": "NutraIngredients",
-     "date": "2026-11-20T07:25:31+00:00",
-     "category": "news",
-     "summary": "Find out the latest trends in Asia-Pacific's nutraceutical sector in this round-up."
-    },
-    {
-     "title": "'Age Appropriate': I’ve taken creatine for 10 years. Does it help healthy aging?",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2VLMG5VZ3UwQkdJSkt2YWQ4U0JtbFpuWEZPeUtHN1NxUVVlTTF3TlljUGx6UDVYUXlTWFg5NTdQRVY0eGIyUkVXcFp6TXBjeFlyRUhtN21iUlVpdUt4b2s1MldPcUpCMjM4ZjN6bU8yMjhteXFEVHZldFBwRkJhY1FxOA?oc=5",
-     "source": "AOL.com (via Google News)",
-     "date": "2026-11-19T12:08:02+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "creatine-women",
    "label": "Creatine for women",
    "group": "Topic",
-   "score": 22,
+   "score": 20,
    "direction": "flat",
-   "growth": 1.42,
+   "growth": 1.35,
    "recent": 2,
-   "baseline": 10,
+   "baseline": 11,
    "recentSources": 2,
    "categories": [
     "news"
@@ -562,43 +448,58 @@
    ]
   },
   {
-   "id": "weight",
-   "label": "Weight management",
+   "id": "gut-health",
+   "label": "Gut health",
    "group": "Health area",
-   "score": 12,
+   "score": 13,
    "direction": "flat",
-   "growth": 0.9,
-   "recent": 3,
-   "baseline": 31,
-   "recentSources": 2,
+   "growth": 0.81,
+   "recent": 5,
+   "baseline": 58,
+   "recentSources": 5,
    "categories": [
-    "news",
-    "social"
+    "news"
    ],
    "articles": [
     {
-     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
-     "source": "NutraIngredients",
-     "date": "2026-11-20T07:25:31+00:00",
+     "title": "#1 Gut Health Expert: These 4 Nutrients Reset Your Microbiome by Tomorrow (95% of Us Are Missing the First One)",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUl2eWlMLXdhYnN3eVVoWl94b0hNdG9MRWVoR2p1MTRQTks4RUtKVE05VXcwUUdLOERpbWtkTDRJVjd4WlA3MzJ0RkpzX2djUEZFLWM3c3F4UnVIcFVieG5GVjhPYjNsWEEtT1RnY2hDaGhBSmNNaHhKS3lWYTFHRk1YVDNRc2ZWN1g4WjZGcUNnalllQ1Vr?oc=5",
+     "source": "BoxLife Magazine (via Google News)",
+     "date": "2026-11-21T18:20:14+00:00",
      "category": "news",
-     "summary": "Find out the latest trends in Asia-Pacific's nutraceutical sector in this round-up."
+     "summary": ""
     },
     {
-     "title": "Weight-loss companion supplements target satiety, spikes and side effects",
-     "link": "https://www.nutraingredients.com/Article/2026/11/19/weight-loss-companion-supplements-target-satiety-spikes-and-side-effects/",
-     "source": "NutraIngredients",
-     "date": "2026-11-19T13:07:30+00:00",
+     "title": "Gut Health Trends 2026: Why Digestive Wellness Is Becoming a Whole-Body Priority",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6dDBzaV9Bc0VjRDluUVlTa3JPVzFGZWZ4R01lemQ2blN0OVpqbHdtaFBmVG1nOVM4b3JsZ29UTTdEMERsdXViS05tZV9JcDRNZHI4em5SQmcwMkF1dGdiTV9USjgzZURYZS1URFJYakNwOU5JLUZWVE1maw?oc=5",
+     "source": "WorldHealth.net (via Google News)",
+     "date": "2026-11-21T05:17:00+00:00",
      "category": "news",
-     "summary": "As the use of pharmaceutical GLP-1 weight-loss treatments continues to shape the weight management market, supplement brands are developing products designed to complement-loss journeys."
+     "summary": ""
     },
     {
-     "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
-     "link": "https://www.youtube.com/watch?v=8YHTMsy0bT8",
-     "source": "YouTube: Andrew Huberman (example channel)",
-     "date": "2026-11-19T13:00:35+00:00",
-     "category": "social",
-     "summary": "In this Huberman Lab Essentials episode, I explain how nicotine affects the brain and body, including how it increases dopamine, acetylcholine and norepinephrine to boost motivation, focus and alertness, suppresses appetite and raises..."
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
+    },
+    {
+     "title": "Dietitians Explain What Zinc Carnosine Can Do for Your Gut Health",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jdzY5cklSa1d0N0V1dTlCUFZlMFk1NjlhNGZfWlFzbmV0LUswRVJGOW1rclpDcG0yM01XaGxsZWNxdDJJVVI3S1pZZDVZY0VRZ1RiR0tKZ1Y2NVFDaHRpOHg5TVlkNmhXbjV0Rm5uQlE0blU?oc=5",
+     "source": "Verywell Health (via Google News)",
+     "date": "2026-11-20T08:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Intestinal Formulas Market Forecast to 2035: Demand Accelerates on Proactive Gut Health and Microbiome Science",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMXdlV2xpdGk3VGc5X1hta250NEI4eXBYWlp1dkV4UVBzbzdYcl9mVmJWUWoyQnA3ZVVoYlh0OHktOC14MEtvV3JXWDhVbjd3T3lTX1JQSWRhY2w5dFRYZld3RHdpalJ0VXUyZ2ZRcXROaXBkRXhfUjBtdzlmVGpfWS1SZjQyaDVzblU5bEJxMzJxMEJSYm9RcEx3NjlfZHFlYkVsQVhqbUZtYmxxd2ZBbmJsTlptQi1KTWVIRVgxYWVEQ2p1QkNaN2VMelJjeWFvSkc5ckln?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-19T23:26:05+00:00",
+     "category": "news",
+     "summary": ""
     }
    ]
   },
@@ -663,6 +564,70 @@
      "date": "2026-11-20T00:36:05+00:00",
      "category": "sa",
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "weight",
+   "label": "Weight management",
+   "group": "Health area",
+   "score": 0,
+   "direction": "down",
+   "growth": 0.64,
+   "recent": 2,
+   "baseline": 33,
+   "recentSources": 2,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Supplements offer GLP-1 alternatives beyond weight loss",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2JQX0NodVMybTdwMnhIZnJJNUVHZUtpNThTMkFHbUtrU0Roc2trQ3RPRXZfcnc4VUNheTdkTkdxaUN3ZDdabmlvelBfSE5VWmQ0bV94ejlTYTRNX1dRQjQxTWdDYUF5MlFkQ1NpRVd2UjVuWk10OVljRC1sOVJLamd4eGhMWGRpSkg5QlY3dlRyaUd0NHFURmFUUVFxQWw4WTRXd2laNA?oc=5",
+     "source": "SupplySide Supplement Journal (via Google News)",
+     "date": "2026-11-22T15:56:08+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Trend tracker: Weight loss, sports nutrition, healthy longevity in the spotlight",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/weight-loss-sports-nutrition-healthy-longevity-in-nutra-trends-spotlight/",
+     "source": "NutraIngredients",
+     "date": "2026-11-20T07:25:31+00:00",
+     "category": "news",
+     "summary": "Find out the latest trends in Asia-Pacific's nutraceutical sector in this round-up."
+    }
+   ]
+  },
+  {
+   "id": "cognitive",
+   "label": "Brain & cognition",
+   "group": "Health area",
+   "score": 0,
+   "direction": "down",
+   "growth": 0.66,
+   "recent": 2,
+   "baseline": 32,
+   "recentSources": 1,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "CardaMind™: Fast-Acting Cognitive Performance Consumers Can Feel",
+     "link": "https://www.nutritionaloutlook.com/view/cardamind-fast-acting-cognitive-performance-consumers-can-feel",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T20:49:02+00:00",
+     "category": "news",
+     "summary": "Liz Clarke of Akay Bioactives shares why a familiar spice-cabinet botanical is drawing attention from cognitive health formulators and consumers alike."
+    },
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-20T16:41:00+00:00",
+     "category": "news",
+     "summary": "At SupplySide Global, Filipa Quintela shares Kemin’s 2027 outlook, from GLP-1 nutrition science to gut health and longevity, plus how FloraGLO Lutein is moving into cognitive health."
     }
    ]
   }
