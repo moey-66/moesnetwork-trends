@@ -1,0 +1,276 @@
+{
+ "slug": "week-2026-11-16",
+ "weekStart": "2026-11-16",
+ "weekEnd": "2026-11-20",
+ "weekLabel": "16 Nov – 20 Nov 2026",
+ "builtAt": "2026-11-22T21:21:18.156804Z",
+ "subject": "Top 5 supplement trends (16–20 Nov): Protein, Gut health + 3 more",
+ "preview": "The top trend from each weekday, 16 Nov – 20 Nov 2026, with links to the original articles. Free, every Monday.",
+ "topics": [
+  "Protein",
+  "Gut health",
+  "GLP-1 (and 'GLP-1 support')",
+  "Probiotics",
+  "Eye health"
+ ],
+ "trends": [
+  {
+   "day": "2026-11-16",
+   "dayLabel": "Monday 16 November",
+   "rankThatDay": 2,
+   "id": "protein",
+   "label": "Protein",
+   "group": "Ingredient",
+   "score": 99,
+   "direction": "up",
+   "growth": 3.94,
+   "angle": "Protein is turning up in snacks, drinks and coffee; taste, texture and price per gram of protein decide repeat buys.",
+   "why": "6 stories from 5 publishers in the three days to Mon 16 Nov: about 3.9× its usual pace.",
+   "articles": [
+    {
+     "title": "High-protein boom fuels Leprino’s $35 million whey expansion",
+     "link": "https://www.foodnavigator.com/Article/2026/11/16/leprino-quadruples-microparticulated-whey-protein-capacity/",
+     "publisher": "FoodNavigator",
+     "date": "2026-11-16T14:14:35+00:00",
+     "dateLabel": "16 Nov 2026",
+     "excerpt": "Leprino’s $35 million Lubbock expansion boosts microparticulated whey protein capacity for high-protein foods and drinks with smoother textures.",
+     "social": false
+    },
+    {
+     "title": "Good Protein raises US$90M to expand plant-based protein drinks business",
+     "link": "https://www.foodbusinessmea.com/good-protein-raises-us90m-to-expand-plant-based-protein-drinks-business/",
+     "publisher": "Food Business Africa",
+     "date": "2026-11-14T09:46:53+00:00",
+     "dateLabel": "14 Nov 2026",
+     "excerpt": "The Montreal-based company has sold more than 100 million shakes and supplies over 4,500 stores across Canada.",
+     "social": false
+    },
+    {
+     "title": "Collagen Has a Protein Quality Score of Zero (Whey Scores 1.09). Yet the Market Is Booming. Here's What the Science Really Says",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0FpQ3FFeFNsRU43Z3ZWZVhPOGNXN3dYX1dFOGczZkRsOG8tX0RBZHM5aGZ6V2oyQUQ2R3oyOVFhNHVYV3JlRW1ldWVNUURGUE5oVUVFNXluanNHZlVacEZ2blhpczBUbTFaN2VzVzQzUUhKTzh2My1OeEp3SlcwX2doOA?oc=5",
+     "publisher": "BoxLife Magazine",
+     "date": "2026-11-15T16:06:04+00:00",
+     "dateLabel": "15 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "snapshot"
+  },
+  {
+   "day": "2026-11-17",
+   "dayLabel": "Tuesday 17 November",
+   "rankThatDay": 1,
+   "id": "gut-health",
+   "label": "Gut health",
+   "group": "Health area",
+   "score": 79,
+   "direction": "up",
+   "growth": 1.98,
+   "angle": "Gut health is a broad umbrella; brands are narrowing in on a specific occasion or user to stand out.",
+   "why": "10 stories from 8 publishers in the three days to Tue 17 Nov: about 2× its usual pace.",
+   "articles": [
+    {
+     "title": "Can digestive health give plant-based dairy a new growth opportunity?",
+     "link": "https://www.foodnavigator.com/Article/2026/11/17/plant-based-dairy-digestive-health-opportunities/",
+     "publisher": "FoodNavigator",
+     "date": "2026-11-17T13:01:17+00:00",
+     "dateLabel": "17 Nov 2026",
+     "excerpt": "Could digestive health create new opportunities for plant-based dairy? Violife’s FODMAP Friendly certification explores a new route to…",
+     "social": false
+    },
+    {
+     "title": "Beyond strains and CFU: Modern consumers demand holistic gut health solutions",
+     "link": "https://www.nutraingredients.com/Article/2026/11/17/beyond-strains-capturing-holistic-health-consumers-in-the-modern-gut-health-market/",
+     "publisher": "NutraIngredients",
+     "date": "2026-11-17T10:23:23+00:00",
+     "dateLabel": "17 Nov 2026",
+     "excerpt": "The gut health category has evolved from intangible and vague claims of ‘good bacteria’ to specified strain names and competing CFU numbers, to a…",
+     "social": false
+    },
+    {
+     "title": "Synbiotic Product Market To 2035: Gut Health Demand Drives Expansion - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEV3MURUQmcwM3FKWjE0SDlYRU13TjNRb3pwTzZOc3U0NC1UYlZYRUk0Z3RxdHlFVGRLNFhZVVVCakM4WGpFZ3d1cVhZdl9EOEZfRnNMMzVwb0xaSENVZ204WnQzTGd2U0QzMWh0bjRQcWQxejI3S0o1Z29IM0VkNTJzai0wSFhTOHdSUGRIZ1RzZWNjM1hzRktzVGdVelpUQnMxbVlhV09zQQ?oc=5",
+     "publisher": "IndexBox",
+     "date": "2026-11-17T12:51:04+00:00",
+     "dateLabel": "17 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "snapshot"
+  },
+  {
+   "day": "2026-11-18",
+   "dayLabel": "Wednesday 18 November",
+   "rankThatDay": 1,
+   "id": "glp1",
+   "label": "GLP-1 (and 'GLP-1 support')",
+   "group": "Topic",
+   "score": 91,
+   "direction": "up",
+   "growth": 2.21,
+   "angle": "Weight-loss drug news keeps spilling into supplements; 'GLP-1 support' wording draws regulator attention, so stick to claims you can back and are allowed to make.",
+   "why": "14 stories from 10 publishers in the three days to Wed 18 Nov: about 2.2× its usual pace.",
+   "articles": [
+    {
+     "title": "Novo expands DTC program Novocare to support Wegovy users through holistic health journey",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXE3QU5GT2tJNkcwYnVScWVQYzktOEx5ZnF5eV95TjRUQUJadnUzMkx1alJuQXVPX3FCZHc0Q3dPZEE3TG5NNEhJbGxzWHlCWGtWelJpOFVtRWlFc3VNMzUyeHIyMW5QVHNrQ1dxVGh4aTE4MnVKbWlLTU90T0RIQk9xSnRMQ3FWem9RcERWd2ZOZUI5bW92THJtQ3RteHNwTmYwM2VaaXlYZDJNQnU0OVlMSWEtYTVfVjd5aVRBLXhCbVE?oc=5",
+     "publisher": "Fierce Pharma",
+     "date": "2026-11-18T06:00:00+00:00",
+     "dateLabel": "18 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Optimising preventive nutrition for healthy ageing in the GLP-1 era",
+     "link": "https://www.vitafoodsinsights.com/healthy-ageing/optimising-preventive-nutrition-for-healthy-ageing-in-the-glp-1-era",
+     "publisher": "Vitafoods Insights",
+     "date": "2026-11-18T05:00:00+00:00",
+     "dateLabel": "18 Nov 2026",
+     "excerpt": "Weight loss may lower biological age, but GLP-1 users and other groups face what one expert from Nestlé Research describes as “hidden malnutrition”…",
+     "social": false
+    },
+    {
+     "title": "How food brands can support GLP-1 users",
+     "link": "https://www.foodnavigator.com/Article/2026/11/17/how-food-brands-can-support-glp-1-users/",
+     "publisher": "FoodNavigator",
+     "date": "2026-11-17T12:23:39+00:00",
+     "dateLabel": "17 Nov 2026",
+     "excerpt": "GLP-1 medications are transforming food and beverage innovation, driving demand for nutrient-dense companion foods and beverages, gut microbiome…",
+     "social": false
+    }
+   ],
+   "dataSource": "snapshot"
+  },
+  {
+   "day": "2026-11-19",
+   "dayLabel": "Thursday 19 November",
+   "rankThatDay": 2,
+   "id": "probiotics",
+   "label": "Probiotics",
+   "group": "Ingredient",
+   "score": 83,
+   "direction": "up",
+   "growth": 1.91,
+   "angle": "Probiotic launches keep coming, so a new one needs a clear strain story, a stated count at end of shelf life and packaging that protects it.",
+   "why": "13 stories from 12 publishers in the three days to Thu 19 Nov: about 1.9× its usual pace.",
+   "articles": [
+    {
+     "title": "Probiotic Innovation to Market: Helping CMOs Launch and Scale with Confidence",
+     "link": "https://www.nutritionaloutlook.com/view/probiotic-innovation-to-market-helping-cmos-launch-and-scale-with-confidence",
+     "publisher": "Nutritional Outlook",
+     "date": "2026-11-18T14:55:28+00:00",
+     "dateLabel": "18 Nov 2026",
+     "excerpt": "Tue Micheelsen, President, North America, of Novonesis, explains why contract manufacturing organizations (CMOs) have become the integrators of the…",
+     "social": false
+    },
+    {
+     "title": "Probi LP299V probiotic features in multi-biotic supplement launch in Thailand",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdUYlktZFhqRkJ4dHFVbnZtSlY2MTZOcEpmS0N0SnBHOTVwZExlRlgxWXBFc0NGMDJqa29NNU5URjNfemlZODdvSnpSRmd3aGxHRF96NUxjM2NJNXVYVWRPVGlyWnZ6VnlWZnB1b3ltenVDS3gxRHJiV185MEp0Mm10dFBjR0JqTXc3SF95T0VJTUhy?oc=5",
+     "publisher": "Nutraceutical Business Review",
+     "date": "2026-11-19T16:29:06+00:00",
+     "dateLabel": "19 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "Gut Health Goes Mainstream: How Probiotics Are Driving Growth in Food, Nutrition and Healthcare",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWhNZnN5OExQRnZMdzZ3X090ZHdaekFWRXE3aU5QZVIzUmE2dmozcTROT1g0dVJwWjVIQWp4WHo5UUZkb1Fnb2p4LVh1eExxZ3ZBekJPbExON1RiX09GRHluOWNXQk1QalJHWFlPMnptZFE0VUtiZ1lKOHBVbHpoSThhbDRmQnBBQTh4QlJ1cVNQRFpvRU1QT0p4eENQVVNXVlVnQVVTVC1zWFlyQmp4NlJUOGg2ZW5fM0NpaVUtZGJaRi1HMzIxc3lvWWw5SmdCeHc?oc=5",
+     "publisher": "businessnewsthisweek.com",
+     "date": "2026-11-18T10:47:15+00:00",
+     "dateLabel": "18 Nov 2026",
+     "excerpt": "",
+     "social": false
+    }
+   ],
+   "dataSource": "snapshot"
+  },
+  {
+   "day": "2026-11-20",
+   "dayLabel": "Friday 20 November",
+   "rankThatDay": 3,
+   "id": "eye",
+   "label": "Eye health",
+   "group": "Health area",
+   "score": 68,
+   "direction": "up",
+   "growth": 3.21,
+   "angle": "Eye-health products target screen-heavy lifestyles and older shoppers; ingredient amounts per serving are what get compared.",
+   "why": "4 stories from 4 publishers in the three days to Fri 20 Nov: about 3.2× its usual pace.",
+   "articles": [
+    {
+     "title": "Celebrating 30 Years of Innovation with FloraGlo Lutein",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1ZNTdiWmxVdS1nN0REa3U3ZnQ4SWRfWUQxc0p5SkRMNVRCNjZuOEdqNEFpd1V5MGpHaTdJYzk2WUZkNWswb282TTVQNEV0RE1lU3Z2Q19JMzJhbDM5Yk1yd3hjYXFGS2Q0X2tpMkhOdVpKMTROY3Q2YUpuNnpNLVdWaEZ4Tk5XNHc3UFJYN3dkaW82bW5sQ3RB?oc=5",
+     "publisher": "Nutritional Outlook",
+     "date": "2026-11-20T17:58:11+00:00",
+     "dateLabel": "20 Nov 2026",
+     "excerpt": "",
+     "social": false
+    },
+    {
+     "title": "FloraGlo at 30: How lutein science moved beyond eye health",
+     "link": "https://www.nutraingredients.com/Article/2026/11/18/floraglo-at-30-how-lutein-science-moved-beyond-eye-health/",
+     "publisher": "NutraIngredients",
+     "date": "2026-11-18T10:12:03+00:00",
+     "dateLabel": "18 Nov 2026",
+     "excerpt": "FloraGlo lutein, introduced by Kemin 30 years ago, has evolved from a pioneering eye health ingredient to one with potential benefits across…",
+     "social": false
+    },
+    {
+     "title": "GLP-1 vision warning: Could demand be affected?",
+     "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
+     "publisher": "FoodNavigator",
+     "date": "2026-11-20T16:46:56+00:00",
+     "dateLabel": "20 Nov 2026",
+     "excerpt": "The US's Food and Drug Administration (FDA) recently ruled that GLP-1 weight-loss drugs should include warnings of their potential links to NAION, a…",
+     "social": false
+    }
+   ],
+   "dataSource": "snapshot"
+  }
+ ],
+ "days": [
+  {
+   "day": "2026-11-16",
+   "source": "history/2026-11-16.json",
+   "kind": "snapshot",
+   "pick": "protein",
+   "rank": 2
+  },
+  {
+   "day": "2026-11-17",
+   "source": "history/2026-11-17.json",
+   "kind": "snapshot",
+   "pick": "gut-health",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-18",
+   "source": "history/2026-11-18.json",
+   "kind": "snapshot",
+   "pick": "glp1",
+   "rank": 1
+  },
+  {
+   "day": "2026-11-19",
+   "source": "history/2026-11-19.json",
+   "kind": "snapshot",
+   "pick": "probiotics",
+   "rank": 2
+  },
+  {
+   "day": "2026-11-20",
+   "source": "history/2026-11-20.json",
+   "kind": "snapshot",
+   "pick": "eye",
+   "rank": 3
+  }
+ ],
+ "excludedTopics": [
+  "recalls"
+ ],
+ "disclaimer": "News signals, not health advice.",
+ "trendsUrl": "https://arthanetwork.pages.dev/trends",
+ "archiveUrl": "https://arthanetwork.pages.dev/newsletter/week-2026-11-16.html"
+}
