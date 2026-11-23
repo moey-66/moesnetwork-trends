@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T18:32:21.891486Z",
+ "generatedAt": "2026-11-23T00:17:34.047835Z",
  "generator": "local_scan.py",
  "windowDays": 30,
  "recentDays": 3,
@@ -86,7 +86,6 @@
     0,
     0,
     0,
-    0,
     1,
     1,
     0,
@@ -95,6 +94,7 @@
     1,
     0,
     3,
+    0,
     0,
     0
    ],
@@ -117,52 +117,52 @@
    ]
   },
   {
-   "id": "creatine",
-   "label": "Creatine",
-   "group": "Ingredient",
+   "id": "longevity",
+   "label": "Longevity & healthy ageing",
+   "group": "Health area",
    "kind": "topic",
-   "score": 29,
-   "direction": "flat",
-   "growth": 0.73,
-   "recent": 11,
-   "baseline": 139,
-   "mentions": 150,
-   "sources": 85,
-   "recentSources": 9,
+   "score": 38,
+   "direction": "up",
+   "growth": 1.54,
+   "recent": 5,
+   "baseline": 26,
+   "mentions": 31,
+   "sources": 17,
+   "recentSources": 4,
    "categories": [
     "news"
    ],
    "spark": [
-    10,
-    12,
-    13,
-    10,
-    6,
-    7,
-    3,
-    9,
-    3,
-    6,
-    7,
+    5,
+    2,
     1,
-    6,
-    1
+    3,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    4,
+    0,
+    1,
+    0
    ],
    "examples": [
     {
-     "title": "Muscle Growth To Better Recovery: AIIMS, Harvard-Trained Doctor Explains What Creatine Can And Cannot Do",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMEVrM2JrRUlGMGNOMnFEdmpIbHJhSkdKMkZYVTl6RHhQYldDcC1UV05weDJCZEk4VTdPOHg4VmI0bTVHNk5uM2daVWNQdTNTOE9udHAtVUlzbUI0cVNDTUxWUUxEellWN0llTVNIWE9TZGJ5Tjc1ZVIyVDA5T2JDZ1BfMmhRV3VScWFEdnBZdy1yTXBVUkF6a1ZlSktGVkdGMVI4Qm93RGpsUVZSanF1aWJVU3JsZWRvQjdUWWtNcHYxTERkWk94OXl2YWplV2lvNE9TWFRjVzlpdDFSSEZQdHk2QWNILUlncVE?oc=5",
-     "source": "NDTV (via Google News)"
+     "title": "5 Foundational Supplements for Better Health and Longevity",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTFCT1dqYUQzaHpZLUhWSFhMRzAwbnV0QU8wbktyLWtXb1BjOTJWMzlGb3VWZG1QWFNfUEQtWExwTjFnUjBUTXViN2lIbjZVUlBDV1NoSl9XYXBUTGZpZC1XS1pCRzR1RW1xMlRqSy1RcFJOWjFzdVJERHlwVlhjdWtoRzZJZ29Kcm5j?oc=5",
+     "source": "Mark Hyman, MD (via Google News)"
     },
     {
-     "title": "Edible Creatine Chews: CreaPrime Turns Its Creatine Supplement Into Chewable Candy-Style…",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xWXQ3TEVnZmxpaXNnNHFPVXRZMHY1Wk9uSzUtZDNDTTlwdzZpZ2pZNnJKNnBCd3FnMnZyc0p6ZDhGTWhtdEpaN1JTaDRsaEp4MDNlMWtERGZoWXVwUzN5aW9wekp6eVU?oc=5",
-     "source": "Trend Hunter (via Google News)"
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook"
     },
     {
-     "title": "Transparent Labs expands Creatine HMB variety pack to 30 sticks",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHFiZHlJSnB6bXRuZTV0N0lVWHNNN3FRaGVYeVh3TmNJWkpnSVhYMXYzT045dkc5eGJyM1dlSWhKdUlmd2ZRS3hjNjNYUm84SHg4S3lOaGVURTZpN3VxdTVELTh1NHUzSkV5RTNjTFJxcmFGUzM0a0pGODhIVmtvMEZzR2JxaFFRS0RiNA?oc=5",
-     "source": "Stack3d (via Google News)"
+     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
+     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
+     "source": "NutraIngredients"
     }
    ]
   },
@@ -183,7 +183,6 @@
     "news"
    ],
    "spark": [
-    7,
     6,
     5,
     2,
@@ -196,7 +195,8 @@
     6,
     5,
     0,
-    2
+    2,
+    0
    ],
    "examples": [
     {
@@ -213,56 +213,6 @@
      "title": "GLP-1 vision warning: Could demand be affected?",
      "link": "https://www.foodnavigator.com/Article/2026/11/20/glp-1-vision-loss-warnings-could-they-impact-demand/",
      "source": "FoodNavigator"
-    }
-   ]
-  },
-  {
-   "id": "longevity",
-   "label": "Longevity & healthy ageing",
-   "group": "Health area",
-   "kind": "topic",
-   "score": 25,
-   "direction": "flat",
-   "growth": 1.29,
-   "recent": 4,
-   "baseline": 26,
-   "mentions": 30,
-   "sources": 17,
-   "recentSources": 3,
-   "categories": [
-    "news"
-   ],
-   "spark": [
-    2,
-    5,
-    2,
-    1,
-    3,
-    1,
-    2,
-    1,
-    1,
-    2,
-    2,
-    4,
-    0,
-    0
-   ],
-   "examples": [
-    {
-     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
-     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
-     "source": "Nutritional Outlook"
-    },
-    {
-     "title": "ADPI: Healthy aging a missed opportunity for whey protein",
-     "link": "https://www.nutraingredients.com/Article/2026/11/20/adpi-healthy-aging-a-missed-opportunity-for-whey-protein/",
-     "source": "NutraIngredients"
-    },
-    {
-     "title": "Doctors Reveal Which Healthy Aging Supplements Actually Hold Up",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNl9GUXpraHVaTnBWZHBIUTRkb0xyR0RiSUl1c1pJSkRjRzhRYjA2eE5zaFpBQVFFdXJhTkZKZDd0NHFjdEI5ZWRyM25kNlF5YjdVeFZLTndTa3NxbFV6all4ZmMybmxQNHNkeDY1b2lGYVds?oc=5",
-     "source": "Health.com (via Google News)"
     }
    ]
   },
@@ -284,7 +234,6 @@
     "sa"
    ],
    "spark": [
-    2,
     5,
     4,
     2,
@@ -297,7 +246,8 @@
     1,
     2,
     0,
-    1
+    1,
+    0
    ],
    "examples": [
     {
@@ -335,7 +285,6 @@
     "pharma"
    ],
    "spark": [
-    8,
     6,
     5,
     3,
@@ -348,7 +297,8 @@
     5,
     4,
     0,
-    1
+    1,
+    0
    ],
    "examples": [
     {
@@ -369,24 +319,118 @@
    ]
   },
   {
+   "id": "creatine-women",
+   "label": "Creatine for women",
+   "group": "Topic",
+   "kind": "topic",
+   "score": 20,
+   "direction": "flat",
+   "growth": 1.35,
+   "recent": 2,
+   "baseline": 11,
+   "mentions": 13,
+   "sources": 13,
+   "recentSources": 2,
+   "categories": [
+    "news"
+   ],
+   "spark": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "examples": [
+    {
+     "title": "Experts Say Women Over 40 Should Consider a Creatine Supplement—Here’s Why",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HOGJ1ekprYVdKdVBxMFQ5aTNZZzRZbEtrbjlkeC1QRGx3NUZNaWg1WGlDakcwTWliSF9lZnFGX3MyQ0hDRzBBVFl1QmYxQkJieUwxV0dIS0EwX1diN3pWNGEzd2ZEckx4NllYUnc3SQ?oc=5",
+     "source": "EatingWell (via Google News)"
+    },
+    {
+     "title": "Why Women Over 40 Should Consider a Creatine Supplement",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWF2dTdrbkxWdUszcXlKZXR4ckFHRUVTdWVmZENZM29UY0Fsbm1QREV3bllUYjRGS29raFRyQ2lOSzJaejE2ZV9MTjFYempPaXZZZjNnQ2NfVnRIVTZTYjNjeWtzRWwtTDZ5VUVTVlB5bnAyVnBLSWQxa1VIdURuRDZuMmNPbjBNTGt1Z0d0OHFBMVZmQVJ0akxtT2k2c0MxZ2ctbENnMmVsT2FvVV9VVGhmdUFFQQ?oc=5",
+     "source": "Yahoo Health (via Google News)"
+    }
+   ]
+  },
+  {
+   "id": "creatine",
+   "label": "Creatine",
+   "group": "Ingredient",
+   "kind": "topic",
+   "score": 7,
+   "direction": "down",
+   "growth": 0.54,
+   "recent": 8,
+   "baseline": 142,
+   "mentions": 150,
+   "sources": 85,
+   "recentSources": 7,
+   "categories": [
+    "news"
+   ],
+   "spark": [
+    12,
+    13,
+    10,
+    6,
+    7,
+    3,
+    9,
+    3,
+    6,
+    7,
+    1,
+    6,
+    1,
+    0
+   ],
+   "examples": [
+    {
+     "title": "Muscle Growth To Better Recovery: AIIMS, Harvard-Trained Doctor Explains What Creatine Can And Cannot Do",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMEVrM2JrRUlGMGNOMnFEdmpIbHJhSkdKMkZYVTl6RHhQYldDcC1UV05weDJCZEk4VTdPOHg4VmI0bTVHNk5uM2daVWNQdTNTOE9udHAtVUlzbUI0cVNDTUxWUUxEellWN0llTVNIWE9TZGJ5Tjc1ZVIyVDA5T2JDZ1BfMmhRV3VScWFEdnBZdy1yTXBVUkF6a1ZlSktGVkdGMVI4Qm93RGpsUVZSanF1aWJVU3JsZWRvQjdUWWtNcHYxTERkWk94OXl2YWplV2lvNE9TWFRjVzlpdDFSSEZQdHk2QWNILUlncVE?oc=5",
+     "source": "NDTV (via Google News)"
+    },
+    {
+     "title": "Edible Creatine Chews: CreaPrime Turns Its Creatine Supplement Into Chewable Candy-Style…",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xWXQ3TEVnZmxpaXNnNHFPVXRZMHY1Wk9uSzUtZDNDTTlwdzZpZ2pZNnJKNnBCd3FnMnZyc0p6ZDhGTWhtdEpaN1JTaDRsaEp4MDNlMWtERGZoWXVwUzN5aW9wekp6eVU?oc=5",
+     "source": "Trend Hunter (via Google News)"
+    },
+    {
+     "title": "Transparent Labs expands Creatine HMB variety pack to 30 sticks",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHFiZHlJSnB6bXRuZTV0N0lVWHNNN3FRaGVYeVh3TmNJWkpnSVhYMXYzT045dkc5eGJyM1dlSWhKdUlmd2ZRS3hjNjNYUm84SHg4S3lOaGVURTZpN3VxdTVELTh1NHUzSkV5RTNjTFJxcmFGUzM0a0pGODhIVmtvMEZzR2JxaFFRS0RiNA?oc=5",
+     "source": "Stack3d (via Google News)"
+    }
+   ]
+  },
+  {
    "id": "probiotics",
    "label": "Probiotics",
    "group": "Ingredient",
    "kind": "topic",
-   "score": 20,
-   "direction": "flat",
-   "growth": 0.76,
-   "recent": 6,
-   "baseline": 74,
-   "mentions": 80,
-   "sources": 41,
-   "recentSources": 5,
+   "score": 7,
+   "direction": "down",
+   "growth": 0.64,
+   "recent": 5,
+   "baseline": 76,
+   "mentions": 81,
+   "sources": 42,
+   "recentSources": 4,
    "categories": [
     "news",
     "sa"
    ],
    "spark": [
-    3,
     3,
     3,
     5,
@@ -396,8 +440,9 @@
     3,
     4,
     6,
-    7,
+    8,
     5,
+    0,
     0,
     0
    ],
@@ -420,191 +465,6 @@
    ]
   },
   {
-   "id": "creatine-women",
-   "label": "Creatine for women",
-   "group": "Topic",
-   "kind": "topic",
-   "score": 20,
-   "direction": "flat",
-   "growth": 1.35,
-   "recent": 2,
-   "baseline": 11,
-   "mentions": 13,
-   "sources": 13,
-   "recentSources": 2,
-   "categories": [
-    "news"
-   ],
-   "spark": [
-    1,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    4,
-    0,
-    0,
-    0,
-    0,
-    2,
-    0
-   ],
-   "examples": [
-    {
-     "title": "Experts Say Women Over 40 Should Consider a Creatine Supplement—Here’s Why",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HOGJ1ekprYVdKdVBxMFQ5aTNZZzRZbEtrbjlkeC1QRGx3NUZNaWg1WGlDakcwTWliSF9lZnFGX3MyQ0hDRzBBVFl1QmYxQkJieUwxV0dIS0EwX1diN3pWNGEzd2ZEckx4NllYUnc3SQ?oc=5",
-     "source": "EatingWell (via Google News)"
-    },
-    {
-     "title": "Why Women Over 40 Should Consider a Creatine Supplement",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWF2dTdrbkxWdUszcXlKZXR4ckFHRUVTdWVmZENZM29UY0Fsbm1QREV3bllUYjRGS29raFRyQ2lOSzJaejE2ZV9MTjFYempPaXZZZjNnQ2NfVnRIVTZTYjNjeWtzRWwtTDZ5VUVTVlB5bnAyVnBLSWQxa1VIdURuRDZuMmNPbjBNTGt1Z0d0OHFBMVZmQVJ0akxtT2k2c0MxZ2ctbENnMmVsT2FvVV9VVGhmdUFFQQ?oc=5",
-     "source": "Yahoo Health (via Google News)"
-    }
-   ]
-  },
-  {
-   "id": "kids",
-   "label": "Kids & infant",
-   "group": "Health area",
-   "kind": "topic",
-   "score": 14,
-   "direction": "flat",
-   "growth": 1.17,
-   "recent": 2,
-   "baseline": 14,
-   "mentions": 16,
-   "sources": 13,
-   "recentSources": 2,
-   "categories": [
-    "pharma"
-   ],
-   "spark": [
-    2,
-    1,
-    1,
-    2,
-    2,
-    0,
-    0,
-    1,
-    0,
-    2,
-    1,
-    0,
-    1,
-    0
-   ],
-   "examples": [
-    {
-     "title": "Opinion: When should medical school start?",
-     "link": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/",
-     "source": "STAT"
-    },
-    {
-     "title": "ViiV wins CHMP backing for paediatric HIV drugs",
-     "link": "https://pharmatimes.com/news/viiv-wins-chmp-backing-for-paediatric-hiv-drugs/",
-     "source": "PharmaTimes"
-    }
-   ]
-  },
-  {
-   "id": "gut-health",
-   "label": "Gut health",
-   "group": "Health area",
-   "kind": "topic",
-   "score": 13,
-   "direction": "flat",
-   "growth": 0.81,
-   "recent": 5,
-   "baseline": 58,
-   "mentions": 63,
-   "sources": 43,
-   "recentSources": 5,
-   "categories": [
-    "news"
-   ],
-   "spark": [
-    4,
-    6,
-    5,
-    3,
-    4,
-    2,
-    2,
-    0,
-    9,
-    5,
-    2,
-    2,
-    2,
-    0
-   ],
-   "examples": [
-    {
-     "title": "#1 Gut Health Expert: These 4 Nutrients Reset Your Microbiome by Tomorrow (95% of Us Are Missing the First One)",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUl2eWlMLXdhYnN3eVVoWl94b0hNdG9MRWVoR2p1MTRQTks4RUtKVE05VXcwUUdLOERpbWtkTDRJVjd4WlA3MzJ0RkpzX2djUEZFLWM3c3F4UnVIcFVieG5GVjhPYjNsWEEtT1RnY2hDaGhBSmNNaHhKS3lWYTFHRk1YVDNRc2ZWN1g4WjZGcUNnalllQ1Vr?oc=5",
-     "source": "BoxLife Magazine (via Google News)"
-    },
-    {
-     "title": "Gut Health Trends 2026: Why Digestive Wellness Is Becoming a Whole-Body Priority",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6dDBzaV9Bc0VjRDluUVlTa3JPVzFGZWZ4R01lemQ2blN0OVpqbHdtaFBmVG1nOVM4b3JsZ29UTTdEMERsdXViS05tZV9JcDRNZHI4em5SQmcwMkF1dGdiTV9USjgzZURYZS1URFJYakNwOU5JLUZWVE1maw?oc=5",
-     "source": "WorldHealth.net (via Google News)"
-    },
-    {
-     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
-     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
-     "source": "Nutritional Outlook"
-    }
-   ]
-  },
-  {
-   "id": "joints",
-   "label": "Joints & mobility",
-   "group": "Health area",
-   "kind": "topic",
-   "score": 12,
-   "direction": "flat",
-   "growth": 1.12,
-   "recent": 2,
-   "baseline": 15,
-   "mentions": 17,
-   "sources": 13,
-   "recentSources": 2,
-   "categories": [
-    "news"
-   ],
-   "spark": [
-    3,
-    1,
-    0,
-    2,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    2,
-    1,
-    0,
-    0
-   ],
-   "examples": [
-    {
-     "title": "Plant-Based Joint Support: NuLiv Science Studies Astragalus for Improved Knee Mobility",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QdThBTnhkaWJ5ZkpTaWRMM1EzYmZKZEtNeFNxbE5CUC1tZDJzYWhKZ0ZpamxjYnRzTU9sT1h1WUhQSTZNb054emNURlduVDV1X2w4YnRxQzZCM1dHRVdNT0MwTTZRLVROU0tGTA?oc=5",
-     "source": "Trend Hunter (via Google News)"
-    },
-    {
-     "title": "Turmeric Supplements May Not Help Knee Arthritis After All",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlFIZ0pxOExwME1PX19qbUhZTDhnQnFZbGNYMzh6dmtEcll5Q2FRUENiaFpiTDJ1OWNHLVU1WkNIcjhnbHhTeHI4QmFkSkJEQmZHZjJObDJzcXpLMGRIUmhoSEtzdmFXMzlINzVyMVM5TUYtcC13OW5iQmJIc1FrMTFjcHpyQmlVWk5aV1pRZkhBQS1fdkNUTEl0M2tBX0dyR2Zpdw?oc=5",
-     "source": "Everyday Health (via Google News)"
-    }
-   ]
-  },
-  {
    "id": "clean-label",
    "label": "Clean label & natural",
    "group": "Market",
@@ -622,7 +482,6 @@
    ],
    "spark": [
     1,
-    1,
     0,
     3,
     1,
@@ -634,7 +493,8 @@
     0,
     1,
     0,
-    1
+    1,
+    0
    ],
    "examples": [
     {
@@ -646,6 +506,56 @@
      "title": "Wheat Germ Oil Market To 2035: Vitamin E Demand and Clean-Label Trends Drive Growth - News and Statistics",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdm1QTVBya1FIQTEyUnJ3a3lwaS1wYzFCb1ZQLW9BOFRMdGRtaERDek5waHlFcmo0TWhoNWctQTZZa1h2cEJSMC1FV0ZOQzh5aGpucEZtS0FPdS12OVhWbHFtajkwRzBDRXJMa3RMRlBQMnNNeGtlVXA0S3c4YzZKa2FJM0hOWGNuSzhqOF9DMVBRUlh6SVdiSGhfcFdjSkhCSG43clUxNktiNGlhNE1ObVY0dDN0QUFfZHBidzNqcDNSU1J1VGxTMEV6dUE?oc=5",
      "source": "IndexBox (via Google News)"
+    }
+   ]
+  },
+  {
+   "id": "gut-health",
+   "label": "Gut health",
+   "group": "Health area",
+   "kind": "topic",
+   "score": 0,
+   "direction": "down",
+   "growth": 0.66,
+   "recent": 4,
+   "baseline": 59,
+   "mentions": 63,
+   "sources": 43,
+   "recentSources": 4,
+   "categories": [
+    "news"
+   ],
+   "spark": [
+    6,
+    5,
+    3,
+    4,
+    2,
+    2,
+    0,
+    9,
+    5,
+    2,
+    2,
+    2,
+    0,
+    0
+   ],
+   "examples": [
+    {
+     "title": "#1 Gut Health Expert: These 4 Nutrients Reset Your Microbiome by Tomorrow (95% of Us Are Missing the First One)",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUl2eWlMLXdhYnN3eVVoWl94b0hNdG9MRWVoR2p1MTRQTks4RUtKVE05VXcwUUdLOERpbWtkTDRJVjd4WlA3MzJ0RkpzX2djUEZFLWM3c3F4UnVIcFVieG5GVjhPYjNsWEEtT1RnY2hDaGhBSmNNaHhKS3lWYTFHRk1YVDNRc2ZWN1g4WjZGcUNnalllQ1Vr?oc=5",
+     "source": "BoxLife Magazine (via Google News)"
+    },
+    {
+     "title": "Gut Health Trends 2026: Why Digestive Wellness Is Becoming a Whole-Body Priority",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6dDBzaV9Bc0VjRDluUVlTa3JPVzFGZWZ4R01lemQ2blN0OVpqbHdtaFBmVG1nOVM4b3JsZ29UTTdEMERsdXViS05tZV9JcDRNZHI4em5SQmcwMkF1dGdiTV9USjgzZURYZS1URFJYakNwOU5JLUZWVE1maw?oc=5",
+     "source": "WorldHealth.net (via Google News)"
+    },
+    {
+     "title": "Positive Aging, GLP-1 Support, and Gut Health: Kemin’s Top Trends",
+     "link": "https://www.nutritionaloutlook.com/view/positive-aging-glp-1-support--gut-health-kemins-top-trends",
+     "source": "Nutritional Outlook"
     }
    ]
   },
@@ -668,7 +578,6 @@
    "spark": [
     3,
     3,
-    3,
     7,
     1,
     0,
@@ -679,7 +588,8 @@
     2,
     1,
     0,
-    1
+    1,
+    0
    ],
    "examples": [
     {
@@ -711,7 +621,6 @@
     "news"
    ],
    "spark": [
-    1,
     3,
     3,
     8,
@@ -723,6 +632,7 @@
     1,
     0,
     2,
+    0,
     0,
     0
    ],
@@ -742,6 +652,28 @@
  ],
  "phrases": [],
  "items": [
+  {
+   "id": "72ee823b",
+   "title": "5 Foundational Supplements for Better Health and Longevity",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTFCT1dqYUQzaHpZLUhWSFhMRzAwbnV0QU8wbktyLWtXb1BjOTJWMzlGb3VWZG1QWFNfUEQtWExwTjFnUjBUTXViN2lIbjZVUlBDV1NoSl9XYXBUTGZpZC1XS1pCRzR1RW1xMlRqSy1RcFJOWjFzdVJERHlwVlhjdWtoRzZJZ29Kcm5j?oc=5",
+   "date": "2026-11-22T22:04:19+00:00",
+   "source": "Mark Hyman, MD (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "longevity"
+   ]
+  },
+  {
+   "id": "47c1040c",
+   "title": "From sunrise to sundown: Nutriway reimagines daily wellbeing with Begin Blend and Metabolism* plus",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZW9DdWlVYjQ3ZUgzN3dMZGpIYU5jZnpuOGlueHNRcmF3dHNnbktHd3VJdmtJMk5mMDZOeDhxcmRtZzJMUjhCeGFaMmUyZl84aUpIQ0xRbU5KUTNUX040OTJPX2NLYjF3bmE3YzBISTcxOXZQVHBxSHVyNFNKT0x2anh3R2dIbDRfa2VPa0R6MWxlbFZfX3U3WFpYVHVGVFQtMWFYdlU2MEE1OXNmV2FwSF9uajYzczI3bko2bktkQjM4eTF4bnAtdGJhbFRENjE1dEpQWVgtSmpDQQ?oc=5",
+   "date": "2026-11-22T22:00:00+00:00",
+   "source": "Big News Network.com (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": []
+  },
   {
    "id": "3166bc49",
    "title": "Supplements offer GLP-1 alternatives beyond weight loss",
@@ -2666,6 +2598,19 @@
    "topics": []
   },
   {
+   "id": "01cd1742",
+   "title": "10 of the Best Probiotics for Kids, According to Dietitians",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kN0U2QnA4X2p6Z2ZuYWVZVGZXTjdmclo1Q1FNbTk0UGI5SjRxN0Fvb1Q1aVlsemI2SFZjUWJFbVk0cGVoYUhERVo2ZVdWQVV1dC1aeXctT2I3XzB4cm5VbjlRcmQ0UTBaSV9JdVI5dHR1clVEZlJR?oc=5",
+   "date": "2026-11-19T08:00:00+00:00",
+   "source": "Healthline (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": [
+    "probiotics",
+    "kids"
+   ]
+  },
+  {
    "id": "7ec05d97",
    "title": "Quad bikes bring chronic medication to elderly patients in rural Eastern Cape",
    "link": "https://health-e.org.za/2026/11/19/quad-bikes-bring-chronic-medication-to-elderly-patients-in-rural-eastern-cape/",
@@ -2782,6 +2727,16 @@
    "topics": [
     "probiotics"
    ]
+  },
+  {
+   "id": "47dc6817",
+   "title": "This Dietary Supplement Could Have Potential Brain Benefits, Study Finds",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWNzSmlQdTFfbkRPSmZJTnBqUndSZzZweHVGNHRINVNhVDlySS1ueDU1eC1vZVU1R09ubmMwWkVyZjE5Ymkxbm9yMHQ0XzJXSDN2QWVuTzFlOTEwWXJxWHJodzNLcXFRQm81T25TbkdjU2JMNVRNME9jU3ZXNlBHbmUtMVVUNGN0V2hpS3BQMUVyR3E2OGRILUdGV0FOZw?oc=5",
+   "date": "2026-11-18T23:11:00+00:00",
+   "source": "SciTechDaily (via Google News)",
+   "category": "news",
+   "summary": "",
+   "topics": []
   },
   {
    "id": "08d64515",
@@ -4009,55 +3964,9 @@
    "category": "pharma",
    "summary": "",
    "topics": []
-  },
-  {
-   "id": "36eb1b67",
-   "title": "Pink Creatine and Girlhood Capitalism",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZWklqUkNwYXJ6OFhaQm5Sdm1FQ1JnNF9jUDNpSVR2VURER0xjY0d0bjBSbUZCa0ZOd2xnUE90U0lYb21ZVk9xVlNxVGYzR2dab2Z5Tk1iWFJrTjJhel8xLS1uc3I2NXpJeGtzNWFRaUNJU3hBOVJlMlZDYjA?oc=5",
-   "date": "2026-11-17T18:29:18+00:00",
-   "source": "After School by Casey Lewis (via Google News)",
-   "category": "news",
-   "summary": "",
-   "topics": [
-    "creatine"
-   ]
-  },
-  {
-   "id": "4547b646",
-   "title": "The Best Greens Powder of 2026: Tested and Approved",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yUXk4LU43ZXBfZjhOYm1LUEU5UG4xTE9KS1A2eFJYeXNVQTU2V2ZlQjJNYVZjUmFyank2dDBsZHFZQkVJTVdOb0ktQy1zUHowZW9kcWhqZlpNUnM?oc=5",
-   "date": "2026-11-17T18:21:00+00:00",
-   "source": "Fortune (via Google News)",
-   "category": "news",
-   "summary": "",
-   "topics": [
-    "powders"
-   ]
-  },
-  {
-   "id": "c3d9ebce",
-   "title": "Foods that can boost your mood during long winter months",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG9VUEtzaFZveWFPWHo1SjZ1dUJoSlNqeVhtdzh5LUNQa2xJTGo2UW1kTXNMSmNyWHNISzdSWTJYaU4wRzJ1TlBUNWZKU2dPbzBjeXpSMHNFb3F4VGZkbjJNUkNfel9KOXpWcVU4ZXZObkJKN0lpVlhQMk5Ua1ZfcjFlMWpoM1kxUDJSa0JFZWZoTEU1d0JUZnlR?oc=5",
-   "date": "2026-11-17T18:17:00+00:00",
-   "source": "The Business Journals (via Google News)",
-   "category": "news",
-   "summary": "",
-   "topics": [
-    "stress-mood"
-   ]
-  },
-  {
-   "id": "af158e8f",
-   "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
-   "link": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/",
-   "date": "2026-11-17T18:14:50+00:00",
-   "source": "STAT",
-   "category": "pharma",
-   "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
-   "topics": []
   }
  ],
- "itemCount": 1696,
+ "itemCount": 1699,
  "sources": [
   {
    "name": "NutraIngredients",
@@ -4089,7 +3998,7 @@
    "category": "news",
    "ok": true,
    "items": 50,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Vitafoods Insights",
@@ -4105,14 +4014,14 @@
    "category": "news",
    "ok": true,
    "items": 10,
-   "new": 1
+   "new": 0
   },
   {
    "name": "Google News: probiotics",
    "url": "https://news.google.com/rss/search?q=probiotics+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 42,
+   "items": 41,
    "new": 1
   },
   {
@@ -4120,23 +4029,23 @@
    "url": "https://news.google.com/rss/search?q=gut+health+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 70,
-   "new": 7
+   "items": 69,
+   "new": 3
   },
   {
    "name": "Google News: creatine",
    "url": "https://news.google.com/rss/search?q=creatine+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 100,
-   "new": 8
+   "items": 59,
+   "new": 0
   },
   {
    "name": "Google News: magnesium",
    "url": "https://news.google.com/rss/search?q=magnesium+supplement+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 35,
+   "items": 34,
    "new": 0
   },
   {
@@ -4152,8 +4061,8 @@
    "url": "https://news.google.com/rss/search?q=GLP-1+supplements+when%3A30d&hl=en-US&gl=US&ceid=US:en",
    "category": "news",
    "ok": true,
-   "items": 27,
-   "new": 1
+   "items": 29,
+   "new": 0
   },
   {
    "name": "BioPharma Dive",
@@ -4216,7 +4125,7 @@
    "url": "https://news.google.com/rss/search?q=SAHPRA+when%3A30d&hl=en-ZA&gl=ZA&ceid=ZA:en",
    "category": "regulatory",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "new": 0
   },
   {
