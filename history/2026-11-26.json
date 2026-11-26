@@ -1,85 +1,19 @@
 {
  "date": "2026-11-26",
- "generatedAt": "2026-11-26T15:09:02.343950Z",
+ "generatedAt": "2026-11-26T23:49:30.952562Z",
  "generator": "local_scan.py",
  "recentDays": 3,
  "trends": [
   {
-   "id": "sports",
-   "label": "Sports nutrition",
-   "group": "Health area",
-   "score": 93,
-   "direction": "up",
-   "growth": 1.93,
-   "recent": 14,
-   "baseline": 61,
-   "recentSources": 12,
-   "categories": [
-    "news",
-    "pharma",
-    "regulatory"
-   ],
-   "articles": [
-    {
-     "title": "Nike and Science in Sport join forces for running-specific sports nutrition range",
-     "link": "https://www.nutraingredients.com/Article/2026/11/26/sis-and-nike-announce-global-performance-nutrition-partnership/",
-     "source": "NutraIngredients",
-     "date": "2026-11-26T11:48:30+00:00",
-     "category": "news",
-     "summary": "SiS and Nike have announced a multi-year partnership to launch a co-branded performance nutrition range in spring 2027, combining SiS’s sports nutrition science, formulation and manufacturing expertise with Nike’s brand, design and..."
-    },
-    {
-     "title": "Should You Take Creatine to Maintain Muscle Strength as You Age?",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXdCOExWQ2tVck12eFA2N09HX18zd2pqeHlOeENhWjBoWnRybUxUZ0pFUEpwSFhCSjFvMnZIRmVCZkxfVG1DX2NGcW1ERUNLNWNtTkl5UVNocTVjMXR2MDNTQnVvRVVQQXYzQ3Bqd1plc1d3TXV5SU1MVFdSMk1wN25OOGdnekw1?oc=5",
-     "source": "AOL.com (via Google News)",
-     "date": "2026-11-25T16:35:40+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "The Best Gift You Can Give to Anyone Building Muscle Is This",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkRiWV9LVUJFeUU2UTVtNDZORWxGSXBmdEdFb0ZEMlVLamhBd0FXUTV1YUR0T1hTdGc3dlFDcno1QW1lNDNPZC1sSkM2djhLc3VBTUFtRnVzQW95RGdfWXZBSzU2NGp4SVdWMDRkcThTN0FRdzlzMmFIQ3NTcDJWOFVpbGkxby1aNEtQMHZNQ2RMb0RYZ2ZpOE42MkxBMmlJQTVMM3JKWVNkUQ?oc=5",
-     "source": "Flow Space (via Google News)",
-     "date": "2026-11-25T14:30:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Creatine Works for Muscle, Less Clear for Brain, Review of 45 Studies Finds",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelUyMG9wYWlFWnRTNEpiMTh1STFKYnV0N2h4T1lGM0dEMzNKU29YMldVYnJZRWtEOW9yTDVuZjBkeGNYUHR4WGh5OFVyTnpiTG9WLUhOV0JqOFZORUNGNTdBWjFyWE05X2drU1JVYnE1ZWxveXRDODY2Y0h4M1NwaHRFZXk0ZkRENlZydzJ5M2xSWW5DNUdERDJQNk9vTlg5Ukdab3VwZWpDRHdpQjVWT3lsc1M4ckF0eUxQSzZVVkxfTXFOQXotbzh5blBBQQ?oc=5",
-     "source": "Global Agriculture (via Google News)",
-     "date": "2026-11-25T11:07:51+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Zinc Magnesium Aspartate Market To 2035: Growth Driven by Wellness and Sports Nutrition Demand - News and Statistics",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2JkSjIzOHZ2cVVKYmhSaWc4UlFwRmNJcHo4SWswZVktT19IOGRpMGhuV0NqWXp3UEJUMWh2d3N4Q05vOU95TnV4a1JTWmJBOHZmX1h1Qm1aVVRwZkRzczJwY1Q4VTVuR2h1NkQtVk9MX0tpOVFyU2Y1RXRKdTM0c3ZGWFkwN0N0STgxTkNkYkw0WWFmZ1A4WmJ3Zk82VVAzenZNQXRWbHBwcWcwcWdQVDNOT01BSzBHMmFMajBBWVhKbWFPeDBIZm45NXFjZG5rUEVpQm4xSjVkRzZoZzRhdA?oc=5",
-     "source": "IndexBox (via Google News)",
-     "date": "2026-11-24T23:31:03+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Sports nutrition ingredients aim to help athletes handle extreme heat",
-     "link": "https://www.nutraingredients.com/Article/2026/11/24/exploring-sports-nutrition-ingredients-that-help-athletes-handle-extreme-heat/",
-     "source": "NutraIngredients",
-     "date": "2026-11-24T15:29:05+00:00",
-     "category": "news",
-     "summary": "Sports nutrition experts highlight electrolytes, glycerol and targeted fueling strategies as ways to help athletes manage the demands of exercising in extreme heat. The discussion explores hydration, thermoregulation and ingredients..."
-    }
-   ]
-  },
-  {
    "id": "probiotics",
    "label": "Probiotics",
    "group": "Ingredient",
-   "score": 90,
+   "score": 76,
    "direction": "up",
-   "growth": 1.95,
-   "recent": 20,
-   "baseline": 88,
-   "recentSources": 12,
+   "growth": 1.62,
+   "recent": 17,
+   "baseline": 91,
+   "recentSources": 11,
    "categories": [
     "news"
    ],
@@ -135,15 +69,258 @@
    ]
   },
   {
-   "id": "collagen",
-   "label": "Collagen",
-   "group": "Ingredient",
-   "score": 60,
+   "id": "sports",
+   "label": "Sports nutrition",
+   "group": "Health area",
+   "score": 74,
+   "direction": "up",
+   "growth": 1.62,
+   "recent": 12,
+   "baseline": 63,
+   "recentSources": 10,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "The Best Time To Take Magnesium for Muscle Recovery, According to a Dietitian",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFB2aHB0QXVDV1lheFVuTkNZV0NMUGdkYzVpamwwa2k5d21CbHMxalY0ZHVGaWEtTEh6WVZITThlRDVSc2l3di1WWlNISl9qbDNRbDNHUlRCdXRoSXhsSy1MaVRTUTBuTEtnYzdsT0J4ZkM3MGJMcVUxcEZYN3BnZ1lRYWxjRU9zUGdn?oc=5",
+     "source": "Health.com (via Google News)",
+     "date": "2026-11-26T16:18:15+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Nike and Science in Sport join forces for running-specific sports nutrition range",
+     "link": "https://www.nutraingredients.com/Article/2026/11/26/sis-and-nike-announce-global-performance-nutrition-partnership/",
+     "source": "NutraIngredients",
+     "date": "2026-11-26T11:48:30+00:00",
+     "category": "news",
+     "summary": "SiS and Nike have announced a multi-year partnership to launch a co-branded performance nutrition range in spring 2027, combining SiS’s sports nutrition science, formulation and manufacturing expertise with Nike’s brand, design and..."
+    },
+    {
+     "title": "Should You Take Creatine to Maintain Muscle Strength as You Age?",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXdCOExWQ2tVck12eFA2N09HX18zd2pqeHlOeENhWjBoWnRybUxUZ0pFUEpwSFhCSjFvMnZIRmVCZkxfVG1DX2NGcW1ERUNLNWNtTkl5UVNocTVjMXR2MDNTQnVvRVVQQXYzQ3Bqd1plc1d3TXV5SU1MVFdSMk1wN25OOGdnekw1?oc=5",
+     "source": "AOL.com (via Google News)",
+     "date": "2026-11-25T16:35:40+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "The Best Gift You Can Give to Anyone Building Muscle Is This",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkRiWV9LVUJFeUU2UTVtNDZORWxGSXBmdEdFb0ZEMlVLamhBd0FXUTV1YUR0T1hTdGc3dlFDcno1QW1lNDNPZC1sSkM2djhLc3VBTUFtRnVzQW95RGdfWXZBSzU2NGp4SVdWMDRkcThTN0FRdzlzMmFIQ3NTcDJWOFVpbGkxby1aNEtQMHZNQ2RMb0RYZ2ZpOE42MkxBMmlJQTVMM3JKWVNkUQ?oc=5",
+     "source": "Flow Space (via Google News)",
+     "date": "2026-11-25T14:30:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Creatine Works for Muscle, Less Clear for Brain, Review of 45 Studies Finds",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelUyMG9wYWlFWnRTNEpiMTh1STFKYnV0N2h4T1lGM0dEMzNKU29YMldVYnJZRWtEOW9yTDVuZjBkeGNYUHR4WGh5OFVyTnpiTG9WLUhOV0JqOFZORUNGNTdBWjFyWE05X2drU1JVYnE1ZWxveXRDODY2Y0h4M1NwaHRFZXk0ZkRENlZydzJ5M2xSWW5DNUdERDJQNk9vTlg5Ukdab3VwZWpDRHdpQjVWT3lsc1M4ckF0eUxQSzZVVkxfTXFOQXotbzh5blBBQQ?oc=5",
+     "source": "Global Agriculture (via Google News)",
+     "date": "2026-11-25T11:07:51+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Zinc Magnesium Aspartate Market To 2035: Growth Driven by Wellness and Sports Nutrition Demand - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2JkSjIzOHZ2cVVKYmhSaWc4UlFwRmNJcHo4SWswZVktT19IOGRpMGhuV0NqWXp3UEJUMWh2d3N4Q05vOU95TnV4a1JTWmJBOHZmX1h1Qm1aVVRwZkRzczJwY1Q4VTVuR2h1NkQtVk9MX0tpOVFyU2Y1RXRKdTM0c3ZGWFkwN0N0STgxTkNkYkw0WWFmZ1A4WmJ3Zk82VVAzenZNQXRWbHBwcWcwcWdQVDNOT01BSzBHMmFMajBBWVhKbWFPeDBIZm45NXFjZG5rUEVpQm4xSjVkRzZoZzRhdA?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-24T23:31:03+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gut-health",
+   "label": "Gut health",
+   "group": "Health area",
+   "score": 62,
    "direction": "flat",
    "growth": 1.41,
    "recent": 12,
    "baseline": 74,
-   "recentSources": 11,
+   "recentSources": 6,
+   "categories": [
+    "news",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "The secret to better gut health could be lurking in your bin",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmw0QjVXQUNPckZGcDNidU00SHVBWndqSmQteDZLVXRMVElETlNUdTRqekhRZllrUi01UGZOUk1NVzB2U3Uycm1oU3NubEg4dmhKcXBPU3A1akV1cTR2OUd3eHdhd3NDUHBXbkM4YmdiX0pkemQ3Uk4tb3dGcGFVSDVVRnZ4RGhyTzA2dTJnQUdoMF83UE96OGs0eGtGdGlrdW1sNk9jT0hKNkJCd3AxUXVPSQ?oc=5",
+     "source": "Yahoo Health (via Google News)",
+     "date": "2026-11-26T05:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Peppermint Oil Supplements Market To 2035: Digestive Health Demand Supports Forward Growth - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORF9YNjg4bllXa3hac0dodk81RFc5OWhxUlNZbGZmcmJzSlZjTl9VMGF5UGFCSFR0SEZ1U1hkd0k0dnpIbERkZURHaTFGcE5qUXVaU3BTbXpwc2VIMjdjdVlIajJBd3BOcjZKWEJERDBlTzh2YXhlYmp2M0pncnRjeHhzZ0d4WUticWpkeVI2Q3VITW45MEZ0OFVMSUlRT3l1b2hoeXdlUzRQUlNXVUt1U1JyLUdiVE52RlpPNU0zS1lxNkVvb0VfLWFfX05UQQ?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-24T23:46:03+00:00",
+     "category": "sa",
+     "summary": ""
+    },
+    {
+     "title": "Science Of Keto Fiber Best Veggies For Gut Health Ohio Guide",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkJrNmlhdDBsSkhKbXBwdDZWcUR3TE1SQmhVT1FwU2h4Yy1naWJJS0Y0bXd6b29MM2lKWExfUEQ1MUhzd3hYWDVOb1N2YTZUQzFKR3ZrTjBTa19PRDF0OW9uSC1kWjd2YjZQY2M3ZzhiVDdqQXdSWjNlVkpwNU9fZmtwVmFyM1NBalJ1T1UwQkRkZw?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T06:53:24+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "GK Bio International earns Malaysia Book of Records recognition, championing children’s gut health",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHprY0tLcmc4U2lLd3ZwbEVlNFhvRDlsTzRjVFJDQ2RjX2VLZzU3dTBZZkhhUnhIZ3gySS0wai00OHN0X1lzV01XaXZIUnIxTkw2N0VxN3pSSFJXbUpaQm1Xems3Tmo0LTVLLTZFUHpUSW5XQklNZHBYa2NudEcwNk1teTlSX1dRQWQ3ZUQzN2l0TDdNdGUtcl84ZDBnLWx5cDZNT1lmR1hsLVFYMWhwd1ZHbXRmdnBaeDVab05YaXFYNnpGbE11ZHhaVE5uNjMtcmw3NDQ1YWZsSzU2LVE?oc=5",
+     "source": "Malaysiakini (via Google News)",
+     "date": "2026-11-24T06:38:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Understanding The Link Between Wholesome Skinny Gummies And Gut Health Guide",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlhOcDVSakxEX3gwQU00MmZtU2VjRC1TQ3ZwOWd0WWJhZjBlaE9kRS1uTjRGdG1nUUFEUzFXX3EyMTh0Skl3a3ZMdWdDR2h2TEZCbzl0XzdZR2d6OE80X3hqX0hPdU9hbVJJM3pPZGlIdlhhYXc0VmV5TVRBSTRKSlV4SUVFUUdlRS04T19sdzZEcDRvbGlNaTg3NGs3YU1PdXBxSVZYdw?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T05:32:10+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Potential Impact Of Goli Acv Gummies On Gut Health And Bloating Price",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlJ2aUVKc3FPQmNYYV9ZVHFzS012SXhPaklyNXFxM19hZEtmdG9UdmFFT2QybC1KNGY1azBPOGotWjVFc0tpRm9ZY0pjeDBCQjB3TExvc0hwekwyMVdzX0pRTzBxWHBudmtwRURlSWltMmJKeUpYSmxlX1ZxVFBpV0JkUm4wVkZMSWtqWlJ3ZmRKNXA1aUZOU1IwdFFWUQ?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T03:32:58+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "metabolic",
+   "label": "Blood sugar & metabolic",
+   "group": "Health area",
+   "score": 62,
+   "direction": "up",
+   "growth": 1.67,
+   "recent": 7,
+   "baseline": 34,
+   "recentSources": 7,
+   "categories": [
+    "news",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "Daily Supplement Formulas: NutriFitt Adds Glyconesis, a Five-Capsule Glucose Disposal…",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0dFNqXzBtcTdlenlwa2NqODNPMmZtbUxjTzJ3cExwdklkeDFnVC1DcERCVXVnb2paUWE4ZXk2Q05OT19YdHpvcVFXUVUxcGdLTzB2WnRZZEZzRUtSYklzTkhJclRLN1Z2WExjSg?oc=5",
+     "source": "Trend Hunter (via Google News)",
+     "date": "2026-11-25T18:10:01+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Haleon invests over US$80m in APAC research and innovation",
+     "link": "https://www.nutraingredients.com/Article/2026/11/25/haleon-invests-over-us80m-in-apac-research-and-innovation/",
+     "source": "NutraIngredients",
+     "date": "2026-11-25T10:49:09+00:00",
+     "category": "news",
+     "summary": "Haleon is investing over US$80m in research and innovation across Asia-Pacific, focusing on areas such as healthy aging, immune, metabolic and oral health."
+    },
+    {
+     "title": "Can Creatine Cause Low Blood Sugar?",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV1RJS0I0UEJRQmtpUmtmaFpEU3A5bF9vUkF5M1YzQmhBWS1Bek9mY0lZbTYzS2MwLXRybDlWbUF5NUdTYlJLTnlhY3NvTllyd2pITXpIOHFPTHR5OHo2NUNaa3ZGTEJZd3dfTy1yeFhoN04yelpKM1oyVDN5Wlc5Z2xyOW1oenZJa1UzR2JBM0hYdjhOSU1zWUFXWEJzY1dDdi1JTVM0RnZ5UUtMRmtXdlppdWVfZUJXcG1nekVSc0FqZl9hLUJ5MWpLaWxkcHM3MXFsQXlR?oc=5",
+     "source": "AMEQ en ligne (via Google News)",
+     "date": "2026-11-25T05:26:09+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Metabolaid® Earns Health Canada Authorization for Metabolic Health Claims",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUktdUF2c1NGMUVWVEVsX3l5OGJoeG5FakdTc3Vvem5uZHZhcGJvZmg3RWJOVXpncHZ2NTR4UE14RkNlanRoLW5qbnlyMWVib3BpU0lQR3VrNlpaY1ZlU3p4RjV4N3lHWEF5ZEIwd3pZUjFteXhLaV9uZXBLNS1vbi1LNmlDdmpEdzAxMno5NTJRazdfV05LSjNtV3NCLUg3VkI1S05mbm0?oc=5",
+     "source": "Yahoo Finance (via Google News)",
+     "date": "2026-11-24T12:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Metabolaid Receives Health Canada License With Seven Metabolic Health Claims",
+     "link": "https://www.nutritionaloutlook.com/view/metabolaid-receives-health-canada-license-seven-metabolic-health-claims",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-24T11:00:00+00:00",
+     "category": "news",
+     "summary": "Monteloeder says its hibiscus and lemon verbena blend now carries authorized claims on weight management, appetite, and cardiovascular health."
+    },
+    {
+     "title": "Probiotics Reduce Insulin Resistance in Gestational Diabetes",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEgxdHNmTWlvbzVocmNGNUVJMTBOYkhPcDhlQ0sxNmxJb2dlWTFseXFmNUNEVmk4S200ZEI3MmFudi10WG9jdkZvaFp0cXhORHgySzdpNWZHMjd0bkhWa2tpbEhGd0pObEo5TGNQSWIwOG1xbzNScUh0UmRpU2JqaXVPTVVUaGlYcjA1ZUJR?oc=5",
+     "source": "Bioengineer.org (via Google News)",
+     "date": "2026-11-24T09:57:40+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "electrolytes",
+   "label": "Electrolytes & hydration",
+   "group": "Ingredient",
+   "score": 52,
+   "direction": "up",
+   "growth": 2.25,
+   "recent": 4,
+   "baseline": 11,
+   "recentSources": 4,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "GLP-1 Nutrition and Protein Hydration: FrieslandCampina Ingredients' New Companion Nutrition Concepts",
+     "link": "https://www.nutritionaloutlook.com/view/glp-1-nutrition-hydration-frieslandcampina-ingredients-new-companion-nutrition-concepts",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-26T11:00:00+00:00",
+     "category": "news",
+     "summary": "Penny Antonopoulos explains how protein-led snacks, shots, and beverages can support GLP-1 users' daily eating rhythm, as well as what she expects for consumers heading into 2027."
+    },
+    {
+     "title": "GLP-1: Is snacking the next big drinks occasion?",
+     "link": "https://www.beveragedaily.com/Article/2026/11/25/glp-1-could-drinks-become-the-new-snack/",
+     "source": "FoodNavigator",
+     "date": "2026-11-25T12:06:18+00:00",
+     "category": "news",
+     "summary": "GLP-1 medications are changing eating habits, creating new possibilities for beverage brands in snacking, functional nutrition and hydration."
+    },
+    {
+     "title": "Sports nutrition ingredients aim to help athletes handle extreme heat",
+     "link": "https://www.nutraingredients.com/Article/2026/11/24/exploring-sports-nutrition-ingredients-that-help-athletes-handle-extreme-heat/",
+     "source": "NutraIngredients",
+     "date": "2026-11-24T15:29:05+00:00",
+     "category": "news",
+     "summary": "Sports nutrition experts highlight electrolytes, glycerol and targeted fueling strategies as ways to help athletes manage the demands of exercising in extreme heat. The discussion explores hydration, thermoregulation and ingredients..."
+    },
+    {
+     "title": "Hydration 2.0: Water as a performance nutrient for personalised solutions [Video]",
+     "link": "https://www.vitafoodsinsights.com/sports-nutrition/hydration-2-0-water-as-a-performance-nutrient-for-personalised-solutions-video",
+     "source": "Vitafoods Insights",
+     "date": "2026-11-24T15:25:12+00:00",
+     "category": "news",
+     "summary": "This session from Vitafoods Europe 2026 explores hydration as a foundation for precision health, drawing on insights from the \"Hydration 2.0\" approach."
+    }
+   ]
+  },
+  {
+   "id": "collagen",
+   "label": "Collagen",
+   "group": "Ingredient",
+   "score": 48,
+   "direction": "flat",
+   "growth": 1.18,
+   "recent": 10,
+   "baseline": 75,
+   "recentSources": 10,
    "categories": [
     "news"
    ],
@@ -199,485 +376,18 @@
    ]
   },
   {
-   "id": "gut-health",
-   "label": "Gut health",
-   "group": "Health area",
-   "score": 57,
-   "direction": "up",
-   "growth": 1.56,
-   "recent": 13,
-   "baseline": 72,
-   "recentSources": 5,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "The secret to better gut health could be lurking in your bin",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmw0QjVXQUNPckZGcDNidU00SHVBWndqSmQteDZLVXRMVElETlNUdTRqekhRZllrUi01UGZOUk1NVzB2U3Uycm1oU3NubEg4dmhKcXBPU3A1akV1cTR2OUd3eHdhd3NDUHBXbkM4YmdiX0pkemQ3Uk4tb3dGcGFVSDVVRnZ4RGhyTzA2dTJnQUdoMF83UE96OGs0eGtGdGlrdW1sNk9jT0hKNkJCd3AxUXVPSQ?oc=5",
-     "source": "Yahoo Health (via Google News)",
-     "date": "2026-11-26T05:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Science Of Keto Fiber Best Veggies For Gut Health Ohio Guide",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkJrNmlhdDBsSkhKbXBwdDZWcUR3TE1SQmhVT1FwU2h4Yy1naWJJS0Y0bXd6b29MM2lKWExfUEQ1MUhzd3hYWDVOb1N2YTZUQzFKR3ZrTjBTa19PRDF0OW9uSC1kWjd2YjZQY2M3ZzhiVDdqQXdSWjNlVkpwNU9fZmtwVmFyM1NBalJ1T1UwQkRkZw?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T06:53:24+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "GK Bio International earns Malaysia Book of Records recognition, championing children’s gut health",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHprY0tLcmc4U2lLd3ZwbEVlNFhvRDlsTzRjVFJDQ2RjX2VLZzU3dTBZZkhhUnhIZ3gySS0wai00OHN0X1lzV01XaXZIUnIxTkw2N0VxN3pSSFJXbUpaQm1Xems3Tmo0LTVLLTZFUHpUSW5XQklNZHBYa2NudEcwNk1teTlSX1dRQWQ3ZUQzN2l0TDdNdGUtcl84ZDBnLWx5cDZNT1lmR1hsLVFYMWhwd1ZHbXRmdnBaeDVab05YaXFYNnpGbE11ZHhaVE5uNjMtcmw3NDQ1YWZsSzU2LVE?oc=5",
-     "source": "Malaysiakini (via Google News)",
-     "date": "2026-11-24T06:38:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Understanding The Link Between Wholesome Skinny Gummies And Gut Health Guide",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlhOcDVSakxEX3gwQU00MmZtU2VjRC1TQ3ZwOWd0WWJhZjBlaE9kRS1uTjRGdG1nUUFEUzFXX3EyMTh0Skl3a3ZMdWdDR2h2TEZCbzl0XzdZR2d6OE80X3hqX0hPdU9hbVJJM3pPZGlIdlhhYXc0VmV5TVRBSTRKSlV4SUVFUUdlRS04T19sdzZEcDRvbGlNaTg3NGs3YU1PdXBxSVZYdw?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T05:32:10+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Potential Impact Of Goli Acv Gummies On Gut Health And Bloating Price",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlJ2aUVKc3FPQmNYYV9ZVHFzS012SXhPaklyNXFxM19hZEtmdG9UdmFFT2QybC1KNGY1azBPOGotWjVFc0tpRm9ZY0pjeDBCQjB3TExvc0hwekwyMVdzX0pRTzBxWHBudmtwRURlSWltMmJKeUpYSmxlX1ZxVFBpV0JkUm4wVkZMSWtqWlJ3ZmRKNXA1aUZOU1IwdFFWUQ?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T03:32:58+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Benefits Of Combining Probiotics And Digestive Enzymes For Gut Health And Weight Guide",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1dqYVJFbHg5aE9iTGd6ekFrSm1VVmJvVmZlMGN5N1VKREh4YWl4S01tZVRKQUVYQzNxS1pQUDVIb016VmN6VEVtMGhmRXFncjcwd01WWXpPTURKMjVhOU1qeFVnS3VQN2FMenhmMlhoblNuQjJySzNEaE9ES2FHMlg2YzFSVFNjcnBLcEwyUjc3T2dCUWRSY0wyZ2dCRlJ2cEx3a29talZKRTJTOGxpVWpoTXc?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T03:16:33+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "weight",
-   "label": "Weight management",
-   "group": "Health area",
-   "score": 53,
-   "direction": "up",
-   "growth": 2.02,
-   "recent": 10,
-   "baseline": 40,
-   "recentSources": 2,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Metabolaid Receives Health Canada License With Seven Metabolic Health Claims",
-     "link": "https://www.nutritionaloutlook.com/view/metabolaid-receives-health-canada-license-seven-metabolic-health-claims",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-24T11:00:00+00:00",
-     "category": "news",
-     "summary": "Monteloeder says its hibiscus and lemon verbena blend now carries authorized claims on weight management, appetite, and cardiovascular health."
-    },
-    {
-     "title": "Best Glp 1 Agonists For Weight Loss Comparison For 2026 Guide",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTFSUzVwdUlzT05xcXV4eGwxTG01QlZKZGZhd1JFVlFwcGVhX3ZsaFRTNDJnREtZQTR3cEJqd1BrM2VZU2ZQODFrV3JsZmYxZGUyX2lrM0tTc3BWUHFBcUpDc0NXb0ZaZXItbWlUcFN0T2ZMVFNvTjBUVHpiZlI4aFNYaXBRRFdTUVBRcllZZG9SYzg?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T07:28:53+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Gut Drops Reviews 2026 Do These Liquid Probiotics Actually Support Weight Loss Price",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDdNSlJ3cFJYS1JWczlLV2s1dTdwNDE3ZXlKMEpWVm1PeUhiS09vVnV1emlORS1PWWxnakQwRnpwSC1DMHJXbGd4RGdfbVZCZ0UyLXBJMC1hVFIyMDUzME5VRFh3c1NkdUhFV0lzMmFJV21keXRXNVJUQ3drSmJBX0xwcjU2QXRleVBQeloxclctTW1kZ2NnQjd4S2daQ0FEUmh4WW92Q0ZZR0pnajRQd0tB?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T06:37:43+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Glp 1 Weight Loss Maintenance 2026 Guide To Dosing Schedules And Medication Tape Guide",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUc0ZGxLYXFQcXcwT01URF9vN0RzRDEwNjg0M3A3V25vc3NmRlViakw1Zmd4dVd2WHVwVm5iZHZQdTVpV1lLUFlvSEVVbU54bkVHTXRvR29EUGJ1YXpJaWpralpuRzhnZm5EcHBsZTZlSUlRVFJROUExa2tNRXY1VUpZd0QwTUV5UkxVYWtNZEJzWUUyLTJ6NzBZOVhrVTVGb1E5R2FkVEFXU3NCWC1ldDRwdXY?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T06:18:48+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Scam Alert Why 90 Of Weight Loss Probiotics In 2026 Are Total Garbage Price",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZG1zelV2MXJLQjBrR0tDaHJyRzMtcnU4SWMyQTV6V3FLZGtPLTJjcHozQTdkbElRN1dlTXNKNlRnQk5OYWFac241LWFYSWpGTTJSRUVoeGJCYTBxV2Uwd0tZZUg1OWM0aXlBcE8zV0dLNXdwOGlnMG82dGNqMkhYNkJTZ3VhZHNlOHUxQVNUd0NOZnM4TjYzYUt1YzJpazBOYTFuM3R3?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T01:44:39+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Understanding Bone Density Risks During Glp 1 Weight Loss Treatment Guide",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa25YdnR6aXJDNHNlUWx4UVpockJJWkZ3SWc2Y25SRHJBc3h1MmoyQmdqRTlzSWRHeFpqeFJhU1BKTFllWUNnckxmZ3FTaXpBVFh4RUkzZDVZQlpBNkRvdUhmanlzWDBzYkxITDlMcDd0Q0RXdG9RdzI1R1MzYVpia2dvdE0ybkkzdGVjb1o4Y0lvcndKZzJ4MFJ0M0N0ZGxMRTdj?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T00:08:51+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "metabolic",
-   "label": "Blood sugar & metabolic",
-   "group": "Health area",
-   "score": 52,
-   "direction": "flat",
-   "growth": 1.47,
-   "recent": 6,
-   "baseline": 34,
-   "recentSources": 6,
-   "categories": [
-    "news",
-    "sa"
-   ],
-   "articles": [
-    {
-     "title": "Haleon invests over US$80m in APAC research and innovation",
-     "link": "https://www.nutraingredients.com/Article/2026/11/25/haleon-invests-over-us80m-in-apac-research-and-innovation/",
-     "source": "NutraIngredients",
-     "date": "2026-11-25T10:49:09+00:00",
-     "category": "news",
-     "summary": "Haleon is investing over US$80m in research and innovation across Asia-Pacific, focusing on areas such as healthy aging, immune, metabolic and oral health."
-    },
-    {
-     "title": "Can Creatine Cause Low Blood Sugar?",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV1RJS0I0UEJRQmtpUmtmaFpEU3A5bF9vUkF5M1YzQmhBWS1Bek9mY0lZbTYzS2MwLXRybDlWbUF5NUdTYlJLTnlhY3NvTllyd2pITXpIOHFPTHR5OHo2NUNaa3ZGTEJZd3dfTy1yeFhoN04yelpKM1oyVDN5Wlc5Z2xyOW1oenZJa1UzR2JBM0hYdjhOSU1zWUFXWEJzY1dDdi1JTVM0RnZ5UUtMRmtXdlppdWVfZUJXcG1nekVSc0FqZl9hLUJ5MWpLaWxkcHM3MXFsQXlR?oc=5",
-     "source": "AMEQ en ligne (via Google News)",
-     "date": "2026-11-25T05:26:09+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Metabolaid® Earns Health Canada Authorization for Metabolic Health Claims",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUktdUF2c1NGMUVWVEVsX3l5OGJoeG5FakdTc3Vvem5uZHZhcGJvZmg3RWJOVXpncHZ2NTR4UE14RkNlanRoLW5qbnlyMWVib3BpU0lQR3VrNlpaY1ZlU3p4RjV4N3lHWEF5ZEIwd3pZUjFteXhLaV9uZXBLNS1vbi1LNmlDdmpEdzAxMno5NTJRazdfV05LSjNtV3NCLUg3VkI1S05mbm0?oc=5",
-     "source": "Yahoo Finance (via Google News)",
-     "date": "2026-11-24T12:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Metabolaid Receives Health Canada License With Seven Metabolic Health Claims",
-     "link": "https://www.nutritionaloutlook.com/view/metabolaid-receives-health-canada-license-seven-metabolic-health-claims",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-24T11:00:00+00:00",
-     "category": "news",
-     "summary": "Monteloeder says its hibiscus and lemon verbena blend now carries authorized claims on weight management, appetite, and cardiovascular health."
-    },
-    {
-     "title": "Probiotics Reduce Insulin Resistance in Gestational Diabetes",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEgxdHNmTWlvbzVocmNGNUVJMTBOYkhPcDhlQ0sxNmxJb2dlWTFseXFmNUNEVmk4S200ZEI3MmFudi10WG9jdkZvaFp0cXhORHgySzdpNWZHMjd0bkhWa2tpbEhGd0pObEo5TGNQSWIwOG1xbzNScUh0UmRpU2JqaXVPTVVUaGlYcjA1ZUJR?oc=5",
-     "source": "Bioengineer.org (via Google News)",
-     "date": "2026-11-24T09:57:40+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Diabetes: Are you wasting your money on vitamins to make pricey pee?",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQk9YODdGRERSWHZrMl83Q1c3R2dfRnU3YnBIblB6Qk1hd3ljSmRCMEZKMnh0THFiNWhRbkRGMGNGTUxlNk9ZSno5NDl3ajdqS1pibzZ6czdvQ2VLT3RpeWE2QkVTbGhBNERJSFVxLXhYMS1jc2t5QkpCZW1kUXd1UVJjQVV4d2IyU0hoY29BQ0dfR3lGTzg1VzNSZWhrUDFlWERZNzB2WER5enhaRVJr?oc=5",
-     "source": "The Citizen (via Google News)",
-     "date": "2026-11-24T09:05:59+00:00",
-     "category": "sa",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "electrolytes",
-   "label": "Electrolytes & hydration",
-   "group": "Ingredient",
-   "score": 52,
-   "direction": "up",
-   "growth": 2.25,
-   "recent": 4,
-   "baseline": 11,
-   "recentSources": 4,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "GLP-1 Nutrition and Protein Hydration: FrieslandCampina Ingredients' New Companion Nutrition Concepts",
-     "link": "https://www.nutritionaloutlook.com/view/glp-1-nutrition-hydration-frieslandcampina-ingredients-new-companion-nutrition-concepts",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-26T11:00:00+00:00",
-     "category": "news",
-     "summary": "Penny Antonopoulos explains how protein-led snacks, shots, and beverages can support GLP-1 users' daily eating rhythm, as well as what she expects for consumers heading into 2027."
-    },
-    {
-     "title": "GLP-1: Is snacking the next big drinks occasion?",
-     "link": "https://www.beveragedaily.com/Article/2026/11/25/glp-1-could-drinks-become-the-new-snack/",
-     "source": "FoodNavigator",
-     "date": "2026-11-25T12:06:18+00:00",
-     "category": "news",
-     "summary": "GLP-1 medications are changing eating habits, creating new possibilities for beverage brands in snacking, functional nutrition and hydration."
-    },
-    {
-     "title": "Sports nutrition ingredients aim to help athletes handle extreme heat",
-     "link": "https://www.nutraingredients.com/Article/2026/11/24/exploring-sports-nutrition-ingredients-that-help-athletes-handle-extreme-heat/",
-     "source": "NutraIngredients",
-     "date": "2026-11-24T15:29:05+00:00",
-     "category": "news",
-     "summary": "Sports nutrition experts highlight electrolytes, glycerol and targeted fueling strategies as ways to help athletes manage the demands of exercising in extreme heat. The discussion explores hydration, thermoregulation and ingredients..."
-    },
-    {
-     "title": "Hydration 2.0: Water as a performance nutrient for personalised solutions [Video]",
-     "link": "https://www.vitafoodsinsights.com/sports-nutrition/hydration-2-0-water-as-a-performance-nutrient-for-personalised-solutions-video",
-     "source": "Vitafoods Insights",
-     "date": "2026-11-24T15:25:12+00:00",
-     "category": "news",
-     "summary": "This session from Vitafoods Europe 2026 explores hydration as a foundation for precision health, drawing on insights from the \"Hydration 2.0\" approach."
-    }
-   ]
-  },
-  {
-   "id": "gummies",
-   "label": "Gummies",
-   "group": "Format",
-   "score": 49,
-   "direction": "up",
-   "growth": 2.03,
-   "recent": 6,
-   "baseline": 22,
-   "recentSources": 3,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Magnesium Supplement Gummies Market To 2035: Stress and Sleep Support Drive Growth - News and Statistics",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWJoNU4yU3JtY0s4ekhERFpMdGZJWS1LSWtUQ192TFJoWTdDVjZzaDd3UkdRcl9ZMlN3X0kyenBWbVZ2T2ROcnBodEtONDhHMjczVmRobEtCNDhMLU4tbXlpZlFNTXpqZFViRkhRUnRieGlxTXBSOEgxazk5TldaYkdmNzlsZFVuYTR2RFB2UUJfaHgyY2ZVUERraFhrMENlVENkWk9fak5qNm1rbXl0TFJFRkJoQThNSTM2bWphQmdVUQ?oc=5",
-     "source": "IndexBox (via Google News)",
-     "date": "2026-11-25T21:41:04+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Fruit Flavor Mixes: Macro Mike Puts Apple, Mango and Orange Creatine Gummies in One Bag",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZNXBObnhpT044TXh6WUNHMHlza2xOaHlHM09YekJReVpDOVJ3aTU4QTBmRDFrbDZPV0w4ZzZLNGd2cUw2YmJZSnhaMjlHMTdqN2J5TWlrbEVNTUNnbzhMdEpIcw?oc=5",
-     "source": "Trend Hunter (via Google News)",
-     "date": "2026-11-24T19:51:38+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Understanding The Link Between Wholesome Skinny Gummies And Gut Health Guide",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlhOcDVSakxEX3gwQU00MmZtU2VjRC1TQ3ZwOWd0WWJhZjBlaE9kRS1uTjRGdG1nUUFEUzFXX3EyMTh0Skl3a3ZMdWdDR2h2TEZCbzl0XzdZR2d6OE80X3hqX0hPdU9hbVJJM3pPZGlIdlhhYXc0VmV5TVRBSTRKSlV4SUVFUUdlRS04T19sdzZEcDRvbGlNaTg3NGs3YU1PdXBxSVZYdw?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T05:32:10+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Potential Impact Of Goli Acv Gummies On Gut Health And Bloating Price",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlJ2aUVKc3FPQmNYYV9ZVHFzS012SXhPaklyNXFxM19hZEtmdG9UdmFFT2QybC1KNGY1azBPOGotWjVFc0tpRm9ZY0pjeDBCQjB3TExvc0hwekwyMVdzX0pRTzBxWHBudmtwRURlSWltMmJKeUpYSmxlX1ZxVFBpV0JkUm4wVkZMSWtqWlJ3ZmRKNXA1aUZOU1IwdFFWUQ?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T03:32:58+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Understanding The Potential Benefits Of Blue Bottle Acv Gummies For Gut Health S Review",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEp4SDlha0VYYlhPSXZlcXVpSjJPbFNSbUVPT1U1M2h3MUtmSTJsT1d0SlZQcWozTkpfZnRHT3E5N1hGZXA5cV9wYnZJbi1xeTRCOVlrQTNVaDFOTWg2T0syVFdhYnNqeWhQSTF6T2NFVm9fUWhOWHJzd2ZnOVBRaGZzbks5R0VIcjJjbG1kRm4tU1dVTGlEdHdzRm9EXzV3MTh6aHRKWEJzVTlaM2dUZ0xSMXFSdw?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-24T00:10:09+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Probiotics And Apple Cider Vinegar Gummies Benefits For Gut Health Price",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamgtUTRudlRoTm1rWWI5RjI3c3cwSkxlSC1vZ0pJbjdTM0xxQVlzTjFXUzhlcEFMRnJzZllwZlptQ1VEODNaNXhPVm1tME5KNXJ4VE1TZ1lOS1NpVFpYLU9ydi0zRVlUSFdJak9iT1RRM3dZVGE5X09wbjNrTTlWX0ctRXNfYmRaMFlvbVFERnl2UGdSXzBUWFR5NGd0V3JKd3c?oc=5",
-     "source": "Derby - Diocese (via Google News)",
-     "date": "2026-11-23T18:27:14+00:00",
-     "category": "news",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "kids",
-   "label": "Kids & infant",
-   "group": "Health area",
-   "score": 39,
-   "direction": "flat",
-   "growth": 1.29,
-   "recent": 3,
-   "baseline": 19,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "pharma",
-    "regulatory"
-   ],
-   "articles": [
-    {
-     "title": "Danone’s AI-powered tool to detect risk of iron-deficiency anemia in kids",
-     "link": "https://www.nutraingredients.com/Article/2026/11/26/danones-ai-powered-tool-to-detect-risk-of-iron-deficiency-anemia-in-kids/",
-     "source": "NutraIngredients",
-     "date": "2026-11-26T03:24:56+00:00",
-     "category": "news",
-     "summary": "Danone is launching the IronUp! Checker, which provides early risk detection of iron-deficiency anemia in kids. The screening requires taking photos of four anatomical sites, including the fingernails, tongue, lower eyelid and inner lip."
-    },
-    {
-     "title": "FDA approves AbbVie’s Rinvoq for nonsegmental vitiligo",
-     "link": "https://www.pharmaceutical-technology.com/news/fda-abbvies-rinvoq-nonsegmental-vitiligo/",
-     "source": "Pharmaceutical Technology",
-     "date": "2026-11-24T10:59:13+00:00",
-     "category": "pharma",
-     "summary": "The US FDA has approved AbbVie's Rinvoq (upadacitinib) for adults and paediatric patients aged 12 years and older with nonsegmental vitiligo."
-    },
-    {
-     "title": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
-     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
-     "source": "FDA press releases",
-     "date": "2026-11-23T18:25:08+00:00",
-     "category": "regulatory",
-     "summary": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease, for adults and pediatric patients weighing at least 30 kg."
-    }
-   ]
-  },
-  {
-   "id": "personalised",
-   "label": "Personalised nutrition",
-   "group": "Market",
-   "score": 39,
-   "direction": "up",
-   "growth": 2.0,
-   "recent": 3,
-   "baseline": 9,
-   "recentSources": 2,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "Competition or collaboration? The next wave of wellbeing opportunity",
-     "link": "https://www.vitafoodsinsights.com/personalised-nutrition/competition-or-collaboration-the-next-wave-of-wellbeing-opportunity",
-     "source": "Vitafoods Insights",
-     "date": "2026-11-25T05:00:00+00:00",
-     "category": "news",
-     "summary": "Consumers are seeking personalised products and services, touching on different sectors including food and drink, supplements, technology, and personal care, says Mintel."
-    },
-    {
-     "title": "Supplement brands look to physician-led clinics as personalized medicine expands",
-     "link": "https://www.nutraingredients.com/Article/2026/11/24/supplement-brands-look-to-physician-led-clinics-as-personalized-medicine-expands/",
-     "source": "NutraIngredients",
-     "date": "2026-11-24T15:28:15+00:00",
-     "category": "news",
-     "summary": "Tonum Health has partnered with physician-led Euvita Health to integrate its nutritional supplements and functional nutrition products into personalized medicine and longevity programs."
-    },
-    {
-     "title": "Hydration 2.0: Water as a performance nutrient for personalised solutions [Video]",
-     "link": "https://www.vitafoodsinsights.com/sports-nutrition/hydration-2-0-water-as-a-performance-nutrient-for-personalised-solutions-video",
-     "source": "Vitafoods Insights",
-     "date": "2026-11-24T15:25:12+00:00",
-     "category": "news",
-     "summary": "This session from Vitafoods Europe 2026 explores hydration as a foundation for precision health, drawing on insights from the \"Hydration 2.0\" approach."
-    }
-   ]
-  },
-  {
-   "id": "heart",
-   "label": "Heart health",
-   "group": "Health area",
-   "score": 36,
-   "direction": "flat",
-   "growth": 1.44,
-   "recent": 3,
-   "baseline": 16,
-   "recentSources": 3,
-   "categories": [
-    "news",
-    "pharma"
-   ],
-   "articles": [
-    {
-     "title": "Taking magnesium instead of blood pressure medication: Patients are gambling with their lives.",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3lEaDFaZWoxV3VEWlNkMnptNDNCLThPaDg3SkV2VWJDMGNlajIzZVBwcGJxUmhiU2xzdlpCUTg3QzdfdWJUanoyV2E2VVJpSldCMEZGWnFrZE80OTduUklBX0dlck5hOXpoUDRzUWxOTld6TjNWT2NTMjV5cFM3T1djSXNLQi1RMFBfWG9yMlM2QWdPVDIw?oc=5",
-     "source": "Vietnam.vn (via Google News)",
-     "date": "2026-11-26T05:47:17+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Metabolaid Receives Health Canada License With Seven Metabolic Health Claims",
-     "link": "https://www.nutritionaloutlook.com/view/metabolaid-receives-health-canada-license-seven-metabolic-health-claims",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-24T11:00:00+00:00",
-     "category": "news",
-     "summary": "Monteloeder says its hibiscus and lemon verbena blend now carries authorized claims on weight management, appetite, and cardiovascular health."
-    },
-    {
-     "title": "Novartis girds $5B Leqvio sales forecast with early look at cardiovascular disease ph. 3 data",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVpZUXRjTFFNRTk2Qk4xcXpNN2FmM3ZXUUh0Um00dVkzemxORVg1SXgtTllqTEo1Q0NQYjdJWFdqamtLRER4S2hQaS1aa3ZjMmNqd0JOaENrRUtjTTFJWlRfYmRXaDZmWUJwVkh0UkhuZE9wLVJXc1k5c3FKX0s0WnBTYnRBaGlRZ2tIcV90VWllWnBWa3RteGRYbHl3ZVVmaXk4TGx1ZTZJVHlRQ2t3U0h5YVE?oc=5",
-     "source": "Fierce Pharma (via Google News)",
-     "date": "2026-11-23T15:15:20+00:00",
-     "category": "pharma",
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "claims",
-   "label": "Health claims & labelling",
-   "group": "Regulatory",
-   "score": 35,
-   "direction": "up",
-   "growth": 1.71,
-   "recent": 3,
-   "baseline": 12,
-   "recentSources": 3,
-   "categories": [
-    "news"
-   ],
-   "articles": [
-    {
-     "title": "California supplement labeling exemption offers relief, but legal risks remain",
-     "link": "https://www.nutraingredients.com/Article/2026/11/25/california-supplement-labeling-exemption-offers-relief-but-legal-risks-remain/",
-     "source": "NutraIngredients",
-     "date": "2026-11-25T16:12:49+00:00",
-     "category": "news",
-     "summary": "California’s AB 2779 exempts dietary supplements from the state’s new standardized food date-labeling requirements, providing manufacturers with regulatory certainty and avoiding costly relabeling. However, legal risks remain for..."
-    },
-    {
-     "title": "Metabolaid® Earns Health Canada Authorization for Metabolic Health Claims",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUktdUF2c1NGMUVWVEVsX3l5OGJoeG5FakdTc3Vvem5uZHZhcGJvZmg3RWJOVXpncHZ2NTR4UE14RkNlanRoLW5qbnlyMWVib3BpU0lQR3VrNlpaY1ZlU3p4RjV4N3lHWEF5ZEIwd3pZUjFteXhLaV9uZXBLNS1vbi1LNmlDdmpEdzAxMno5NTJRazdfV05LSjNtV3NCLUg3VkI1S05mbm0?oc=5",
-     "source": "Yahoo Finance (via Google News)",
-     "date": "2026-11-24T12:00:00+00:00",
-     "category": "news",
-     "summary": ""
-    },
-    {
-     "title": "Metabolaid Receives Health Canada License With Seven Metabolic Health Claims",
-     "link": "https://www.nutritionaloutlook.com/view/metabolaid-receives-health-canada-license-seven-metabolic-health-claims",
-     "source": "Nutritional Outlook",
-     "date": "2026-11-24T11:00:00+00:00",
-     "category": "news",
-     "summary": "Monteloeder says its hibiscus and lemon verbena blend now carries authorized claims on weight management, appetite, and cardiovascular health."
-    }
-   ]
-  },
-  {
    "id": "creatine",
    "label": "Creatine",
    "group": "Ingredient",
-   "score": 32,
+   "score": 45,
    "direction": "flat",
-   "growth": 0.74,
-   "recent": 12,
-   "baseline": 150,
-   "recentSources": 10,
+   "growth": 0.79,
+   "recent": 13,
+   "baseline": 151,
+   "recentSources": 12,
    "categories": [
-    "news"
+    "news",
+    "sa"
    ],
    "articles": [
     {
@@ -731,43 +441,138 @@
    ]
   },
   {
-   "id": "protein",
-   "label": "Protein",
-   "group": "Ingredient",
-   "score": 31,
-   "direction": "flat",
-   "growth": 1.29,
-   "recent": 3,
-   "baseline": 19,
+   "id": "gummies",
+   "label": "Gummies",
+   "group": "Format",
+   "score": 39,
+   "direction": "up",
+   "growth": 1.69,
+   "recent": 5,
+   "baseline": 23,
    "recentSources": 3,
    "categories": [
-    "news",
-    "sa"
+    "news"
    ],
    "articles": [
     {
-     "title": "Mondelēz taps brand power with Grenade Creme Egg comeback",
-     "link": "https://www.confectionerynews.com/Article/2026/11/26/mondelez-brings-back-grenade-creme-egg-protein-bar-as-limited-edition/",
-     "source": "FoodNavigator",
-     "date": "2026-11-26T13:37:35+00:00",
+     "title": "Magnesium Supplement Gummies Market To 2035: Stress and Sleep Support Drive Growth - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWJoNU4yU3JtY0s4ekhERFpMdGZJWS1LSWtUQ192TFJoWTdDVjZzaDd3UkdRcl9ZMlN3X0kyenBWbVZ2T2ROcnBodEtONDhHMjczVmRobEtCNDhMLU4tbXlpZlFNTXpqZFViRkhRUnRieGlxTXBSOEgxazk5TldaYkdmNzlsZFVuYTR2RFB2UUJfaHgyY2ZVUERraFhrMENlVENkWk9fak5qNm1rbXl0TFJFRkJoQThNSTM2bWphQmdVUQ?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-25T21:41:04+00:00",
      "category": "news",
-     "summary": "Grenade has brought back its limited-edition Cadbury Creme Egg protein bar for a second year, highlighting the power of seasonal launches, brand collaborations and consumer demand for nostalgic confectionery flavours."
+     "summary": ""
     },
     {
-     "title": "Saputo to invest US$418M in high-protein dairy and functional beverages",
-     "link": "https://www.foodbusinessmea.com/saputo-to-invest-us418m-in-high-protein-dairy-and-functional-beverages/",
-     "source": "Food Business Africa",
-     "date": "2026-11-25T10:43:21+00:00",
-     "category": "sa",
-     "summary": "The investment programme is expected to generate C$140 million in adjusted EBITDA at full capacity, with financial contributions beginning in fiscal 2029."
+     "title": "Fruit Flavor Mixes: Macro Mike Puts Apple, Mango and Orange Creatine Gummies in One Bag",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZNXBObnhpT044TXh6WUNHMHlza2xOaHlHM09YekJReVpDOVJ3aTU4QTBmRDFrbDZPV0w4ZzZLNGd2cUw2YmJZSnhaMjlHMTdqN2J5TWlrbEVNTUNnbzhMdEpIcw?oc=5",
+     "source": "Trend Hunter (via Google News)",
+     "date": "2026-11-24T19:51:38+00:00",
+     "category": "news",
+     "summary": ""
     },
     {
-     "title": "Amai Proteins CEO: Sweet proteins are having a moment right now",
-     "link": "https://www.nutraingredients.com/Article/2026/11/23/amai-proteins-ceo-sweet-proteins-are-having-a-moment-right-now/",
+     "title": "Understanding The Link Between Wholesome Skinny Gummies And Gut Health Guide",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlhOcDVSakxEX3gwQU00MmZtU2VjRC1TQ3ZwOWd0WWJhZjBlaE9kRS1uTjRGdG1nUUFEUzFXX3EyMTh0Skl3a3ZMdWdDR2h2TEZCbzl0XzdZR2d6OE80X3hqX0hPdU9hbVJJM3pPZGlIdlhhYXc0VmV5TVRBSTRKSlV4SUVFUUdlRS04T19sdzZEcDRvbGlNaTg3NGs3YU1PdXBxSVZYdw?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T05:32:10+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Potential Impact Of Goli Acv Gummies On Gut Health And Bloating Price",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlJ2aUVKc3FPQmNYYV9ZVHFzS012SXhPaklyNXFxM19hZEtmdG9UdmFFT2QybC1KNGY1azBPOGotWjVFc0tpRm9ZY0pjeDBCQjB3TExvc0hwekwyMVdzX0pRTzBxWHBudmtwRURlSWltMmJKeUpYSmxlX1ZxVFBpV0JkUm4wVkZMSWtqWlJ3ZmRKNXA1aUZOU1IwdFFWUQ?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T03:32:58+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Understanding The Potential Benefits Of Blue Bottle Acv Gummies For Gut Health S Review",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEp4SDlha0VYYlhPSXZlcXVpSjJPbFNSbUVPT1U1M2h3MUtmSTJsT1d0SlZQcWozTkpfZnRHT3E5N1hGZXA5cV9wYnZJbi1xeTRCOVlrQTNVaDFOTWg2T0syVFdhYnNqeWhQSTF6T2NFVm9fUWhOWHJzd2ZnOVBRaGZzbks5R0VIcjJjbG1kRm4tU1dVTGlEdHdzRm9EXzV3MTh6aHRKWEJzVTlaM2dUZ0xSMXFSdw?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T00:10:09+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "personalised",
+   "label": "Personalised nutrition",
+   "group": "Market",
+   "score": 39,
+   "direction": "up",
+   "growth": 2.0,
+   "recent": 3,
+   "baseline": 9,
+   "recentSources": 2,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Competition or collaboration? The next wave of wellbeing opportunity",
+     "link": "https://www.vitafoodsinsights.com/personalised-nutrition/competition-or-collaboration-the-next-wave-of-wellbeing-opportunity",
+     "source": "Vitafoods Insights",
+     "date": "2026-11-25T05:00:00+00:00",
+     "category": "news",
+     "summary": "Consumers are seeking personalised products and services, touching on different sectors including food and drink, supplements, technology, and personal care, says Mintel."
+    },
+    {
+     "title": "Supplement brands look to physician-led clinics as personalized medicine expands",
+     "link": "https://www.nutraingredients.com/Article/2026/11/24/supplement-brands-look-to-physician-led-clinics-as-personalized-medicine-expands/",
      "source": "NutraIngredients",
-     "date": "2026-11-23T15:31:55+00:00",
+     "date": "2026-11-24T15:28:15+00:00",
      "category": "news",
-     "summary": "Amai Proteins CEO Doug Brown highlights the growing interest in sweet proteins, driven by trends in GLP-1 and high-protein diets. The company’s sweelin protein, produced via precision fermentation and 3,000 times sweeter than sugar,..."
+     "summary": "Tonum Health has partnered with physician-led Euvita Health to integrate its nutritional supplements and functional nutrition products into personalized medicine and longevity programs."
+    },
+    {
+     "title": "Hydration 2.0: Water as a performance nutrient for personalised solutions [Video]",
+     "link": "https://www.vitafoodsinsights.com/sports-nutrition/hydration-2-0-water-as-a-performance-nutrient-for-personalised-solutions-video",
+     "source": "Vitafoods Insights",
+     "date": "2026-11-24T15:25:12+00:00",
+     "category": "news",
+     "summary": "This session from Vitafoods Europe 2026 explores hydration as a foundation for precision health, drawing on insights from the \"Hydration 2.0\" approach."
+    }
+   ]
+  },
+  {
+   "id": "claims",
+   "label": "Health claims & labelling",
+   "group": "Regulatory",
+   "score": 35,
+   "direction": "up",
+   "growth": 1.71,
+   "recent": 3,
+   "baseline": 12,
+   "recentSources": 3,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "California supplement labeling exemption offers relief, but legal risks remain",
+     "link": "https://www.nutraingredients.com/Article/2026/11/25/california-supplement-labeling-exemption-offers-relief-but-legal-risks-remain/",
+     "source": "NutraIngredients",
+     "date": "2026-11-25T16:12:49+00:00",
+     "category": "news",
+     "summary": "California’s AB 2779 exempts dietary supplements from the state’s new standardized food date-labeling requirements, providing manufacturers with regulatory certainty and avoiding costly relabeling. However, legal risks remain for..."
+    },
+    {
+     "title": "Metabolaid® Earns Health Canada Authorization for Metabolic Health Claims",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUktdUF2c1NGMUVWVEVsX3l5OGJoeG5FakdTc3Vvem5uZHZhcGJvZmg3RWJOVXpncHZ2NTR4UE14RkNlanRoLW5qbnlyMWVib3BpU0lQR3VrNlpaY1ZlU3p4RjV4N3lHWEF5ZEIwd3pZUjFteXhLaV9uZXBLNS1vbi1LNmlDdmpEdzAxMno5NTJRazdfV05LSjNtV3NCLUg3VkI1S05mbm0?oc=5",
+     "source": "Yahoo Finance (via Google News)",
+     "date": "2026-11-24T12:00:00+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Metabolaid Receives Health Canada License With Seven Metabolic Health Claims",
+     "link": "https://www.nutritionaloutlook.com/view/metabolaid-receives-health-canada-license-seven-metabolic-health-claims",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-24T11:00:00+00:00",
+     "category": "news",
+     "summary": "Monteloeder says its hibiscus and lemon verbena blend now carries authorized claims on weight management, appetite, and cardiovascular health."
     }
    ]
   },
@@ -832,6 +637,208 @@
      "date": "2026-11-24T10:53:45+00:00",
      "category": "news",
      "summary": "Healthspan has become the most premium shelf in the supplement aisle and brands are eager to be a part of it. But, in a category that could technically encompass any ingredient and any health benefit, how are companies defining their..."
+    }
+   ]
+  },
+  {
+   "id": "kids",
+   "label": "Kids & infant",
+   "group": "Health area",
+   "score": 29,
+   "direction": "flat",
+   "growth": 1.24,
+   "recent": 3,
+   "baseline": 20,
+   "recentSources": 3,
+   "categories": [
+    "news",
+    "pharma"
+   ],
+   "articles": [
+    {
+     "title": "Pediatric Nutrition Editorial Traces Shift Toward Precision Interventions Across Fifteen Studies",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0pMaWZ0YmVsTVh5eWx6emh4V1c4UDd3QzlDOENhWVVCZk9mcUdqeFFRUnRUdWI1X0oySkZlY0RFcTd5b01IR0dock5wdzJXOXhlbFdXVjZZUVVXZ2ZsbjU3WHM4NGNoUnlKX3JPSVN2MG1Objc0MUQ4YTBpWVIxVFBfLWF6cVlNLThvNjY3TU9WVFB1a1AzRElnRFpkb2xvUF91dzM5Q1U2UlFUbllta2dWNjFVaENOczlWSkJR?oc=5",
+     "source": "Bioengineer.org (via Google News)",
+     "date": "2026-11-26T15:36:42+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Danone’s AI-powered tool to detect risk of iron-deficiency anemia in kids",
+     "link": "https://www.nutraingredients.com/Article/2026/11/26/danones-ai-powered-tool-to-detect-risk-of-iron-deficiency-anemia-in-kids/",
+     "source": "NutraIngredients",
+     "date": "2026-11-26T03:24:56+00:00",
+     "category": "news",
+     "summary": "Danone is launching the IronUp! Checker, which provides early risk detection of iron-deficiency anemia in kids. The screening requires taking photos of four anatomical sites, including the fingernails, tongue, lower eyelid and inner lip."
+    },
+    {
+     "title": "FDA approves AbbVie’s Rinvoq for nonsegmental vitiligo",
+     "link": "https://www.pharmaceutical-technology.com/news/fda-abbvies-rinvoq-nonsegmental-vitiligo/",
+     "source": "Pharmaceutical Technology",
+     "date": "2026-11-24T10:59:13+00:00",
+     "category": "pharma",
+     "summary": "The US FDA has approved AbbVie's Rinvoq (upadacitinib) for adults and paediatric patients aged 12 years and older with nonsegmental vitiligo."
+    }
+   ]
+  },
+  {
+   "id": "magnesium",
+   "label": "Magnesium",
+   "group": "Ingredient",
+   "score": 28,
+   "direction": "flat",
+   "growth": 0.87,
+   "recent": 8,
+   "baseline": 84,
+   "recentSources": 7,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "The Best Time To Take Magnesium for Muscle Recovery, According to a Dietitian",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFB2aHB0QXVDV1lheFVuTkNZV0NMUGdkYzVpamwwa2k5d21CbHMxalY0ZHVGaWEtTEh6WVZITThlRDVSc2l3di1WWlNISl9qbDNRbDNHUlRCdXRoSXhsSy1MaVRTUTBuTEtnYzdsT0J4ZkM3MGJMcVUxcEZYN3BnZ1lRYWxjRU9zUGdn?oc=5",
+     "source": "Health.com (via Google News)",
+     "date": "2026-11-26T16:18:15+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Magnesium Market to Reach US$50.72 Billion by 2035 | Magnesium",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHFPMzhPVUJYekxYcW9KdzVsbkFkakc5cUNQVlRKVXN1TERXZG5IQ29jTWdzOVZURzRJRWljczVLWlFjNWF5WjBoc1lmUlMxTG9SQkt1UGdyY1pZcmRCUGUwcDdjS3RsazRKQ0UtdzYxUXpJU012dVlabnhNR1g2UVRRRTZxQVZzNUtYbU0wd0h3a0RYUGxSaVU0S2k?oc=5",
+     "source": "openPR.com (via Google News)",
+     "date": "2026-11-26T11:33:46+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Taking magnesium instead of blood pressure medication: Patients are gambling with their lives.",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3lEaDFaZWoxV3VEWlNkMnptNDNCLThPaDg3SkV2VWJDMGNlajIzZVBwcGJxUmhiU2xzdlpCUTg3QzdfdWJUanoyV2E2VVJpSldCMEZGWnFrZE80OTduUklBX0dlck5hOXpoUDRzUWxOTld6TjNWT2NTMjV5cFM3T1djSXNLQi1RMFBfWG9yMlM2QWdPVDIw?oc=5",
+     "source": "Vietnam.vn (via Google News)",
+     "date": "2026-11-26T05:47:17+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Magnesium Supplement Gummies Market To 2035: Stress and Sleep Support Drive Growth - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWJoNU4yU3JtY0s4ekhERFpMdGZJWS1LSWtUQ192TFJoWTdDVjZzaDd3UkdRcl9ZMlN3X0kyenBWbVZ2T2ROcnBodEtONDhHMjczVmRobEtCNDhMLU4tbXlpZlFNTXpqZFViRkhRUnRieGlxTXBSOEgxazk5TldaYkdmNzlsZFVuYTR2RFB2UUJfaHgyY2ZVUERraFhrMENlVENkWk9fak5qNm1rbXl0TFJFRkJoQThNSTM2bWphQmdVUQ?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-25T21:41:04+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Taking magnesium? Avoid these 5 drugs and other supplements, expert says",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNDVZWmpPNnA5R2d5Z0RKa1IxR1pqMkRrMFJtQW1WX0ZOQlNLWHlkaU40YW00WE5kaVl1SHhqZWhmRHhPUGhzMEZBcWdyQm4tUk9kZ3VpRXFERWhCLTZqTFduYk0zZmFqbDRsXzd3R3o0b3Z0dnRQdHQ0eXVYOVdNZE1QcTU4Qm1jYjdkZkZiUzdBX09OVURqTmpndHMtODMwNEdyWHNUZmVYRGJXZW83SHIzOXk1OEthdkpJaXhBTEdqcHI5Z0l6TkctQ29YUWQ4V2lSSERybGJTaGNWemRBOHV1UzQ3SFh6dkd1UGxHREFmMDFXdTNBT1VFclFLZXg4SUgtYi01NkU1Z3c5eWJBOURQQ3l1ZWc?oc=5",
+     "source": "MSN (via Google News)",
+     "date": "2026-11-25T00:41:59+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Zinc Magnesium Aspartate Market To 2035: Growth Driven by Wellness and Sports Nutrition Demand - News and Statistics",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2JkSjIzOHZ2cVVKYmhSaWc4UlFwRmNJcHo4SWswZVktT19IOGRpMGhuV0NqWXp3UEJUMWh2d3N4Q05vOU95TnV4a1JTWmJBOHZmX1h1Qm1aVVRwZkRzczJwY1Q4VTVuR2h1NkQtVk9MX0tpOVFyU2Y1RXRKdTM0c3ZGWFkwN0N0STgxTkNkYkw0WWFmZ1A4WmJ3Zk82VVAzenZNQXRWbHBwcWcwcWdQVDNOT01BSzBHMmFMajBBWVhKbWFPeDBIZm45NXFjZG5rUEVpQm4xSjVkRzZoZzRhdA?oc=5",
+     "source": "IndexBox (via Google News)",
+     "date": "2026-11-24T23:31:03+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "weight",
+   "label": "Weight management",
+   "group": "Health area",
+   "score": 22,
+   "direction": "flat",
+   "growth": 1.19,
+   "recent": 6,
+   "baseline": 44,
+   "recentSources": 2,
+   "categories": [
+    "news"
+   ],
+   "articles": [
+    {
+     "title": "Metabolaid Receives Health Canada License With Seven Metabolic Health Claims",
+     "link": "https://www.nutritionaloutlook.com/view/metabolaid-receives-health-canada-license-seven-metabolic-health-claims",
+     "source": "Nutritional Outlook",
+     "date": "2026-11-24T11:00:00+00:00",
+     "category": "news",
+     "summary": "Monteloeder says its hibiscus and lemon verbena blend now carries authorized claims on weight management, appetite, and cardiovascular health."
+    },
+    {
+     "title": "Best Glp 1 Agonists For Weight Loss Comparison For 2026 Guide",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTFSUzVwdUlzT05xcXV4eGwxTG01QlZKZGZhd1JFVlFwcGVhX3ZsaFRTNDJnREtZQTR3cEJqd1BrM2VZU2ZQODFrV3JsZmYxZGUyX2lrM0tTc3BWUHFBcUpDc0NXb0ZaZXItbWlUcFN0T2ZMVFNvTjBUVHpiZlI4aFNYaXBRRFdTUVBRcllZZG9SYzg?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T07:28:53+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Gut Drops Reviews 2026 Do These Liquid Probiotics Actually Support Weight Loss Price",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDdNSlJ3cFJYS1JWczlLV2s1dTdwNDE3ZXlKMEpWVm1PeUhiS09vVnV1emlORS1PWWxnakQwRnpwSC1DMHJXbGd4RGdfbVZCZ0UyLXBJMC1hVFIyMDUzME5VRFh3c1NkdUhFV0lzMmFJV21keXRXNVJUQ3drSmJBX0xwcjU2QXRleVBQeloxclctTW1kZ2NnQjd4S2daQ0FEUmh4WW92Q0ZZR0pnajRQd0tB?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T06:37:43+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Glp 1 Weight Loss Maintenance 2026 Guide To Dosing Schedules And Medication Tape Guide",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUc0ZGxLYXFQcXcwT01URF9vN0RzRDEwNjg0M3A3V25vc3NmRlViakw1Zmd4dVd2WHVwVm5iZHZQdTVpV1lLUFlvSEVVbU54bkVHTXRvR29EUGJ1YXpJaWpralpuRzhnZm5EcHBsZTZlSUlRVFJROUExa2tNRXY1VUpZd0QwTUV5UkxVYWtNZEJzWUUyLTJ6NzBZOVhrVTVGb1E5R2FkVEFXU3NCWC1ldDRwdXY?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T06:18:48+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Scam Alert Why 90 Of Weight Loss Probiotics In 2026 Are Total Garbage Price",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZG1zelV2MXJLQjBrR0tDaHJyRzMtcnU4SWMyQTV6V3FLZGtPLTJjcHozQTdkbElRN1dlTXNKNlRnQk5OYWFac241LWFYSWpGTTJSRUVoeGJCYTBxV2Uwd0tZZUg1OWM0aXlBcE8zV0dLNXdwOGlnMG82dGNqMkhYNkJTZ3VhZHNlOHUxQVNUd0NOZnM4TjYzYUt1YzJpazBOYTFuM3R3?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T01:44:39+00:00",
+     "category": "news",
+     "summary": ""
+    },
+    {
+     "title": "Understanding Bone Density Risks During Glp 1 Weight Loss Treatment Guide",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa25YdnR6aXJDNHNlUWx4UVpockJJWkZ3SWc2Y25SRHJBc3h1MmoyQmdqRTlzSWRHeFpqeFJhU1BKTFllWUNnckxmZ3FTaXpBVFh4RUkzZDVZQlpBNkRvdUhmanlzWDBzYkxITDlMcDd0Q0RXdG9RdzI1R1MzYVpia2dvdE0ybkkzdGVjb1o4Y0lvcndKZzJ4MFJ0M0N0ZGxMRTdj?oc=5",
+     "source": "Derby - Diocese (via Google News)",
+     "date": "2026-11-24T00:08:51+00:00",
+     "category": "news",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "protein",
+   "label": "Protein",
+   "group": "Ingredient",
+   "score": 12,
+   "direction": "flat",
+   "growth": 0.93,
+   "recent": 2,
+   "baseline": 20,
+   "recentSources": 2,
+   "categories": [
+    "news",
+    "sa"
+   ],
+   "articles": [
+    {
+     "title": "Mondelēz taps brand power with Grenade Creme Egg comeback",
+     "link": "https://www.confectionerynews.com/Article/2026/11/26/mondelez-brings-back-grenade-creme-egg-protein-bar-as-limited-edition/",
+     "source": "FoodNavigator",
+     "date": "2026-11-26T13:37:35+00:00",
+     "category": "news",
+     "summary": "Grenade has brought back its limited-edition Cadbury Creme Egg protein bar for a second year, highlighting the power of seasonal launches, brand collaborations and consumer demand for nostalgic confectionery flavours."
+    },
+    {
+     "title": "Saputo to invest US$418M in high-protein dairy and functional beverages",
+     "link": "https://www.foodbusinessmea.com/saputo-to-invest-us418m-in-high-protein-dairy-and-functional-beverages/",
+     "source": "Food Business Africa",
+     "date": "2026-11-25T10:43:21+00:00",
+     "category": "sa",
+     "summary": "The investment programme is expected to generate C$140 million in adjusted EBITDA at full capacity, with financial contributions beginning in fiscal 2029."
     }
    ]
   }
